@@ -114,8 +114,8 @@ id: France
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18
-geojsonFolder: ./France//
-markerFolder: ./France//
+geojsonFolder: .//
+markerFolder: .//
 ```
 
 [name-en::France] 
