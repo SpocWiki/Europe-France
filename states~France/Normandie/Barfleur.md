@@ -21,6 +21,7 @@ Country :: [[France]]
 [Population::] 
 [Unknown::] 
 
+## #has_/map 
 
 ```leaflet
 id: Barfleur

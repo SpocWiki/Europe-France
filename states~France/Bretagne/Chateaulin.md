@@ -1,19 +1,20 @@
 ---
-location: [48.18,-6.1] 
-mapzoom: [7,12] 
-mapmarker: city 
+mapzoom:
+  - "7"
+  - "12"
+mapmarker: city
 type: City
 tags:
-- geo/City
-
-
+  - geo/City
 SpocWebEntityId: 29558
 isDeleted: false
 confidential: public
-
+location:
+  - "48.1967"
+  - "-4.09"
 ---
-[geo-lon::-6.1] 
-[geo-lat::48.18] 
+[geo-lon::-4.09] 
+[geo-lat:: 48.1967] 
 [name::Chateaulin] 
 State ::  
 Country :: [[France]]  
