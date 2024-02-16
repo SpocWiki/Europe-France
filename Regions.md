@@ -8,8 +8,8 @@ id: Regions
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18
-geojsonFolder: Regions/
-markerFolder: ./Regions//
+geojsonFolder: Regions//
+markerFolder: Regions//
 ```
 
 
