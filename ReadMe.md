@@ -2,10 +2,10 @@
 title: France
 linkTitle: 
 type: Country
+has_id_wikidata: Q142
 location:
 - 46.8944
 - 2.33663
-has_id_wikidata: Q142
 SpocWebEntityId: 26896
 tags:
 - geo/Country
@@ -39,6 +39,7 @@ Languages:
 - ca
 - eu
 - oc
+
 icon: flag-fr
 ---
 
@@ -59,14 +60,30 @@ icon: flag-fr
 [ISO2::FR] 
 [ISO3::FRA] 
 
-> [!info] This Article is only a Stub. 
-For more Details, check out [this Git-Repository](https://github.com/SpocWiki/Europe-France)
-into a Subfolder named `France`, so that this Link into the Sub-Repository works: [[France/ReadMe]] 
-
 #has_/url_for_/code_repository :: https://github.com/SpocWiki/Europe-France 
 
-> [!warning] This can considerably increase the total size and depth of your wiki.
+This Repository/Folder/Wiki/Vault contains freely usable Text and Data 
+covering the European country of [France](https://en.wikipedia.org/wiki/France). 
 
+This Repository is intended to be shared as a common basis, 
+by including it as a Sub-Repository in local File-Systems, 
+specifically as part of the [\_Standards](https://github.com/SpocWiki/_Standards) Repository. 
+
+Check out this Repository into this Subfolder: 
+\_Standards/geo/Continent/Europe/Europe~Central/France 
+
+> Caution: this is a very deep folder Structure with up to 170 Characters! 
+> Make sure to check it out into a shallow Location on Windows! 
+> 
+> If you see an opportunity to reduce this Depth, create an Issue and discuss first, 
+> because Changes may break Links or at least require every User 
+> to update their local Repos! 
+> 
+> Constraints to consider when refactoring: 
+> - Every Folder Name should be unique, also the grouping-Folders, so you can link to it without specifying the relative Path 
+> - all Link-Paths should be relative. Wiki-Links are possible, but only when the Target-Folders or Files have unique Names. 
+> - Between each Level and its Sub-Levels there should be a grouping Folder, to allow adding other Lists. 
+>   - e.g. a City's boroughs should NOT be directly in the City Folder, but in a Sub-Folder named `City~boroughs` 
 
 ### #has_/image_for_/flag 
 
