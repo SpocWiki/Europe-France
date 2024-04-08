@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::1.07] 
-[geo-lat::49.87] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::1.07] 
+[has_place_latitude::49.87] 
 [name::St.Valery~Normandie] 
 State ::  
 Country :: [[France]]  

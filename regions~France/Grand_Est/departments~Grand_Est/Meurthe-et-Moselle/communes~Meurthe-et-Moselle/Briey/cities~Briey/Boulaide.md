@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::5.8] 
-[geo-lat::49.5] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::5.8] 
+[has_place_latitude::49.5] 
 [name::Boulaide] 
 State ::  
 Country :: [[geo/Continent/Europe/Europe~West/Luxembourg]] 

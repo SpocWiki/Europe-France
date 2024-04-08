@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::-0.22] 
-[geo-lat::44.43] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::-0.22] 
+[has_place_latitude::44.43] 
 [name::Bazas] 
 State ::  
 Country :: [[France]]  

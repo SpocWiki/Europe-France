@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::1.9] 
-[geo-lat::43.9] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::1.9] 
+[has_place_latitude::43.9] 
 [name::Gaillac] 
 State ::  
 Country :: [[France]]  

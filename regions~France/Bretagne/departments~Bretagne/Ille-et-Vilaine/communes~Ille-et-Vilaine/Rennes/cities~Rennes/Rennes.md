@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::-1.67] 
-[geo-lat::48.1] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::-1.67] 
+[has_place_latitude::48.1] 
 [name::Rennes] 
 State ::  
 Country :: [[France]]  

@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::5.05] 
-[geo-lat::43.57] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::5.05] 
+[has_place_latitude::43.57] 
 [name::Tour-du-pin] 
 State ::  
 Country :: [[France]]  

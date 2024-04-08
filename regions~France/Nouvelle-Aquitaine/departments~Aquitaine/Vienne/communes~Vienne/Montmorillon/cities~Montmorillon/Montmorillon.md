@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::0.87] 
-[geo-lat::46.42] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::0.87] 
+[has_place_latitude::46.42] 
 [name::Montmorillon] 
 State ::  
 Country :: [[France]]  

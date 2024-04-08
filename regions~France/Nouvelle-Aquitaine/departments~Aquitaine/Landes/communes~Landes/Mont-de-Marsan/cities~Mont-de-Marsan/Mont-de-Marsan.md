@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::-0.5] 
-[geo-lat::43.9] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::-0.5] 
+[has_place_latitude::43.9] 
 [name::Mont-de-Marsan] 
 State ::  
 Country :: [[France]]  

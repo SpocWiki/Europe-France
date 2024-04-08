@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::-2.32] 
-[geo-lat::48.68] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::-2.32] 
+[has_place_latitude::48.68] 
 [name::Fréhel] 
 State ::  
 Country :: [[France]]  

@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::1.62] 
-[geo-lat::43.12] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::1.62] 
+[has_place_latitude::43.12] 
 [name::Pamiers] 
 State ::  
 Country :: [[France]]  

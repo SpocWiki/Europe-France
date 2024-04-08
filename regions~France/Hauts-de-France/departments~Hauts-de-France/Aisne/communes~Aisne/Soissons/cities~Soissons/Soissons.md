@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::3.33] 
-[geo-lat::49.38] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::3.33] 
+[has_place_latitude::49.38] 
 [name::Soissons] 
 State ::  
 Country :: [[France]]  

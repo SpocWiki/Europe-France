@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::4.8] 
-[geo-lat::43.95] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::4.8] 
+[has_place_latitude::43.95] 
 [name::Avignon] 
 State ::  
 Country :: [[France]]  

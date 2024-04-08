@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::3.4] 
-[geo-lat::47.98] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::3.4] 
+[has_place_latitude::47.98] 
 [name::Joigny] 
 State ::  
 Country :: [[France]]  

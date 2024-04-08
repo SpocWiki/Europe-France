@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::-1.4] 
-[geo-lat::48.27] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::-1.4] 
+[has_place_latitude::48.27] 
 [name::St.Aubin du Cernier] 
 State ::  
 Country :: [[France]]  

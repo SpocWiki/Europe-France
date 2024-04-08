@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::6.08] 
-[geo-lat::44.57] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::6.08] 
+[has_place_latitude::44.57] 
 [name::Gap] 
 State ::  
 Country :: [[France]]  

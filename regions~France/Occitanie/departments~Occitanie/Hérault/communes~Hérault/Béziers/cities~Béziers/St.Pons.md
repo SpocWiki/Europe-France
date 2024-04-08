@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::2.77] 
-[geo-lat::43.48] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::2.77] 
+[has_place_latitude::43.48] 
 [name::St.Pons] 
 State ::  
 Country :: [[France]]  

@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::-0.98] 
-[geo-lat::43.22] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::-0.98] 
+[has_place_latitude::43.22] 
 [name::Mauléon] 
 State ::  
 Country :: [[France]]  

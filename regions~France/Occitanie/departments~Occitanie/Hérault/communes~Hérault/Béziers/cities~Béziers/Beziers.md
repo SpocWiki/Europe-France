@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::3.19] 
-[geo-lat::43.34] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::3.19] 
+[has_place_latitude::43.34] 
 [name::Beziers] 
 State ::  
 Country :: [[France]]  

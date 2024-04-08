@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::2.83] 
-[geo-lat::49.42] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::2.83] 
+[has_place_latitude::49.42] 
 [name::Compiégne] 
 State ::  
 Country :: [[France]]  

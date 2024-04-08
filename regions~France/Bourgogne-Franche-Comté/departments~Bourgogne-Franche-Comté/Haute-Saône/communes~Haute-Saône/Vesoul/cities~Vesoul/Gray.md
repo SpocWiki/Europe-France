@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::5.6] 
-[geo-lat::47.45] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::5.6] 
+[has_place_latitude::47.45] 
 [name::Gray] 
 State ::  
 Country :: [[France]]  

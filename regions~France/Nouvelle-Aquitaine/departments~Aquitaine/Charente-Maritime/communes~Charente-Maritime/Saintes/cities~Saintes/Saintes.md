@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::-0.65] 
-[geo-lat::45.75] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::-0.65] 
+[has_place_latitude::45.75] 
 [name::Saintes] 
 State ::  
 Country :: [[France]]  

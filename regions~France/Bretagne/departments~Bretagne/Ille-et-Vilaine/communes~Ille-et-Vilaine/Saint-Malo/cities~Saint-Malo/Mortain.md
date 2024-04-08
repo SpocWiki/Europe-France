@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::-1.93] 
-[geo-lat::48.65] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::-1.93] 
+[has_place_latitude::48.65] 
 [name::Mortain] 
 State ::  
 Country :: [[France]]  

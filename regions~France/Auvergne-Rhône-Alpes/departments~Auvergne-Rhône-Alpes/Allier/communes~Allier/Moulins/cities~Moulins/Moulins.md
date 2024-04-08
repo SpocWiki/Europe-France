@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::3.32] 
-[geo-lat::46.57] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::3.32] 
+[has_place_latitude::46.57] 
 [name::Moulins] 
 State ::  
 Country :: [[France]]  

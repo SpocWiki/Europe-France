@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::0.23] 
-[geo-lat::49.15] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::0.23] 
+[has_place_latitude::49.15] 
 [name::Lisieux] 
 State ::  
 Country :: [[France]]  

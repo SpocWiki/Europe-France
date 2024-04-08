@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::-0.52] 
-[geo-lat::49.35] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::-0.52] 
+[has_place_latitude::49.35] 
 [name::Pont-Audemer] 
 State ::  
 Country :: [[France]]  

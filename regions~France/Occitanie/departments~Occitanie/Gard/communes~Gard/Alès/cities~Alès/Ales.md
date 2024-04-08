@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::4.08] 
-[geo-lat::44.12] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::4.08] 
+[has_place_latitude::44.12] 
 [name::Ales] 
 State ::  
 Country :: [[France]]  

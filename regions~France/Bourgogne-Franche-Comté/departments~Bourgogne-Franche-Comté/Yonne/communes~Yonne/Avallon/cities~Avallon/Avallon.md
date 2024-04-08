@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::3.9] 
-[geo-lat::47.48] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::3.9] 
+[has_place_latitude::47.48] 
 [name::Avallon] 
 State ::  
 Country :: [[France]]  

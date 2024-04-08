@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::3.97] 
-[geo-lat::47.85] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::3.97] 
+[has_place_latitude::47.85] 
 [name::Tonnerre] 
 State ::  
 Country :: [[France]]  

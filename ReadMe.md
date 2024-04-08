@@ -70,7 +70,7 @@ by including it as a Sub-Repository in local File-Systems,
 specifically as part of the [\_Standards](https://github.com/SpocWiki/_Standards) Repository. 
 
 Check out this Repository into this Subfolder: 
-\_Standards/geo/Continent/Europe/Europe~Central/France 
+\_Standards/geo/Continent/Europe/Europe~West/France 
 
 > Caution: this is a very deep folder Structure with up to 170 Characters! 
 > Make sure to check it out into a shallow Location on Windows! 

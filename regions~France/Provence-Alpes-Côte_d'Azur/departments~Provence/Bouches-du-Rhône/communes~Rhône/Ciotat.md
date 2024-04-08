@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::5.62] 
-[geo-lat::43.18] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::5.62] 
+[has_place_latitude::43.18] 
 [name::Ciotat] 
 State ::  
 Country :: [[France]]  

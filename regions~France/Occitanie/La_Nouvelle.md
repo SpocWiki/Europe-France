@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::3.07] 
-[geo-lat::43.02] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::3.07] 
+[has_place_latitude::43.02] 
 [name::La Nouvelle] 
 State ::  
 Country :: [[France]]  

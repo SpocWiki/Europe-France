@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::1.25] 
-[geo-lat::45.83] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::1.25] 
+[has_place_latitude::45.83] 
 [name::Limoges] 
 State ::  
 Country :: [[France]]  

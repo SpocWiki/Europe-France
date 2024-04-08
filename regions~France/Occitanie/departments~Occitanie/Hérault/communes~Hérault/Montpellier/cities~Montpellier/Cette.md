@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::3.7] 
-[geo-lat::43.4] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::3.7] 
+[has_place_latitude::43.4] 
 [name::Cette] 
 State ::  
 Country :: [[France]]  

@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::-0.77] 
-[geo-lat::48.97] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::-0.77] 
+[has_place_latitude::48.97] 
 [name::Le Mesnil] 
 State ::  
 Country :: [[France]]  

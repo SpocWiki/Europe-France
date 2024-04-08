@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::5.13] 
-[geo-lat::48.12] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::5.13] 
+[has_place_latitude::48.12] 
 [name::Chaumoret sur Bassigny] 
 State ::  
 Country :: [[France]]  

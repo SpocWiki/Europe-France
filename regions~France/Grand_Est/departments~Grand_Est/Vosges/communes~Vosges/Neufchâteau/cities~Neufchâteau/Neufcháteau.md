@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::5.7] 
-[geo-lat::48.35] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::5.7] 
+[has_place_latitude::48.35] 
 [name::Neufcháteau] 
 State ::  
 Country :: [[France]]  

@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::3.1] 
-[geo-lat::45.03] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::3.1] 
+[has_place_latitude::45.03] 
 [name::St.Fleur] 
 State ::  
 Country :: [[France]]  

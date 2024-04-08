@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::2.37] 
-[geo-lat::48.95] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::2.37] 
+[has_place_latitude::48.95] 
 [name::St.Denis] 
 State ::  
 Country :: [[France]]  

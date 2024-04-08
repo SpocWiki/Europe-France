@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::6.35] 
-[geo-lat::46.9] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::6.35] 
+[has_place_latitude::46.9] 
 [name::Pontarlier] 
 State ::  
 Country :: [[France]]  

@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::-0.57] 
-[geo-lat::43.77] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::-0.57] 
+[has_place_latitude::43.77] 
 [name::St.Sever] 
 State ::  
 Country :: [[France]]  

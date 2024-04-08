@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::5.03] 
-[geo-lat::47.32] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::5.03] 
+[has_place_latitude::47.32] 
 [name::Dijon] 
 State ::  
 Country :: [[France]]  

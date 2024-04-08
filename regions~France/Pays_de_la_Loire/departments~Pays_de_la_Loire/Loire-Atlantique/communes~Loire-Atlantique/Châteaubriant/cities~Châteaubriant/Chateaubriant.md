@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::-1.38] 
-[geo-lat::47.72] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::-1.38] 
+[has_place_latitude::47.72] 
 [name::Chateaubriant] 
 State ::  
 Country :: [[France]]  

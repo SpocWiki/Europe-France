@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::3.07] 
-[geo-lat::50.18] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::3.07] 
+[has_place_latitude::50.18] 
 [name::Cambrai] 
 State ::  
 Country :: [[France]]  

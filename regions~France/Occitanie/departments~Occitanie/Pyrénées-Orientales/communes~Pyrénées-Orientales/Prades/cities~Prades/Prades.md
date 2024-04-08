@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::2.42] 
-[geo-lat::42.62] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::2.42] 
+[has_place_latitude::42.62] 
 [name::Prades] 
 State ::  
 Country :: [[France]]  

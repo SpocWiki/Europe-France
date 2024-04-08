@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::0.35] 
-[geo-lat::44.13] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::0.35] 
+[has_place_latitude::44.13] 
 [name::Nerac] 
 State ::  
 Country :: [[France]]  

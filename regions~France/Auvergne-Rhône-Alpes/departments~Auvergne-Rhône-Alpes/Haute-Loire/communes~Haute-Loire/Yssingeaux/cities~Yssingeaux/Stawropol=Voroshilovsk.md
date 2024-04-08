@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::4.26] 
-[geo-lat::45.05] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::4.26] 
+[has_place_latitude::45.05] 
 [name::Stawropol=Voroshilovsk] 
 State ::  
 Country :: [[Russia]]  

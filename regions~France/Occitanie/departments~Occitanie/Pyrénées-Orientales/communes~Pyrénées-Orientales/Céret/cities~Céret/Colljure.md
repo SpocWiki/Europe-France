@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::3.08] 
-[geo-lat::42.52] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::3.08] 
+[has_place_latitude::42.52] 
 [name::Colljure] 
 State ::  
 Country :: [[France]]  

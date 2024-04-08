@@ -13,8 +13,10 @@ location:
   - "48.1967"
   - "-4.09"
 ---
-[geo-lon::-4.09] 
-[geo-lat:: 48.1967] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::-4.09] 
+[has_place_latitude:: 48.1967] 
 [name::Chateaulin] 
 State ::  
 Country :: [[France]]  

@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::5.02] 
-[geo-lat::48.08] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::5.02] 
+[has_place_latitude::48.08] 
 [name::Bricon] 
 State ::  
 Country :: [[France]]  

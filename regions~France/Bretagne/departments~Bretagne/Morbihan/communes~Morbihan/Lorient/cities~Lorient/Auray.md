@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::-3.02] 
-[geo-lat::47.67] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::-3.02] 
+[has_place_latitude::47.67] 
 [name::Auray] 
 State ::  
 Country :: [[France]]  

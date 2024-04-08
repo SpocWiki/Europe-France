@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::2.9] 
-[geo-lat::42.7] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::2.9] 
+[has_place_latitude::42.7] 
 [name::Perpignan] 
 State ::  
 Country :: [[France]]  

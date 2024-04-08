@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::1.6] 
-[geo-lat::42.97] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::1.6] 
+[has_place_latitude::42.97] 
 [name::Foix] 
 State ::  
 Country :: [[France]]  

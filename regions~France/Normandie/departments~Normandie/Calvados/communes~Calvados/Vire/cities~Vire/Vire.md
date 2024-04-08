@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::-0.88] 
-[geo-lat::48.83] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::-0.88] 
+[has_place_latitude::48.83] 
 [name::Vire] 
 State ::  
 Country :: [[France]]  

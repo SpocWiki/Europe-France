@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::3.75] 
-[geo-lat::45.4] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::3.75] 
+[has_place_latitude::45.4] 
 [name::Ambert] 
 State ::  
 Country :: [[France]]  

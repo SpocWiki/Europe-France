@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::7.3] 
-[geo-lat::48.42] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::7.3] 
+[has_place_latitude::48.42] 
 [name::Melkerei] 
 State :: Alsace] 
 Country :: [[France]]  
