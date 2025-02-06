@@ -1,16 +1,21 @@
 ---
-location: [48.58,7.7] 
-mapzoom: [7,12] 
-mapmarker: city 
+location:
+  - 48.58
+  - 7.7
+mapzoom:
+  - 7
+  - 12
+mapmarker: city
 type: City
 tags:
-- geo/City
-
-
+  - geo/City
 SpocWebEntityId: 34614
 isDeleted: false
 confidential: public
-
+aliases:
+  - Strasbourg
+  - Strassburg
+  - Straßburg
 ---
 #is_a_/Place  
 #is_a_ :: [[Place]] 

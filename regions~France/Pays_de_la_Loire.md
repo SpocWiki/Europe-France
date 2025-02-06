@@ -1,3 +1,7 @@
+---
+aliases:
+  - Pays de la Loire
+---
 
 ```leaflet
 id: France

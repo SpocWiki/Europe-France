@@ -1,3 +1,7 @@
+---
+aliases:
+  - Provence-Alpes-Côte d'Azur
+---
 
 ```leaflet
 id: France
