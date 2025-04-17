@@ -30,16 +30,16 @@ publishDate:
 expiryDate: 
 has_id_wikidata: Q90
 located_in_the_administrative_territorial_entity:
-- "[[_Standards/WikiData/WD~Kingdom of France,70972]]"
-- "[[_Standards/WikiData/WD~arrondissement of Paris,2863958]]"
-- "[[_Standards/WikiData/WD~Grand Paris,16665915]]"
+- "[[_Standards/WikiData/WD~Kingdom_of_France,70972]]"
+- "[[_Standards/WikiData/WD~arrondissement_of_Paris,2863958]]"
+- "[[_Standards/WikiData/WD~Grand_Paris,16665915]]"
 different_from: '[[_Standards/WikiData/WD~Paris,104197]]'
 shares_border_with:
-- "[[_Standards/WikiData/WD~Le Kremlin-Bicêtre,135104]]"
+- "[[_Standards/WikiData/WD~Le_Kremlin-Bicêtre,135104]]"
 - '[[_Standards/WikiData/WD~Issy-les-Moulineaux,135265]]'
 - '[[_Standards/WikiData/WD~Levallois-Perret,166640]]'
 - '[[_Standards/WikiData/WD~Boulogne-Billancourt,172455]]'
-- "[[_Standards/WikiData/WD~Le Pré-Saint-Gervais,175999]]"
+- "[[_Standards/WikiData/WD~Le_Pré-Saint-Gervais,175999]]"
 - '[[_Standards/WikiData/WD~Saint-Cloud,189153]]'
 - '[[_Standards/WikiData/WD~Montreuil,193370]]'
 - '[[_Standards/WikiData/WD~Vincennes,193819]]'
@@ -57,7 +57,7 @@ shares_border_with:
 - '[[_Standards/WikiData/WD~Puteaux,234743]]'
 - '[[_Standards/WikiData/WD~Montrouge,241021]]'
 - '[[_Standards/WikiData/WD~Malakoff,253721]]'
-- "[[_Standards/WikiData/WD~Les Lilas,256004]]"
+- "[[_Standards/WikiData/WD~Les_Lilas,256004]]"
 - '[[_Standards/WikiData/WD~Saint-Maurice,274327]]'
 - '[[_Standards/WikiData/WD~Joinville-le-Pont,609134]]'
 - '[[_Standards/WikiData/WD~Gentilly,640102]]'
@@ -68,103 +68,103 @@ shares_border_with:
 - '[[_Standards/WikiData/WD~Hauts-de-Seine,12543]]'
 - '[[_Standards/WikiData/WD~Seine-Saint-Denis,12761]]'
 contains_the_administrative_territorial_entity:
-- "[[_Standards/WikiData/WD~1st arrondissement of Paris,161741]]"
-- "[[_Standards/WikiData/WD~10th arrondissement of Paris,163948]]"
-- "[[_Standards/WikiData/WD~11th arrondissement of Paris,169293]]"
-- "[[_Standards/WikiData/WD~12th arrondissement of Paris,171689]]"
-- "[[_Standards/WikiData/WD~13th arrondissement of Paris,175129]]"
-- "[[_Standards/WikiData/WD~14th arrondissement of Paris,187153]]"
-- "[[_Standards/WikiData/WD~15th arrondissement of Paris,191066]]"
-- "[[_Standards/WikiData/WD~16th arrondissement of Paris,194420]]"
-- "[[_Standards/WikiData/WD~17th arrondissement of Paris,197297]]"
-- "[[_Standards/WikiData/WD~18th arrondissement of Paris,200126]]"
-- "[[_Standards/WikiData/WD~19th arrondissement of Paris,204622]]"
-- "[[_Standards/WikiData/WD~2nd arrondissement of Paris,209549]]"
-- "[[_Standards/WikiData/WD~20th arrondissement of Paris,210720]]"
-- "[[_Standards/WikiData/WD~3rd arrondissement of Paris,223140]]"
-- "[[_Standards/WikiData/WD~4th arrondissement of Paris,230127]]"
-- "[[_Standards/WikiData/WD~5th arrondissement of Paris,238723]]"
-- "[[_Standards/WikiData/WD~6th arrondissement of Paris,245546]]"
-- "[[_Standards/WikiData/WD~7th arrondissement of Paris,259463]]"
-- "[[_Standards/WikiData/WD~8th arrondissement of Paris,270230]]"
-- "[[_Standards/WikiData/WD~9th arrondissement of Paris,275118]]"
+- "[[_Standards/WikiData/WD~1st_arrondissement_of_Paris,161741]]"
+- "[[_Standards/WikiData/WD~10th_arrondissement_of_Paris,163948]]"
+- "[[_Standards/WikiData/WD~11th_arrondissement_of_Paris,169293]]"
+- "[[_Standards/WikiData/WD~12th_arrondissement_of_Paris,171689]]"
+- "[[_Standards/WikiData/WD~13th_arrondissement_of_Paris,175129]]"
+- "[[_Standards/WikiData/WD~14th_arrondissement_of_Paris,187153]]"
+- "[[_Standards/WikiData/WD~15th_arrondissement_of_Paris,191066]]"
+- "[[_Standards/WikiData/WD~16th_arrondissement_of_Paris,194420]]"
+- "[[_Standards/WikiData/WD~17th_arrondissement_of_Paris,197297]]"
+- "[[_Standards/WikiData/WD~18th_arrondissement_of_Paris,200126]]"
+- "[[_Standards/WikiData/WD~19th_arrondissement_of_Paris,204622]]"
+- "[[_Standards/WikiData/WD~2nd_arrondissement_of_Paris,209549]]"
+- "[[_Standards/WikiData/WD~20th_arrondissement_of_Paris,210720]]"
+- "[[_Standards/WikiData/WD~3rd_arrondissement_of_Paris,223140]]"
+- "[[_Standards/WikiData/WD~4th_arrondissement_of_Paris,230127]]"
+- "[[_Standards/WikiData/WD~5th_arrondissement_of_Paris,238723]]"
+- "[[_Standards/WikiData/WD~6th_arrondissement_of_Paris,245546]]"
+- "[[_Standards/WikiData/WD~7th_arrondissement_of_Paris,259463]]"
+- "[[_Standards/WikiData/WD~8th_arrondissement_of_Paris,270230]]"
+- "[[_Standards/WikiData/WD~9th_arrondissement_of_Paris,275118]]"
 instance_of:
 - '[[_Standards/WikiData/WD~megacity,174844]]'
 - '[[_Standards/WikiData/WD~metropolis,200250]]'
-- "[[_Standards/WikiData/WD~global city,208511]]"
-- "[[_Standards/WikiData/WD~territorial collectivity of France with special status,22923920]]"
-- "[[_Standards/WikiData/WD~largest city,51929311]]"
-- "[[_Standards/WikiData/WD~department of France,6465]]"
+- "[[_Standards/WikiData/WD~global_city,208511]]"
+- "[[_Standards/WikiData/WD~territorial_collectivity_of_France_with_special_status,22923920]]"
+- "[[_Standards/WikiData/WD~largest_city,51929311]]"
+- "[[_Standards/WikiData/WD~department_of_France,6465]]"
 owner_of:
-- "[[_Standards/WikiData/WD~Paris Bourse,178513]]"
-- "[[_Standards/WikiData/WD~Parc des Princes,193431]]"
-- "[[_Standards/WikiData/WD~The Sleepers,326503]]"
-- "[[_Standards/WikiData/WD~Hôtel de Chalon-Luxembourg,369234]]"
-- "[[_Standards/WikiData/WD~Accor Arena,537720]]"
-- "[[_Standards/WikiData/WD~Stade Jean-Bouin,670499]]"
-- "[[_Standards/WikiData/WD~Grand Synagogue of Paris,1358886]]"
-- "[[_Standards/WikiData/WD~fontaine de Jarente,1435786]]"
-- "[[_Standards/WikiData/WD~Belleville funicular tramway,1524643]]"
-- "[[_Standards/WikiData/WD~La Sainte Catherine,3212678]]"
-- "[[_Standards/WikiData/WD~pyramid of bois de Vincennes,3411287]]"
-- "[[_Standards/WikiData/WD~Jacob Wrestling with the Angel,3837491]]"
-- "[[_Standards/WikiData/WD~Eiffel Tower,243]]"
-- "[[_Standards/WikiData/WD~Arc de Triomphe,64436]]"
-- "[[_Standards/WikiData/WD~La Famille,15921385]]"
-- "[[_Standards/WikiData/WD~La Fraternité,15921401]]"
-- "[[_Standards/WikiData/WD~Pavillon d'Armenonville,18086668]]"
-- "[[_Standards/WikiData/WD~hôtel Dodun,19832938]]"
-- "[[_Standards/WikiData/WD~Alexander II,24575431]]"
+- "[[_Standards/WikiData/WD~Paris_Bourse,178513]]"
+- "[[_Standards/WikiData/WD~Parc_des_Princes,193431]]"
+- "[[_Standards/WikiData/WD~The_Sleepers,326503]]"
+- "[[_Standards/WikiData/WD~Hôtel_de_Chalon-Luxembourg,369234]]"
+- "[[_Standards/WikiData/WD~Accor_Arena,537720]]"
+- "[[_Standards/WikiData/WD~Stade_Jean-Bouin,670499]]"
+- "[[_Standards/WikiData/WD~Grand_Synagogue_of_Paris,1358886]]"
+- "[[_Standards/WikiData/WD~fontaine_de_Jarente,1435786]]"
+- "[[_Standards/WikiData/WD~Belleville_funicular_tramway,1524643]]"
+- "[[_Standards/WikiData/WD~La_Sainte_Catherine,3212678]]"
+- "[[_Standards/WikiData/WD~pyramid_of_bois_de_Vincennes,3411287]]"
+- "[[_Standards/WikiData/WD~Jacob_Wrestling_with_the_Angel,3837491]]"
+- "[[_Standards/WikiData/WD~Eiffel_Tower,243]]"
+- "[[_Standards/WikiData/WD~Arc_de_Triomphe,64436]]"
+- "[[_Standards/WikiData/WD~La_Famille,15921385]]"
+- "[[_Standards/WikiData/WD~La_Fraternité,15921401]]"
+- "[[_Standards/WikiData/WD~Pavillon_d'Armenonville,18086668]]"
+- "[[_Standards/WikiData/WD~hôtel_Dodun,19832938]]"
+- "[[_Standards/WikiData/WD~Alexander_II,24575431]]"
 patron_saint: '[[_Standards/WikiData/WD~Genevieve,235863]]'
 replaces:
 - '[[_Standards/WikiData/WD~Lutetia,270273]]'
 - '[[_Standards/WikiData/WD~Seine,1142326]]'
 described_by_source:
-- "[[_Standards/WikiData/WD~Catholic Encyclopedia,302556]]"
-- "[[_Standards/WikiData/WD~Regesta Imperii,316838]]"
-- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-- "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-- "[[_Standards/WikiData/WD~The Nuttall Encyclopædia,3181656]]"
-- "[[_Standards/WikiData/WD~Sytin Military Encyclopedia,4114391]]"
-- "[[_Standards/WikiData/WD~Jewish Encyclopedia of Brockhaus and Efron,4173137]]"
-- "[[_Standards/WikiData/WD~1922 Encyclopædia Britannica,15987490]]"
-- "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
-- "[[_Standards/WikiData/WD~Meyer’s Universum, Neunter Band,131719188]]"
+- "[[_Standards/WikiData/WD~Catholic_Encyclopedia,302556]]"
+- "[[_Standards/WikiData/WD~Regesta_Imperii,316838]]"
+- "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+- "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
+- "[[_Standards/WikiData/WD~Sytin_Military_Encyclopedia,4114391]]"
+- "[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]"
+- "[[_Standards/WikiData/WD~1922_Encyclopædia_Britannica,15987490]]"
+- "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+- "[[_Standards/WikiData/WD~Meyer’s_Universum,_Neunter_Band,131719188]]"
 member_of:
-- "[[_Standards/WikiData/WD~C40 Cities Climate Leadership Group,485087]]"
-- "[[_Standards/WikiData/WD~League of Historical Cities,9383972]]"
-- "[[_Standards/WikiData/WD~World Tourism Cities Federation,67652870]]"
+- "[[_Standards/WikiData/WD~C40_Cities_Climate_Leadership_Group,485087]]"
+- "[[_Standards/WikiData/WD~League_of_Historical_Cities,9383972]]"
+- "[[_Standards/WikiData/WD~World_Tourism_Cities_Federation,67652870]]"
 named_after: '[[_Standards/WikiData/WD~Parisii,656902]]'
-flag: "[[_Standards/WikiData/WD~flag of Paris,659058]]"
-has_part_s_of_the_class: "[[_Standards/WikiData/WD~municipal arrondissement of Paris,679388]]"
-legislative_body: "[[_Standards/WikiData/WD~Council of Paris,775994]]"
+flag: "[[_Standards/WikiData/WD~flag_of_Paris,659058]]"
+has_part_s_of_the_class: "[[_Standards/WikiData/WD~municipal_arrondissement_of_Paris,679388]]"
+legislative_body: "[[_Standards/WikiData/WD~Council_of_Paris,775994]]"
 located_in_or_next_to_body_of_water:
-- "[[_Standards/WikiData/WD~Bassin de la Villette,810526]]"
-- "[[_Standards/WikiData/WD~Canal Saint-Martin,860172]]"
-- "[[_Standards/WikiData/WD~Canal de l'Ourcq,1032646]]"
+- "[[_Standards/WikiData/WD~Bassin_de_la_Villette,810526]]"
+- "[[_Standards/WikiData/WD~Canal_Saint-Martin,860172]]"
+- "[[_Standards/WikiData/WD~Canal_de_l'Ourcq,1032646]]"
 - '[[_Standards/WikiData/WD~Seine,1471]]'
-history_of_topic: "[[_Standards/WikiData/WD~history of Paris,845625]]"
+history_of_topic: "[[_Standards/WikiData/WD~history_of_Paris,845625]]"
 located_in_the_statistical_territorial_entity:
-- "[[_Standards/WikiData/WD~Paris unité urbaine,1082222]]"
+- "[[_Standards/WikiData/WD~Paris_unité_urbaine,1082222]]"
 - '[[_Standards/WikiData/WD~Q108921672,108921672]]'
-diocese: "[[_Standards/WikiData/WD~Roman Catholic Archdiocese of Paris,1242250]]"
+diocese: "[[_Standards/WikiData/WD~Roman_Catholic_Archdiocese_of_Paris,1242250]]"
 list_of_monuments:
-- "[[_Standards/WikiData/WD~list of monuments and sites in Paris,1403319]]"
-- "[[_Standards/WikiData/WD~list of historic monuments in Paris,3252156]]"
-highest_point: "[[_Standards/WikiData/WD~highest point of Paris,1440664]]"
-coat_of_arms: "[[_Standards/WikiData/WD~coat of arms of Paris,1925366]]"
-demographics_of_topic: "[[_Standards/WikiData/WD~demographics of Paris,2246902]]"
+- "[[_Standards/WikiData/WD~list_of_monuments_and_sites_in_Paris,1403319]]"
+- "[[_Standards/WikiData/WD~list_of_historic_monuments_in_Paris,3252156]]"
+highest_point: "[[_Standards/WikiData/WD~highest_point_of_Paris,1440664]]"
+coat_of_arms: "[[_Standards/WikiData/WD~coat_of_arms_of_Paris,1925366]]"
+demographics_of_topic: "[[_Standards/WikiData/WD~demographics_of_Paris,2246902]]"
 award_received:
-- "[[_Standards/WikiData/WD~Croix de guerre 1914–1918,2727598]]"
-- "[[_Standards/WikiData/WD~Companion of the Liberation,2990283]]"
-- "[[_Standards/WikiData/WD~Knight of the Legion of Honour,10855271]]"
-head_of_government: "[[_Standards/WikiData/WD~Anne Hidalgo,2851133]]"
-authority: "[[_Standards/WikiData/WD~municipality of Paris,3278478]]"
+- "[[_Standards/WikiData/WD~Croix_de_guerre_1914–1918,2727598]]"
+- "[[_Standards/WikiData/WD~Companion_of_the_Liberation,2990283]]"
+- "[[_Standards/WikiData/WD~Knight_of_the_Legion_of_Honour,10855271]]"
+head_of_government: "[[_Standards/WikiData/WD~Anne_Hidalgo,2851133]]"
+authority: "[[_Standards/WikiData/WD~municipality_of_Paris,3278478]]"
 language_used:
-- "[[_Standards/WikiData/WD~Paris dialect,3365565]]"
+- "[[_Standards/WikiData/WD~Paris_dialect,3365565]]"
 - '[[_Standards/WikiData/WD~French,150]]'
-activity_policy_in_this_place: "[[_Standards/WikiData/WD~do not feed the animals,5286412]]"
-economy_of_topic: "[[_Standards/WikiData/WD~economy of Paris,5333743]]"
+activity_policy_in_this_place: "[[_Standards/WikiData/WD~do_not_feed_the_animals,5286412]]"
+economy_of_topic: "[[_Standards/WikiData/WD~economy_of_Paris,5333743]]"
 UN_LOCODE: FRPAR
 DPLA_subject_term: "Paris (France)"
 Instagram_username: paris_maville
@@ -214,7 +214,7 @@ coordinates_of_southernmost_point: "Point(2.3444967 48.8155755)"
 continent: '[[_Standards/WikiData/WD~Europe,46]]'
 capital_of:
 - '[[_Standards/WikiData/WD~France,142]]'
-- "[[_Standards/WikiData/WD~Grand Paris,16665915]]"
+- "[[_Standards/WikiData/WD~Grand_Paris,16665915]]"
 country: '[[_Standards/WikiData/WD~France,142]]'
 official_language: '[[_Standards/WikiData/WD~French,150]]'
 twinned_administrative_body: '[[_Standards/WikiData/WD~Rome,220]]'
@@ -295,15 +295,15 @@ ISO_3166_2_code: FR-75C
 HASC: FR.IF.VP
 NUTS_code: FR101
 topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Paris,8253667]]'
-office_held_by_head_of_government: "[[_Standards/WikiData/WD~mayor of Paris,12371988]]"
-geography_of_topic: "[[_Standards/WikiData/WD~geography of Paris,12522114]]"
+office_held_by_head_of_government: "[[_Standards/WikiData/WD~mayor_of_Paris,12371988]]"
+geography_of_topic: "[[_Standards/WikiData/WD~geography_of_Paris,12522114]]"
 topic_s_main_template: '[[_Standards/WikiData/WD~Template_Paris,18220037]]'
-foods_traditionally_associated: "[[_Standards/WikiData/WD~Parisian cuisine,21129738]]"
+foods_traditionally_associated: "[[_Standards/WikiData/WD~Parisian_cuisine,21129738]]"
 open_data_portal: '[[_Standards/WikiData/WD~opendata.paris.fr,97064103]]'
-district_heating_grid: "[[_Standards/WikiData/WD~réseau de chaleur urbain CPCU,105687036]]"
+district_heating_grid: "[[_Standards/WikiData/WD~réseau_de_chaleur_urbain_CPCU,105687036]]"
 on_focus_list_of_Wikimedia_project:
-- "[[_Standards/WikiData/WD~NADD Wikidata project,123694075]]"
-- "[[_Standards/WikiData/WD~Genadendal Music Archive,128903909]]"
+- "[[_Standards/WikiData/WD~NADD_Wikidata_project,123694075]]"
+- "[[_Standards/WikiData/WD~Genadendal_Music_Archive,128903909]]"
 inception: "-0300-01-01T00:00:00Z"
 Stack_Exchange_tag: "https://travel.stackexchange.com/tags/paris"
 UMLS_CUI: C0030561
