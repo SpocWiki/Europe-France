@@ -1,6 +1,8 @@
 ---
 aliases:
   - Pays de la Loire
+  - Val de Loire
+  - Centre-Val de Loire
 ---
 
 ```leaflet
