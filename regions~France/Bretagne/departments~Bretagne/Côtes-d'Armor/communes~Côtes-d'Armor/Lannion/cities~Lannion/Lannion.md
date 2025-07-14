@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~West/France/City/Lannion|Lannion]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~West/France/City/Lannion.public|Lannion.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~West/France/City/Lannion.internal|Lannion.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~West/France/City/Lannion.protect|Lannion.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~West/France/City/Lannion.private|Lannion.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~West/France/City/Lannion.personal|Lannion.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~West/France/City/Lannion.secret|Lannion.secret]] 
+
+### [Lannion.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Bretagne\departments~Bretagne\Côtes-d'Armor\communes~Côtes-d'Armor\Lannion\cities~LannionLannion.public.md) 
+
+### [Lannion.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Bretagne\departments~Bretagne\Côtes-d'Armor\communes~Côtes-d'Armor\Lannion\cities~LannionLannion.internal.md) 
+
+### [Lannion.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Bretagne\departments~Bretagne\Côtes-d'Armor\communes~Côtes-d'Armor\Lannion\cities~LannionLannion.protect.md) 
+
+### [Lannion.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Bretagne\departments~Bretagne\Côtes-d'Armor\communes~Côtes-d'Armor\Lannion\cities~LannionLannion.private.md) 
+
+### [Lannion.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Bretagne\departments~Bretagne\Côtes-d'Armor\communes~Côtes-d'Armor\Lannion\cities~LannionLannion.personal.md) 
+
+### [Lannion.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Bretagne\departments~Bretagne\Côtes-d'Armor\communes~Côtes-d'Armor\Lannion\cities~LannionLannion.secret.md)
+

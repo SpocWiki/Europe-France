@@ -40,11 +40,16 @@ markerFolder: ./Département~Isère/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../_Standards/geo/Continent/Europe/Europe~West/France/Counties/Auvergne-Rhône-Alpes/Département~Isère|Département~Isère]] 
-- [[../../../../../../../../_public/geo/Continent/Europe/Europe~West/France/Counties/Auvergne-Rhône-Alpes/Département~Isère.public|Département~Isère.public]] 
-- [[../../../../../../../../_internal/geo/Continent/Europe/Europe~West/France/Counties/Auvergne-Rhône-Alpes/Département~Isère.internal|Département~Isère.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Europe~West/France/Counties/Auvergne-Rhône-Alpes/Département~Isère.protect|Département~Isère.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Europe~West/France/Counties/Auvergne-Rhône-Alpes/Département~Isère.private|Département~Isère.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Europe~West/France/Counties/Auvergne-Rhône-Alpes/Département~Isère.personal|Département~Isère.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Europe~West/France/Counties/Auvergne-Rhône-Alpes/Département~Isère.secret|Département~Isère.secret]] 
+
+### [Isère.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Auvergne-Rhône-Alpes\departments~Auvergne-Rhône-AlpesIsère.public.md) 
+
+### [Isère.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Auvergne-Rhône-Alpes\departments~Auvergne-Rhône-AlpesIsère.internal.md) 
+
+### [Isère.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Auvergne-Rhône-Alpes\departments~Auvergne-Rhône-AlpesIsère.protect.md) 
+
+### [Isère.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Auvergne-Rhône-Alpes\departments~Auvergne-Rhône-AlpesIsère.private.md) 
+
+### [Isère.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Auvergne-Rhône-Alpes\departments~Auvergne-Rhône-AlpesIsère.personal.md) 
+
+### [Isère.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Auvergne-Rhône-Alpes\departments~Auvergne-Rhône-AlpesIsère.secret.md)
 

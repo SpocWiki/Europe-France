@@ -40,11 +40,16 @@ markerFolder: ./Département~Ain/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../_Standards/geo/Continent/Département~Ain|Département~Ain]] 
-- [[../../../_public/geo/Continent/Département~Ain.public|Département~Ain.public]] 
-- [[../../../_internal/geo/Continent/Département~Ain.internal|Département~Ain.internal]] 
-- [[../../../_protect/geo/Continent/Département~Ain.protect|Département~Ain.protect]] 
-- [[../../../_private/geo/Continent/Département~Ain.private|Département~Ain.private]] 
-- [[../../../_personal/geo/Continent/Département~Ain.personal|Département~Ain.personal]] 
-- [[../../../_secret/geo/Continent/Département~Ain.secret|Département~Ain.secret]] 
+
+### [Ain.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Auvergne-Rhône-Alpes\departments~Auvergne-Rhône-AlpesAin.public.md) 
+
+### [Ain.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Auvergne-Rhône-Alpes\departments~Auvergne-Rhône-AlpesAin.internal.md) 
+
+### [Ain.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Auvergne-Rhône-Alpes\departments~Auvergne-Rhône-AlpesAin.protect.md) 
+
+### [Ain.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Auvergne-Rhône-Alpes\departments~Auvergne-Rhône-AlpesAin.private.md) 
+
+### [Ain.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Auvergne-Rhône-Alpes\departments~Auvergne-Rhône-AlpesAin.personal.md) 
+
+### [Ain.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Auvergne-Rhône-Alpes\departments~Auvergne-Rhône-AlpesAin.secret.md)
 

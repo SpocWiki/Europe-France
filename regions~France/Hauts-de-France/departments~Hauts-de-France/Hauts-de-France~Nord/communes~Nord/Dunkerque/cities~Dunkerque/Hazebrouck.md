@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~West/France/City/Hazebrouck|Hazebrouck]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~West/France/City/Hazebrouck.public|Hazebrouck.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~West/France/City/Hazebrouck.internal|Hazebrouck.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~West/France/City/Hazebrouck.protect|Hazebrouck.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~West/France/City/Hazebrouck.private|Hazebrouck.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~West/France/City/Hazebrouck.personal|Hazebrouck.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~West/France/City/Hazebrouck.secret|Hazebrouck.secret]] 
+
+### [Hazebrouck.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Hauts-de-France\departments~Hauts-de-France\Hauts-de-France~Nord\communes~Nord\Dunkerque\cities~DunkerqueHazebrouck.public.md) 
+
+### [Hazebrouck.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Hauts-de-France\departments~Hauts-de-France\Hauts-de-France~Nord\communes~Nord\Dunkerque\cities~DunkerqueHazebrouck.internal.md) 
+
+### [Hazebrouck.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Hauts-de-France\departments~Hauts-de-France\Hauts-de-France~Nord\communes~Nord\Dunkerque\cities~DunkerqueHazebrouck.protect.md) 
+
+### [Hazebrouck.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Hauts-de-France\departments~Hauts-de-France\Hauts-de-France~Nord\communes~Nord\Dunkerque\cities~DunkerqueHazebrouck.private.md) 
+
+### [Hazebrouck.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Hauts-de-France\departments~Hauts-de-France\Hauts-de-France~Nord\communes~Nord\Dunkerque\cities~DunkerqueHazebrouck.personal.md) 
+
+### [Hazebrouck.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Hauts-de-France\departments~Hauts-de-France\Hauts-de-France~Nord\communes~Nord\Dunkerque\cities~DunkerqueHazebrouck.secret.md)
+

@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~West/France/City/Guérande|Guérande]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~West/France/City/Guérande.public|Guérande.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~West/France/City/Guérande.internal|Guérande.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~West/France/City/Guérande.protect|Guérande.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~West/France/City/Guérande.private|Guérande.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~West/France/City/Guérande.personal|Guérande.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~West/France/City/Guérande.secret|Guérande.secret]] 
+
+### [Guérande.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Pays_de_la_Loire\departments~Pays_de_la_Loire\Loire-Atlantique\communes~Loire-Atlantique\Saint-Nazaire\cities~Saint-NazaireGuérande.public.md) 
+
+### [Guérande.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Pays_de_la_Loire\departments~Pays_de_la_Loire\Loire-Atlantique\communes~Loire-Atlantique\Saint-Nazaire\cities~Saint-NazaireGuérande.internal.md) 
+
+### [Guérande.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Pays_de_la_Loire\departments~Pays_de_la_Loire\Loire-Atlantique\communes~Loire-Atlantique\Saint-Nazaire\cities~Saint-NazaireGuérande.protect.md) 
+
+### [Guérande.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Pays_de_la_Loire\departments~Pays_de_la_Loire\Loire-Atlantique\communes~Loire-Atlantique\Saint-Nazaire\cities~Saint-NazaireGuérande.private.md) 
+
+### [Guérande.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Pays_de_la_Loire\departments~Pays_de_la_Loire\Loire-Atlantique\communes~Loire-Atlantique\Saint-Nazaire\cities~Saint-NazaireGuérande.personal.md) 
+
+### [Guérande.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Pays_de_la_Loire\departments~Pays_de_la_Loire\Loire-Atlantique\communes~Loire-Atlantique\Saint-Nazaire\cities~Saint-NazaireGuérande.secret.md)
+

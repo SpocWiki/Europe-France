@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~West/France/City/Lure|Lure]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~West/France/City/Lure.public|Lure.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~West/France/City/Lure.internal|Lure.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~West/France/City/Lure.protect|Lure.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~West/France/City/Lure.private|Lure.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~West/France/City/Lure.personal|Lure.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~West/France/City/Lure.secret|Lure.secret]] 
+
+### [Lure.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Bourgogne-Franche-Comté\departments~Bourgogne-Franche-Comté\Haute-Saône\communes~Haute-Saône\Lure\cities~LureLure.public.md) 
+
+### [Lure.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Bourgogne-Franche-Comté\departments~Bourgogne-Franche-Comté\Haute-Saône\communes~Haute-Saône\Lure\cities~LureLure.internal.md) 
+
+### [Lure.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Bourgogne-Franche-Comté\departments~Bourgogne-Franche-Comté\Haute-Saône\communes~Haute-Saône\Lure\cities~LureLure.protect.md) 
+
+### [Lure.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Bourgogne-Franche-Comté\departments~Bourgogne-Franche-Comté\Haute-Saône\communes~Haute-Saône\Lure\cities~LureLure.private.md) 
+
+### [Lure.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Bourgogne-Franche-Comté\departments~Bourgogne-Franche-Comté\Haute-Saône\communes~Haute-Saône\Lure\cities~LureLure.personal.md) 
+
+### [Lure.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Bourgogne-Franche-Comté\departments~Bourgogne-Franche-Comté\Haute-Saône\communes~Haute-Saône\Lure\cities~LureLure.secret.md)
+

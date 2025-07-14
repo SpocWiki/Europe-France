@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~West/France/City/Beaune|Beaune]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~West/France/City/Beaune.public|Beaune.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~West/France/City/Beaune.internal|Beaune.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~West/France/City/Beaune.protect|Beaune.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~West/France/City/Beaune.private|Beaune.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~West/France/City/Beaune.personal|Beaune.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~West/France/City/Beaune.secret|Beaune.secret]] 
+
+### [Beaune.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Bourgogne-Franche-Comté\departments~Bourgogne-Franche-Comté\Côte-d'Or\communes~Côte-d'Or\Beaune\cities~BeauneBeaune.public.md) 
+
+### [Beaune.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Bourgogne-Franche-Comté\departments~Bourgogne-Franche-Comté\Côte-d'Or\communes~Côte-d'Or\Beaune\cities~BeauneBeaune.internal.md) 
+
+### [Beaune.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Bourgogne-Franche-Comté\departments~Bourgogne-Franche-Comté\Côte-d'Or\communes~Côte-d'Or\Beaune\cities~BeauneBeaune.protect.md) 
+
+### [Beaune.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Bourgogne-Franche-Comté\departments~Bourgogne-Franche-Comté\Côte-d'Or\communes~Côte-d'Or\Beaune\cities~BeauneBeaune.private.md) 
+
+### [Beaune.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Bourgogne-Franche-Comté\departments~Bourgogne-Franche-Comté\Côte-d'Or\communes~Côte-d'Or\Beaune\cities~BeauneBeaune.personal.md) 
+
+### [Beaune.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Bourgogne-Franche-Comté\departments~Bourgogne-Franche-Comté\Côte-d'Or\communes~Côte-d'Or\Beaune\cities~BeauneBeaune.secret.md)
+

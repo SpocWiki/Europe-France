@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~West/France/City/Loches|Loches]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~West/France/City/Loches.public|Loches.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~West/France/City/Loches.internal|Loches.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~West/France/City/Loches.protect|Loches.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~West/France/City/Loches.private|Loches.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~West/France/City/Loches.personal|Loches.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~West/France/City/Loches.secret|Loches.secret]] 
+
+### [Loches.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Val_de_Loire\departments~Val_de_Loire\Indre-et-Loire\communes~Indre-et-Loire\Loches\cities~LochesLoches.public.md) 
+
+### [Loches.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Val_de_Loire\departments~Val_de_Loire\Indre-et-Loire\communes~Indre-et-Loire\Loches\cities~LochesLoches.internal.md) 
+
+### [Loches.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Val_de_Loire\departments~Val_de_Loire\Indre-et-Loire\communes~Indre-et-Loire\Loches\cities~LochesLoches.protect.md) 
+
+### [Loches.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Val_de_Loire\departments~Val_de_Loire\Indre-et-Loire\communes~Indre-et-Loire\Loches\cities~LochesLoches.private.md) 
+
+### [Loches.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Val_de_Loire\departments~Val_de_Loire\Indre-et-Loire\communes~Indre-et-Loire\Loches\cities~LochesLoches.personal.md) 
+
+### [Loches.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Val_de_Loire\departments~Val_de_Loire\Indre-et-Loire\communes~Indre-et-Loire\Loches\cities~LochesLoches.secret.md)
+

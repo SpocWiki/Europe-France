@@ -40,11 +40,16 @@ markerFolder: ./Département~Morbihan/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../_Standards/geo/Continent/Europe/Europe~West/France/Counties/Bretagne/Département~Morbihan|Département~Morbihan]] 
-- [[../../../../../../../../_public/geo/Continent/Europe/Europe~West/France/Counties/Bretagne/Département~Morbihan.public|Département~Morbihan.public]] 
-- [[../../../../../../../../_internal/geo/Continent/Europe/Europe~West/France/Counties/Bretagne/Département~Morbihan.internal|Département~Morbihan.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Europe~West/France/Counties/Bretagne/Département~Morbihan.protect|Département~Morbihan.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Europe~West/France/Counties/Bretagne/Département~Morbihan.private|Département~Morbihan.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Europe~West/France/Counties/Bretagne/Département~Morbihan.personal|Département~Morbihan.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Europe~West/France/Counties/Bretagne/Département~Morbihan.secret|Département~Morbihan.secret]] 
+
+### [Morbihan.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Bretagne\departments~BretagneMorbihan.public.md) 
+
+### [Morbihan.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Bretagne\departments~BretagneMorbihan.internal.md) 
+
+### [Morbihan.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Bretagne\departments~BretagneMorbihan.protect.md) 
+
+### [Morbihan.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Bretagne\departments~BretagneMorbihan.private.md) 
+
+### [Morbihan.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Bretagne\departments~BretagneMorbihan.personal.md) 
+
+### [Morbihan.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Bretagne\departments~BretagneMorbihan.secret.md)
 

@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~West/France/City/Macon|Macon]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~West/France/City/Macon.public|Macon.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~West/France/City/Macon.internal|Macon.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~West/France/City/Macon.protect|Macon.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~West/France/City/Macon.private|Macon.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~West/France/City/Macon.personal|Macon.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~West/France/City/Macon.secret|Macon.secret]] 
+
+### [Macon.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Bourgogne-Franche-Comté\departments~Bourgogne-Franche-Comté\Saône-et-Loire\communes~Saône-et-Loire\Mâcon\cities~MâconMacon.public.md) 
+
+### [Macon.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Bourgogne-Franche-Comté\departments~Bourgogne-Franche-Comté\Saône-et-Loire\communes~Saône-et-Loire\Mâcon\cities~MâconMacon.internal.md) 
+
+### [Macon.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Bourgogne-Franche-Comté\departments~Bourgogne-Franche-Comté\Saône-et-Loire\communes~Saône-et-Loire\Mâcon\cities~MâconMacon.protect.md) 
+
+### [Macon.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Bourgogne-Franche-Comté\departments~Bourgogne-Franche-Comté\Saône-et-Loire\communes~Saône-et-Loire\Mâcon\cities~MâconMacon.private.md) 
+
+### [Macon.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Bourgogne-Franche-Comté\departments~Bourgogne-Franche-Comté\Saône-et-Loire\communes~Saône-et-Loire\Mâcon\cities~MâconMacon.personal.md) 
+
+### [Macon.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Bourgogne-Franche-Comté\departments~Bourgogne-Franche-Comté\Saône-et-Loire\communes~Saône-et-Loire\Mâcon\cities~MâconMacon.secret.md)
+

@@ -40,11 +40,16 @@ markerFolder: ./Département~Somme/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../_Standards/geo/Continent/Europe/Europe~West/France/Counties/Hauts-de-France/Département~Somme|Département~Somme]] 
-- [[../../../../../../../../_public/geo/Continent/Europe/Europe~West/France/Counties/Hauts-de-France/Département~Somme.public|Département~Somme.public]] 
-- [[../../../../../../../../_internal/geo/Continent/Europe/Europe~West/France/Counties/Hauts-de-France/Département~Somme.internal|Département~Somme.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Europe~West/France/Counties/Hauts-de-France/Département~Somme.protect|Département~Somme.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Europe~West/France/Counties/Hauts-de-France/Département~Somme.private|Département~Somme.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Europe~West/France/Counties/Hauts-de-France/Département~Somme.personal|Département~Somme.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Europe~West/France/Counties/Hauts-de-France/Département~Somme.secret|Département~Somme.secret]] 
+
+### [Somme.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Hauts-de-France\departments~Hauts-de-FranceSomme.public.md) 
+
+### [Somme.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Hauts-de-France\departments~Hauts-de-FranceSomme.internal.md) 
+
+### [Somme.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Hauts-de-France\departments~Hauts-de-FranceSomme.protect.md) 
+
+### [Somme.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Hauts-de-France\departments~Hauts-de-FranceSomme.private.md) 
+
+### [Somme.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Hauts-de-France\departments~Hauts-de-FranceSomme.personal.md) 
+
+### [Somme.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Hauts-de-France\departments~Hauts-de-FranceSomme.secret.md)
 

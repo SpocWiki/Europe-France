@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~West/France/City/Dieu|Dieu]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~West/France/City/Dieu.public|Dieu.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~West/France/City/Dieu.internal|Dieu.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~West/France/City/Dieu.protect|Dieu.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~West/France/City/Dieu.private|Dieu.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~West/France/City/Dieu.personal|Dieu.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~West/France/City/Dieu.secret|Dieu.secret]] 
+
+### [Dieu.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Pays_de_la_Loire\departments~Pays_de_la_Loire\Vendée\communes~Vendée\Les_Sables-d'Olonne\cities~LesSables-d'OlonneDieu.public.md) 
+
+### [Dieu.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Pays_de_la_Loire\departments~Pays_de_la_Loire\Vendée\communes~Vendée\Les_Sables-d'Olonne\cities~LesSables-d'OlonneDieu.internal.md) 
+
+### [Dieu.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Pays_de_la_Loire\departments~Pays_de_la_Loire\Vendée\communes~Vendée\Les_Sables-d'Olonne\cities~LesSables-d'OlonneDieu.protect.md) 
+
+### [Dieu.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Pays_de_la_Loire\departments~Pays_de_la_Loire\Vendée\communes~Vendée\Les_Sables-d'Olonne\cities~LesSables-d'OlonneDieu.private.md) 
+
+### [Dieu.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Pays_de_la_Loire\departments~Pays_de_la_Loire\Vendée\communes~Vendée\Les_Sables-d'Olonne\cities~LesSables-d'OlonneDieu.personal.md) 
+
+### [Dieu.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Pays_de_la_Loire\departments~Pays_de_la_Loire\Vendée\communes~Vendée\Les_Sables-d'Olonne\cities~LesSables-d'OlonneDieu.secret.md)
+

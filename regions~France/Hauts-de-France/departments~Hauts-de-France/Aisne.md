@@ -40,11 +40,16 @@ markerFolder: ./Département~Aisne/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../_Standards/geo/Continent/Europe/Europe~West/France/Counties/Hauts-de-France/Département~Aisne|Département~Aisne]] 
-- [[../../../../../../../../_public/geo/Continent/Europe/Europe~West/France/Counties/Hauts-de-France/Département~Aisne.public|Département~Aisne.public]] 
-- [[../../../../../../../../_internal/geo/Continent/Europe/Europe~West/France/Counties/Hauts-de-France/Département~Aisne.internal|Département~Aisne.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Europe~West/France/Counties/Hauts-de-France/Département~Aisne.protect|Département~Aisne.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Europe~West/France/Counties/Hauts-de-France/Département~Aisne.private|Département~Aisne.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Europe~West/France/Counties/Hauts-de-France/Département~Aisne.personal|Département~Aisne.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Europe~West/France/Counties/Hauts-de-France/Département~Aisne.secret|Département~Aisne.secret]] 
+
+### [Aisne.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Hauts-de-France\departments~Hauts-de-FranceAisne.public.md) 
+
+### [Aisne.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Hauts-de-France\departments~Hauts-de-FranceAisne.internal.md) 
+
+### [Aisne.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Hauts-de-France\departments~Hauts-de-FranceAisne.protect.md) 
+
+### [Aisne.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Hauts-de-France\departments~Hauts-de-FranceAisne.private.md) 
+
+### [Aisne.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Hauts-de-France\departments~Hauts-de-FranceAisne.personal.md) 
+
+### [Aisne.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Hauts-de-France\departments~Hauts-de-FranceAisne.secret.md)
 

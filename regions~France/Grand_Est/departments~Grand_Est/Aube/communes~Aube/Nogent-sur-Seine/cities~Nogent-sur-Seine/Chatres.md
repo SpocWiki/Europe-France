@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~West/France/City/Chatres|Chatres]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~West/France/City/Chatres.public|Chatres.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~West/France/City/Chatres.internal|Chatres.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~West/France/City/Chatres.protect|Chatres.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~West/France/City/Chatres.private|Chatres.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~West/France/City/Chatres.personal|Chatres.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~West/France/City/Chatres.secret|Chatres.secret]] 
+
+### [Chatres.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Grand_Est\departments~Grand_Est\Aube\communes~Aube\Nogent-sur-Seine\cities~Nogent-sur-SeineChatres.public.md) 
+
+### [Chatres.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Grand_Est\departments~Grand_Est\Aube\communes~Aube\Nogent-sur-Seine\cities~Nogent-sur-SeineChatres.internal.md) 
+
+### [Chatres.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Grand_Est\departments~Grand_Est\Aube\communes~Aube\Nogent-sur-Seine\cities~Nogent-sur-SeineChatres.protect.md) 
+
+### [Chatres.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Grand_Est\departments~Grand_Est\Aube\communes~Aube\Nogent-sur-Seine\cities~Nogent-sur-SeineChatres.private.md) 
+
+### [Chatres.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Grand_Est\departments~Grand_Est\Aube\communes~Aube\Nogent-sur-Seine\cities~Nogent-sur-SeineChatres.personal.md) 
+
+### [Chatres.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Grand_Est\departments~Grand_Est\Aube\communes~Aube\Nogent-sur-Seine\cities~Nogent-sur-SeineChatres.secret.md)
+

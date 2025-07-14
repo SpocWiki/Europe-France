@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~West/France/City/Rouen|Rouen]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~West/France/City/Rouen.public|Rouen.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~West/France/City/Rouen.internal|Rouen.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~West/France/City/Rouen.protect|Rouen.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~West/France/City/Rouen.private|Rouen.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~West/France/City/Rouen.personal|Rouen.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~West/France/City/Rouen.secret|Rouen.secret]] 
+
+### [Rouen.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Normandie\departments~Normandie\Seine-Maritime\communes~Seine-Maritime\Rouen\cities~RouenRouen.public.md) 
+
+### [Rouen.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Normandie\departments~Normandie\Seine-Maritime\communes~Seine-Maritime\Rouen\cities~RouenRouen.internal.md) 
+
+### [Rouen.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Normandie\departments~Normandie\Seine-Maritime\communes~Seine-Maritime\Rouen\cities~RouenRouen.protect.md) 
+
+### [Rouen.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Normandie\departments~Normandie\Seine-Maritime\communes~Seine-Maritime\Rouen\cities~RouenRouen.private.md) 
+
+### [Rouen.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Normandie\departments~Normandie\Seine-Maritime\communes~Seine-Maritime\Rouen\cities~RouenRouen.personal.md) 
+
+### [Rouen.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Normandie\departments~Normandie\Seine-Maritime\communes~Seine-Maritime\Rouen\cities~RouenRouen.secret.md)
+

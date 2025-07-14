@@ -40,11 +40,16 @@ markerFolder: ./Département~Puy-de-Dôme/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../_Standards/geo/Continent/Département~Puy-de-Dôme|Département~Puy-de-Dôme]] 
-- [[../../../_public/geo/Continent/Département~Puy-de-Dôme.public|Département~Puy-de-Dôme.public]] 
-- [[../../../_internal/geo/Continent/Département~Puy-de-Dôme.internal|Département~Puy-de-Dôme.internal]] 
-- [[../../../_protect/geo/Continent/Département~Puy-de-Dôme.protect|Département~Puy-de-Dôme.protect]] 
-- [[../../../_private/geo/Continent/Département~Puy-de-Dôme.private|Département~Puy-de-Dôme.private]] 
-- [[../../../_personal/geo/Continent/Département~Puy-de-Dôme.personal|Département~Puy-de-Dôme.personal]] 
-- [[../../../_secret/geo/Continent/Département~Puy-de-Dôme.secret|Département~Puy-de-Dôme.secret]] 
+
+### [Puy-de-Dôme.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Auvergne-Rhône-Alpes\departments~Auvergne-Rhône-AlpesPuy-de-Dôme.public.md) 
+
+### [Puy-de-Dôme.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Auvergne-Rhône-Alpes\departments~Auvergne-Rhône-AlpesPuy-de-Dôme.internal.md) 
+
+### [Puy-de-Dôme.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Auvergne-Rhône-Alpes\departments~Auvergne-Rhône-AlpesPuy-de-Dôme.protect.md) 
+
+### [Puy-de-Dôme.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Auvergne-Rhône-Alpes\departments~Auvergne-Rhône-AlpesPuy-de-Dôme.private.md) 
+
+### [Puy-de-Dôme.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Auvergne-Rhône-Alpes\departments~Auvergne-Rhône-AlpesPuy-de-Dôme.personal.md) 
+
+### [Puy-de-Dôme.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Auvergne-Rhône-Alpes\departments~Auvergne-Rhône-AlpesPuy-de-Dôme.secret.md)
 

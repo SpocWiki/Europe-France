@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~West/France/City/St.Girons|St.Girons]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~West/France/City/St.Girons.public|St.Girons.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~West/France/City/St.Girons.internal|St.Girons.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~West/France/City/St.Girons.protect|St.Girons.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~West/France/City/St.Girons.private|St.Girons.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~West/France/City/St.Girons.personal|St.Girons.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~West/France/City/St.Girons.secret|St.Girons.secret]] 
+
+### [St.Girons.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~Occitanie\Ariège\communes~Ariège\Saint-Girons\cities~Saint-GironsSt.Girons.public.md) 
+
+### [St.Girons.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~Occitanie\Ariège\communes~Ariège\Saint-Girons\cities~Saint-GironsSt.Girons.internal.md) 
+
+### [St.Girons.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~Occitanie\Ariège\communes~Ariège\Saint-Girons\cities~Saint-GironsSt.Girons.protect.md) 
+
+### [St.Girons.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~Occitanie\Ariège\communes~Ariège\Saint-Girons\cities~Saint-GironsSt.Girons.private.md) 
+
+### [St.Girons.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~Occitanie\Ariège\communes~Ariège\Saint-Girons\cities~Saint-GironsSt.Girons.personal.md) 
+
+### [St.Girons.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~Occitanie\Ariège\communes~Ariège\Saint-Girons\cities~Saint-GironsSt.Girons.secret.md)
+

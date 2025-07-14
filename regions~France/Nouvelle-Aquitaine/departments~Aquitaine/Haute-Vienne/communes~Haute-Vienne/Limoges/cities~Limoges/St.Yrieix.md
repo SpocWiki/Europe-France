@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~West/France/City/St.Yrieix|St.Yrieix]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~West/France/City/St.Yrieix.public|St.Yrieix.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~West/France/City/St.Yrieix.internal|St.Yrieix.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~West/France/City/St.Yrieix.protect|St.Yrieix.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~West/France/City/St.Yrieix.private|St.Yrieix.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~West/France/City/St.Yrieix.personal|St.Yrieix.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~West/France/City/St.Yrieix.secret|St.Yrieix.secret]] 
+
+### [St.Yrieix.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~Aquitaine\Haute-Vienne\communes~Haute-Vienne\Limoges\cities~LimogesSt.Yrieix.public.md) 
+
+### [St.Yrieix.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~Aquitaine\Haute-Vienne\communes~Haute-Vienne\Limoges\cities~LimogesSt.Yrieix.internal.md) 
+
+### [St.Yrieix.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~Aquitaine\Haute-Vienne\communes~Haute-Vienne\Limoges\cities~LimogesSt.Yrieix.protect.md) 
+
+### [St.Yrieix.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~Aquitaine\Haute-Vienne\communes~Haute-Vienne\Limoges\cities~LimogesSt.Yrieix.private.md) 
+
+### [St.Yrieix.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~Aquitaine\Haute-Vienne\communes~Haute-Vienne\Limoges\cities~LimogesSt.Yrieix.personal.md) 
+
+### [St.Yrieix.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~Aquitaine\Haute-Vienne\communes~Haute-Vienne\Limoges\cities~LimogesSt.Yrieix.secret.md)
+

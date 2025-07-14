@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~West/France/City/Thonon|Thonon]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~West/France/City/Thonon.public|Thonon.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~West/France/City/Thonon.internal|Thonon.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~West/France/City/Thonon.protect|Thonon.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~West/France/City/Thonon.private|Thonon.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~West/France/City/Thonon.personal|Thonon.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~West/France/City/Thonon.secret|Thonon.secret]] 
+
+### [Thonon.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Auvergne-Rhône-Alpes\departments~Auvergne-Rhône-Alpes\Haute-Savoie\communes~Haute-Savoie\Thonon-les-Bains\cities~Thonon-les-BainsThonon.public.md) 
+
+### [Thonon.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Auvergne-Rhône-Alpes\departments~Auvergne-Rhône-Alpes\Haute-Savoie\communes~Haute-Savoie\Thonon-les-Bains\cities~Thonon-les-BainsThonon.internal.md) 
+
+### [Thonon.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Auvergne-Rhône-Alpes\departments~Auvergne-Rhône-Alpes\Haute-Savoie\communes~Haute-Savoie\Thonon-les-Bains\cities~Thonon-les-BainsThonon.protect.md) 
+
+### [Thonon.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Auvergne-Rhône-Alpes\departments~Auvergne-Rhône-Alpes\Haute-Savoie\communes~Haute-Savoie\Thonon-les-Bains\cities~Thonon-les-BainsThonon.private.md) 
+
+### [Thonon.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Auvergne-Rhône-Alpes\departments~Auvergne-Rhône-Alpes\Haute-Savoie\communes~Haute-Savoie\Thonon-les-Bains\cities~Thonon-les-BainsThonon.personal.md) 
+
+### [Thonon.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Auvergne-Rhône-Alpes\departments~Auvergne-Rhône-Alpes\Haute-Savoie\communes~Haute-Savoie\Thonon-les-Bains\cities~Thonon-les-BainsThonon.secret.md)
+

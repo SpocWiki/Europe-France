@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~West/France/City/Epernay|Epernay]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~West/France/City/Epernay.public|Epernay.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~West/France/City/Epernay.internal|Epernay.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~West/France/City/Epernay.protect|Epernay.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~West/France/City/Epernay.private|Epernay.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~West/France/City/Epernay.personal|Epernay.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~West/France/City/Epernay.secret|Epernay.secret]] 
+
+### [Epernay.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Grand_Est\departments~Grand_Est\Marne\communes~Marne\Épernay\cities~ÉpernayEpernay.public.md) 
+
+### [Epernay.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Grand_Est\departments~Grand_Est\Marne\communes~Marne\Épernay\cities~ÉpernayEpernay.internal.md) 
+
+### [Epernay.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Grand_Est\departments~Grand_Est\Marne\communes~Marne\Épernay\cities~ÉpernayEpernay.protect.md) 
+
+### [Epernay.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Grand_Est\departments~Grand_Est\Marne\communes~Marne\Épernay\cities~ÉpernayEpernay.private.md) 
+
+### [Epernay.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Grand_Est\departments~Grand_Est\Marne\communes~Marne\Épernay\cities~ÉpernayEpernay.personal.md) 
+
+### [Epernay.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Grand_Est\departments~Grand_Est\Marne\communes~Marne\Épernay\cities~ÉpernayEpernay.secret.md)
+

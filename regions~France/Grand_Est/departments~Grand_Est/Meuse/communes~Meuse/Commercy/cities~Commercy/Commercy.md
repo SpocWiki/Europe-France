@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~West/France/City/Commercy|Commercy]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~West/France/City/Commercy.public|Commercy.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~West/France/City/Commercy.internal|Commercy.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~West/France/City/Commercy.protect|Commercy.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~West/France/City/Commercy.private|Commercy.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~West/France/City/Commercy.personal|Commercy.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~West/France/City/Commercy.secret|Commercy.secret]] 
+
+### [Commercy.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Grand_Est\departments~Grand_Est\Meuse\communes~Meuse\Commercy\cities~CommercyCommercy.public.md) 
+
+### [Commercy.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Grand_Est\departments~Grand_Est\Meuse\communes~Meuse\Commercy\cities~CommercyCommercy.internal.md) 
+
+### [Commercy.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Grand_Est\departments~Grand_Est\Meuse\communes~Meuse\Commercy\cities~CommercyCommercy.protect.md) 
+
+### [Commercy.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Grand_Est\departments~Grand_Est\Meuse\communes~Meuse\Commercy\cities~CommercyCommercy.private.md) 
+
+### [Commercy.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Grand_Est\departments~Grand_Est\Meuse\communes~Meuse\Commercy\cities~CommercyCommercy.personal.md) 
+
+### [Commercy.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Grand_Est\departments~Grand_Est\Meuse\communes~Meuse\Commercy\cities~CommercyCommercy.secret.md)
+

@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~West/France/City/Cette|Cette]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~West/France/City/Cette.public|Cette.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~West/France/City/Cette.internal|Cette.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~West/France/City/Cette.protect|Cette.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~West/France/City/Cette.private|Cette.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~West/France/City/Cette.personal|Cette.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~West/France/City/Cette.secret|Cette.secret]] 
+
+### [Cette.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~Occitanie\Hérault\communes~Hérault\Montpellier\cities~MontpellierCette.public.md) 
+
+### [Cette.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~Occitanie\Hérault\communes~Hérault\Montpellier\cities~MontpellierCette.internal.md) 
+
+### [Cette.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~Occitanie\Hérault\communes~Hérault\Montpellier\cities~MontpellierCette.protect.md) 
+
+### [Cette.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~Occitanie\Hérault\communes~Hérault\Montpellier\cities~MontpellierCette.private.md) 
+
+### [Cette.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~Occitanie\Hérault\communes~Hérault\Montpellier\cities~MontpellierCette.personal.md) 
+
+### [Cette.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~Occitanie\Hérault\communes~Hérault\Montpellier\cities~MontpellierCette.secret.md)
+

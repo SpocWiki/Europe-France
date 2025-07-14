@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~West/France/City/Nevers|Nevers]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~West/France/City/Nevers.public|Nevers.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~West/France/City/Nevers.internal|Nevers.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~West/France/City/Nevers.protect|Nevers.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~West/France/City/Nevers.private|Nevers.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~West/France/City/Nevers.personal|Nevers.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~West/France/City/Nevers.secret|Nevers.secret]] 
+
+### [Nevers.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Bourgogne-Franche-Comté\departments~Bourgogne-Franche-Comté\Nièvre\communes~Nièvre\Nevers\cities~NeversNevers.public.md) 
+
+### [Nevers.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Bourgogne-Franche-Comté\departments~Bourgogne-Franche-Comté\Nièvre\communes~Nièvre\Nevers\cities~NeversNevers.internal.md) 
+
+### [Nevers.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Bourgogne-Franche-Comté\departments~Bourgogne-Franche-Comté\Nièvre\communes~Nièvre\Nevers\cities~NeversNevers.protect.md) 
+
+### [Nevers.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Bourgogne-Franche-Comté\departments~Bourgogne-Franche-Comté\Nièvre\communes~Nièvre\Nevers\cities~NeversNevers.private.md) 
+
+### [Nevers.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Bourgogne-Franche-Comté\departments~Bourgogne-Franche-Comté\Nièvre\communes~Nièvre\Nevers\cities~NeversNevers.personal.md) 
+
+### [Nevers.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Bourgogne-Franche-Comté\departments~Bourgogne-Franche-Comté\Nièvre\communes~Nièvre\Nevers\cities~NeversNevers.secret.md)
+

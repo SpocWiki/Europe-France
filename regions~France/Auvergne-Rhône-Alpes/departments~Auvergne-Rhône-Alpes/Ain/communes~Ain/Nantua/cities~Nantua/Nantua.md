@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~West/France/City/Nantua|Nantua]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~West/France/City/Nantua.public|Nantua.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~West/France/City/Nantua.internal|Nantua.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~West/France/City/Nantua.protect|Nantua.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~West/France/City/Nantua.private|Nantua.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~West/France/City/Nantua.personal|Nantua.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~West/France/City/Nantua.secret|Nantua.secret]] 
+
+### [Nantua.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Auvergne-Rhône-Alpes\departments~Auvergne-Rhône-Alpes\Ain\communes~Ain\Nantua\cities~NantuaNantua.public.md) 
+
+### [Nantua.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Auvergne-Rhône-Alpes\departments~Auvergne-Rhône-Alpes\Ain\communes~Ain\Nantua\cities~NantuaNantua.internal.md) 
+
+### [Nantua.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Auvergne-Rhône-Alpes\departments~Auvergne-Rhône-Alpes\Ain\communes~Ain\Nantua\cities~NantuaNantua.protect.md) 
+
+### [Nantua.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Auvergne-Rhône-Alpes\departments~Auvergne-Rhône-Alpes\Ain\communes~Ain\Nantua\cities~NantuaNantua.private.md) 
+
+### [Nantua.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Auvergne-Rhône-Alpes\departments~Auvergne-Rhône-Alpes\Ain\communes~Ain\Nantua\cities~NantuaNantua.personal.md) 
+
+### [Nantua.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Auvergne-Rhône-Alpes\departments~Auvergne-Rhône-Alpes\Ain\communes~Ain\Nantua\cities~NantuaNantua.secret.md)
+

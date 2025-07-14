@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~West/France/City/Pont-Audemer|Pont-Audemer]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~West/France/City/Pont-Audemer.public|Pont-Audemer.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~West/France/City/Pont-Audemer.internal|Pont-Audemer.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~West/France/City/Pont-Audemer.protect|Pont-Audemer.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~West/France/City/Pont-Audemer.private|Pont-Audemer.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~West/France/City/Pont-Audemer.personal|Pont-Audemer.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~West/France/City/Pont-Audemer.secret|Pont-Audemer.secret]] 
+
+### [Pont-Audemer.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Normandie\departments~Normandie\Calvados\communes~CalvadosPont-Audemer.public.md) 
+
+### [Pont-Audemer.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Normandie\departments~Normandie\Calvados\communes~CalvadosPont-Audemer.internal.md) 
+
+### [Pont-Audemer.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Normandie\departments~Normandie\Calvados\communes~CalvadosPont-Audemer.protect.md) 
+
+### [Pont-Audemer.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Normandie\departments~Normandie\Calvados\communes~CalvadosPont-Audemer.private.md) 
+
+### [Pont-Audemer.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Normandie\departments~Normandie\Calvados\communes~CalvadosPont-Audemer.personal.md) 
+
+### [Pont-Audemer.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Normandie\departments~Normandie\Calvados\communes~CalvadosPont-Audemer.secret.md)
+

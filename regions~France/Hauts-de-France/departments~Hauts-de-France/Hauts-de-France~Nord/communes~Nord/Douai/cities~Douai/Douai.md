@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~West/France/City/Douai|Douai]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~West/France/City/Douai.public|Douai.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~West/France/City/Douai.internal|Douai.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~West/France/City/Douai.protect|Douai.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~West/France/City/Douai.private|Douai.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~West/France/City/Douai.personal|Douai.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~West/France/City/Douai.secret|Douai.secret]] 
+
+### [Douai.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Hauts-de-France\departments~Hauts-de-France\Hauts-de-France~Nord\communes~Nord\Douai\cities~DouaiDouai.public.md) 
+
+### [Douai.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Hauts-de-France\departments~Hauts-de-France\Hauts-de-France~Nord\communes~Nord\Douai\cities~DouaiDouai.internal.md) 
+
+### [Douai.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Hauts-de-France\departments~Hauts-de-France\Hauts-de-France~Nord\communes~Nord\Douai\cities~DouaiDouai.protect.md) 
+
+### [Douai.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Hauts-de-France\departments~Hauts-de-France\Hauts-de-France~Nord\communes~Nord\Douai\cities~DouaiDouai.private.md) 
+
+### [Douai.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Hauts-de-France\departments~Hauts-de-France\Hauts-de-France~Nord\communes~Nord\Douai\cities~DouaiDouai.personal.md) 
+
+### [Douai.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Hauts-de-France\departments~Hauts-de-France\Hauts-de-France~Nord\communes~Nord\Douai\cities~DouaiDouai.secret.md)
+

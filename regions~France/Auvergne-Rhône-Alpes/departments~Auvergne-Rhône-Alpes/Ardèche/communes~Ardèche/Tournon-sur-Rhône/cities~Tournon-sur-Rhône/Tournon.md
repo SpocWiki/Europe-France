@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~West/France/City/Tournon|Tournon]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~West/France/City/Tournon.public|Tournon.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~West/France/City/Tournon.internal|Tournon.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~West/France/City/Tournon.protect|Tournon.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~West/France/City/Tournon.private|Tournon.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~West/France/City/Tournon.personal|Tournon.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~West/France/City/Tournon.secret|Tournon.secret]] 
+
+### [Tournon.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Auvergne-Rhône-Alpes\departments~Auvergne-Rhône-Alpes\Ardèche\communes~Ardèche\Tournon-sur-Rhône\cities~Tournon-sur-RhôneTournon.public.md) 
+
+### [Tournon.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Auvergne-Rhône-Alpes\departments~Auvergne-Rhône-Alpes\Ardèche\communes~Ardèche\Tournon-sur-Rhône\cities~Tournon-sur-RhôneTournon.internal.md) 
+
+### [Tournon.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Auvergne-Rhône-Alpes\departments~Auvergne-Rhône-Alpes\Ardèche\communes~Ardèche\Tournon-sur-Rhône\cities~Tournon-sur-RhôneTournon.protect.md) 
+
+### [Tournon.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Auvergne-Rhône-Alpes\departments~Auvergne-Rhône-Alpes\Ardèche\communes~Ardèche\Tournon-sur-Rhône\cities~Tournon-sur-RhôneTournon.private.md) 
+
+### [Tournon.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Auvergne-Rhône-Alpes\departments~Auvergne-Rhône-Alpes\Ardèche\communes~Ardèche\Tournon-sur-Rhône\cities~Tournon-sur-RhôneTournon.personal.md) 
+
+### [Tournon.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Auvergne-Rhône-Alpes\departments~Auvergne-Rhône-Alpes\Ardèche\communes~Ardèche\Tournon-sur-Rhône\cities~Tournon-sur-RhôneTournon.secret.md)
+

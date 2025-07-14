@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~West/France/City/Montbard|Montbard]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~West/France/City/Montbard.public|Montbard.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~West/France/City/Montbard.internal|Montbard.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~West/France/City/Montbard.protect|Montbard.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~West/France/City/Montbard.private|Montbard.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~West/France/City/Montbard.personal|Montbard.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~West/France/City/Montbard.secret|Montbard.secret]] 
+
+### [Montbard.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Bourgogne-Franche-Comté\departments~Bourgogne-Franche-Comté\Côte-d'Or\communes~Côte-d'Or\Montbard\cities~MontbardMontbard.public.md) 
+
+### [Montbard.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Bourgogne-Franche-Comté\departments~Bourgogne-Franche-Comté\Côte-d'Or\communes~Côte-d'Or\Montbard\cities~MontbardMontbard.internal.md) 
+
+### [Montbard.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Bourgogne-Franche-Comté\departments~Bourgogne-Franche-Comté\Côte-d'Or\communes~Côte-d'Or\Montbard\cities~MontbardMontbard.protect.md) 
+
+### [Montbard.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Bourgogne-Franche-Comté\departments~Bourgogne-Franche-Comté\Côte-d'Or\communes~Côte-d'Or\Montbard\cities~MontbardMontbard.private.md) 
+
+### [Montbard.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Bourgogne-Franche-Comté\departments~Bourgogne-Franche-Comté\Côte-d'Or\communes~Côte-d'Or\Montbard\cities~MontbardMontbard.personal.md) 
+
+### [Montbard.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Bourgogne-Franche-Comté\departments~Bourgogne-Franche-Comté\Côte-d'Or\communes~Côte-d'Or\Montbard\cities~MontbardMontbard.secret.md)
+

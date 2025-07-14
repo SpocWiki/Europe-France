@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~West/France/City/Palisse|Palisse]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~West/France/City/Palisse.public|Palisse.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~West/France/City/Palisse.internal|Palisse.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~West/France/City/Palisse.protect|Palisse.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~West/France/City/Palisse.private|Palisse.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~West/France/City/Palisse.personal|Palisse.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~West/France/City/Palisse.secret|Palisse.secret]] 
+
+### [Palisse.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Auvergne-Rhône-Alpes\departments~Auvergne-Rhône-Alpes\Allier\communes~Allier\Vichy\cities~VichyPalisse.public.md) 
+
+### [Palisse.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Auvergne-Rhône-Alpes\departments~Auvergne-Rhône-Alpes\Allier\communes~Allier\Vichy\cities~VichyPalisse.internal.md) 
+
+### [Palisse.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Auvergne-Rhône-Alpes\departments~Auvergne-Rhône-Alpes\Allier\communes~Allier\Vichy\cities~VichyPalisse.protect.md) 
+
+### [Palisse.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Auvergne-Rhône-Alpes\departments~Auvergne-Rhône-Alpes\Allier\communes~Allier\Vichy\cities~VichyPalisse.private.md) 
+
+### [Palisse.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Auvergne-Rhône-Alpes\departments~Auvergne-Rhône-Alpes\Allier\communes~Allier\Vichy\cities~VichyPalisse.personal.md) 
+
+### [Palisse.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Auvergne-Rhône-Alpes\departments~Auvergne-Rhône-Alpes\Allier\communes~Allier\Vichy\cities~VichyPalisse.secret.md)
+

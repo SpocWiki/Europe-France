@@ -40,11 +40,16 @@ markerFolder: ./Département~Essonne/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/geo/Continent/egions/Île-de-France/Département~Essonne|Département~Essonne]] 
-- [[../../../../../_public/geo/Continent/egions/Île-de-France/Département~Essonne.public|Département~Essonne.public]] 
-- [[../../../../../_internal/geo/Continent/egions/Île-de-France/Département~Essonne.internal|Département~Essonne.internal]] 
-- [[../../../../../_protect/geo/Continent/egions/Île-de-France/Département~Essonne.protect|Département~Essonne.protect]] 
-- [[../../../../../_private/geo/Continent/egions/Île-de-France/Département~Essonne.private|Département~Essonne.private]] 
-- [[../../../../../_personal/geo/Continent/egions/Île-de-France/Département~Essonne.personal|Département~Essonne.personal]] 
-- [[../../../../../_secret/geo/Continent/egions/Île-de-France/Département~Essonne.secret|Département~Essonne.secret]] 
+
+### [Essonne.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Île-de-France\departments~Île-de-FranceEssonne.public.md) 
+
+### [Essonne.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Île-de-France\departments~Île-de-FranceEssonne.internal.md) 
+
+### [Essonne.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Île-de-France\departments~Île-de-FranceEssonne.protect.md) 
+
+### [Essonne.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Île-de-France\departments~Île-de-FranceEssonne.private.md) 
+
+### [Essonne.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Île-de-France\departments~Île-de-FranceEssonne.personal.md) 
+
+### [Essonne.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Île-de-France\departments~Île-de-FranceEssonne.secret.md)
 

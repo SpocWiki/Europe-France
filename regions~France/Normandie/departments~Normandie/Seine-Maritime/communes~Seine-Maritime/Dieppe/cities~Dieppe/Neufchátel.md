@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~West/France/City/Neufchátel|Neufchátel]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~West/France/City/Neufchátel.public|Neufchátel.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~West/France/City/Neufchátel.internal|Neufchátel.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~West/France/City/Neufchátel.protect|Neufchátel.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~West/France/City/Neufchátel.private|Neufchátel.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~West/France/City/Neufchátel.personal|Neufchátel.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~West/France/City/Neufchátel.secret|Neufchátel.secret]] 
+
+### [Neufchátel.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Normandie\departments~Normandie\Seine-Maritime\communes~Seine-Maritime\Dieppe\cities~DieppeNeufchátel.public.md) 
+
+### [Neufchátel.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Normandie\departments~Normandie\Seine-Maritime\communes~Seine-Maritime\Dieppe\cities~DieppeNeufchátel.internal.md) 
+
+### [Neufchátel.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Normandie\departments~Normandie\Seine-Maritime\communes~Seine-Maritime\Dieppe\cities~DieppeNeufchátel.protect.md) 
+
+### [Neufchátel.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Normandie\departments~Normandie\Seine-Maritime\communes~Seine-Maritime\Dieppe\cities~DieppeNeufchátel.private.md) 
+
+### [Neufchátel.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Normandie\departments~Normandie\Seine-Maritime\communes~Seine-Maritime\Dieppe\cities~DieppeNeufchátel.personal.md) 
+
+### [Neufchátel.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Normandie\departments~Normandie\Seine-Maritime\communes~Seine-Maritime\Dieppe\cities~DieppeNeufchátel.secret.md)
+

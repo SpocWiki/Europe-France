@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~West/France/City/Parthenay|Parthenay]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~West/France/City/Parthenay.public|Parthenay.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~West/France/City/Parthenay.internal|Parthenay.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~West/France/City/Parthenay.protect|Parthenay.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~West/France/City/Parthenay.private|Parthenay.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~West/France/City/Parthenay.personal|Parthenay.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~West/France/City/Parthenay.secret|Parthenay.secret]] 
+
+### [Parthenay.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~Aquitaine\Deux-Sèvres\communes~Deux-Sèvres\Parthenay\cities~ParthenayParthenay.public.md) 
+
+### [Parthenay.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~Aquitaine\Deux-Sèvres\communes~Deux-Sèvres\Parthenay\cities~ParthenayParthenay.internal.md) 
+
+### [Parthenay.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~Aquitaine\Deux-Sèvres\communes~Deux-Sèvres\Parthenay\cities~ParthenayParthenay.protect.md) 
+
+### [Parthenay.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~Aquitaine\Deux-Sèvres\communes~Deux-Sèvres\Parthenay\cities~ParthenayParthenay.private.md) 
+
+### [Parthenay.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~Aquitaine\Deux-Sèvres\communes~Deux-Sèvres\Parthenay\cities~ParthenayParthenay.personal.md) 
+
+### [Parthenay.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~Aquitaine\Deux-Sèvres\communes~Deux-Sèvres\Parthenay\cities~ParthenayParthenay.secret.md)
+

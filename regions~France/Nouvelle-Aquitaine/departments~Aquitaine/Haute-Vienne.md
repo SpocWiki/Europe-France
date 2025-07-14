@@ -40,11 +40,16 @@ markerFolder: ./Département~Haute-Vienne/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../_Standards/geo/Continent/Europe/Europe~West/France/Counties/Nouvelle-Aquitaine/Département~Haute-Vienne|Département~Haute-Vienne]] 
-- [[../../../../../../../../_public/geo/Continent/Europe/Europe~West/France/Counties/Nouvelle-Aquitaine/Département~Haute-Vienne.public|Département~Haute-Vienne.public]] 
-- [[../../../../../../../../_internal/geo/Continent/Europe/Europe~West/France/Counties/Nouvelle-Aquitaine/Département~Haute-Vienne.internal|Département~Haute-Vienne.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Europe~West/France/Counties/Nouvelle-Aquitaine/Département~Haute-Vienne.protect|Département~Haute-Vienne.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Europe~West/France/Counties/Nouvelle-Aquitaine/Département~Haute-Vienne.private|Département~Haute-Vienne.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Europe~West/France/Counties/Nouvelle-Aquitaine/Département~Haute-Vienne.personal|Département~Haute-Vienne.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Europe~West/France/Counties/Nouvelle-Aquitaine/Département~Haute-Vienne.secret|Département~Haute-Vienne.secret]] 
+
+### [Haute-Vienne.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~AquitaineHaute-Vienne.public.md) 
+
+### [Haute-Vienne.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~AquitaineHaute-Vienne.internal.md) 
+
+### [Haute-Vienne.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~AquitaineHaute-Vienne.protect.md) 
+
+### [Haute-Vienne.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~AquitaineHaute-Vienne.private.md) 
+
+### [Haute-Vienne.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~AquitaineHaute-Vienne.personal.md) 
+
+### [Haute-Vienne.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~AquitaineHaute-Vienne.secret.md)
 

@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~West/France/City/Blanc|Blanc]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~West/France/City/Blanc.public|Blanc.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~West/France/City/Blanc.internal|Blanc.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~West/France/City/Blanc.protect|Blanc.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~West/France/City/Blanc.private|Blanc.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~West/France/City/Blanc.personal|Blanc.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~West/France/City/Blanc.secret|Blanc.secret]] 
+
+### [Blanc.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Val_de_Loire\departments~Val_de_Loire\Indre\communes~Indre\Le_Blanc\cities~LeBlancBlanc.public.md) 
+
+### [Blanc.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Val_de_Loire\departments~Val_de_Loire\Indre\communes~Indre\Le_Blanc\cities~LeBlancBlanc.internal.md) 
+
+### [Blanc.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Val_de_Loire\departments~Val_de_Loire\Indre\communes~Indre\Le_Blanc\cities~LeBlancBlanc.protect.md) 
+
+### [Blanc.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Val_de_Loire\departments~Val_de_Loire\Indre\communes~Indre\Le_Blanc\cities~LeBlancBlanc.private.md) 
+
+### [Blanc.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Val_de_Loire\departments~Val_de_Loire\Indre\communes~Indre\Le_Blanc\cities~LeBlancBlanc.personal.md) 
+
+### [Blanc.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Val_de_Loire\departments~Val_de_Loire\Indre\communes~Indre\Le_Blanc\cities~LeBlancBlanc.secret.md)
+

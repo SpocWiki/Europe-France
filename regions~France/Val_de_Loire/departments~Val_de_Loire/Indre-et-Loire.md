@@ -40,11 +40,16 @@ markerFolder: ./Département~Indre-et-Loire/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/geo/Continent/egions/Val_de_Loire/Département~Indre-et-Loire|Département~Indre-et-Loire]] 
-- [[../../../../../_public/geo/Continent/egions/Val_de_Loire/Département~Indre-et-Loire.public|Département~Indre-et-Loire.public]] 
-- [[../../../../../_internal/geo/Continent/egions/Val_de_Loire/Département~Indre-et-Loire.internal|Département~Indre-et-Loire.internal]] 
-- [[../../../../../_protect/geo/Continent/egions/Val_de_Loire/Département~Indre-et-Loire.protect|Département~Indre-et-Loire.protect]] 
-- [[../../../../../_private/geo/Continent/egions/Val_de_Loire/Département~Indre-et-Loire.private|Département~Indre-et-Loire.private]] 
-- [[../../../../../_personal/geo/Continent/egions/Val_de_Loire/Département~Indre-et-Loire.personal|Département~Indre-et-Loire.personal]] 
-- [[../../../../../_secret/geo/Continent/egions/Val_de_Loire/Département~Indre-et-Loire.secret|Département~Indre-et-Loire.secret]] 
+
+### [Indre-et-Loire.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Val_de_Loire\departments~Val_de_LoireIndre-et-Loire.public.md) 
+
+### [Indre-et-Loire.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Val_de_Loire\departments~Val_de_LoireIndre-et-Loire.internal.md) 
+
+### [Indre-et-Loire.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Val_de_Loire\departments~Val_de_LoireIndre-et-Loire.protect.md) 
+
+### [Indre-et-Loire.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Val_de_Loire\departments~Val_de_LoireIndre-et-Loire.private.md) 
+
+### [Indre-et-Loire.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Val_de_Loire\departments~Val_de_LoireIndre-et-Loire.personal.md) 
+
+### [Indre-et-Loire.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Val_de_Loire\departments~Val_de_LoireIndre-et-Loire.secret.md)
 

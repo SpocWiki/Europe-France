@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~West/France/City/Alby|Alby]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~West/France/City/Alby.public|Alby.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~West/France/City/Alby.internal|Alby.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~West/France/City/Alby.protect|Alby.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~West/France/City/Alby.private|Alby.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~West/France/City/Alby.personal|Alby.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~West/France/City/Alby.secret|Alby.secret]] 
+
+### [Alby.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~Occitanie\Tarn\communes~Tarn\Albi\cities~AlbiAlby.public.md) 
+
+### [Alby.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~Occitanie\Tarn\communes~Tarn\Albi\cities~AlbiAlby.internal.md) 
+
+### [Alby.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~Occitanie\Tarn\communes~Tarn\Albi\cities~AlbiAlby.protect.md) 
+
+### [Alby.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~Occitanie\Tarn\communes~Tarn\Albi\cities~AlbiAlby.private.md) 
+
+### [Alby.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~Occitanie\Tarn\communes~Tarn\Albi\cities~AlbiAlby.personal.md) 
+
+### [Alby.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~Occitanie\Tarn\communes~Tarn\Albi\cities~AlbiAlby.secret.md)
+

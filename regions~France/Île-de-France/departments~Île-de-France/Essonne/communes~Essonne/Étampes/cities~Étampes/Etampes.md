@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~West/France/City/Etampes|Etampes]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~West/France/City/Etampes.public|Etampes.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~West/France/City/Etampes.internal|Etampes.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~West/France/City/Etampes.protect|Etampes.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~West/France/City/Etampes.private|Etampes.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~West/France/City/Etampes.personal|Etampes.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~West/France/City/Etampes.secret|Etampes.secret]] 
+
+### [Etampes.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Île-de-France\departments~Île-de-France\Essonne\communes~Essonne\Étampes\cities~ÉtampesEtampes.public.md) 
+
+### [Etampes.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Île-de-France\departments~Île-de-France\Essonne\communes~Essonne\Étampes\cities~ÉtampesEtampes.internal.md) 
+
+### [Etampes.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Île-de-France\departments~Île-de-France\Essonne\communes~Essonne\Étampes\cities~ÉtampesEtampes.protect.md) 
+
+### [Etampes.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Île-de-France\departments~Île-de-France\Essonne\communes~Essonne\Étampes\cities~ÉtampesEtampes.private.md) 
+
+### [Etampes.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Île-de-France\departments~Île-de-France\Essonne\communes~Essonne\Étampes\cities~ÉtampesEtampes.personal.md) 
+
+### [Etampes.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Île-de-France\departments~Île-de-France\Essonne\communes~Essonne\Étampes\cities~ÉtampesEtampes.secret.md)
+

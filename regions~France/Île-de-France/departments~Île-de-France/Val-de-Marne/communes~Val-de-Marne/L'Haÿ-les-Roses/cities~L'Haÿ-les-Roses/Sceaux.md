@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~West/France/City/Sceaux|Sceaux]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~West/France/City/Sceaux.public|Sceaux.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~West/France/City/Sceaux.internal|Sceaux.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~West/France/City/Sceaux.protect|Sceaux.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~West/France/City/Sceaux.private|Sceaux.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~West/France/City/Sceaux.personal|Sceaux.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~West/France/City/Sceaux.secret|Sceaux.secret]] 
+
+### [Sceaux.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Île-de-France\departments~Île-de-France\Val-de-Marne\communes~Val-de-Marne\L'Haÿ-les-Roses\cities~L'Haÿ-les-RosesSceaux.public.md) 
+
+### [Sceaux.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Île-de-France\departments~Île-de-France\Val-de-Marne\communes~Val-de-Marne\L'Haÿ-les-Roses\cities~L'Haÿ-les-RosesSceaux.internal.md) 
+
+### [Sceaux.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Île-de-France\departments~Île-de-France\Val-de-Marne\communes~Val-de-Marne\L'Haÿ-les-Roses\cities~L'Haÿ-les-RosesSceaux.protect.md) 
+
+### [Sceaux.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Île-de-France\departments~Île-de-France\Val-de-Marne\communes~Val-de-Marne\L'Haÿ-les-Roses\cities~L'Haÿ-les-RosesSceaux.private.md) 
+
+### [Sceaux.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Île-de-France\departments~Île-de-France\Val-de-Marne\communes~Val-de-Marne\L'Haÿ-les-Roses\cities~L'Haÿ-les-RosesSceaux.personal.md) 
+
+### [Sceaux.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Île-de-France\departments~Île-de-France\Val-de-Marne\communes~Val-de-Marne\L'Haÿ-les-Roses\cities~L'Haÿ-les-RosesSceaux.secret.md)
+

@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~West/France/City/Langres|Langres]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~West/France/City/Langres.public|Langres.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~West/France/City/Langres.internal|Langres.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~West/France/City/Langres.protect|Langres.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~West/France/City/Langres.private|Langres.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~West/France/City/Langres.personal|Langres.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~West/France/City/Langres.secret|Langres.secret]] 
+
+### [Langres.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Grand_Est\departments~Grand_Est\Haute-Marne\communes~Haute-Marne\Langres\cities~LangresLangres.public.md) 
+
+### [Langres.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Grand_Est\departments~Grand_Est\Haute-Marne\communes~Haute-Marne\Langres\cities~LangresLangres.internal.md) 
+
+### [Langres.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Grand_Est\departments~Grand_Est\Haute-Marne\communes~Haute-Marne\Langres\cities~LangresLangres.protect.md) 
+
+### [Langres.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Grand_Est\departments~Grand_Est\Haute-Marne\communes~Haute-Marne\Langres\cities~LangresLangres.private.md) 
+
+### [Langres.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Grand_Est\departments~Grand_Est\Haute-Marne\communes~Haute-Marne\Langres\cities~LangresLangres.personal.md) 
+
+### [Langres.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Grand_Est\departments~Grand_Est\Haute-Marne\communes~Haute-Marne\Langres\cities~LangresLangres.secret.md)
+

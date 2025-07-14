@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~West/France/City/Domfront|Domfront]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~West/France/City/Domfront.public|Domfront.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~West/France/City/Domfront.internal|Domfront.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~West/France/City/Domfront.protect|Domfront.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~West/France/City/Domfront.private|Domfront.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~West/France/City/Domfront.personal|Domfront.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~West/France/City/Domfront.secret|Domfront.secret]] 
+
+### [Domfront.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Normandie\departments~Normandie\Orne\communes~Orne\Alençon\cities~AlençonDomfront.public.md) 
+
+### [Domfront.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Normandie\departments~Normandie\Orne\communes~Orne\Alençon\cities~AlençonDomfront.internal.md) 
+
+### [Domfront.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Normandie\departments~Normandie\Orne\communes~Orne\Alençon\cities~AlençonDomfront.protect.md) 
+
+### [Domfront.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Normandie\departments~Normandie\Orne\communes~Orne\Alençon\cities~AlençonDomfront.private.md) 
+
+### [Domfront.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Normandie\departments~Normandie\Orne\communes~Orne\Alençon\cities~AlençonDomfront.personal.md) 
+
+### [Domfront.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Normandie\departments~Normandie\Orne\communes~Orne\Alençon\cities~AlençonDomfront.secret.md)
+

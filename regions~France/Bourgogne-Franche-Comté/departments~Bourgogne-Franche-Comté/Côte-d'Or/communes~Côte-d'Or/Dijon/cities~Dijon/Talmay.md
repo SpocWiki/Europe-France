@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~West/France/City/Talmay|Talmay]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~West/France/City/Talmay.public|Talmay.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~West/France/City/Talmay.internal|Talmay.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~West/France/City/Talmay.protect|Talmay.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~West/France/City/Talmay.private|Talmay.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~West/France/City/Talmay.personal|Talmay.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~West/France/City/Talmay.secret|Talmay.secret]] 
+
+### [Talmay.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Bourgogne-Franche-Comté\departments~Bourgogne-Franche-Comté\Côte-d'Or\communes~Côte-d'Or\Dijon\cities~DijonTalmay.public.md) 
+
+### [Talmay.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Bourgogne-Franche-Comté\departments~Bourgogne-Franche-Comté\Côte-d'Or\communes~Côte-d'Or\Dijon\cities~DijonTalmay.internal.md) 
+
+### [Talmay.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Bourgogne-Franche-Comté\departments~Bourgogne-Franche-Comté\Côte-d'Or\communes~Côte-d'Or\Dijon\cities~DijonTalmay.protect.md) 
+
+### [Talmay.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Bourgogne-Franche-Comté\departments~Bourgogne-Franche-Comté\Côte-d'Or\communes~Côte-d'Or\Dijon\cities~DijonTalmay.private.md) 
+
+### [Talmay.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Bourgogne-Franche-Comté\departments~Bourgogne-Franche-Comté\Côte-d'Or\communes~Côte-d'Or\Dijon\cities~DijonTalmay.personal.md) 
+
+### [Talmay.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Bourgogne-Franche-Comté\departments~Bourgogne-Franche-Comté\Côte-d'Or\communes~Côte-d'Or\Dijon\cities~DijonTalmay.secret.md)
+

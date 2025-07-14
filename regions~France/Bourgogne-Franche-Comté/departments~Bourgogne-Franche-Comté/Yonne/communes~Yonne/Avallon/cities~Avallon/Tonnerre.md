@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~West/France/City/Tonnerre|Tonnerre]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~West/France/City/Tonnerre.public|Tonnerre.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~West/France/City/Tonnerre.internal|Tonnerre.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~West/France/City/Tonnerre.protect|Tonnerre.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~West/France/City/Tonnerre.private|Tonnerre.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~West/France/City/Tonnerre.personal|Tonnerre.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~West/France/City/Tonnerre.secret|Tonnerre.secret]] 
+
+### [Tonnerre.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Bourgogne-Franche-Comté\departments~Bourgogne-Franche-Comté\Yonne\communes~Yonne\Avallon\cities~AvallonTonnerre.public.md) 
+
+### [Tonnerre.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Bourgogne-Franche-Comté\departments~Bourgogne-Franche-Comté\Yonne\communes~Yonne\Avallon\cities~AvallonTonnerre.internal.md) 
+
+### [Tonnerre.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Bourgogne-Franche-Comté\departments~Bourgogne-Franche-Comté\Yonne\communes~Yonne\Avallon\cities~AvallonTonnerre.protect.md) 
+
+### [Tonnerre.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Bourgogne-Franche-Comté\departments~Bourgogne-Franche-Comté\Yonne\communes~Yonne\Avallon\cities~AvallonTonnerre.private.md) 
+
+### [Tonnerre.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Bourgogne-Franche-Comté\departments~Bourgogne-Franche-Comté\Yonne\communes~Yonne\Avallon\cities~AvallonTonnerre.personal.md) 
+
+### [Tonnerre.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Bourgogne-Franche-Comté\departments~Bourgogne-Franche-Comté\Yonne\communes~Yonne\Avallon\cities~AvallonTonnerre.secret.md)
+

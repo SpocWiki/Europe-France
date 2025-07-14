@@ -40,11 +40,16 @@ markerFolder: ./Département~Tarn-et-Garonne/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/geo/Continent/egions/Occitanie/Département~Tarn-et-Garonne|Département~Tarn-et-Garonne]] 
-- [[../../../../../_public/geo/Continent/egions/Occitanie/Département~Tarn-et-Garonne.public|Département~Tarn-et-Garonne.public]] 
-- [[../../../../../_internal/geo/Continent/egions/Occitanie/Département~Tarn-et-Garonne.internal|Département~Tarn-et-Garonne.internal]] 
-- [[../../../../../_protect/geo/Continent/egions/Occitanie/Département~Tarn-et-Garonne.protect|Département~Tarn-et-Garonne.protect]] 
-- [[../../../../../_private/geo/Continent/egions/Occitanie/Département~Tarn-et-Garonne.private|Département~Tarn-et-Garonne.private]] 
-- [[../../../../../_personal/geo/Continent/egions/Occitanie/Département~Tarn-et-Garonne.personal|Département~Tarn-et-Garonne.personal]] 
-- [[../../../../../_secret/geo/Continent/egions/Occitanie/Département~Tarn-et-Garonne.secret|Département~Tarn-et-Garonne.secret]] 
+
+### [Tarn-et-Garonne.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~OccitanieTarn-et-Garonne.public.md) 
+
+### [Tarn-et-Garonne.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~OccitanieTarn-et-Garonne.internal.md) 
+
+### [Tarn-et-Garonne.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~OccitanieTarn-et-Garonne.protect.md) 
+
+### [Tarn-et-Garonne.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~OccitanieTarn-et-Garonne.private.md) 
+
+### [Tarn-et-Garonne.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~OccitanieTarn-et-Garonne.personal.md) 
+
+### [Tarn-et-Garonne.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~OccitanieTarn-et-Garonne.secret.md)
 

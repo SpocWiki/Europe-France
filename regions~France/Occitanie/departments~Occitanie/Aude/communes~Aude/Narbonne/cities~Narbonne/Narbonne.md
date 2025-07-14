@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~West/France/City/Narbonne|Narbonne]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~West/France/City/Narbonne.public|Narbonne.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~West/France/City/Narbonne.internal|Narbonne.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~West/France/City/Narbonne.protect|Narbonne.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~West/France/City/Narbonne.private|Narbonne.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~West/France/City/Narbonne.personal|Narbonne.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~West/France/City/Narbonne.secret|Narbonne.secret]] 
+
+### [Narbonne.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~Occitanie\Aude\communes~Aude\Narbonne\cities~NarbonneNarbonne.public.md) 
+
+### [Narbonne.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~Occitanie\Aude\communes~Aude\Narbonne\cities~NarbonneNarbonne.internal.md) 
+
+### [Narbonne.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~Occitanie\Aude\communes~Aude\Narbonne\cities~NarbonneNarbonne.protect.md) 
+
+### [Narbonne.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~Occitanie\Aude\communes~Aude\Narbonne\cities~NarbonneNarbonne.private.md) 
+
+### [Narbonne.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~Occitanie\Aude\communes~Aude\Narbonne\cities~NarbonneNarbonne.personal.md) 
+
+### [Narbonne.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~Occitanie\Aude\communes~Aude\Narbonne\cities~NarbonneNarbonne.secret.md)
+

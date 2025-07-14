@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~West/France/City/Muehlhausen=Mulhouse|Muehlhausen=Mulhouse]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~West/France/City/Muehlhausen=Mulhouse.public|Muehlhausen=Mulhouse.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~West/France/City/Muehlhausen=Mulhouse.internal|Muehlhausen=Mulhouse.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~West/France/City/Muehlhausen=Mulhouse.protect|Muehlhausen=Mulhouse.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~West/France/City/Muehlhausen=Mulhouse.private|Muehlhausen=Mulhouse.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~West/France/City/Muehlhausen=Mulhouse.personal|Muehlhausen=Mulhouse.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~West/France/City/Muehlhausen=Mulhouse.secret|Muehlhausen=Mulhouse.secret]] 
+
+### [Muehlhausen=Mulhouse.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Grand_Est\departments~Grand_Est\Haut-Rhin\communes~Haut-Rhin\Mulhouse\cities~MulhouseMuehlhausen=Mulhouse.public.md) 
+
+### [Muehlhausen=Mulhouse.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Grand_Est\departments~Grand_Est\Haut-Rhin\communes~Haut-Rhin\Mulhouse\cities~MulhouseMuehlhausen=Mulhouse.internal.md) 
+
+### [Muehlhausen=Mulhouse.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Grand_Est\departments~Grand_Est\Haut-Rhin\communes~Haut-Rhin\Mulhouse\cities~MulhouseMuehlhausen=Mulhouse.protect.md) 
+
+### [Muehlhausen=Mulhouse.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Grand_Est\departments~Grand_Est\Haut-Rhin\communes~Haut-Rhin\Mulhouse\cities~MulhouseMuehlhausen=Mulhouse.private.md) 
+
+### [Muehlhausen=Mulhouse.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Grand_Est\departments~Grand_Est\Haut-Rhin\communes~Haut-Rhin\Mulhouse\cities~MulhouseMuehlhausen=Mulhouse.personal.md) 
+
+### [Muehlhausen=Mulhouse.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Grand_Est\departments~Grand_Est\Haut-Rhin\communes~Haut-Rhin\Mulhouse\cities~MulhouseMuehlhausen=Mulhouse.secret.md)
+

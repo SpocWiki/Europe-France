@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~West/France/City/Valence|Valence]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~West/France/City/Valence.public|Valence.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~West/France/City/Valence.internal|Valence.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~West/France/City/Valence.protect|Valence.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~West/France/City/Valence.private|Valence.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~West/France/City/Valence.personal|Valence.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~West/France/City/Valence.secret|Valence.secret]] 
+
+### [Valence.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Auvergne-Rhône-Alpes\departments~Auvergne-Rhône-Alpes\Drôme\communes~Drôme\Valence\cities~ValenceValence.public.md) 
+
+### [Valence.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Auvergne-Rhône-Alpes\departments~Auvergne-Rhône-Alpes\Drôme\communes~Drôme\Valence\cities~ValenceValence.internal.md) 
+
+### [Valence.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Auvergne-Rhône-Alpes\departments~Auvergne-Rhône-Alpes\Drôme\communes~Drôme\Valence\cities~ValenceValence.protect.md) 
+
+### [Valence.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Auvergne-Rhône-Alpes\departments~Auvergne-Rhône-Alpes\Drôme\communes~Drôme\Valence\cities~ValenceValence.private.md) 
+
+### [Valence.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Auvergne-Rhône-Alpes\departments~Auvergne-Rhône-Alpes\Drôme\communes~Drôme\Valence\cities~ValenceValence.personal.md) 
+
+### [Valence.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Auvergne-Rhône-Alpes\departments~Auvergne-Rhône-Alpes\Drôme\communes~Drôme\Valence\cities~ValenceValence.secret.md)
+

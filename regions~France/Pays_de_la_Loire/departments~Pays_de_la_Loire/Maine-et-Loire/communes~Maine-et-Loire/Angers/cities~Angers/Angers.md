@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~West/France/City/Angers|Angers]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~West/France/City/Angers.public|Angers.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~West/France/City/Angers.internal|Angers.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~West/France/City/Angers.protect|Angers.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~West/France/City/Angers.private|Angers.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~West/France/City/Angers.personal|Angers.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~West/France/City/Angers.secret|Angers.secret]] 
+
+### [Angers.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Pays_de_la_Loire\departments~Pays_de_la_Loire\Maine-et-Loire\communes~Maine-et-Loire\Angers\cities~AngersAngers.public.md) 
+
+### [Angers.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Pays_de_la_Loire\departments~Pays_de_la_Loire\Maine-et-Loire\communes~Maine-et-Loire\Angers\cities~AngersAngers.internal.md) 
+
+### [Angers.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Pays_de_la_Loire\departments~Pays_de_la_Loire\Maine-et-Loire\communes~Maine-et-Loire\Angers\cities~AngersAngers.protect.md) 
+
+### [Angers.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Pays_de_la_Loire\departments~Pays_de_la_Loire\Maine-et-Loire\communes~Maine-et-Loire\Angers\cities~AngersAngers.private.md) 
+
+### [Angers.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Pays_de_la_Loire\departments~Pays_de_la_Loire\Maine-et-Loire\communes~Maine-et-Loire\Angers\cities~AngersAngers.personal.md) 
+
+### [Angers.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Pays_de_la_Loire\departments~Pays_de_la_Loire\Maine-et-Loire\communes~Maine-et-Loire\Angers\cities~AngersAngers.secret.md)
+

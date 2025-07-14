@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~West/France/City/Avallon|Avallon]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~West/France/City/Avallon.public|Avallon.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~West/France/City/Avallon.internal|Avallon.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~West/France/City/Avallon.protect|Avallon.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~West/France/City/Avallon.private|Avallon.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~West/France/City/Avallon.personal|Avallon.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~West/France/City/Avallon.secret|Avallon.secret]] 
+
+### [Avallon.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Bourgogne-Franche-Comté\departments~Bourgogne-Franche-Comté\Yonne\communes~Yonne\Avallon\cities~AvallonAvallon.public.md) 
+
+### [Avallon.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Bourgogne-Franche-Comté\departments~Bourgogne-Franche-Comté\Yonne\communes~Yonne\Avallon\cities~AvallonAvallon.internal.md) 
+
+### [Avallon.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Bourgogne-Franche-Comté\departments~Bourgogne-Franche-Comté\Yonne\communes~Yonne\Avallon\cities~AvallonAvallon.protect.md) 
+
+### [Avallon.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Bourgogne-Franche-Comté\departments~Bourgogne-Franche-Comté\Yonne\communes~Yonne\Avallon\cities~AvallonAvallon.private.md) 
+
+### [Avallon.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Bourgogne-Franche-Comté\departments~Bourgogne-Franche-Comté\Yonne\communes~Yonne\Avallon\cities~AvallonAvallon.personal.md) 
+
+### [Avallon.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Bourgogne-Franche-Comté\departments~Bourgogne-Franche-Comté\Yonne\communes~Yonne\Avallon\cities~AvallonAvallon.secret.md)
+

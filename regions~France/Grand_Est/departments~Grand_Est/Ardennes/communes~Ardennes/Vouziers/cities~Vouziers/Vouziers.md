@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~West/France/City/Vouziers|Vouziers]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~West/France/City/Vouziers.public|Vouziers.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~West/France/City/Vouziers.internal|Vouziers.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~West/France/City/Vouziers.protect|Vouziers.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~West/France/City/Vouziers.private|Vouziers.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~West/France/City/Vouziers.personal|Vouziers.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~West/France/City/Vouziers.secret|Vouziers.secret]] 
+
+### [Vouziers.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Grand_Est\departments~Grand_Est\Ardennes\communes~Ardennes\Vouziers\cities~VouziersVouziers.public.md) 
+
+### [Vouziers.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Grand_Est\departments~Grand_Est\Ardennes\communes~Ardennes\Vouziers\cities~VouziersVouziers.internal.md) 
+
+### [Vouziers.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Grand_Est\departments~Grand_Est\Ardennes\communes~Ardennes\Vouziers\cities~VouziersVouziers.protect.md) 
+
+### [Vouziers.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Grand_Est\departments~Grand_Est\Ardennes\communes~Ardennes\Vouziers\cities~VouziersVouziers.private.md) 
+
+### [Vouziers.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Grand_Est\departments~Grand_Est\Ardennes\communes~Ardennes\Vouziers\cities~VouziersVouziers.personal.md) 
+
+### [Vouziers.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Grand_Est\departments~Grand_Est\Ardennes\communes~Ardennes\Vouziers\cities~VouziersVouziers.secret.md)
+

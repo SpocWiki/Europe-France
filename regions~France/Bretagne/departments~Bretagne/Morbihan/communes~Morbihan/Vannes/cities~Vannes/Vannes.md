@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~West/France/City/Vannes|Vannes]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~West/France/City/Vannes.public|Vannes.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~West/France/City/Vannes.internal|Vannes.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~West/France/City/Vannes.protect|Vannes.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~West/France/City/Vannes.private|Vannes.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~West/France/City/Vannes.personal|Vannes.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~West/France/City/Vannes.secret|Vannes.secret]] 
+
+### [Vannes.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Bretagne\departments~Bretagne\Morbihan\communes~Morbihan\Vannes\cities~VannesVannes.public.md) 
+
+### [Vannes.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Bretagne\departments~Bretagne\Morbihan\communes~Morbihan\Vannes\cities~VannesVannes.internal.md) 
+
+### [Vannes.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Bretagne\departments~Bretagne\Morbihan\communes~Morbihan\Vannes\cities~VannesVannes.protect.md) 
+
+### [Vannes.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Bretagne\departments~Bretagne\Morbihan\communes~Morbihan\Vannes\cities~VannesVannes.private.md) 
+
+### [Vannes.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Bretagne\departments~Bretagne\Morbihan\communes~Morbihan\Vannes\cities~VannesVannes.personal.md) 
+
+### [Vannes.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Bretagne\departments~Bretagne\Morbihan\communes~Morbihan\Vannes\cities~VannesVannes.secret.md)
+

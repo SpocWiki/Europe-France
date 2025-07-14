@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~West/France/City/Ploermel|Ploermel]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~West/France/City/Ploermel.public|Ploermel.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~West/France/City/Ploermel.internal|Ploermel.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~West/France/City/Ploermel.protect|Ploermel.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~West/France/City/Ploermel.private|Ploermel.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~West/France/City/Ploermel.personal|Ploermel.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~West/France/City/Ploermel.secret|Ploermel.secret]] 
+
+### [Ploermel.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Bretagne\departments~Bretagne\Morbihan\communes~Morbihan\Pontivy\cities~PontivyPloermel.public.md) 
+
+### [Ploermel.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Bretagne\departments~Bretagne\Morbihan\communes~Morbihan\Pontivy\cities~PontivyPloermel.internal.md) 
+
+### [Ploermel.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Bretagne\departments~Bretagne\Morbihan\communes~Morbihan\Pontivy\cities~PontivyPloermel.protect.md) 
+
+### [Ploermel.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Bretagne\departments~Bretagne\Morbihan\communes~Morbihan\Pontivy\cities~PontivyPloermel.private.md) 
+
+### [Ploermel.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Bretagne\departments~Bretagne\Morbihan\communes~Morbihan\Pontivy\cities~PontivyPloermel.personal.md) 
+
+### [Ploermel.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Bretagne\departments~Bretagne\Morbihan\communes~Morbihan\Pontivy\cities~PontivyPloermel.secret.md)
+

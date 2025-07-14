@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~West/France/City/St.Otmar|St.Otmar]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~West/France/City/St.Otmar.public|St.Otmar.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~West/France/City/St.Otmar.internal|St.Otmar.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~West/France/City/St.Otmar.protect|St.Otmar.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~West/France/City/St.Otmar.private|St.Otmar.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~West/France/City/St.Otmar.personal|St.Otmar.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~West/France/City/St.Otmar.secret|St.Otmar.secret]] 
+
+### [St.Otmar.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Hauts-de-France\departments~Hauts-de-France\Hauts-de-France~Nord\communes~Nord\Dunkerque\cities~DunkerqueSt.Otmar.public.md) 
+
+### [St.Otmar.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Hauts-de-France\departments~Hauts-de-France\Hauts-de-France~Nord\communes~Nord\Dunkerque\cities~DunkerqueSt.Otmar.internal.md) 
+
+### [St.Otmar.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Hauts-de-France\departments~Hauts-de-France\Hauts-de-France~Nord\communes~Nord\Dunkerque\cities~DunkerqueSt.Otmar.protect.md) 
+
+### [St.Otmar.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Hauts-de-France\departments~Hauts-de-France\Hauts-de-France~Nord\communes~Nord\Dunkerque\cities~DunkerqueSt.Otmar.private.md) 
+
+### [St.Otmar.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Hauts-de-France\departments~Hauts-de-France\Hauts-de-France~Nord\communes~Nord\Dunkerque\cities~DunkerqueSt.Otmar.personal.md) 
+
+### [St.Otmar.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Hauts-de-France\departments~Hauts-de-France\Hauts-de-France~Nord\communes~Nord\Dunkerque\cities~DunkerqueSt.Otmar.secret.md)
+

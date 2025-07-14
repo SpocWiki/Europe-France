@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~West/France/City/Ciotat|Ciotat]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~West/France/City/Ciotat.public|Ciotat.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~West/France/City/Ciotat.internal|Ciotat.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~West/France/City/Ciotat.protect|Ciotat.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~West/France/City/Ciotat.private|Ciotat.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~West/France/City/Ciotat.personal|Ciotat.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~West/France/City/Ciotat.secret|Ciotat.secret]] 
+
+### [Ciotat.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Provence-Alpes-Côte_d'Azur\departments~Provence\Bouches-du-Rhône\communes~RhôneCiotat.public.md) 
+
+### [Ciotat.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Provence-Alpes-Côte_d'Azur\departments~Provence\Bouches-du-Rhône\communes~RhôneCiotat.internal.md) 
+
+### [Ciotat.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Provence-Alpes-Côte_d'Azur\departments~Provence\Bouches-du-Rhône\communes~RhôneCiotat.protect.md) 
+
+### [Ciotat.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Provence-Alpes-Côte_d'Azur\departments~Provence\Bouches-du-Rhône\communes~RhôneCiotat.private.md) 
+
+### [Ciotat.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Provence-Alpes-Côte_d'Azur\departments~Provence\Bouches-du-Rhône\communes~RhôneCiotat.personal.md) 
+
+### [Ciotat.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Provence-Alpes-Côte_d'Azur\departments~Provence\Bouches-du-Rhône\communes~RhôneCiotat.secret.md)
+

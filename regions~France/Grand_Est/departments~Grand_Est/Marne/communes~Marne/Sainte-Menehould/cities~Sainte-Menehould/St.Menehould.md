@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~West/France/City/St.Menehould|St.Menehould]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~West/France/City/St.Menehould.public|St.Menehould.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~West/France/City/St.Menehould.internal|St.Menehould.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~West/France/City/St.Menehould.protect|St.Menehould.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~West/France/City/St.Menehould.private|St.Menehould.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~West/France/City/St.Menehould.personal|St.Menehould.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~West/France/City/St.Menehould.secret|St.Menehould.secret]] 
+
+### [St.Menehould.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Grand_Est\departments~Grand_Est\Marne\communes~Marne\Sainte-Menehould\cities~Sainte-MenehouldSt.Menehould.public.md) 
+
+### [St.Menehould.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Grand_Est\departments~Grand_Est\Marne\communes~Marne\Sainte-Menehould\cities~Sainte-MenehouldSt.Menehould.internal.md) 
+
+### [St.Menehould.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Grand_Est\departments~Grand_Est\Marne\communes~Marne\Sainte-Menehould\cities~Sainte-MenehouldSt.Menehould.protect.md) 
+
+### [St.Menehould.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Grand_Est\departments~Grand_Est\Marne\communes~Marne\Sainte-Menehould\cities~Sainte-MenehouldSt.Menehould.private.md) 
+
+### [St.Menehould.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Grand_Est\departments~Grand_Est\Marne\communes~Marne\Sainte-Menehould\cities~Sainte-MenehouldSt.Menehould.personal.md) 
+
+### [St.Menehould.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Grand_Est\departments~Grand_Est\Marne\communes~Marne\Sainte-Menehould\cities~Sainte-MenehouldSt.Menehould.secret.md)
+

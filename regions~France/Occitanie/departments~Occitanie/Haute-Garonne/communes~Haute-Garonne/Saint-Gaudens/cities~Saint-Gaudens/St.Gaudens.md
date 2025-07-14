@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~West/France/City/St.Gaudens|St.Gaudens]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~West/France/City/St.Gaudens.public|St.Gaudens.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~West/France/City/St.Gaudens.internal|St.Gaudens.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~West/France/City/St.Gaudens.protect|St.Gaudens.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~West/France/City/St.Gaudens.private|St.Gaudens.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~West/France/City/St.Gaudens.personal|St.Gaudens.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~West/France/City/St.Gaudens.secret|St.Gaudens.secret]] 
+
+### [St.Gaudens.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~Occitanie\Haute-Garonne\communes~Haute-Garonne\Saint-Gaudens\cities~Saint-GaudensSt.Gaudens.public.md) 
+
+### [St.Gaudens.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~Occitanie\Haute-Garonne\communes~Haute-Garonne\Saint-Gaudens\cities~Saint-GaudensSt.Gaudens.internal.md) 
+
+### [St.Gaudens.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~Occitanie\Haute-Garonne\communes~Haute-Garonne\Saint-Gaudens\cities~Saint-GaudensSt.Gaudens.protect.md) 
+
+### [St.Gaudens.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~Occitanie\Haute-Garonne\communes~Haute-Garonne\Saint-Gaudens\cities~Saint-GaudensSt.Gaudens.private.md) 
+
+### [St.Gaudens.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~Occitanie\Haute-Garonne\communes~Haute-Garonne\Saint-Gaudens\cities~Saint-GaudensSt.Gaudens.personal.md) 
+
+### [St.Gaudens.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~Occitanie\Haute-Garonne\communes~Haute-Garonne\Saint-Gaudens\cities~Saint-GaudensSt.Gaudens.secret.md)
+

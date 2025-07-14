@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~West/France/City/Montbrison|Montbrison]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~West/France/City/Montbrison.public|Montbrison.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~West/France/City/Montbrison.internal|Montbrison.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~West/France/City/Montbrison.protect|Montbrison.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~West/France/City/Montbrison.private|Montbrison.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~West/France/City/Montbrison.personal|Montbrison.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~West/France/City/Montbrison.secret|Montbrison.secret]] 
+
+### [Montbrison.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Auvergne-Rhône-Alpes\departments~Auvergne-Rhône-Alpes\Loire\communes~Loire\Montbrison\cities~MontbrisonMontbrison.public.md) 
+
+### [Montbrison.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Auvergne-Rhône-Alpes\departments~Auvergne-Rhône-Alpes\Loire\communes~Loire\Montbrison\cities~MontbrisonMontbrison.internal.md) 
+
+### [Montbrison.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Auvergne-Rhône-Alpes\departments~Auvergne-Rhône-Alpes\Loire\communes~Loire\Montbrison\cities~MontbrisonMontbrison.protect.md) 
+
+### [Montbrison.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Auvergne-Rhône-Alpes\departments~Auvergne-Rhône-Alpes\Loire\communes~Loire\Montbrison\cities~MontbrisonMontbrison.private.md) 
+
+### [Montbrison.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Auvergne-Rhône-Alpes\departments~Auvergne-Rhône-Alpes\Loire\communes~Loire\Montbrison\cities~MontbrisonMontbrison.personal.md) 
+
+### [Montbrison.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Auvergne-Rhône-Alpes\departments~Auvergne-Rhône-Alpes\Loire\communes~Loire\Montbrison\cities~MontbrisonMontbrison.secret.md)
+

@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~West/France/City/Tregnier|Tregnier]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~West/France/City/Tregnier.public|Tregnier.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~West/France/City/Tregnier.internal|Tregnier.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~West/France/City/Tregnier.protect|Tregnier.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~West/France/City/Tregnier.private|Tregnier.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~West/France/City/Tregnier.personal|Tregnier.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~West/France/City/Tregnier.secret|Tregnier.secret]] 
+
+### [Tregnier.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Bretagne\departments~Bretagne\Côtes-d'Armor\communes~Côtes-d'Armor\Lannion\cities~LannionTregnier.public.md) 
+
+### [Tregnier.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Bretagne\departments~Bretagne\Côtes-d'Armor\communes~Côtes-d'Armor\Lannion\cities~LannionTregnier.internal.md) 
+
+### [Tregnier.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Bretagne\departments~Bretagne\Côtes-d'Armor\communes~Côtes-d'Armor\Lannion\cities~LannionTregnier.protect.md) 
+
+### [Tregnier.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Bretagne\departments~Bretagne\Côtes-d'Armor\communes~Côtes-d'Armor\Lannion\cities~LannionTregnier.private.md) 
+
+### [Tregnier.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Bretagne\departments~Bretagne\Côtes-d'Armor\communes~Côtes-d'Armor\Lannion\cities~LannionTregnier.personal.md) 
+
+### [Tregnier.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Bretagne\departments~Bretagne\Côtes-d'Armor\communes~Côtes-d'Armor\Lannion\cities~LannionTregnier.secret.md)
+

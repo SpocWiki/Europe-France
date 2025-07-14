@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~West/France/City/Pau|Pau]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~West/France/City/Pau.public|Pau.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~West/France/City/Pau.internal|Pau.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~West/France/City/Pau.protect|Pau.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~West/France/City/Pau.private|Pau.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~West/France/City/Pau.personal|Pau.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~West/France/City/Pau.secret|Pau.secret]] 
+
+### [Pau.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~Aquitaine\Pyrénées-Atlantiques\communes~Pyrénées-Atlantiques\Pau\cities~PauPau.public.md) 
+
+### [Pau.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~Aquitaine\Pyrénées-Atlantiques\communes~Pyrénées-Atlantiques\Pau\cities~PauPau.internal.md) 
+
+### [Pau.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~Aquitaine\Pyrénées-Atlantiques\communes~Pyrénées-Atlantiques\Pau\cities~PauPau.protect.md) 
+
+### [Pau.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~Aquitaine\Pyrénées-Atlantiques\communes~Pyrénées-Atlantiques\Pau\cities~PauPau.private.md) 
+
+### [Pau.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~Aquitaine\Pyrénées-Atlantiques\communes~Pyrénées-Atlantiques\Pau\cities~PauPau.personal.md) 
+
+### [Pau.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~Aquitaine\Pyrénées-Atlantiques\communes~Pyrénées-Atlantiques\Pau\cities~PauPau.secret.md)
+

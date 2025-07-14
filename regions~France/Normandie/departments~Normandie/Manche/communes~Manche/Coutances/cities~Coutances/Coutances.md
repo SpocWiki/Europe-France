@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~West/France/City/Coutances|Coutances]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~West/France/City/Coutances.public|Coutances.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~West/France/City/Coutances.internal|Coutances.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~West/France/City/Coutances.protect|Coutances.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~West/France/City/Coutances.private|Coutances.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~West/France/City/Coutances.personal|Coutances.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~West/France/City/Coutances.secret|Coutances.secret]] 
+
+### [Coutances.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Normandie\departments~Normandie\Manche\communes~Manche\Coutances\cities~CoutancesCoutances.public.md) 
+
+### [Coutances.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Normandie\departments~Normandie\Manche\communes~Manche\Coutances\cities~CoutancesCoutances.internal.md) 
+
+### [Coutances.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Normandie\departments~Normandie\Manche\communes~Manche\Coutances\cities~CoutancesCoutances.protect.md) 
+
+### [Coutances.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Normandie\departments~Normandie\Manche\communes~Manche\Coutances\cities~CoutancesCoutances.private.md) 
+
+### [Coutances.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Normandie\departments~Normandie\Manche\communes~Manche\Coutances\cities~CoutancesCoutances.personal.md) 
+
+### [Coutances.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Normandie\departments~Normandie\Manche\communes~Manche\Coutances\cities~CoutancesCoutances.secret.md)
+

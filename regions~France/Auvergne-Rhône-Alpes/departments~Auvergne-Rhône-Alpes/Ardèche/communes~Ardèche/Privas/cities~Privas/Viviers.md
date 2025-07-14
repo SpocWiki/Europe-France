@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~West/France/City/Viviers|Viviers]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~West/France/City/Viviers.public|Viviers.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~West/France/City/Viviers.internal|Viviers.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~West/France/City/Viviers.protect|Viviers.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~West/France/City/Viviers.private|Viviers.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~West/France/City/Viviers.personal|Viviers.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~West/France/City/Viviers.secret|Viviers.secret]] 
+
+### [Viviers.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Auvergne-Rhône-Alpes\departments~Auvergne-Rhône-Alpes\Ardèche\communes~Ardèche\Privas\cities~PrivasViviers.public.md) 
+
+### [Viviers.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Auvergne-Rhône-Alpes\departments~Auvergne-Rhône-Alpes\Ardèche\communes~Ardèche\Privas\cities~PrivasViviers.internal.md) 
+
+### [Viviers.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Auvergne-Rhône-Alpes\departments~Auvergne-Rhône-Alpes\Ardèche\communes~Ardèche\Privas\cities~PrivasViviers.protect.md) 
+
+### [Viviers.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Auvergne-Rhône-Alpes\departments~Auvergne-Rhône-Alpes\Ardèche\communes~Ardèche\Privas\cities~PrivasViviers.private.md) 
+
+### [Viviers.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Auvergne-Rhône-Alpes\departments~Auvergne-Rhône-Alpes\Ardèche\communes~Ardèche\Privas\cities~PrivasViviers.personal.md) 
+
+### [Viviers.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Auvergne-Rhône-Alpes\departments~Auvergne-Rhône-Alpes\Ardèche\communes~Ardèche\Privas\cities~PrivasViviers.secret.md)
+

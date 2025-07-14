@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~West/France/City/Lille|Lille]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~West/France/City/Lille.public|Lille.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~West/France/City/Lille.internal|Lille.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~West/France/City/Lille.protect|Lille.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~West/France/City/Lille.private|Lille.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~West/France/City/Lille.personal|Lille.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~West/France/City/Lille.secret|Lille.secret]] 
+
+### [Lille.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Hauts-de-France\departments~Hauts-de-France\Hauts-de-France~Nord\communes~Nord\Lille\cities~LilleLille.public.md) 
+
+### [Lille.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Hauts-de-France\departments~Hauts-de-France\Hauts-de-France~Nord\communes~Nord\Lille\cities~LilleLille.internal.md) 
+
+### [Lille.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Hauts-de-France\departments~Hauts-de-France\Hauts-de-France~Nord\communes~Nord\Lille\cities~LilleLille.protect.md) 
+
+### [Lille.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Hauts-de-France\departments~Hauts-de-France\Hauts-de-France~Nord\communes~Nord\Lille\cities~LilleLille.private.md) 
+
+### [Lille.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Hauts-de-France\departments~Hauts-de-France\Hauts-de-France~Nord\communes~Nord\Lille\cities~LilleLille.personal.md) 
+
+### [Lille.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Hauts-de-France\departments~Hauts-de-France\Hauts-de-France~Nord\communes~Nord\Lille\cities~LilleLille.secret.md)
+

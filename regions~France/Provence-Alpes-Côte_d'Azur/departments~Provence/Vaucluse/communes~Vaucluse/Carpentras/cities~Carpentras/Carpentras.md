@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~West/France/City/Carpentras|Carpentras]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~West/France/City/Carpentras.public|Carpentras.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~West/France/City/Carpentras.internal|Carpentras.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~West/France/City/Carpentras.protect|Carpentras.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~West/France/City/Carpentras.private|Carpentras.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~West/France/City/Carpentras.personal|Carpentras.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~West/France/City/Carpentras.secret|Carpentras.secret]] 
+
+### [Carpentras.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Provence-Alpes-Côte_d'Azur\departments~Provence\Vaucluse\communes~Vaucluse\Carpentras\cities~CarpentrasCarpentras.public.md) 
+
+### [Carpentras.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Provence-Alpes-Côte_d'Azur\departments~Provence\Vaucluse\communes~Vaucluse\Carpentras\cities~CarpentrasCarpentras.internal.md) 
+
+### [Carpentras.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Provence-Alpes-Côte_d'Azur\departments~Provence\Vaucluse\communes~Vaucluse\Carpentras\cities~CarpentrasCarpentras.protect.md) 
+
+### [Carpentras.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Provence-Alpes-Côte_d'Azur\departments~Provence\Vaucluse\communes~Vaucluse\Carpentras\cities~CarpentrasCarpentras.private.md) 
+
+### [Carpentras.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Provence-Alpes-Côte_d'Azur\departments~Provence\Vaucluse\communes~Vaucluse\Carpentras\cities~CarpentrasCarpentras.personal.md) 
+
+### [Carpentras.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Provence-Alpes-Côte_d'Azur\departments~Provence\Vaucluse\communes~Vaucluse\Carpentras\cities~CarpentrasCarpentras.secret.md)
+

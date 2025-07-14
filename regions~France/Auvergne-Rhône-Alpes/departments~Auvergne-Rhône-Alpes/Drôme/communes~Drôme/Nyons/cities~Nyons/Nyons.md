@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~West/France/City/Nyons|Nyons]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~West/France/City/Nyons.public|Nyons.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~West/France/City/Nyons.internal|Nyons.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~West/France/City/Nyons.protect|Nyons.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~West/France/City/Nyons.private|Nyons.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~West/France/City/Nyons.personal|Nyons.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~West/France/City/Nyons.secret|Nyons.secret]] 
+
+### [Nyons.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Auvergne-Rhône-Alpes\departments~Auvergne-Rhône-Alpes\Drôme\communes~Drôme\Nyons\cities~NyonsNyons.public.md) 
+
+### [Nyons.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Auvergne-Rhône-Alpes\departments~Auvergne-Rhône-Alpes\Drôme\communes~Drôme\Nyons\cities~NyonsNyons.internal.md) 
+
+### [Nyons.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Auvergne-Rhône-Alpes\departments~Auvergne-Rhône-Alpes\Drôme\communes~Drôme\Nyons\cities~NyonsNyons.protect.md) 
+
+### [Nyons.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Auvergne-Rhône-Alpes\departments~Auvergne-Rhône-Alpes\Drôme\communes~Drôme\Nyons\cities~NyonsNyons.private.md) 
+
+### [Nyons.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Auvergne-Rhône-Alpes\departments~Auvergne-Rhône-Alpes\Drôme\communes~Drôme\Nyons\cities~NyonsNyons.personal.md) 
+
+### [Nyons.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Auvergne-Rhône-Alpes\departments~Auvergne-Rhône-Alpes\Drôme\communes~Drôme\Nyons\cities~NyonsNyons.secret.md)
+

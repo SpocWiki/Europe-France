@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~West/France/City/Laval|Laval]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~West/France/City/Laval.public|Laval.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~West/France/City/Laval.internal|Laval.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~West/France/City/Laval.protect|Laval.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~West/France/City/Laval.private|Laval.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~West/France/City/Laval.personal|Laval.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~West/France/City/Laval.secret|Laval.secret]] 
+
+### [Laval.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Pays_de_la_Loire\departments~Pays_de_la_Loire\Mayenne\communes~Mayenne\Laval\cities~LavalLaval.public.md) 
+
+### [Laval.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Pays_de_la_Loire\departments~Pays_de_la_Loire\Mayenne\communes~Mayenne\Laval\cities~LavalLaval.internal.md) 
+
+### [Laval.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Pays_de_la_Loire\departments~Pays_de_la_Loire\Mayenne\communes~Mayenne\Laval\cities~LavalLaval.protect.md) 
+
+### [Laval.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Pays_de_la_Loire\departments~Pays_de_la_Loire\Mayenne\communes~Mayenne\Laval\cities~LavalLaval.private.md) 
+
+### [Laval.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Pays_de_la_Loire\departments~Pays_de_la_Loire\Mayenne\communes~Mayenne\Laval\cities~LavalLaval.personal.md) 
+
+### [Laval.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Pays_de_la_Loire\departments~Pays_de_la_Loire\Mayenne\communes~Mayenne\Laval\cities~LavalLaval.secret.md)
+

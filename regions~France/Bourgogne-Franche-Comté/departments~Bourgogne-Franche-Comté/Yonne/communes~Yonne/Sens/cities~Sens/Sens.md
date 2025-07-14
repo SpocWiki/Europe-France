@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~West/France/City/Sens|Sens]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~West/France/City/Sens.public|Sens.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~West/France/City/Sens.internal|Sens.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~West/France/City/Sens.protect|Sens.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~West/France/City/Sens.private|Sens.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~West/France/City/Sens.personal|Sens.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~West/France/City/Sens.secret|Sens.secret]] 
+
+### [Sens.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Bourgogne-Franche-Comté\departments~Bourgogne-Franche-Comté\Yonne\communes~Yonne\Sens\cities~SensSens.public.md) 
+
+### [Sens.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Bourgogne-Franche-Comté\departments~Bourgogne-Franche-Comté\Yonne\communes~Yonne\Sens\cities~SensSens.internal.md) 
+
+### [Sens.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Bourgogne-Franche-Comté\departments~Bourgogne-Franche-Comté\Yonne\communes~Yonne\Sens\cities~SensSens.protect.md) 
+
+### [Sens.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Bourgogne-Franche-Comté\departments~Bourgogne-Franche-Comté\Yonne\communes~Yonne\Sens\cities~SensSens.private.md) 
+
+### [Sens.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Bourgogne-Franche-Comté\departments~Bourgogne-Franche-Comté\Yonne\communes~Yonne\Sens\cities~SensSens.personal.md) 
+
+### [Sens.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Bourgogne-Franche-Comté\departments~Bourgogne-Franche-Comté\Yonne\communes~Yonne\Sens\cities~SensSens.secret.md)
+

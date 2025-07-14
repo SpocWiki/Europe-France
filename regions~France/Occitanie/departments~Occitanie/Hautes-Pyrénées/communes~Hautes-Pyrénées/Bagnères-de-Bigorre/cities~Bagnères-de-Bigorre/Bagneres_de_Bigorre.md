@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~West/France/City/Bagneres_de_Bigorre|Bagneres_de_Bigorre]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~West/France/City/Bagneres_de_Bigorre.public|Bagneres_de_Bigorre.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~West/France/City/Bagneres_de_Bigorre.internal|Bagneres_de_Bigorre.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~West/France/City/Bagneres_de_Bigorre.protect|Bagneres_de_Bigorre.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~West/France/City/Bagneres_de_Bigorre.private|Bagneres_de_Bigorre.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~West/France/City/Bagneres_de_Bigorre.personal|Bagneres_de_Bigorre.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~West/France/City/Bagneres_de_Bigorre.secret|Bagneres_de_Bigorre.secret]] 
+
+### [Bagneres_de_Bigorre.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~Occitanie\Hautes-Pyrénées\communes~Hautes-Pyrénées\Bagnères-de-Bigorre\cities~Bagnères-de-BigorreBagneres_de_Bigorre.public.md) 
+
+### [Bagneres_de_Bigorre.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~Occitanie\Hautes-Pyrénées\communes~Hautes-Pyrénées\Bagnères-de-Bigorre\cities~Bagnères-de-BigorreBagneres_de_Bigorre.internal.md) 
+
+### [Bagneres_de_Bigorre.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~Occitanie\Hautes-Pyrénées\communes~Hautes-Pyrénées\Bagnères-de-Bigorre\cities~Bagnères-de-BigorreBagneres_de_Bigorre.protect.md) 
+
+### [Bagneres_de_Bigorre.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~Occitanie\Hautes-Pyrénées\communes~Hautes-Pyrénées\Bagnères-de-Bigorre\cities~Bagnères-de-BigorreBagneres_de_Bigorre.private.md) 
+
+### [Bagneres_de_Bigorre.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~Occitanie\Hautes-Pyrénées\communes~Hautes-Pyrénées\Bagnères-de-Bigorre\cities~Bagnères-de-BigorreBagneres_de_Bigorre.personal.md) 
+
+### [Bagneres_de_Bigorre.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~Occitanie\Hautes-Pyrénées\communes~Hautes-Pyrénées\Bagnères-de-Bigorre\cities~Bagnères-de-BigorreBagneres_de_Bigorre.secret.md)
+

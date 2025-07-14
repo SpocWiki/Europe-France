@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~West/France/City/Samer|Samer]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~West/France/City/Samer.public|Samer.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~West/France/City/Samer.internal|Samer.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~West/France/City/Samer.protect|Samer.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~West/France/City/Samer.private|Samer.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~West/France/City/Samer.personal|Samer.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~West/France/City/Samer.secret|Samer.secret]] 
+
+### [Samer.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Hauts-de-France\departments~Hauts-de-France\Pas-de-Calais\communes~Pas-de-Calais\Boulogne-sur-Mer\cities~Boulogne-sur-MerSamer.public.md) 
+
+### [Samer.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Hauts-de-France\departments~Hauts-de-France\Pas-de-Calais\communes~Pas-de-Calais\Boulogne-sur-Mer\cities~Boulogne-sur-MerSamer.internal.md) 
+
+### [Samer.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Hauts-de-France\departments~Hauts-de-France\Pas-de-Calais\communes~Pas-de-Calais\Boulogne-sur-Mer\cities~Boulogne-sur-MerSamer.protect.md) 
+
+### [Samer.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Hauts-de-France\departments~Hauts-de-France\Pas-de-Calais\communes~Pas-de-Calais\Boulogne-sur-Mer\cities~Boulogne-sur-MerSamer.private.md) 
+
+### [Samer.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Hauts-de-France\departments~Hauts-de-France\Pas-de-Calais\communes~Pas-de-Calais\Boulogne-sur-Mer\cities~Boulogne-sur-MerSamer.personal.md) 
+
+### [Samer.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Hauts-de-France\departments~Hauts-de-France\Pas-de-Calais\communes~Pas-de-Calais\Boulogne-sur-Mer\cities~Boulogne-sur-MerSamer.secret.md)
+

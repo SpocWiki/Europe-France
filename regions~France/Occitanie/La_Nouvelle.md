@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~West/France/City/La_Nouvelle|La_Nouvelle]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~West/France/City/La_Nouvelle.public|La_Nouvelle.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~West/France/City/La_Nouvelle.internal|La_Nouvelle.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~West/France/City/La_Nouvelle.protect|La_Nouvelle.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~West/France/City/La_Nouvelle.private|La_Nouvelle.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~West/France/City/La_Nouvelle.personal|La_Nouvelle.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~West/France/City/La_Nouvelle.secret|La_Nouvelle.secret]] 
+
+### [La_Nouvelle.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\OccitanieLa_Nouvelle.public.md) 
+
+### [La_Nouvelle.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\OccitanieLa_Nouvelle.internal.md) 
+
+### [La_Nouvelle.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\OccitanieLa_Nouvelle.protect.md) 
+
+### [La_Nouvelle.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\OccitanieLa_Nouvelle.private.md) 
+
+### [La_Nouvelle.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\OccitanieLa_Nouvelle.personal.md) 
+
+### [La_Nouvelle.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\OccitanieLa_Nouvelle.secret.md)
+

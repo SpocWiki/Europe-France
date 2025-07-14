@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~West/Italy/City/Salcava|Salcava]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~West/Italy/City/Salcava.public|Salcava.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~West/Italy/City/Salcava.internal|Salcava.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~West/Italy/City/Salcava.protect|Salcava.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~West/Italy/City/Salcava.private|Salcava.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~West/Italy/City/Salcava.personal|Salcava.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~West/Italy/City/Salcava.secret|Salcava.secret]] 
+
+### [Salcava.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~Occitanie\Lot\communes~Lot\Cahors\cities~CahorsSalcava.public.md) 
+
+### [Salcava.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~Occitanie\Lot\communes~Lot\Cahors\cities~CahorsSalcava.internal.md) 
+
+### [Salcava.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~Occitanie\Lot\communes~Lot\Cahors\cities~CahorsSalcava.protect.md) 
+
+### [Salcava.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~Occitanie\Lot\communes~Lot\Cahors\cities~CahorsSalcava.private.md) 
+
+### [Salcava.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~Occitanie\Lot\communes~Lot\Cahors\cities~CahorsSalcava.personal.md) 
+
+### [Salcava.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~Occitanie\Lot\communes~Lot\Cahors\cities~CahorsSalcava.secret.md)
+

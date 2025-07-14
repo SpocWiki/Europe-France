@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~West/France/City/Troyes|Troyes]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~West/France/City/Troyes.public|Troyes.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~West/France/City/Troyes.internal|Troyes.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~West/France/City/Troyes.protect|Troyes.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~West/France/City/Troyes.private|Troyes.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~West/France/City/Troyes.personal|Troyes.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~West/France/City/Troyes.secret|Troyes.secret]] 
+
+### [Troyes.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Grand_Est\departments~Grand_Est\Aube\communes~Aube\Troyes\cities~TroyesTroyes.public.md) 
+
+### [Troyes.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Grand_Est\departments~Grand_Est\Aube\communes~Aube\Troyes\cities~TroyesTroyes.internal.md) 
+
+### [Troyes.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Grand_Est\departments~Grand_Est\Aube\communes~Aube\Troyes\cities~TroyesTroyes.protect.md) 
+
+### [Troyes.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Grand_Est\departments~Grand_Est\Aube\communes~Aube\Troyes\cities~TroyesTroyes.private.md) 
+
+### [Troyes.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Grand_Est\departments~Grand_Est\Aube\communes~Aube\Troyes\cities~TroyesTroyes.personal.md) 
+
+### [Troyes.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Grand_Est\departments~Grand_Est\Aube\communes~Aube\Troyes\cities~TroyesTroyes.secret.md)
+

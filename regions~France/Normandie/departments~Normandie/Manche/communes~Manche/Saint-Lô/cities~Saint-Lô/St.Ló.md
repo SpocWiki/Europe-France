@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~West/France/City/St.Ló|St.Ló]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~West/France/City/St.Ló.public|St.Ló.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~West/France/City/St.Ló.internal|St.Ló.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~West/France/City/St.Ló.protect|St.Ló.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~West/France/City/St.Ló.private|St.Ló.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~West/France/City/St.Ló.personal|St.Ló.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~West/France/City/St.Ló.secret|St.Ló.secret]] 
+
+### [St.Ló.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Normandie\departments~Normandie\Manche\communes~Manche\Saint-Lô\cities~Saint-LôSt.Ló.public.md) 
+
+### [St.Ló.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Normandie\departments~Normandie\Manche\communes~Manche\Saint-Lô\cities~Saint-LôSt.Ló.internal.md) 
+
+### [St.Ló.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Normandie\departments~Normandie\Manche\communes~Manche\Saint-Lô\cities~Saint-LôSt.Ló.protect.md) 
+
+### [St.Ló.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Normandie\departments~Normandie\Manche\communes~Manche\Saint-Lô\cities~Saint-LôSt.Ló.private.md) 
+
+### [St.Ló.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Normandie\departments~Normandie\Manche\communes~Manche\Saint-Lô\cities~Saint-LôSt.Ló.personal.md) 
+
+### [St.Ló.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Normandie\departments~Normandie\Manche\communes~Manche\Saint-Lô\cities~Saint-LôSt.Ló.secret.md)
+

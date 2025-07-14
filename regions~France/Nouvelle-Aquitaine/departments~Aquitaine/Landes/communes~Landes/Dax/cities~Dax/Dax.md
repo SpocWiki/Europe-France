@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~West/France/City/Dax|Dax]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~West/France/City/Dax.public|Dax.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~West/France/City/Dax.internal|Dax.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~West/France/City/Dax.protect|Dax.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~West/France/City/Dax.private|Dax.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~West/France/City/Dax.personal|Dax.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~West/France/City/Dax.secret|Dax.secret]] 
+
+### [Dax.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~Aquitaine\Landes\communes~Landes\Dax\cities~DaxDax.public.md) 
+
+### [Dax.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~Aquitaine\Landes\communes~Landes\Dax\cities~DaxDax.internal.md) 
+
+### [Dax.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~Aquitaine\Landes\communes~Landes\Dax\cities~DaxDax.protect.md) 
+
+### [Dax.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~Aquitaine\Landes\communes~Landes\Dax\cities~DaxDax.private.md) 
+
+### [Dax.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~Aquitaine\Landes\communes~Landes\Dax\cities~DaxDax.personal.md) 
+
+### [Dax.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~Aquitaine\Landes\communes~Landes\Dax\cities~DaxDax.secret.md)
+

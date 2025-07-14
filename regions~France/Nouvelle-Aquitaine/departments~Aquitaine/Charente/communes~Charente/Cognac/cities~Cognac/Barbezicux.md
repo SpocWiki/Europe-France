@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~West/France/City/Barbezicux|Barbezicux]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~West/France/City/Barbezicux.public|Barbezicux.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~West/France/City/Barbezicux.internal|Barbezicux.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~West/France/City/Barbezicux.protect|Barbezicux.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~West/France/City/Barbezicux.private|Barbezicux.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~West/France/City/Barbezicux.personal|Barbezicux.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~West/France/City/Barbezicux.secret|Barbezicux.secret]] 
+
+### [Barbezicux.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~Aquitaine\Charente\communes~Charente\Cognac\cities~CognacBarbezicux.public.md) 
+
+### [Barbezicux.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~Aquitaine\Charente\communes~Charente\Cognac\cities~CognacBarbezicux.internal.md) 
+
+### [Barbezicux.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~Aquitaine\Charente\communes~Charente\Cognac\cities~CognacBarbezicux.protect.md) 
+
+### [Barbezicux.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~Aquitaine\Charente\communes~Charente\Cognac\cities~CognacBarbezicux.private.md) 
+
+### [Barbezicux.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~Aquitaine\Charente\communes~Charente\Cognac\cities~CognacBarbezicux.personal.md) 
+
+### [Barbezicux.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~Aquitaine\Charente\communes~Charente\Cognac\cities~CognacBarbezicux.secret.md)
+

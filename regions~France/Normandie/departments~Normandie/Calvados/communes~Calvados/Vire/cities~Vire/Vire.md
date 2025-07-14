@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~West/France/City/Vire|Vire]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~West/France/City/Vire.public|Vire.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~West/France/City/Vire.internal|Vire.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~West/France/City/Vire.protect|Vire.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~West/France/City/Vire.private|Vire.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~West/France/City/Vire.personal|Vire.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~West/France/City/Vire.secret|Vire.secret]] 
+
+### [Vire.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Normandie\departments~Normandie\Calvados\communes~Calvados\Vire\cities~VireVire.public.md) 
+
+### [Vire.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Normandie\departments~Normandie\Calvados\communes~Calvados\Vire\cities~VireVire.internal.md) 
+
+### [Vire.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Normandie\departments~Normandie\Calvados\communes~Calvados\Vire\cities~VireVire.protect.md) 
+
+### [Vire.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Normandie\departments~Normandie\Calvados\communes~Calvados\Vire\cities~VireVire.private.md) 
+
+### [Vire.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Normandie\departments~Normandie\Calvados\communes~Calvados\Vire\cities~VireVire.personal.md) 
+
+### [Vire.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Normandie\departments~Normandie\Calvados\communes~Calvados\Vire\cities~VireVire.secret.md)
+

@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~West/France/City/Gebweiler|Gebweiler]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~West/France/City/Gebweiler.public|Gebweiler.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~West/France/City/Gebweiler.internal|Gebweiler.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~West/France/City/Gebweiler.protect|Gebweiler.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~West/France/City/Gebweiler.private|Gebweiler.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~West/France/City/Gebweiler.personal|Gebweiler.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~West/France/City/Gebweiler.secret|Gebweiler.secret]] 
+
+### [Gebweiler.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Grand_Est\departments~Grand_Est\Haut-Rhin\communes~Haut-Rhin\Guebwiller\cities~GuebwillerGebweiler.public.md) 
+
+### [Gebweiler.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Grand_Est\departments~Grand_Est\Haut-Rhin\communes~Haut-Rhin\Guebwiller\cities~GuebwillerGebweiler.internal.md) 
+
+### [Gebweiler.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Grand_Est\departments~Grand_Est\Haut-Rhin\communes~Haut-Rhin\Guebwiller\cities~GuebwillerGebweiler.protect.md) 
+
+### [Gebweiler.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Grand_Est\departments~Grand_Est\Haut-Rhin\communes~Haut-Rhin\Guebwiller\cities~GuebwillerGebweiler.private.md) 
+
+### [Gebweiler.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Grand_Est\departments~Grand_Est\Haut-Rhin\communes~Haut-Rhin\Guebwiller\cities~GuebwillerGebweiler.personal.md) 
+
+### [Gebweiler.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Grand_Est\departments~Grand_Est\Haut-Rhin\communes~Haut-Rhin\Guebwiller\cities~GuebwillerGebweiler.secret.md)
+

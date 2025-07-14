@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~West/France/City/Soissons|Soissons]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~West/France/City/Soissons.public|Soissons.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~West/France/City/Soissons.internal|Soissons.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~West/France/City/Soissons.protect|Soissons.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~West/France/City/Soissons.private|Soissons.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~West/France/City/Soissons.personal|Soissons.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~West/France/City/Soissons.secret|Soissons.secret]] 
+
+### [Soissons.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Hauts-de-France\departments~Hauts-de-France\Aisne\communes~Aisne\Soissons\cities~SoissonsSoissons.public.md) 
+
+### [Soissons.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Hauts-de-France\departments~Hauts-de-France\Aisne\communes~Aisne\Soissons\cities~SoissonsSoissons.internal.md) 
+
+### [Soissons.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Hauts-de-France\departments~Hauts-de-France\Aisne\communes~Aisne\Soissons\cities~SoissonsSoissons.protect.md) 
+
+### [Soissons.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Hauts-de-France\departments~Hauts-de-France\Aisne\communes~Aisne\Soissons\cities~SoissonsSoissons.private.md) 
+
+### [Soissons.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Hauts-de-France\departments~Hauts-de-France\Aisne\communes~Aisne\Soissons\cities~SoissonsSoissons.personal.md) 
+
+### [Soissons.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Hauts-de-France\departments~Hauts-de-France\Aisne\communes~Aisne\Soissons\cities~SoissonsSoissons.secret.md)
+

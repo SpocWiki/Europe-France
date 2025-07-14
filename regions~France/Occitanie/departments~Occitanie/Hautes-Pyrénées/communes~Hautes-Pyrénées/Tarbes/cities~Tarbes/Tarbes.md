@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~West/France/City/Tarbes|Tarbes]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~West/France/City/Tarbes.public|Tarbes.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~West/France/City/Tarbes.internal|Tarbes.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~West/France/City/Tarbes.protect|Tarbes.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~West/France/City/Tarbes.private|Tarbes.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~West/France/City/Tarbes.personal|Tarbes.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~West/France/City/Tarbes.secret|Tarbes.secret]] 
+
+### [Tarbes.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~Occitanie\Hautes-Pyrénées\communes~Hautes-Pyrénées\Tarbes\cities~TarbesTarbes.public.md) 
+
+### [Tarbes.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~Occitanie\Hautes-Pyrénées\communes~Hautes-Pyrénées\Tarbes\cities~TarbesTarbes.internal.md) 
+
+### [Tarbes.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~Occitanie\Hautes-Pyrénées\communes~Hautes-Pyrénées\Tarbes\cities~TarbesTarbes.protect.md) 
+
+### [Tarbes.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~Occitanie\Hautes-Pyrénées\communes~Hautes-Pyrénées\Tarbes\cities~TarbesTarbes.private.md) 
+
+### [Tarbes.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~Occitanie\Hautes-Pyrénées\communes~Hautes-Pyrénées\Tarbes\cities~TarbesTarbes.personal.md) 
+
+### [Tarbes.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~Occitanie\Hautes-Pyrénées\communes~Hautes-Pyrénées\Tarbes\cities~TarbesTarbes.secret.md)
+

@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~West/France/City/Montlucon|Montlucon]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~West/France/City/Montlucon.public|Montlucon.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~West/France/City/Montlucon.internal|Montlucon.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~West/France/City/Montlucon.protect|Montlucon.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~West/France/City/Montlucon.private|Montlucon.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~West/France/City/Montlucon.personal|Montlucon.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~West/France/City/Montlucon.secret|Montlucon.secret]] 
+
+### [Montlucon.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Auvergne-Rhône-Alpes\departments~Auvergne-Rhône-Alpes\Allier\communes~Allier\Montluçon\cities~MontluçonMontlucon.public.md) 
+
+### [Montlucon.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Auvergne-Rhône-Alpes\departments~Auvergne-Rhône-Alpes\Allier\communes~Allier\Montluçon\cities~MontluçonMontlucon.internal.md) 
+
+### [Montlucon.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Auvergne-Rhône-Alpes\departments~Auvergne-Rhône-Alpes\Allier\communes~Allier\Montluçon\cities~MontluçonMontlucon.protect.md) 
+
+### [Montlucon.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Auvergne-Rhône-Alpes\departments~Auvergne-Rhône-Alpes\Allier\communes~Allier\Montluçon\cities~MontluçonMontlucon.private.md) 
+
+### [Montlucon.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Auvergne-Rhône-Alpes\departments~Auvergne-Rhône-Alpes\Allier\communes~Allier\Montluçon\cities~MontluçonMontlucon.personal.md) 
+
+### [Montlucon.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Auvergne-Rhône-Alpes\departments~Auvergne-Rhône-Alpes\Allier\communes~Allier\Montluçon\cities~MontluçonMontlucon.secret.md)
+

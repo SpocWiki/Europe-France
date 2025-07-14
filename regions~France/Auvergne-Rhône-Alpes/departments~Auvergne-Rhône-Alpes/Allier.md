@@ -40,11 +40,16 @@ markerFolder: ./Département~Allier/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../_Standards/geo/Continent/Département~Allier|Département~Allier]] 
-- [[../../../_public/geo/Continent/Département~Allier.public|Département~Allier.public]] 
-- [[../../../_internal/geo/Continent/Département~Allier.internal|Département~Allier.internal]] 
-- [[../../../_protect/geo/Continent/Département~Allier.protect|Département~Allier.protect]] 
-- [[../../../_private/geo/Continent/Département~Allier.private|Département~Allier.private]] 
-- [[../../../_personal/geo/Continent/Département~Allier.personal|Département~Allier.personal]] 
-- [[../../../_secret/geo/Continent/Département~Allier.secret|Département~Allier.secret]] 
+
+### [Allier.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Auvergne-Rhône-Alpes\departments~Auvergne-Rhône-AlpesAllier.public.md) 
+
+### [Allier.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Auvergne-Rhône-Alpes\departments~Auvergne-Rhône-AlpesAllier.internal.md) 
+
+### [Allier.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Auvergne-Rhône-Alpes\departments~Auvergne-Rhône-AlpesAllier.protect.md) 
+
+### [Allier.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Auvergne-Rhône-Alpes\departments~Auvergne-Rhône-AlpesAllier.private.md) 
+
+### [Allier.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Auvergne-Rhône-Alpes\departments~Auvergne-Rhône-AlpesAllier.personal.md) 
+
+### [Allier.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Auvergne-Rhône-Alpes\departments~Auvergne-Rhône-AlpesAllier.secret.md)
 

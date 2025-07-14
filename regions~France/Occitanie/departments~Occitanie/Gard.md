@@ -40,11 +40,16 @@ markerFolder: ./Département~Gard/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/geo/Continent/egions/Occitanie/Département~Gard|Département~Gard]] 
-- [[../../../../../_public/geo/Continent/egions/Occitanie/Département~Gard.public|Département~Gard.public]] 
-- [[../../../../../_internal/geo/Continent/egions/Occitanie/Département~Gard.internal|Département~Gard.internal]] 
-- [[../../../../../_protect/geo/Continent/egions/Occitanie/Département~Gard.protect|Département~Gard.protect]] 
-- [[../../../../../_private/geo/Continent/egions/Occitanie/Département~Gard.private|Département~Gard.private]] 
-- [[../../../../../_personal/geo/Continent/egions/Occitanie/Département~Gard.personal|Département~Gard.personal]] 
-- [[../../../../../_secret/geo/Continent/egions/Occitanie/Département~Gard.secret|Département~Gard.secret]] 
+
+### [Gard.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~OccitanieGard.public.md) 
+
+### [Gard.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~OccitanieGard.internal.md) 
+
+### [Gard.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~OccitanieGard.protect.md) 
+
+### [Gard.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~OccitanieGard.private.md) 
+
+### [Gard.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~OccitanieGard.personal.md) 
+
+### [Gard.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~OccitanieGard.secret.md)
 

@@ -40,11 +40,16 @@ markerFolder: ./Département~Savoie/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../_Standards/geo/Continent/Europe/Europe~West/France/Counties/Auvergne-Rhône-Alpes/Département~Savoie|Département~Savoie]] 
-- [[../../../../../../../../_public/geo/Continent/Europe/Europe~West/France/Counties/Auvergne-Rhône-Alpes/Département~Savoie.public|Département~Savoie.public]] 
-- [[../../../../../../../../_internal/geo/Continent/Europe/Europe~West/France/Counties/Auvergne-Rhône-Alpes/Département~Savoie.internal|Département~Savoie.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Europe~West/France/Counties/Auvergne-Rhône-Alpes/Département~Savoie.protect|Département~Savoie.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Europe~West/France/Counties/Auvergne-Rhône-Alpes/Département~Savoie.private|Département~Savoie.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Europe~West/France/Counties/Auvergne-Rhône-Alpes/Département~Savoie.personal|Département~Savoie.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Europe~West/France/Counties/Auvergne-Rhône-Alpes/Département~Savoie.secret|Département~Savoie.secret]] 
+
+### [Savoie.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Auvergne-Rhône-Alpes\departments~Auvergne-Rhône-AlpesSavoie.public.md) 
+
+### [Savoie.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Auvergne-Rhône-Alpes\departments~Auvergne-Rhône-AlpesSavoie.internal.md) 
+
+### [Savoie.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Auvergne-Rhône-Alpes\departments~Auvergne-Rhône-AlpesSavoie.protect.md) 
+
+### [Savoie.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Auvergne-Rhône-Alpes\departments~Auvergne-Rhône-AlpesSavoie.private.md) 
+
+### [Savoie.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Auvergne-Rhône-Alpes\departments~Auvergne-Rhône-AlpesSavoie.personal.md) 
+
+### [Savoie.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Auvergne-Rhône-Alpes\departments~Auvergne-Rhône-AlpesSavoie.secret.md)
 

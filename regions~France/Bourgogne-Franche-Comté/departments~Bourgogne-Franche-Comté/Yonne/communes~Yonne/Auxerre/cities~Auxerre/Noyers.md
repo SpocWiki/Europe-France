@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~West/Italy/City/Noyers|Noyers]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~West/Italy/City/Noyers.public|Noyers.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~West/Italy/City/Noyers.internal|Noyers.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~West/Italy/City/Noyers.protect|Noyers.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~West/Italy/City/Noyers.private|Noyers.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~West/Italy/City/Noyers.personal|Noyers.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~West/Italy/City/Noyers.secret|Noyers.secret]] 
+
+### [Noyers.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Bourgogne-Franche-Comté\departments~Bourgogne-Franche-Comté\Yonne\communes~Yonne\Auxerre\cities~AuxerreNoyers.public.md) 
+
+### [Noyers.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Bourgogne-Franche-Comté\departments~Bourgogne-Franche-Comté\Yonne\communes~Yonne\Auxerre\cities~AuxerreNoyers.internal.md) 
+
+### [Noyers.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Bourgogne-Franche-Comté\departments~Bourgogne-Franche-Comté\Yonne\communes~Yonne\Auxerre\cities~AuxerreNoyers.protect.md) 
+
+### [Noyers.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Bourgogne-Franche-Comté\departments~Bourgogne-Franche-Comté\Yonne\communes~Yonne\Auxerre\cities~AuxerreNoyers.private.md) 
+
+### [Noyers.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Bourgogne-Franche-Comté\departments~Bourgogne-Franche-Comté\Yonne\communes~Yonne\Auxerre\cities~AuxerreNoyers.personal.md) 
+
+### [Noyers.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Bourgogne-Franche-Comté\departments~Bourgogne-Franche-Comté\Yonne\communes~Yonne\Auxerre\cities~AuxerreNoyers.secret.md)
+

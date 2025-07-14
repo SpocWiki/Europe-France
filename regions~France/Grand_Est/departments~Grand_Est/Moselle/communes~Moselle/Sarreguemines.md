@@ -1,4 +1,4 @@
-﻿---
+---
 location: [49.12,7.07] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/France/City/Sarreguemines|Sarreguemines]] 
-- [[../../../../../../_public/geo/Continent/Europe/France/City/Sarreguemines.public|Sarreguemines.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/France/City/Sarreguemines.internal|Sarreguemines.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/France/City/Sarreguemines.protect|Sarreguemines.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/France/City/Sarreguemines.private|Sarreguemines.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/France/City/Sarreguemines.personal|Sarreguemines.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/France/City/Sarreguemines.secret|Sarreguemines.secret]] 
+
+### [Sarreguemines.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Grand_Est\departments~Grand_Est\Moselle\communes~MoselleSarreguemines.public.md) 
+
+### [Sarreguemines.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Grand_Est\departments~Grand_Est\Moselle\communes~MoselleSarreguemines.internal.md) 
+
+### [Sarreguemines.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Grand_Est\departments~Grand_Est\Moselle\communes~MoselleSarreguemines.protect.md) 
+
+### [Sarreguemines.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Grand_Est\departments~Grand_Est\Moselle\communes~MoselleSarreguemines.private.md) 
+
+### [Sarreguemines.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Grand_Est\departments~Grand_Est\Moselle\communes~MoselleSarreguemines.personal.md) 
+
+### [Sarreguemines.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Grand_Est\departments~Grand_Est\Moselle\communes~MoselleSarreguemines.secret.md)
+

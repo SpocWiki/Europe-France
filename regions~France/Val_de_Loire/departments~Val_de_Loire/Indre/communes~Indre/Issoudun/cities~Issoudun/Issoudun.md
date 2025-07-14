@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~West/France/City/Issoudun|Issoudun]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~West/France/City/Issoudun.public|Issoudun.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~West/France/City/Issoudun.internal|Issoudun.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~West/France/City/Issoudun.protect|Issoudun.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~West/France/City/Issoudun.private|Issoudun.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~West/France/City/Issoudun.personal|Issoudun.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~West/France/City/Issoudun.secret|Issoudun.secret]] 
+
+### [Issoudun.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Val_de_Loire\departments~Val_de_Loire\Indre\communes~Indre\Issoudun\cities~IssoudunIssoudun.public.md) 
+
+### [Issoudun.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Val_de_Loire\departments~Val_de_Loire\Indre\communes~Indre\Issoudun\cities~IssoudunIssoudun.internal.md) 
+
+### [Issoudun.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Val_de_Loire\departments~Val_de_Loire\Indre\communes~Indre\Issoudun\cities~IssoudunIssoudun.protect.md) 
+
+### [Issoudun.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Val_de_Loire\departments~Val_de_Loire\Indre\communes~Indre\Issoudun\cities~IssoudunIssoudun.private.md) 
+
+### [Issoudun.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Val_de_Loire\departments~Val_de_Loire\Indre\communes~Indre\Issoudun\cities~IssoudunIssoudun.personal.md) 
+
+### [Issoudun.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Val_de_Loire\departments~Val_de_Loire\Indre\communes~Indre\Issoudun\cities~IssoudunIssoudun.secret.md)
+

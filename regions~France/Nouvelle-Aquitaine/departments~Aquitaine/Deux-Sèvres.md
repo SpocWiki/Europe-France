@@ -40,11 +40,16 @@ markerFolder: ./Département~Deux-Sèvres/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../_Standards/geo/Continent/Europe/Europe~West/France/Counties/Nouvelle-Aquitaine/Département~Deux-Sèvres|Département~Deux-Sèvres]] 
-- [[../../../../../../../../_public/geo/Continent/Europe/Europe~West/France/Counties/Nouvelle-Aquitaine/Département~Deux-Sèvres.public|Département~Deux-Sèvres.public]] 
-- [[../../../../../../../../_internal/geo/Continent/Europe/Europe~West/France/Counties/Nouvelle-Aquitaine/Département~Deux-Sèvres.internal|Département~Deux-Sèvres.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Europe~West/France/Counties/Nouvelle-Aquitaine/Département~Deux-Sèvres.protect|Département~Deux-Sèvres.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Europe~West/France/Counties/Nouvelle-Aquitaine/Département~Deux-Sèvres.private|Département~Deux-Sèvres.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Europe~West/France/Counties/Nouvelle-Aquitaine/Département~Deux-Sèvres.personal|Département~Deux-Sèvres.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Europe~West/France/Counties/Nouvelle-Aquitaine/Département~Deux-Sèvres.secret|Département~Deux-Sèvres.secret]] 
+
+### [Deux-Sèvres.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~AquitaineDeux-Sèvres.public.md) 
+
+### [Deux-Sèvres.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~AquitaineDeux-Sèvres.internal.md) 
+
+### [Deux-Sèvres.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~AquitaineDeux-Sèvres.protect.md) 
+
+### [Deux-Sèvres.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~AquitaineDeux-Sèvres.private.md) 
+
+### [Deux-Sèvres.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~AquitaineDeux-Sèvres.personal.md) 
+
+### [Deux-Sèvres.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~AquitaineDeux-Sèvres.secret.md)
 

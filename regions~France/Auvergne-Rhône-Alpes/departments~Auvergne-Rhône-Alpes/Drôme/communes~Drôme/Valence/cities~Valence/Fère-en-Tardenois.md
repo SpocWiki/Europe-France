@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~West/France/City/Fère-en-Tardenois|Fère-en-Tardenois]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~West/France/City/Fère-en-Tardenois.public|Fère-en-Tardenois.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~West/France/City/Fère-en-Tardenois.internal|Fère-en-Tardenois.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~West/France/City/Fère-en-Tardenois.protect|Fère-en-Tardenois.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~West/France/City/Fère-en-Tardenois.private|Fère-en-Tardenois.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~West/France/City/Fère-en-Tardenois.personal|Fère-en-Tardenois.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~West/France/City/Fère-en-Tardenois.secret|Fère-en-Tardenois.secret]] 
+
+### [Fère-en-Tardenois.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Auvergne-Rhône-Alpes\departments~Auvergne-Rhône-Alpes\Drôme\communes~Drôme\Valence\cities~ValenceFère-en-Tardenois.public.md) 
+
+### [Fère-en-Tardenois.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Auvergne-Rhône-Alpes\departments~Auvergne-Rhône-Alpes\Drôme\communes~Drôme\Valence\cities~ValenceFère-en-Tardenois.internal.md) 
+
+### [Fère-en-Tardenois.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Auvergne-Rhône-Alpes\departments~Auvergne-Rhône-Alpes\Drôme\communes~Drôme\Valence\cities~ValenceFère-en-Tardenois.protect.md) 
+
+### [Fère-en-Tardenois.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Auvergne-Rhône-Alpes\departments~Auvergne-Rhône-Alpes\Drôme\communes~Drôme\Valence\cities~ValenceFère-en-Tardenois.private.md) 
+
+### [Fère-en-Tardenois.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Auvergne-Rhône-Alpes\departments~Auvergne-Rhône-Alpes\Drôme\communes~Drôme\Valence\cities~ValenceFère-en-Tardenois.personal.md) 
+
+### [Fère-en-Tardenois.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Auvergne-Rhône-Alpes\departments~Auvergne-Rhône-Alpes\Drôme\communes~Drôme\Valence\cities~ValenceFère-en-Tardenois.secret.md)
+

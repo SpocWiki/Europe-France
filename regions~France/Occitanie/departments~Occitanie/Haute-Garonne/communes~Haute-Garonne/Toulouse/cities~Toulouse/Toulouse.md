@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~West/France/City/Toulouse|Toulouse]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~West/France/City/Toulouse.public|Toulouse.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~West/France/City/Toulouse.internal|Toulouse.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~West/France/City/Toulouse.protect|Toulouse.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~West/France/City/Toulouse.private|Toulouse.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~West/France/City/Toulouse.personal|Toulouse.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~West/France/City/Toulouse.secret|Toulouse.secret]] 
+
+### [Toulouse.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~Occitanie\Haute-Garonne\communes~Haute-Garonne\Toulouse\cities~ToulouseToulouse.public.md) 
+
+### [Toulouse.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~Occitanie\Haute-Garonne\communes~Haute-Garonne\Toulouse\cities~ToulouseToulouse.internal.md) 
+
+### [Toulouse.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~Occitanie\Haute-Garonne\communes~Haute-Garonne\Toulouse\cities~ToulouseToulouse.protect.md) 
+
+### [Toulouse.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~Occitanie\Haute-Garonne\communes~Haute-Garonne\Toulouse\cities~ToulouseToulouse.private.md) 
+
+### [Toulouse.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~Occitanie\Haute-Garonne\communes~Haute-Garonne\Toulouse\cities~ToulouseToulouse.personal.md) 
+
+### [Toulouse.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~Occitanie\Haute-Garonne\communes~Haute-Garonne\Toulouse\cities~ToulouseToulouse.secret.md)
+

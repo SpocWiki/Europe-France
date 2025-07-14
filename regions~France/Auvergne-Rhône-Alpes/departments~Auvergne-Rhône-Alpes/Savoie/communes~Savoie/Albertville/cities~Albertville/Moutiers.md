@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~West/France/City/Moutiers|Moutiers]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~West/France/City/Moutiers.public|Moutiers.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~West/France/City/Moutiers.internal|Moutiers.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~West/France/City/Moutiers.protect|Moutiers.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~West/France/City/Moutiers.private|Moutiers.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~West/France/City/Moutiers.personal|Moutiers.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~West/France/City/Moutiers.secret|Moutiers.secret]] 
+
+### [Moutiers.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Auvergne-Rhône-Alpes\departments~Auvergne-Rhône-Alpes\Savoie\communes~Savoie\Albertville\cities~AlbertvilleMoutiers.public.md) 
+
+### [Moutiers.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Auvergne-Rhône-Alpes\departments~Auvergne-Rhône-Alpes\Savoie\communes~Savoie\Albertville\cities~AlbertvilleMoutiers.internal.md) 
+
+### [Moutiers.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Auvergne-Rhône-Alpes\departments~Auvergne-Rhône-Alpes\Savoie\communes~Savoie\Albertville\cities~AlbertvilleMoutiers.protect.md) 
+
+### [Moutiers.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Auvergne-Rhône-Alpes\departments~Auvergne-Rhône-Alpes\Savoie\communes~Savoie\Albertville\cities~AlbertvilleMoutiers.private.md) 
+
+### [Moutiers.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Auvergne-Rhône-Alpes\departments~Auvergne-Rhône-Alpes\Savoie\communes~Savoie\Albertville\cities~AlbertvilleMoutiers.personal.md) 
+
+### [Moutiers.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Auvergne-Rhône-Alpes\departments~Auvergne-Rhône-Alpes\Savoie\communes~Savoie\Albertville\cities~AlbertvilleMoutiers.secret.md)
+

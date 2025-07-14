@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~West/France/City/Liboune|Liboune]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~West/France/City/Liboune.public|Liboune.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~West/France/City/Liboune.internal|Liboune.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~West/France/City/Liboune.protect|Liboune.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~West/France/City/Liboune.private|Liboune.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~West/France/City/Liboune.personal|Liboune.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~West/France/City/Liboune.secret|Liboune.secret]] 
+
+### [Liboune.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~Aquitaine\Gironde\communes~Gironde\Libourne\cities~LibourneLiboune.public.md) 
+
+### [Liboune.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~Aquitaine\Gironde\communes~Gironde\Libourne\cities~LibourneLiboune.internal.md) 
+
+### [Liboune.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~Aquitaine\Gironde\communes~Gironde\Libourne\cities~LibourneLiboune.protect.md) 
+
+### [Liboune.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~Aquitaine\Gironde\communes~Gironde\Libourne\cities~LibourneLiboune.private.md) 
+
+### [Liboune.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~Aquitaine\Gironde\communes~Gironde\Libourne\cities~LibourneLiboune.personal.md) 
+
+### [Liboune.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~Aquitaine\Gironde\communes~Gironde\Libourne\cities~LibourneLiboune.secret.md)
+

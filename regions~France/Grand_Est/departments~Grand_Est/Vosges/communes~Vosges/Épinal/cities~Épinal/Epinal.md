@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~West/France/City/Epinal|Epinal]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~West/France/City/Epinal.public|Epinal.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~West/France/City/Epinal.internal|Epinal.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~West/France/City/Epinal.protect|Epinal.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~West/France/City/Epinal.private|Epinal.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~West/France/City/Epinal.personal|Epinal.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~West/France/City/Epinal.secret|Epinal.secret]] 
+
+### [Epinal.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Grand_Est\departments~Grand_Est\Vosges\communes~Vosges\Épinal\cities~ÉpinalEpinal.public.md) 
+
+### [Epinal.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Grand_Est\departments~Grand_Est\Vosges\communes~Vosges\Épinal\cities~ÉpinalEpinal.internal.md) 
+
+### [Epinal.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Grand_Est\departments~Grand_Est\Vosges\communes~Vosges\Épinal\cities~ÉpinalEpinal.protect.md) 
+
+### [Epinal.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Grand_Est\departments~Grand_Est\Vosges\communes~Vosges\Épinal\cities~ÉpinalEpinal.private.md) 
+
+### [Epinal.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Grand_Est\departments~Grand_Est\Vosges\communes~Vosges\Épinal\cities~ÉpinalEpinal.personal.md) 
+
+### [Epinal.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Grand_Est\departments~Grand_Est\Vosges\communes~Vosges\Épinal\cities~ÉpinalEpinal.secret.md)
+

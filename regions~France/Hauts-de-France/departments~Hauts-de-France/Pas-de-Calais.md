@@ -40,11 +40,16 @@ markerFolder: ./Département~Pas-de-Calais/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../_Standards/geo/Continent/Europe/Europe~West/France/Counties/Hauts-de-France/Département~Pas-de-Calais|Département~Pas-de-Calais]] 
-- [[../../../../../../../../_public/geo/Continent/Europe/Europe~West/France/Counties/Hauts-de-France/Département~Pas-de-Calais.public|Département~Pas-de-Calais.public]] 
-- [[../../../../../../../../_internal/geo/Continent/Europe/Europe~West/France/Counties/Hauts-de-France/Département~Pas-de-Calais.internal|Département~Pas-de-Calais.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Europe~West/France/Counties/Hauts-de-France/Département~Pas-de-Calais.protect|Département~Pas-de-Calais.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Europe~West/France/Counties/Hauts-de-France/Département~Pas-de-Calais.private|Département~Pas-de-Calais.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Europe~West/France/Counties/Hauts-de-France/Département~Pas-de-Calais.personal|Département~Pas-de-Calais.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Europe~West/France/Counties/Hauts-de-France/Département~Pas-de-Calais.secret|Département~Pas-de-Calais.secret]] 
+
+### [Pas-de-Calais.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Hauts-de-France\departments~Hauts-de-FrancePas-de-Calais.public.md) 
+
+### [Pas-de-Calais.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Hauts-de-France\departments~Hauts-de-FrancePas-de-Calais.internal.md) 
+
+### [Pas-de-Calais.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Hauts-de-France\departments~Hauts-de-FrancePas-de-Calais.protect.md) 
+
+### [Pas-de-Calais.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Hauts-de-France\departments~Hauts-de-FrancePas-de-Calais.private.md) 
+
+### [Pas-de-Calais.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Hauts-de-France\departments~Hauts-de-FrancePas-de-Calais.personal.md) 
+
+### [Pas-de-Calais.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Hauts-de-France\departments~Hauts-de-FrancePas-de-Calais.secret.md)
 

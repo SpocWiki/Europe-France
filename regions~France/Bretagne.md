@@ -23,3 +23,20 @@ markerFolder: ./Bretagne//
 > At the 2010 census, the population of historic Brittany was estimated to be 4,475,295. In 2017, the largest metropolitan areas were Nantes (934,165 inhabitants), Rennes (733,320 inhabitants), and Brest (321,364 inhabitants). Brittany is the traditional homeland of the Breton people and is one of the six Celtic nations, retaining a distinct cultural identity that reflects its history. A nationalist movement seeks greater autonomy within the French Republic, or independence from it. The reunification of Brittany is supported by half of the inhabitants of Brittany and of Loire-Atlantique, and is considered a prerequisite to further autonomy.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Brittany)
+
+
+
+## Confidential Links & Embeds: 
+
+### [Bretagne.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~FranceBretagne.public.md) 
+
+### [Bretagne.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~FranceBretagne.internal.md) 
+
+### [Bretagne.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~FranceBretagne.protect.md) 
+
+### [Bretagne.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~FranceBretagne.private.md) 
+
+### [Bretagne.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~FranceBretagne.personal.md) 
+
+### [Bretagne.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~FranceBretagne.secret.md)
+

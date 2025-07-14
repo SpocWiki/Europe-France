@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~West/France/City/Chateau-Thierry|Chateau-Thierry]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~West/France/City/Chateau-Thierry.public|Chateau-Thierry.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~West/France/City/Chateau-Thierry.internal|Chateau-Thierry.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~West/France/City/Chateau-Thierry.protect|Chateau-Thierry.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~West/France/City/Chateau-Thierry.private|Chateau-Thierry.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~West/France/City/Chateau-Thierry.personal|Chateau-Thierry.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~West/France/City/Chateau-Thierry.secret|Chateau-Thierry.secret]] 
+
+### [Chateau-Thierry.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Hauts-de-France\departments~Hauts-de-France\Aisne\communes~Aisne\Château-Thierry\cities~Château-ThierryChateau-Thierry.public.md) 
+
+### [Chateau-Thierry.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Hauts-de-France\departments~Hauts-de-France\Aisne\communes~Aisne\Château-Thierry\cities~Château-ThierryChateau-Thierry.internal.md) 
+
+### [Chateau-Thierry.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Hauts-de-France\departments~Hauts-de-France\Aisne\communes~Aisne\Château-Thierry\cities~Château-ThierryChateau-Thierry.protect.md) 
+
+### [Chateau-Thierry.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Hauts-de-France\departments~Hauts-de-France\Aisne\communes~Aisne\Château-Thierry\cities~Château-ThierryChateau-Thierry.private.md) 
+
+### [Chateau-Thierry.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Hauts-de-France\departments~Hauts-de-France\Aisne\communes~Aisne\Château-Thierry\cities~Château-ThierryChateau-Thierry.personal.md) 
+
+### [Chateau-Thierry.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Hauts-de-France\departments~Hauts-de-France\Aisne\communes~Aisne\Château-Thierry\cities~Château-ThierryChateau-Thierry.secret.md)
+

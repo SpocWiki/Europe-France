@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~West/France/City/Vervins|Vervins]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~West/France/City/Vervins.public|Vervins.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~West/France/City/Vervins.internal|Vervins.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~West/France/City/Vervins.protect|Vervins.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~West/France/City/Vervins.private|Vervins.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~West/France/City/Vervins.personal|Vervins.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~West/France/City/Vervins.secret|Vervins.secret]] 
+
+### [Vervins.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Hauts-de-France\departments~Hauts-de-France\Aisne\communes~Aisne\Vervins\cities~VervinsVervins.public.md) 
+
+### [Vervins.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Hauts-de-France\departments~Hauts-de-France\Aisne\communes~Aisne\Vervins\cities~VervinsVervins.internal.md) 
+
+### [Vervins.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Hauts-de-France\departments~Hauts-de-France\Aisne\communes~Aisne\Vervins\cities~VervinsVervins.protect.md) 
+
+### [Vervins.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Hauts-de-France\departments~Hauts-de-France\Aisne\communes~Aisne\Vervins\cities~VervinsVervins.private.md) 
+
+### [Vervins.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Hauts-de-France\departments~Hauts-de-France\Aisne\communes~Aisne\Vervins\cities~VervinsVervins.personal.md) 
+
+### [Vervins.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Hauts-de-France\departments~Hauts-de-France\Aisne\communes~Aisne\Vervins\cities~VervinsVervins.secret.md)
+

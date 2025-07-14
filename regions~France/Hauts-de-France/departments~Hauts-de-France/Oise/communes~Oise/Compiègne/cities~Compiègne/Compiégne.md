@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~West/France/City/Compiégne|Compiégne]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~West/France/City/Compiégne.public|Compiégne.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~West/France/City/Compiégne.internal|Compiégne.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~West/France/City/Compiégne.protect|Compiégne.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~West/France/City/Compiégne.private|Compiégne.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~West/France/City/Compiégne.personal|Compiégne.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~West/France/City/Compiégne.secret|Compiégne.secret]] 
+
+### [Compiégne.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Hauts-de-France\departments~Hauts-de-France\Oise\communes~Oise\Compiègne\cities~CompiègneCompiégne.public.md) 
+
+### [Compiégne.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Hauts-de-France\departments~Hauts-de-France\Oise\communes~Oise\Compiègne\cities~CompiègneCompiégne.internal.md) 
+
+### [Compiégne.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Hauts-de-France\departments~Hauts-de-France\Oise\communes~Oise\Compiègne\cities~CompiègneCompiégne.protect.md) 
+
+### [Compiégne.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Hauts-de-France\departments~Hauts-de-France\Oise\communes~Oise\Compiègne\cities~CompiègneCompiégne.private.md) 
+
+### [Compiégne.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Hauts-de-France\departments~Hauts-de-France\Oise\communes~Oise\Compiègne\cities~CompiègneCompiégne.personal.md) 
+
+### [Compiégne.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Hauts-de-France\departments~Hauts-de-France\Oise\communes~Oise\Compiègne\cities~CompiègneCompiégne.secret.md)
+

@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~West/France/City/Biarritz|Biarritz]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~West/France/City/Biarritz.public|Biarritz.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~West/France/City/Biarritz.internal|Biarritz.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~West/France/City/Biarritz.protect|Biarritz.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~West/France/City/Biarritz.private|Biarritz.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~West/France/City/Biarritz.personal|Biarritz.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~West/France/City/Biarritz.secret|Biarritz.secret]] 
+
+### [Biarritz.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~Aquitaine\Pyrénées-Atlantiques\communes~Pyrénées-Atlantiques\Bayonne\cities~BayonneBiarritz.public.md) 
+
+### [Biarritz.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~Aquitaine\Pyrénées-Atlantiques\communes~Pyrénées-Atlantiques\Bayonne\cities~BayonneBiarritz.internal.md) 
+
+### [Biarritz.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~Aquitaine\Pyrénées-Atlantiques\communes~Pyrénées-Atlantiques\Bayonne\cities~BayonneBiarritz.protect.md) 
+
+### [Biarritz.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~Aquitaine\Pyrénées-Atlantiques\communes~Pyrénées-Atlantiques\Bayonne\cities~BayonneBiarritz.private.md) 
+
+### [Biarritz.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~Aquitaine\Pyrénées-Atlantiques\communes~Pyrénées-Atlantiques\Bayonne\cities~BayonneBiarritz.personal.md) 
+
+### [Biarritz.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~Aquitaine\Pyrénées-Atlantiques\communes~Pyrénées-Atlantiques\Bayonne\cities~BayonneBiarritz.secret.md)
+

@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~West/France/City/Oloron|Oloron]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~West/France/City/Oloron.public|Oloron.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~West/France/City/Oloron.internal|Oloron.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~West/France/City/Oloron.protect|Oloron.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~West/France/City/Oloron.private|Oloron.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~West/France/City/Oloron.personal|Oloron.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~West/France/City/Oloron.secret|Oloron.secret]] 
+
+### [Oloron.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~Aquitaine\Pyrénées-Atlantiques\communes~Pyrénées-Atlantiques\Oloron-Sainte-Marie\cities~Oloron-Sainte-MarieOloron.public.md) 
+
+### [Oloron.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~Aquitaine\Pyrénées-Atlantiques\communes~Pyrénées-Atlantiques\Oloron-Sainte-Marie\cities~Oloron-Sainte-MarieOloron.internal.md) 
+
+### [Oloron.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~Aquitaine\Pyrénées-Atlantiques\communes~Pyrénées-Atlantiques\Oloron-Sainte-Marie\cities~Oloron-Sainte-MarieOloron.protect.md) 
+
+### [Oloron.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~Aquitaine\Pyrénées-Atlantiques\communes~Pyrénées-Atlantiques\Oloron-Sainte-Marie\cities~Oloron-Sainte-MarieOloron.private.md) 
+
+### [Oloron.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~Aquitaine\Pyrénées-Atlantiques\communes~Pyrénées-Atlantiques\Oloron-Sainte-Marie\cities~Oloron-Sainte-MarieOloron.personal.md) 
+
+### [Oloron.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~Aquitaine\Pyrénées-Atlantiques\communes~Pyrénées-Atlantiques\Oloron-Sainte-Marie\cities~Oloron-Sainte-MarieOloron.secret.md)
+

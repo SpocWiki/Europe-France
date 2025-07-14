@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~West/France/City/Romorantin|Romorantin]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~West/France/City/Romorantin.public|Romorantin.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~West/France/City/Romorantin.internal|Romorantin.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~West/France/City/Romorantin.protect|Romorantin.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~West/France/City/Romorantin.private|Romorantin.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~West/France/City/Romorantin.personal|Romorantin.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~West/France/City/Romorantin.secret|Romorantin.secret]] 
+
+### [Romorantin.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Val_de_Loire\departments~Val_de_Loire\Loir-et-Cher\communes~Loir-et-Cher\Romorantin-Lanthenay\cities~Romorantin-LanthenayRomorantin.public.md) 
+
+### [Romorantin.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Val_de_Loire\departments~Val_de_Loire\Loir-et-Cher\communes~Loir-et-Cher\Romorantin-Lanthenay\cities~Romorantin-LanthenayRomorantin.internal.md) 
+
+### [Romorantin.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Val_de_Loire\departments~Val_de_Loire\Loir-et-Cher\communes~Loir-et-Cher\Romorantin-Lanthenay\cities~Romorantin-LanthenayRomorantin.protect.md) 
+
+### [Romorantin.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Val_de_Loire\departments~Val_de_Loire\Loir-et-Cher\communes~Loir-et-Cher\Romorantin-Lanthenay\cities~Romorantin-LanthenayRomorantin.private.md) 
+
+### [Romorantin.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Val_de_Loire\departments~Val_de_Loire\Loir-et-Cher\communes~Loir-et-Cher\Romorantin-Lanthenay\cities~Romorantin-LanthenayRomorantin.personal.md) 
+
+### [Romorantin.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Val_de_Loire\departments~Val_de_Loire\Loir-et-Cher\communes~Loir-et-Cher\Romorantin-Lanthenay\cities~Romorantin-LanthenayRomorantin.secret.md)
+

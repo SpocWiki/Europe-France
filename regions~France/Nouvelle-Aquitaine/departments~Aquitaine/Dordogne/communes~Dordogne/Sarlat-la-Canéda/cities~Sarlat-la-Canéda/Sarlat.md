@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~West/France/City/Sarlat|Sarlat]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~West/France/City/Sarlat.public|Sarlat.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~West/France/City/Sarlat.internal|Sarlat.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~West/France/City/Sarlat.protect|Sarlat.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~West/France/City/Sarlat.private|Sarlat.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~West/France/City/Sarlat.personal|Sarlat.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~West/France/City/Sarlat.secret|Sarlat.secret]] 
+
+### [Sarlat.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~Aquitaine\Dordogne\communes~Dordogne\Sarlat-la-Canéda\cities~Sarlat-la-CanédaSarlat.public.md) 
+
+### [Sarlat.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~Aquitaine\Dordogne\communes~Dordogne\Sarlat-la-Canéda\cities~Sarlat-la-CanédaSarlat.internal.md) 
+
+### [Sarlat.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~Aquitaine\Dordogne\communes~Dordogne\Sarlat-la-Canéda\cities~Sarlat-la-CanédaSarlat.protect.md) 
+
+### [Sarlat.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~Aquitaine\Dordogne\communes~Dordogne\Sarlat-la-Canéda\cities~Sarlat-la-CanédaSarlat.private.md) 
+
+### [Sarlat.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~Aquitaine\Dordogne\communes~Dordogne\Sarlat-la-Canéda\cities~Sarlat-la-CanédaSarlat.personal.md) 
+
+### [Sarlat.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~Aquitaine\Dordogne\communes~Dordogne\Sarlat-la-Canéda\cities~Sarlat-la-CanédaSarlat.secret.md)
+

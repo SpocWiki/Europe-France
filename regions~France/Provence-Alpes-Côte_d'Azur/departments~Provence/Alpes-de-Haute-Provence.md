@@ -40,11 +40,16 @@ markerFolder: ./Département~Alpes-de-Haute-Provence/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/geo/Continent/egions/Provence-Alpes-Côte d'Azur/Département~Alpes-de-Haute-Provence|Département~Alpes-de-Haute-Provence]] 
-- [[../../../../../_public/geo/Continent/egions/Provence-Alpes-Côte d'Azur/Département~Alpes-de-Haute-Provence.public|Département~Alpes-de-Haute-Provence.public]] 
-- [[../../../../../_internal/geo/Continent/egions/Provence-Alpes-Côte d'Azur/Département~Alpes-de-Haute-Provence.internal|Département~Alpes-de-Haute-Provence.internal]] 
-- [[../../../../../_protect/geo/Continent/egions/Provence-Alpes-Côte d'Azur/Département~Alpes-de-Haute-Provence.protect|Département~Alpes-de-Haute-Provence.protect]] 
-- [[../../../../../_private/geo/Continent/egions/Provence-Alpes-Côte d'Azur/Département~Alpes-de-Haute-Provence.private|Département~Alpes-de-Haute-Provence.private]] 
-- [[../../../../../_personal/geo/Continent/egions/Provence-Alpes-Côte d'Azur/Département~Alpes-de-Haute-Provence.personal|Département~Alpes-de-Haute-Provence.personal]] 
-- [[../../../../../_secret/geo/Continent/egions/Provence-Alpes-Côte d'Azur/Département~Alpes-de-Haute-Provence.secret|Département~Alpes-de-Haute-Provence.secret]] 
+
+### [Alpes-de-Haute-Provence.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Provence-Alpes-Côte_d'Azur\departments~ProvenceAlpes-de-Haute-Provence.public.md) 
+
+### [Alpes-de-Haute-Provence.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Provence-Alpes-Côte_d'Azur\departments~ProvenceAlpes-de-Haute-Provence.internal.md) 
+
+### [Alpes-de-Haute-Provence.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Provence-Alpes-Côte_d'Azur\departments~ProvenceAlpes-de-Haute-Provence.protect.md) 
+
+### [Alpes-de-Haute-Provence.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Provence-Alpes-Côte_d'Azur\departments~ProvenceAlpes-de-Haute-Provence.private.md) 
+
+### [Alpes-de-Haute-Provence.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Provence-Alpes-Côte_d'Azur\departments~ProvenceAlpes-de-Haute-Provence.personal.md) 
+
+### [Alpes-de-Haute-Provence.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Provence-Alpes-Côte_d'Azur\departments~ProvenceAlpes-de-Haute-Provence.secret.md)
 

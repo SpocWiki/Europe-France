@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~West/France/City/Ales|Ales]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~West/France/City/Ales.public|Ales.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~West/France/City/Ales.internal|Ales.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~West/France/City/Ales.protect|Ales.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~West/France/City/Ales.private|Ales.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~West/France/City/Ales.personal|Ales.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~West/France/City/Ales.secret|Ales.secret]] 
+
+### [Ales.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~Occitanie\Gard\communes~Gard\Alès\cities~AlèsAles.public.md) 
+
+### [Ales.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~Occitanie\Gard\communes~Gard\Alès\cities~AlèsAles.internal.md) 
+
+### [Ales.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~Occitanie\Gard\communes~Gard\Alès\cities~AlèsAles.protect.md) 
+
+### [Ales.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~Occitanie\Gard\communes~Gard\Alès\cities~AlèsAles.private.md) 
+
+### [Ales.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~Occitanie\Gard\communes~Gard\Alès\cities~AlèsAles.personal.md) 
+
+### [Ales.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~Occitanie\Gard\communes~Gard\Alès\cities~AlèsAles.secret.md)
+

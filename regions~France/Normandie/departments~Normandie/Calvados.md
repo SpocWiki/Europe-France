@@ -40,11 +40,16 @@ markerFolder: ./Département~Calvados/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../_Standards/geo/Continent/Europe/Europe~West/France/Counties/Normandie/Département~Calvados|Département~Calvados]] 
-- [[../../../../../../../../_public/geo/Continent/Europe/Europe~West/France/Counties/Normandie/Département~Calvados.public|Département~Calvados.public]] 
-- [[../../../../../../../../_internal/geo/Continent/Europe/Europe~West/France/Counties/Normandie/Département~Calvados.internal|Département~Calvados.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Europe~West/France/Counties/Normandie/Département~Calvados.protect|Département~Calvados.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Europe~West/France/Counties/Normandie/Département~Calvados.private|Département~Calvados.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Europe~West/France/Counties/Normandie/Département~Calvados.personal|Département~Calvados.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Europe~West/France/Counties/Normandie/Département~Calvados.secret|Département~Calvados.secret]] 
+
+### [Calvados.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Normandie\departments~NormandieCalvados.public.md) 
+
+### [Calvados.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Normandie\departments~NormandieCalvados.internal.md) 
+
+### [Calvados.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Normandie\departments~NormandieCalvados.protect.md) 
+
+### [Calvados.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Normandie\departments~NormandieCalvados.private.md) 
+
+### [Calvados.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Normandie\departments~NormandieCalvados.personal.md) 
+
+### [Calvados.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Normandie\departments~NormandieCalvados.secret.md)
 

@@ -40,11 +40,16 @@ markerFolder: ./Département~Hautes-Pyrénées/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../_Standards/geo/Continent/Europe/Europe~West/France/Counties/Occitanie/Département~Hautes-Pyrénées|Département~Hautes-Pyrénées]] 
-- [[../../../../../../../../_public/geo/Continent/Europe/Europe~West/France/Counties/Occitanie/Département~Hautes-Pyrénées.public|Département~Hautes-Pyrénées.public]] 
-- [[../../../../../../../../_internal/geo/Continent/Europe/Europe~West/France/Counties/Occitanie/Département~Hautes-Pyrénées.internal|Département~Hautes-Pyrénées.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Europe~West/France/Counties/Occitanie/Département~Hautes-Pyrénées.protect|Département~Hautes-Pyrénées.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Europe~West/France/Counties/Occitanie/Département~Hautes-Pyrénées.private|Département~Hautes-Pyrénées.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Europe~West/France/Counties/Occitanie/Département~Hautes-Pyrénées.personal|Département~Hautes-Pyrénées.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Europe~West/France/Counties/Occitanie/Département~Hautes-Pyrénées.secret|Département~Hautes-Pyrénées.secret]] 
+
+### [Hautes-Pyrénées.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~OccitanieHautes-Pyrénées.public.md) 
+
+### [Hautes-Pyrénées.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~OccitanieHautes-Pyrénées.internal.md) 
+
+### [Hautes-Pyrénées.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~OccitanieHautes-Pyrénées.protect.md) 
+
+### [Hautes-Pyrénées.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~OccitanieHautes-Pyrénées.private.md) 
+
+### [Hautes-Pyrénées.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~OccitanieHautes-Pyrénées.personal.md) 
+
+### [Hautes-Pyrénées.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~OccitanieHautes-Pyrénées.secret.md)
 

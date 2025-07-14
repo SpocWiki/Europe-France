@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~West/France/City/Fouras|Fouras]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~West/France/City/Fouras.public|Fouras.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~West/France/City/Fouras.internal|Fouras.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~West/France/City/Fouras.protect|Fouras.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~West/France/City/Fouras.private|Fouras.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~West/France/City/Fouras.personal|Fouras.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~West/France/City/Fouras.secret|Fouras.secret]] 
+
+### [Fouras.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~Aquitaine\Charente-Maritime\communes~Charente-Maritime\Rochefort\cities~RochefortFouras.public.md) 
+
+### [Fouras.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~Aquitaine\Charente-Maritime\communes~Charente-Maritime\Rochefort\cities~RochefortFouras.internal.md) 
+
+### [Fouras.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~Aquitaine\Charente-Maritime\communes~Charente-Maritime\Rochefort\cities~RochefortFouras.protect.md) 
+
+### [Fouras.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~Aquitaine\Charente-Maritime\communes~Charente-Maritime\Rochefort\cities~RochefortFouras.private.md) 
+
+### [Fouras.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~Aquitaine\Charente-Maritime\communes~Charente-Maritime\Rochefort\cities~RochefortFouras.personal.md) 
+
+### [Fouras.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~Aquitaine\Charente-Maritime\communes~Charente-Maritime\Rochefort\cities~RochefortFouras.secret.md)
+

@@ -40,11 +40,16 @@ markerFolder: ./Département~Yonne/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../_Standards/geo/Continent/Europe/Europe~West/France/Counties/Bourgogne-Franche-Comté/Département~Yonne|Département~Yonne]] 
-- [[../../../../../../../../_public/geo/Continent/Europe/Europe~West/France/Counties/Bourgogne-Franche-Comté/Département~Yonne.public|Département~Yonne.public]] 
-- [[../../../../../../../../_internal/geo/Continent/Europe/Europe~West/France/Counties/Bourgogne-Franche-Comté/Département~Yonne.internal|Département~Yonne.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Europe~West/France/Counties/Bourgogne-Franche-Comté/Département~Yonne.protect|Département~Yonne.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Europe~West/France/Counties/Bourgogne-Franche-Comté/Département~Yonne.private|Département~Yonne.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Europe~West/France/Counties/Bourgogne-Franche-Comté/Département~Yonne.personal|Département~Yonne.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Europe~West/France/Counties/Bourgogne-Franche-Comté/Département~Yonne.secret|Département~Yonne.secret]] 
+
+### [Yonne.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Bourgogne-Franche-Comté\departments~Bourgogne-Franche-ComtéYonne.public.md) 
+
+### [Yonne.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Bourgogne-Franche-Comté\departments~Bourgogne-Franche-ComtéYonne.internal.md) 
+
+### [Yonne.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Bourgogne-Franche-Comté\departments~Bourgogne-Franche-ComtéYonne.protect.md) 
+
+### [Yonne.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Bourgogne-Franche-Comté\departments~Bourgogne-Franche-ComtéYonne.private.md) 
+
+### [Yonne.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Bourgogne-Franche-Comté\departments~Bourgogne-Franche-ComtéYonne.personal.md) 
+
+### [Yonne.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Bourgogne-Franche-Comté\departments~Bourgogne-Franche-ComtéYonne.secret.md)
 

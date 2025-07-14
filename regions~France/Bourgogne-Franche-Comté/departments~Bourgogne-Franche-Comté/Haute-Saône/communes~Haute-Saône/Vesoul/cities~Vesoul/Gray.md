@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~West/France/City/Gray|Gray]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~West/France/City/Gray.public|Gray.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~West/France/City/Gray.internal|Gray.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~West/France/City/Gray.protect|Gray.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~West/France/City/Gray.private|Gray.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~West/France/City/Gray.personal|Gray.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~West/France/City/Gray.secret|Gray.secret]] 
+
+### [Gray.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Bourgogne-Franche-Comté\departments~Bourgogne-Franche-Comté\Haute-Saône\communes~Haute-Saône\Vesoul\cities~VesoulGray.public.md) 
+
+### [Gray.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Bourgogne-Franche-Comté\departments~Bourgogne-Franche-Comté\Haute-Saône\communes~Haute-Saône\Vesoul\cities~VesoulGray.internal.md) 
+
+### [Gray.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Bourgogne-Franche-Comté\departments~Bourgogne-Franche-Comté\Haute-Saône\communes~Haute-Saône\Vesoul\cities~VesoulGray.protect.md) 
+
+### [Gray.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Bourgogne-Franche-Comté\departments~Bourgogne-Franche-Comté\Haute-Saône\communes~Haute-Saône\Vesoul\cities~VesoulGray.private.md) 
+
+### [Gray.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Bourgogne-Franche-Comté\departments~Bourgogne-Franche-Comté\Haute-Saône\communes~Haute-Saône\Vesoul\cities~VesoulGray.personal.md) 
+
+### [Gray.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Bourgogne-Franche-Comté\departments~Bourgogne-Franche-Comté\Haute-Saône\communes~Haute-Saône\Vesoul\cities~VesoulGray.secret.md)
+

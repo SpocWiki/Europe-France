@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~West/France/City/Tours|Tours]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~West/France/City/Tours.public|Tours.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~West/France/City/Tours.internal|Tours.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~West/France/City/Tours.protect|Tours.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~West/France/City/Tours.private|Tours.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~West/France/City/Tours.personal|Tours.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~West/France/City/Tours.secret|Tours.secret]] 
+
+### [Tours.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Val_de_Loire\departments~Val_de_Loire\Indre-et-Loire\communes~Indre-et-Loire\Tours\cities~ToursTours.public.md) 
+
+### [Tours.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Val_de_Loire\departments~Val_de_Loire\Indre-et-Loire\communes~Indre-et-Loire\Tours\cities~ToursTours.internal.md) 
+
+### [Tours.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Val_de_Loire\departments~Val_de_Loire\Indre-et-Loire\communes~Indre-et-Loire\Tours\cities~ToursTours.protect.md) 
+
+### [Tours.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Val_de_Loire\departments~Val_de_Loire\Indre-et-Loire\communes~Indre-et-Loire\Tours\cities~ToursTours.private.md) 
+
+### [Tours.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Val_de_Loire\departments~Val_de_Loire\Indre-et-Loire\communes~Indre-et-Loire\Tours\cities~ToursTours.personal.md) 
+
+### [Tours.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Val_de_Loire\departments~Val_de_Loire\Indre-et-Loire\communes~Indre-et-Loire\Tours\cities~ToursTours.secret.md)
+

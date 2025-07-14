@@ -40,11 +40,16 @@ markerFolder: ./Département~Côtes-d'Armor/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../_Standards/geo/Continent/Europe/Europe~West/France/Counties/Bretagne/Département~Côtes-d'Armor|Département~Côtes-d'Armor]] 
-- [[../../../../../../../../_public/geo/Continent/Europe/Europe~West/France/Counties/Bretagne/Département~Côtes-d'Armor.public|Département~Côtes-d'Armor.public]] 
-- [[../../../../../../../../_internal/geo/Continent/Europe/Europe~West/France/Counties/Bretagne/Département~Côtes-d'Armor.internal|Département~Côtes-d'Armor.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Europe~West/France/Counties/Bretagne/Département~Côtes-d'Armor.protect|Département~Côtes-d'Armor.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Europe~West/France/Counties/Bretagne/Département~Côtes-d'Armor.private|Département~Côtes-d'Armor.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Europe~West/France/Counties/Bretagne/Département~Côtes-d'Armor.personal|Département~Côtes-d'Armor.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Europe~West/France/Counties/Bretagne/Département~Côtes-d'Armor.secret|Département~Côtes-d'Armor.secret]] 
+
+### [Côtes-d'Armor.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Bretagne\departments~BretagneCôtes-d'Armor.public.md) 
+
+### [Côtes-d'Armor.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Bretagne\departments~BretagneCôtes-d'Armor.internal.md) 
+
+### [Côtes-d'Armor.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Bretagne\departments~BretagneCôtes-d'Armor.protect.md) 
+
+### [Côtes-d'Armor.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Bretagne\departments~BretagneCôtes-d'Armor.private.md) 
+
+### [Côtes-d'Armor.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Bretagne\departments~BretagneCôtes-d'Armor.personal.md) 
+
+### [Côtes-d'Armor.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Bretagne\departments~BretagneCôtes-d'Armor.secret.md)
 

@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~West/France/City/St.Nazaire|St.Nazaire]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~West/France/City/St.Nazaire.public|St.Nazaire.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~West/France/City/St.Nazaire.internal|St.Nazaire.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~West/France/City/St.Nazaire.protect|St.Nazaire.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~West/France/City/St.Nazaire.private|St.Nazaire.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~West/France/City/St.Nazaire.personal|St.Nazaire.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~West/France/City/St.Nazaire.secret|St.Nazaire.secret]] 
+
+### [St.Nazaire.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Pays_de_la_Loire\departments~Pays_de_la_Loire\Loire-Atlantique\communes~Loire-Atlantique\Saint-Nazaire\cities~Saint-NazaireSt.Nazaire.public.md) 
+
+### [St.Nazaire.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Pays_de_la_Loire\departments~Pays_de_la_Loire\Loire-Atlantique\communes~Loire-Atlantique\Saint-Nazaire\cities~Saint-NazaireSt.Nazaire.internal.md) 
+
+### [St.Nazaire.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Pays_de_la_Loire\departments~Pays_de_la_Loire\Loire-Atlantique\communes~Loire-Atlantique\Saint-Nazaire\cities~Saint-NazaireSt.Nazaire.protect.md) 
+
+### [St.Nazaire.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Pays_de_la_Loire\departments~Pays_de_la_Loire\Loire-Atlantique\communes~Loire-Atlantique\Saint-Nazaire\cities~Saint-NazaireSt.Nazaire.private.md) 
+
+### [St.Nazaire.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Pays_de_la_Loire\departments~Pays_de_la_Loire\Loire-Atlantique\communes~Loire-Atlantique\Saint-Nazaire\cities~Saint-NazaireSt.Nazaire.personal.md) 
+
+### [St.Nazaire.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Pays_de_la_Loire\departments~Pays_de_la_Loire\Loire-Atlantique\communes~Loire-Atlantique\Saint-Nazaire\cities~Saint-NazaireSt.Nazaire.secret.md)
+

@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~West/France/City/Valmy|Valmy]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~West/France/City/Valmy.public|Valmy.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~West/France/City/Valmy.internal|Valmy.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~West/France/City/Valmy.protect|Valmy.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~West/France/City/Valmy.private|Valmy.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~West/France/City/Valmy.personal|Valmy.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~West/France/City/Valmy.secret|Valmy.secret]] 
+
+### [Valmy.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Grand_Est\departments~Grand_Est\Marne\communes~Marne\Sainte-Menehould\cities~Sainte-MenehouldValmy.public.md) 
+
+### [Valmy.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Grand_Est\departments~Grand_Est\Marne\communes~Marne\Sainte-Menehould\cities~Sainte-MenehouldValmy.internal.md) 
+
+### [Valmy.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Grand_Est\departments~Grand_Est\Marne\communes~Marne\Sainte-Menehould\cities~Sainte-MenehouldValmy.protect.md) 
+
+### [Valmy.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Grand_Est\departments~Grand_Est\Marne\communes~Marne\Sainte-Menehould\cities~Sainte-MenehouldValmy.private.md) 
+
+### [Valmy.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Grand_Est\departments~Grand_Est\Marne\communes~Marne\Sainte-Menehould\cities~Sainte-MenehouldValmy.personal.md) 
+
+### [Valmy.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Grand_Est\departments~Grand_Est\Marne\communes~Marne\Sainte-Menehould\cities~Sainte-MenehouldValmy.secret.md)
+

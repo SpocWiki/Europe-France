@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~West/France/City/Montargis|Montargis]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~West/France/City/Montargis.public|Montargis.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~West/France/City/Montargis.internal|Montargis.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~West/France/City/Montargis.protect|Montargis.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~West/France/City/Montargis.private|Montargis.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~West/France/City/Montargis.personal|Montargis.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~West/France/City/Montargis.secret|Montargis.secret]] 
+
+### [Montargis.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Val_de_Loire\departments~Val_de_Loire\Loiret\communes~Loiret\Montargis\cities~MontargisMontargis.public.md) 
+
+### [Montargis.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Val_de_Loire\departments~Val_de_Loire\Loiret\communes~Loiret\Montargis\cities~MontargisMontargis.internal.md) 
+
+### [Montargis.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Val_de_Loire\departments~Val_de_Loire\Loiret\communes~Loiret\Montargis\cities~MontargisMontargis.protect.md) 
+
+### [Montargis.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Val_de_Loire\departments~Val_de_Loire\Loiret\communes~Loiret\Montargis\cities~MontargisMontargis.private.md) 
+
+### [Montargis.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Val_de_Loire\departments~Val_de_Loire\Loiret\communes~Loiret\Montargis\cities~MontargisMontargis.personal.md) 
+
+### [Montargis.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Val_de_Loire\departments~Val_de_Loire\Loiret\communes~Loiret\Montargis\cities~MontargisMontargis.secret.md)
+

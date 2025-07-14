@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~West/France/City/Pontivy|Pontivy]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~West/France/City/Pontivy.public|Pontivy.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~West/France/City/Pontivy.internal|Pontivy.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~West/France/City/Pontivy.protect|Pontivy.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~West/France/City/Pontivy.private|Pontivy.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~West/France/City/Pontivy.personal|Pontivy.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~West/France/City/Pontivy.secret|Pontivy.secret]] 
+
+### [Pontivy.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Bretagne\departments~Bretagne\Morbihan\communes~Morbihan\Pontivy\cities~PontivyPontivy.public.md) 
+
+### [Pontivy.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Bretagne\departments~Bretagne\Morbihan\communes~Morbihan\Pontivy\cities~PontivyPontivy.internal.md) 
+
+### [Pontivy.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Bretagne\departments~Bretagne\Morbihan\communes~Morbihan\Pontivy\cities~PontivyPontivy.protect.md) 
+
+### [Pontivy.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Bretagne\departments~Bretagne\Morbihan\communes~Morbihan\Pontivy\cities~PontivyPontivy.private.md) 
+
+### [Pontivy.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Bretagne\departments~Bretagne\Morbihan\communes~Morbihan\Pontivy\cities~PontivyPontivy.personal.md) 
+
+### [Pontivy.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Bretagne\departments~Bretagne\Morbihan\communes~Morbihan\Pontivy\cities~PontivyPontivy.secret.md)
+

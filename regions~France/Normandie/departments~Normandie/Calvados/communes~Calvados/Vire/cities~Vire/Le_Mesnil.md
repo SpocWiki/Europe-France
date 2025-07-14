@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~West/France/City/Le_Mesnil|Le_Mesnil]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~West/France/City/Le_Mesnil.public|Le_Mesnil.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~West/France/City/Le_Mesnil.internal|Le_Mesnil.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~West/France/City/Le_Mesnil.protect|Le_Mesnil.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~West/France/City/Le_Mesnil.private|Le_Mesnil.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~West/France/City/Le_Mesnil.personal|Le_Mesnil.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~West/France/City/Le_Mesnil.secret|Le_Mesnil.secret]] 
+
+### [Le_Mesnil.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Normandie\departments~Normandie\Calvados\communes~Calvados\Vire\cities~VireLe_Mesnil.public.md) 
+
+### [Le_Mesnil.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Normandie\departments~Normandie\Calvados\communes~Calvados\Vire\cities~VireLe_Mesnil.internal.md) 
+
+### [Le_Mesnil.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Normandie\departments~Normandie\Calvados\communes~Calvados\Vire\cities~VireLe_Mesnil.protect.md) 
+
+### [Le_Mesnil.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Normandie\departments~Normandie\Calvados\communes~Calvados\Vire\cities~VireLe_Mesnil.private.md) 
+
+### [Le_Mesnil.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Normandie\departments~Normandie\Calvados\communes~Calvados\Vire\cities~VireLe_Mesnil.personal.md) 
+
+### [Le_Mesnil.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Normandie\departments~Normandie\Calvados\communes~Calvados\Vire\cities~VireLe_Mesnil.secret.md)
+

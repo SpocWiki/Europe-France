@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~West/France/City/Boncourt|Boncourt]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~West/France/City/Boncourt.public|Boncourt.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~West/France/City/Boncourt.internal|Boncourt.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~West/France/City/Boncourt.protect|Boncourt.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~West/France/City/Boncourt.private|Boncourt.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~West/France/City/Boncourt.personal|Boncourt.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~West/France/City/Boncourt.secret|Boncourt.secret]] 
+
+### [Boncourt.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Bourgogne-Franche-Comté\departments~Bourgogne-Franche-Comté\Territoire_de_Belfort\communes~Territoire_de_Belfort\BelfortBoncourt.public.md) 
+
+### [Boncourt.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Bourgogne-Franche-Comté\departments~Bourgogne-Franche-Comté\Territoire_de_Belfort\communes~Territoire_de_Belfort\BelfortBoncourt.internal.md) 
+
+### [Boncourt.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Bourgogne-Franche-Comté\departments~Bourgogne-Franche-Comté\Territoire_de_Belfort\communes~Territoire_de_Belfort\BelfortBoncourt.protect.md) 
+
+### [Boncourt.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Bourgogne-Franche-Comté\departments~Bourgogne-Franche-Comté\Territoire_de_Belfort\communes~Territoire_de_Belfort\BelfortBoncourt.private.md) 
+
+### [Boncourt.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Bourgogne-Franche-Comté\departments~Bourgogne-Franche-Comté\Territoire_de_Belfort\communes~Territoire_de_Belfort\BelfortBoncourt.personal.md) 
+
+### [Boncourt.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Bourgogne-Franche-Comté\departments~Bourgogne-Franche-Comté\Territoire_de_Belfort\communes~Territoire_de_Belfort\BelfortBoncourt.secret.md)
+

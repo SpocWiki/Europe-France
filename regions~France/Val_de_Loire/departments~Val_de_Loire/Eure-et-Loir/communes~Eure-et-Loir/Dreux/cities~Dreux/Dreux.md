@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~West/France/City/Dreux|Dreux]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~West/France/City/Dreux.public|Dreux.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~West/France/City/Dreux.internal|Dreux.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~West/France/City/Dreux.protect|Dreux.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~West/France/City/Dreux.private|Dreux.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~West/France/City/Dreux.personal|Dreux.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~West/France/City/Dreux.secret|Dreux.secret]] 
+
+### [Dreux.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Val_de_Loire\departments~Val_de_Loire\Eure-et-Loir\communes~Eure-et-Loir\Dreux\cities~DreuxDreux.public.md) 
+
+### [Dreux.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Val_de_Loire\departments~Val_de_Loire\Eure-et-Loir\communes~Eure-et-Loir\Dreux\cities~DreuxDreux.internal.md) 
+
+### [Dreux.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Val_de_Loire\departments~Val_de_Loire\Eure-et-Loir\communes~Eure-et-Loir\Dreux\cities~DreuxDreux.protect.md) 
+
+### [Dreux.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Val_de_Loire\departments~Val_de_Loire\Eure-et-Loir\communes~Eure-et-Loir\Dreux\cities~DreuxDreux.private.md) 
+
+### [Dreux.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Val_de_Loire\departments~Val_de_Loire\Eure-et-Loir\communes~Eure-et-Loir\Dreux\cities~DreuxDreux.personal.md) 
+
+### [Dreux.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Val_de_Loire\departments~Val_de_Loire\Eure-et-Loir\communes~Eure-et-Loir\Dreux\cities~DreuxDreux.secret.md)
+

@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~West/France/City/Fréhel|Fréhel]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~West/France/City/Fréhel.public|Fréhel.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~West/France/City/Fréhel.internal|Fréhel.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~West/France/City/Fréhel.protect|Fréhel.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~West/France/City/Fréhel.private|Fréhel.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~West/France/City/Fréhel.personal|Fréhel.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~West/France/City/Fréhel.secret|Fréhel.secret]] 
+
+### [Fréhel.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Bretagne\departments~Bretagne\Côtes-d'Armor\communes~Côtes-d'Armor\Dinan\cities~DinanFréhel.public.md) 
+
+### [Fréhel.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Bretagne\departments~Bretagne\Côtes-d'Armor\communes~Côtes-d'Armor\Dinan\cities~DinanFréhel.internal.md) 
+
+### [Fréhel.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Bretagne\departments~Bretagne\Côtes-d'Armor\communes~Côtes-d'Armor\Dinan\cities~DinanFréhel.protect.md) 
+
+### [Fréhel.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Bretagne\departments~Bretagne\Côtes-d'Armor\communes~Côtes-d'Armor\Dinan\cities~DinanFréhel.private.md) 
+
+### [Fréhel.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Bretagne\departments~Bretagne\Côtes-d'Armor\communes~Côtes-d'Armor\Dinan\cities~DinanFréhel.personal.md) 
+
+### [Fréhel.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Bretagne\departments~Bretagne\Côtes-d'Armor\communes~Côtes-d'Armor\Dinan\cities~DinanFréhel.secret.md)
+

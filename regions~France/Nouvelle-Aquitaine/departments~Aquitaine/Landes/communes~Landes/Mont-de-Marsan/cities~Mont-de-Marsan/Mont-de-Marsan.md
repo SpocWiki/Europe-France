@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~West/France/City/Mont-de-Marsan|Mont-de-Marsan]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~West/France/City/Mont-de-Marsan.public|Mont-de-Marsan.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~West/France/City/Mont-de-Marsan.internal|Mont-de-Marsan.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~West/France/City/Mont-de-Marsan.protect|Mont-de-Marsan.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~West/France/City/Mont-de-Marsan.private|Mont-de-Marsan.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~West/France/City/Mont-de-Marsan.personal|Mont-de-Marsan.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~West/France/City/Mont-de-Marsan.secret|Mont-de-Marsan.secret]] 
+
+### [Mont-de-Marsan.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~Aquitaine\Landes\communes~Landes\Mont-de-Marsan\cities~Mont-de-MarsanMont-de-Marsan.public.md) 
+
+### [Mont-de-Marsan.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~Aquitaine\Landes\communes~Landes\Mont-de-Marsan\cities~Mont-de-MarsanMont-de-Marsan.internal.md) 
+
+### [Mont-de-Marsan.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~Aquitaine\Landes\communes~Landes\Mont-de-Marsan\cities~Mont-de-MarsanMont-de-Marsan.protect.md) 
+
+### [Mont-de-Marsan.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~Aquitaine\Landes\communes~Landes\Mont-de-Marsan\cities~Mont-de-MarsanMont-de-Marsan.private.md) 
+
+### [Mont-de-Marsan.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~Aquitaine\Landes\communes~Landes\Mont-de-Marsan\cities~Mont-de-MarsanMont-de-Marsan.personal.md) 
+
+### [Mont-de-Marsan.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~Aquitaine\Landes\communes~Landes\Mont-de-Marsan\cities~Mont-de-MarsanMont-de-Marsan.secret.md)
+

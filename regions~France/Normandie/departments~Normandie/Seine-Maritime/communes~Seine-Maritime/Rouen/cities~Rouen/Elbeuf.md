@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~West/France/City/Elbeuf|Elbeuf]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~West/France/City/Elbeuf.public|Elbeuf.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~West/France/City/Elbeuf.internal|Elbeuf.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~West/France/City/Elbeuf.protect|Elbeuf.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~West/France/City/Elbeuf.private|Elbeuf.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~West/France/City/Elbeuf.personal|Elbeuf.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~West/France/City/Elbeuf.secret|Elbeuf.secret]] 
+
+### [Elbeuf.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Normandie\departments~Normandie\Seine-Maritime\communes~Seine-Maritime\Rouen\cities~RouenElbeuf.public.md) 
+
+### [Elbeuf.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Normandie\departments~Normandie\Seine-Maritime\communes~Seine-Maritime\Rouen\cities~RouenElbeuf.internal.md) 
+
+### [Elbeuf.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Normandie\departments~Normandie\Seine-Maritime\communes~Seine-Maritime\Rouen\cities~RouenElbeuf.protect.md) 
+
+### [Elbeuf.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Normandie\departments~Normandie\Seine-Maritime\communes~Seine-Maritime\Rouen\cities~RouenElbeuf.private.md) 
+
+### [Elbeuf.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Normandie\departments~Normandie\Seine-Maritime\communes~Seine-Maritime\Rouen\cities~RouenElbeuf.personal.md) 
+
+### [Elbeuf.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Normandie\departments~Normandie\Seine-Maritime\communes~Seine-Maritime\Rouen\cities~RouenElbeuf.secret.md)
+

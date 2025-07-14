@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~West/France/City/Gravelines|Gravelines]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~West/France/City/Gravelines.public|Gravelines.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~West/France/City/Gravelines.internal|Gravelines.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~West/France/City/Gravelines.protect|Gravelines.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~West/France/City/Gravelines.private|Gravelines.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~West/France/City/Gravelines.personal|Gravelines.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~West/France/City/Gravelines.secret|Gravelines.secret]] 
+
+### [Gravelines.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Hauts-de-France\departments~Hauts-de-France\Hauts-de-France~Nord\communes~Nord\Dunkerque\cities~DunkerqueGravelines.public.md) 
+
+### [Gravelines.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Hauts-de-France\departments~Hauts-de-France\Hauts-de-France~Nord\communes~Nord\Dunkerque\cities~DunkerqueGravelines.internal.md) 
+
+### [Gravelines.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Hauts-de-France\departments~Hauts-de-France\Hauts-de-France~Nord\communes~Nord\Dunkerque\cities~DunkerqueGravelines.protect.md) 
+
+### [Gravelines.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Hauts-de-France\departments~Hauts-de-France\Hauts-de-France~Nord\communes~Nord\Dunkerque\cities~DunkerqueGravelines.private.md) 
+
+### [Gravelines.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Hauts-de-France\departments~Hauts-de-France\Hauts-de-France~Nord\communes~Nord\Dunkerque\cities~DunkerqueGravelines.personal.md) 
+
+### [Gravelines.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Hauts-de-France\departments~Hauts-de-France\Hauts-de-France~Nord\communes~Nord\Dunkerque\cities~DunkerqueGravelines.secret.md)
+

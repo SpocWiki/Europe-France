@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~West/France/City/Civray|Civray]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~West/France/City/Civray.public|Civray.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~West/France/City/Civray.internal|Civray.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~West/France/City/Civray.protect|Civray.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~West/France/City/Civray.private|Civray.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~West/France/City/Civray.personal|Civray.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~West/France/City/Civray.secret|Civray.secret]] 
+
+### [Civray.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~Aquitaine\Vienne\communes~Vienne\Montmorillon\cities~MontmorillonCivray.public.md) 
+
+### [Civray.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~Aquitaine\Vienne\communes~Vienne\Montmorillon\cities~MontmorillonCivray.internal.md) 
+
+### [Civray.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~Aquitaine\Vienne\communes~Vienne\Montmorillon\cities~MontmorillonCivray.protect.md) 
+
+### [Civray.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~Aquitaine\Vienne\communes~Vienne\Montmorillon\cities~MontmorillonCivray.private.md) 
+
+### [Civray.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~Aquitaine\Vienne\communes~Vienne\Montmorillon\cities~MontmorillonCivray.personal.md) 
+
+### [Civray.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~Aquitaine\Vienne\communes~Vienne\Montmorillon\cities~MontmorillonCivray.secret.md)
+

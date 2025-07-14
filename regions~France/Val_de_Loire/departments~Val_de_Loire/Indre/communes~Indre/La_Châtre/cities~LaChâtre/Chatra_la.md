@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~West/France/City/Chatra_la|Chatra_la]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~West/France/City/Chatra_la.public|Chatra_la.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~West/France/City/Chatra_la.internal|Chatra_la.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~West/France/City/Chatra_la.protect|Chatra_la.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~West/France/City/Chatra_la.private|Chatra_la.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~West/France/City/Chatra_la.personal|Chatra_la.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~West/France/City/Chatra_la.secret|Chatra_la.secret]] 
+
+### [Chatra_la.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Val_de_Loire\departments~Val_de_Loire\Indre\communes~Indre\La_Châtre\cities~LaChâtreChatra_la.public.md) 
+
+### [Chatra_la.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Val_de_Loire\departments~Val_de_Loire\Indre\communes~Indre\La_Châtre\cities~LaChâtreChatra_la.internal.md) 
+
+### [Chatra_la.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Val_de_Loire\departments~Val_de_Loire\Indre\communes~Indre\La_Châtre\cities~LaChâtreChatra_la.protect.md) 
+
+### [Chatra_la.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Val_de_Loire\departments~Val_de_Loire\Indre\communes~Indre\La_Châtre\cities~LaChâtreChatra_la.private.md) 
+
+### [Chatra_la.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Val_de_Loire\departments~Val_de_Loire\Indre\communes~Indre\La_Châtre\cities~LaChâtreChatra_la.personal.md) 
+
+### [Chatra_la.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Val_de_Loire\departments~Val_de_Loire\Indre\communes~Indre\La_Châtre\cities~LaChâtreChatra_la.secret.md)
+

@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~West/France/City/Bethune|Bethune]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~West/France/City/Bethune.public|Bethune.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~West/France/City/Bethune.internal|Bethune.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~West/France/City/Bethune.protect|Bethune.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~West/France/City/Bethune.private|Bethune.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~West/France/City/Bethune.personal|Bethune.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~West/France/City/Bethune.secret|Bethune.secret]] 
+
+### [Bethune.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Hauts-de-France\departments~Hauts-de-France\Pas-de-Calais\communes~Pas-de-Calais\Béthune\cities~BéthuneBethune.public.md) 
+
+### [Bethune.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Hauts-de-France\departments~Hauts-de-France\Pas-de-Calais\communes~Pas-de-Calais\Béthune\cities~BéthuneBethune.internal.md) 
+
+### [Bethune.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Hauts-de-France\departments~Hauts-de-France\Pas-de-Calais\communes~Pas-de-Calais\Béthune\cities~BéthuneBethune.protect.md) 
+
+### [Bethune.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Hauts-de-France\departments~Hauts-de-France\Pas-de-Calais\communes~Pas-de-Calais\Béthune\cities~BéthuneBethune.private.md) 
+
+### [Bethune.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Hauts-de-France\departments~Hauts-de-France\Pas-de-Calais\communes~Pas-de-Calais\Béthune\cities~BéthuneBethune.personal.md) 
+
+### [Bethune.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Hauts-de-France\departments~Hauts-de-France\Pas-de-Calais\communes~Pas-de-Calais\Béthune\cities~BéthuneBethune.secret.md)
+

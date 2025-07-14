@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~West/France/City/Bressuire|Bressuire]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~West/France/City/Bressuire.public|Bressuire.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~West/France/City/Bressuire.internal|Bressuire.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~West/France/City/Bressuire.protect|Bressuire.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~West/France/City/Bressuire.private|Bressuire.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~West/France/City/Bressuire.personal|Bressuire.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~West/France/City/Bressuire.secret|Bressuire.secret]] 
+
+### [Bressuire.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~Aquitaine\Deux-Sèvres\communes~Deux-Sèvres\Bressuire\cities~BressuireBressuire.public.md) 
+
+### [Bressuire.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~Aquitaine\Deux-Sèvres\communes~Deux-Sèvres\Bressuire\cities~BressuireBressuire.internal.md) 
+
+### [Bressuire.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~Aquitaine\Deux-Sèvres\communes~Deux-Sèvres\Bressuire\cities~BressuireBressuire.protect.md) 
+
+### [Bressuire.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~Aquitaine\Deux-Sèvres\communes~Deux-Sèvres\Bressuire\cities~BressuireBressuire.private.md) 
+
+### [Bressuire.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~Aquitaine\Deux-Sèvres\communes~Deux-Sèvres\Bressuire\cities~BressuireBressuire.personal.md) 
+
+### [Bressuire.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~Aquitaine\Deux-Sèvres\communes~Deux-Sèvres\Bressuire\cities~BressuireBressuire.secret.md)
+

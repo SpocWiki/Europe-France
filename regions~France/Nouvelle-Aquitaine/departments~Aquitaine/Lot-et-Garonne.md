@@ -40,11 +40,16 @@ markerFolder: ./Département~Lot-et-Garonne/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/geo/Continent/egions/Nouvelle-Aquitaine/Département~Lot-et-Garonne|Département~Lot-et-Garonne]] 
-- [[../../../../../_public/geo/Continent/egions/Nouvelle-Aquitaine/Département~Lot-et-Garonne.public|Département~Lot-et-Garonne.public]] 
-- [[../../../../../_internal/geo/Continent/egions/Nouvelle-Aquitaine/Département~Lot-et-Garonne.internal|Département~Lot-et-Garonne.internal]] 
-- [[../../../../../_protect/geo/Continent/egions/Nouvelle-Aquitaine/Département~Lot-et-Garonne.protect|Département~Lot-et-Garonne.protect]] 
-- [[../../../../../_private/geo/Continent/egions/Nouvelle-Aquitaine/Département~Lot-et-Garonne.private|Département~Lot-et-Garonne.private]] 
-- [[../../../../../_personal/geo/Continent/egions/Nouvelle-Aquitaine/Département~Lot-et-Garonne.personal|Département~Lot-et-Garonne.personal]] 
-- [[../../../../../_secret/geo/Continent/egions/Nouvelle-Aquitaine/Département~Lot-et-Garonne.secret|Département~Lot-et-Garonne.secret]] 
+
+### [Lot-et-Garonne.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~AquitaineLot-et-Garonne.public.md) 
+
+### [Lot-et-Garonne.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~AquitaineLot-et-Garonne.internal.md) 
+
+### [Lot-et-Garonne.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~AquitaineLot-et-Garonne.protect.md) 
+
+### [Lot-et-Garonne.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~AquitaineLot-et-Garonne.private.md) 
+
+### [Lot-et-Garonne.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~AquitaineLot-et-Garonne.personal.md) 
+
+### [Lot-et-Garonne.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~AquitaineLot-et-Garonne.secret.md)
 

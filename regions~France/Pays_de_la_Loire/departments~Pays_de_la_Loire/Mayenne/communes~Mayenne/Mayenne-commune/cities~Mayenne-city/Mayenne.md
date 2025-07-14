@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~West/France/City/Mayenne|Mayenne]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~West/France/City/Mayenne.public|Mayenne.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~West/France/City/Mayenne.internal|Mayenne.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~West/France/City/Mayenne.protect|Mayenne.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~West/France/City/Mayenne.private|Mayenne.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~West/France/City/Mayenne.personal|Mayenne.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~West/France/City/Mayenne.secret|Mayenne.secret]] 
+
+### [Mayenne.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Pays_de_la_Loire\departments~Pays_de_la_Loire\Mayenne\communes~Mayenne\Mayenne-commune\cities~Mayenne-cityMayenne.public.md) 
+
+### [Mayenne.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Pays_de_la_Loire\departments~Pays_de_la_Loire\Mayenne\communes~Mayenne\Mayenne-commune\cities~Mayenne-cityMayenne.internal.md) 
+
+### [Mayenne.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Pays_de_la_Loire\departments~Pays_de_la_Loire\Mayenne\communes~Mayenne\Mayenne-commune\cities~Mayenne-cityMayenne.protect.md) 
+
+### [Mayenne.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Pays_de_la_Loire\departments~Pays_de_la_Loire\Mayenne\communes~Mayenne\Mayenne-commune\cities~Mayenne-cityMayenne.private.md) 
+
+### [Mayenne.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Pays_de_la_Loire\departments~Pays_de_la_Loire\Mayenne\communes~Mayenne\Mayenne-commune\cities~Mayenne-cityMayenne.personal.md) 
+
+### [Mayenne.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Pays_de_la_Loire\departments~Pays_de_la_Loire\Mayenne\communes~Mayenne\Mayenne-commune\cities~Mayenne-cityMayenne.secret.md)
+

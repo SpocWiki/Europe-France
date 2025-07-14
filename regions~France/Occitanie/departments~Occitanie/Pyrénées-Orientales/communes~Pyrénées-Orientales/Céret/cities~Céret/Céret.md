@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~West/France/City/Céret|Céret]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~West/France/City/Céret.public|Céret.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~West/France/City/Céret.internal|Céret.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~West/France/City/Céret.protect|Céret.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~West/France/City/Céret.private|Céret.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~West/France/City/Céret.personal|Céret.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~West/France/City/Céret.secret|Céret.secret]] 
+
+### [Céret.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~Occitanie\Pyrénées-Orientales\communes~Pyrénées-Orientales\Céret\cities~CéretCéret.public.md) 
+
+### [Céret.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~Occitanie\Pyrénées-Orientales\communes~Pyrénées-Orientales\Céret\cities~CéretCéret.internal.md) 
+
+### [Céret.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~Occitanie\Pyrénées-Orientales\communes~Pyrénées-Orientales\Céret\cities~CéretCéret.protect.md) 
+
+### [Céret.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~Occitanie\Pyrénées-Orientales\communes~Pyrénées-Orientales\Céret\cities~CéretCéret.private.md) 
+
+### [Céret.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~Occitanie\Pyrénées-Orientales\communes~Pyrénées-Orientales\Céret\cities~CéretCéret.personal.md) 
+
+### [Céret.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~Occitanie\Pyrénées-Orientales\communes~Pyrénées-Orientales\Céret\cities~CéretCéret.secret.md)
+

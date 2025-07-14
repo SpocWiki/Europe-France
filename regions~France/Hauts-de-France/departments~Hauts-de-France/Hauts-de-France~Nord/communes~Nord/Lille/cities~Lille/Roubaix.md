@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~West/France/City/Roubaix|Roubaix]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~West/France/City/Roubaix.public|Roubaix.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~West/France/City/Roubaix.internal|Roubaix.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~West/France/City/Roubaix.protect|Roubaix.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~West/France/City/Roubaix.private|Roubaix.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~West/France/City/Roubaix.personal|Roubaix.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~West/France/City/Roubaix.secret|Roubaix.secret]] 
+
+### [Roubaix.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Hauts-de-France\departments~Hauts-de-France\Hauts-de-France~Nord\communes~Nord\Lille\cities~LilleRoubaix.public.md) 
+
+### [Roubaix.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Hauts-de-France\departments~Hauts-de-France\Hauts-de-France~Nord\communes~Nord\Lille\cities~LilleRoubaix.internal.md) 
+
+### [Roubaix.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Hauts-de-France\departments~Hauts-de-France\Hauts-de-France~Nord\communes~Nord\Lille\cities~LilleRoubaix.protect.md) 
+
+### [Roubaix.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Hauts-de-France\departments~Hauts-de-France\Hauts-de-France~Nord\communes~Nord\Lille\cities~LilleRoubaix.private.md) 
+
+### [Roubaix.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Hauts-de-France\departments~Hauts-de-France\Hauts-de-France~Nord\communes~Nord\Lille\cities~LilleRoubaix.personal.md) 
+
+### [Roubaix.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Hauts-de-France\departments~Hauts-de-France\Hauts-de-France~Nord\communes~Nord\Lille\cities~LilleRoubaix.secret.md)
+

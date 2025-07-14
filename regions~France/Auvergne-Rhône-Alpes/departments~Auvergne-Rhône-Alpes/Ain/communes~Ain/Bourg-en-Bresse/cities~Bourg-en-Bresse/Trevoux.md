@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~West/France/City/Trevoux|Trevoux]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~West/France/City/Trevoux.public|Trevoux.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~West/France/City/Trevoux.internal|Trevoux.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~West/France/City/Trevoux.protect|Trevoux.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~West/France/City/Trevoux.private|Trevoux.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~West/France/City/Trevoux.personal|Trevoux.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~West/France/City/Trevoux.secret|Trevoux.secret]] 
+
+### [Trevoux.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Auvergne-Rhône-Alpes\departments~Auvergne-Rhône-Alpes\Ain\communes~Ain\Bourg-en-Bresse\cities~Bourg-en-BresseTrevoux.public.md) 
+
+### [Trevoux.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Auvergne-Rhône-Alpes\departments~Auvergne-Rhône-Alpes\Ain\communes~Ain\Bourg-en-Bresse\cities~Bourg-en-BresseTrevoux.internal.md) 
+
+### [Trevoux.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Auvergne-Rhône-Alpes\departments~Auvergne-Rhône-Alpes\Ain\communes~Ain\Bourg-en-Bresse\cities~Bourg-en-BresseTrevoux.protect.md) 
+
+### [Trevoux.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Auvergne-Rhône-Alpes\departments~Auvergne-Rhône-Alpes\Ain\communes~Ain\Bourg-en-Bresse\cities~Bourg-en-BresseTrevoux.private.md) 
+
+### [Trevoux.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Auvergne-Rhône-Alpes\departments~Auvergne-Rhône-Alpes\Ain\communes~Ain\Bourg-en-Bresse\cities~Bourg-en-BresseTrevoux.personal.md) 
+
+### [Trevoux.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Auvergne-Rhône-Alpes\departments~Auvergne-Rhône-Alpes\Ain\communes~Ain\Bourg-en-Bresse\cities~Bourg-en-BresseTrevoux.secret.md)
+

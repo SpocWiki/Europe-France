@@ -40,11 +40,16 @@ markerFolder: ./Département~Manche/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../_Standards/geo/Continent/Europe/Europe~West/France/Counties/Normandie/Département~Manche|Département~Manche]] 
-- [[../../../../../../../../_public/geo/Continent/Europe/Europe~West/France/Counties/Normandie/Département~Manche.public|Département~Manche.public]] 
-- [[../../../../../../../../_internal/geo/Continent/Europe/Europe~West/France/Counties/Normandie/Département~Manche.internal|Département~Manche.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Europe~West/France/Counties/Normandie/Département~Manche.protect|Département~Manche.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Europe~West/France/Counties/Normandie/Département~Manche.private|Département~Manche.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Europe~West/France/Counties/Normandie/Département~Manche.personal|Département~Manche.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Europe~West/France/Counties/Normandie/Département~Manche.secret|Département~Manche.secret]] 
+
+### [Manche.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Normandie\departments~NormandieManche.public.md) 
+
+### [Manche.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Normandie\departments~NormandieManche.internal.md) 
+
+### [Manche.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Normandie\departments~NormandieManche.protect.md) 
+
+### [Manche.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Normandie\departments~NormandieManche.private.md) 
+
+### [Manche.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Normandie\departments~NormandieManche.personal.md) 
+
+### [Manche.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Normandie\departments~NormandieManche.secret.md)
 

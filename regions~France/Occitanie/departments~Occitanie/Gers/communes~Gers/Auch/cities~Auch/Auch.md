@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~West/France/City/Auch|Auch]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~West/France/City/Auch.public|Auch.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~West/France/City/Auch.internal|Auch.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~West/France/City/Auch.protect|Auch.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~West/France/City/Auch.private|Auch.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~West/France/City/Auch.personal|Auch.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~West/France/City/Auch.secret|Auch.secret]] 
+
+### [Auch.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~Occitanie\Gers\communes~Gers\Auch\cities~AuchAuch.public.md) 
+
+### [Auch.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~Occitanie\Gers\communes~Gers\Auch\cities~AuchAuch.internal.md) 
+
+### [Auch.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~Occitanie\Gers\communes~Gers\Auch\cities~AuchAuch.protect.md) 
+
+### [Auch.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~Occitanie\Gers\communes~Gers\Auch\cities~AuchAuch.private.md) 
+
+### [Auch.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~Occitanie\Gers\communes~Gers\Auch\cities~AuchAuch.personal.md) 
+
+### [Auch.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~Occitanie\Gers\communes~Gers\Auch\cities~AuchAuch.secret.md)
+

@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~West/France/City/Castelnaudary|Castelnaudary]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~West/France/City/Castelnaudary.public|Castelnaudary.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~West/France/City/Castelnaudary.internal|Castelnaudary.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~West/France/City/Castelnaudary.protect|Castelnaudary.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~West/France/City/Castelnaudary.private|Castelnaudary.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~West/France/City/Castelnaudary.personal|Castelnaudary.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~West/France/City/Castelnaudary.secret|Castelnaudary.secret]] 
+
+### [Castelnaudary.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~Occitanie\Aude\communes~Aude\Carcassonne\cities~CarcassonneCastelnaudary.public.md) 
+
+### [Castelnaudary.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~Occitanie\Aude\communes~Aude\Carcassonne\cities~CarcassonneCastelnaudary.internal.md) 
+
+### [Castelnaudary.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~Occitanie\Aude\communes~Aude\Carcassonne\cities~CarcassonneCastelnaudary.protect.md) 
+
+### [Castelnaudary.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~Occitanie\Aude\communes~Aude\Carcassonne\cities~CarcassonneCastelnaudary.private.md) 
+
+### [Castelnaudary.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~Occitanie\Aude\communes~Aude\Carcassonne\cities~CarcassonneCastelnaudary.personal.md) 
+
+### [Castelnaudary.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~Occitanie\Aude\communes~Aude\Carcassonne\cities~CarcassonneCastelnaudary.secret.md)
+

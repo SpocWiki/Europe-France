@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~West/France/City/Jarnac|Jarnac]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~West/France/City/Jarnac.public|Jarnac.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~West/France/City/Jarnac.internal|Jarnac.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~West/France/City/Jarnac.protect|Jarnac.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~West/France/City/Jarnac.private|Jarnac.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~West/France/City/Jarnac.personal|Jarnac.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~West/France/City/Jarnac.secret|Jarnac.secret]] 
+
+### [Jarnac.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~Aquitaine\Charente\communes~Charente\Cognac\cities~CognacJarnac.public.md) 
+
+### [Jarnac.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~Aquitaine\Charente\communes~Charente\Cognac\cities~CognacJarnac.internal.md) 
+
+### [Jarnac.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~Aquitaine\Charente\communes~Charente\Cognac\cities~CognacJarnac.protect.md) 
+
+### [Jarnac.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~Aquitaine\Charente\communes~Charente\Cognac\cities~CognacJarnac.private.md) 
+
+### [Jarnac.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~Aquitaine\Charente\communes~Charente\Cognac\cities~CognacJarnac.personal.md) 
+
+### [Jarnac.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~Aquitaine\Charente\communes~Charente\Cognac\cities~CognacJarnac.secret.md)
+

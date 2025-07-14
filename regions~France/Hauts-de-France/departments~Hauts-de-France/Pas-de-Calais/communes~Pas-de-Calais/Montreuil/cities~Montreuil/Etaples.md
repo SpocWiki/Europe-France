@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~West/France/City/Etaples|Etaples]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~West/France/City/Etaples.public|Etaples.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~West/France/City/Etaples.internal|Etaples.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~West/France/City/Etaples.protect|Etaples.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~West/France/City/Etaples.private|Etaples.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~West/France/City/Etaples.personal|Etaples.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~West/France/City/Etaples.secret|Etaples.secret]] 
+
+### [Etaples.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Hauts-de-France\departments~Hauts-de-France\Pas-de-Calais\communes~Pas-de-Calais\Montreuil\cities~MontreuilEtaples.public.md) 
+
+### [Etaples.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Hauts-de-France\departments~Hauts-de-France\Pas-de-Calais\communes~Pas-de-Calais\Montreuil\cities~MontreuilEtaples.internal.md) 
+
+### [Etaples.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Hauts-de-France\departments~Hauts-de-France\Pas-de-Calais\communes~Pas-de-Calais\Montreuil\cities~MontreuilEtaples.protect.md) 
+
+### [Etaples.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Hauts-de-France\departments~Hauts-de-France\Pas-de-Calais\communes~Pas-de-Calais\Montreuil\cities~MontreuilEtaples.private.md) 
+
+### [Etaples.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Hauts-de-France\departments~Hauts-de-France\Pas-de-Calais\communes~Pas-de-Calais\Montreuil\cities~MontreuilEtaples.personal.md) 
+
+### [Etaples.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Hauts-de-France\departments~Hauts-de-France\Pas-de-Calais\communes~Pas-de-Calais\Montreuil\cities~MontreuilEtaples.secret.md)
+

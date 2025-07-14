@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~West/France/City/Caen|Caen]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~West/France/City/Caen.public|Caen.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~West/France/City/Caen.internal|Caen.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~West/France/City/Caen.protect|Caen.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~West/France/City/Caen.private|Caen.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~West/France/City/Caen.personal|Caen.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~West/France/City/Caen.secret|Caen.secret]] 
+
+### [Caen.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Normandie\departments~Normandie\Calvados\communes~Calvados\Caen\cities~CaenCaen.public.md) 
+
+### [Caen.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Normandie\departments~Normandie\Calvados\communes~Calvados\Caen\cities~CaenCaen.internal.md) 
+
+### [Caen.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Normandie\departments~Normandie\Calvados\communes~Calvados\Caen\cities~CaenCaen.protect.md) 
+
+### [Caen.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Normandie\departments~Normandie\Calvados\communes~Calvados\Caen\cities~CaenCaen.private.md) 
+
+### [Caen.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Normandie\departments~Normandie\Calvados\communes~Calvados\Caen\cities~CaenCaen.personal.md) 
+
+### [Caen.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Normandie\departments~Normandie\Calvados\communes~Calvados\Caen\cities~CaenCaen.secret.md)
+

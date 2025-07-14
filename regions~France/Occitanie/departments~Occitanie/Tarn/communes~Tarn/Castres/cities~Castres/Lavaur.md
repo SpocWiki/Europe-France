@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~West/France/City/Lavaur|Lavaur]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~West/France/City/Lavaur.public|Lavaur.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~West/France/City/Lavaur.internal|Lavaur.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~West/France/City/Lavaur.protect|Lavaur.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~West/France/City/Lavaur.private|Lavaur.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~West/France/City/Lavaur.personal|Lavaur.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~West/France/City/Lavaur.secret|Lavaur.secret]] 
+
+### [Lavaur.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~Occitanie\Tarn\communes~Tarn\Castres\cities~CastresLavaur.public.md) 
+
+### [Lavaur.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~Occitanie\Tarn\communes~Tarn\Castres\cities~CastresLavaur.internal.md) 
+
+### [Lavaur.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~Occitanie\Tarn\communes~Tarn\Castres\cities~CastresLavaur.protect.md) 
+
+### [Lavaur.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~Occitanie\Tarn\communes~Tarn\Castres\cities~CastresLavaur.private.md) 
+
+### [Lavaur.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~Occitanie\Tarn\communes~Tarn\Castres\cities~CastresLavaur.personal.md) 
+
+### [Lavaur.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~Occitanie\Tarn\communes~Tarn\Castres\cities~CastresLavaur.secret.md)
+

@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~West/France/City/Dóle|Dóle]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~West/France/City/Dóle.public|Dóle.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~West/France/City/Dóle.internal|Dóle.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~West/France/City/Dóle.protect|Dóle.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~West/France/City/Dóle.private|Dóle.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~West/France/City/Dóle.personal|Dóle.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~West/France/City/Dóle.secret|Dóle.secret]] 
+
+### [Dóle.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Bourgogne-Franche-Comté\departments~Bourgogne-Franche-Comté\Jura\communes~Jura\Dole\cities~DoleDóle.public.md) 
+
+### [Dóle.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Bourgogne-Franche-Comté\departments~Bourgogne-Franche-Comté\Jura\communes~Jura\Dole\cities~DoleDóle.internal.md) 
+
+### [Dóle.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Bourgogne-Franche-Comté\departments~Bourgogne-Franche-Comté\Jura\communes~Jura\Dole\cities~DoleDóle.protect.md) 
+
+### [Dóle.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Bourgogne-Franche-Comté\departments~Bourgogne-Franche-Comté\Jura\communes~Jura\Dole\cities~DoleDóle.private.md) 
+
+### [Dóle.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Bourgogne-Franche-Comté\departments~Bourgogne-Franche-Comté\Jura\communes~Jura\Dole\cities~DoleDóle.personal.md) 
+
+### [Dóle.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Bourgogne-Franche-Comté\departments~Bourgogne-Franche-Comté\Jura\communes~Jura\Dole\cities~DoleDóle.secret.md)
+

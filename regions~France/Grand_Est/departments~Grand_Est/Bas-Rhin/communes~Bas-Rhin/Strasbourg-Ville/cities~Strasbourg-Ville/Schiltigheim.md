@@ -33,9 +33,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[Schiltigheim|Schiltigheim]]  
-- [[../../../../../../../../../_internal/geo/Continent/Europe/Europe~West/Germany/West/Baden-Wuerttemberg/City/Schiltigheim.internal|Schiltigheim.internal]] 
-- [[../../../../../../../../../_protect/geo/Continent/Europe/Europe~West/Germany/West/Baden-Wuerttemberg/City/Schiltigheim.protect|Schiltigheim.protect]] 
-- [[../../../../../../../../../_private/geo/Continent/Europe/Europe~West/Germany/West/Baden-Wuerttemberg/City/Schiltigheim.private|Schiltigheim.private]] 
-- [[../../../../../../../../../_personal/geo/Continent/Europe/Europe~West/Germany/West/Baden-Wuerttemberg/City/Schiltigheim.personal|Schiltigheim.personal]] 
-- [[../../../../../../../../../_secret/geo/Continent/Europe/Europe~West/Germany/West/Baden-Wuerttemberg/City/Schiltigheim.secret|Schiltigheim.secret]] 
+
+### [Schiltigheim.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Grand_Est\departments~Grand_Est\Bas-Rhin\communes~Bas-Rhin\Strasbourg-Ville\cities~Strasbourg-VilleSchiltigheim.public.md) 
+
+### [Schiltigheim.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Grand_Est\departments~Grand_Est\Bas-Rhin\communes~Bas-Rhin\Strasbourg-Ville\cities~Strasbourg-VilleSchiltigheim.internal.md) 
+
+### [Schiltigheim.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Grand_Est\departments~Grand_Est\Bas-Rhin\communes~Bas-Rhin\Strasbourg-Ville\cities~Strasbourg-VilleSchiltigheim.protect.md) 
+
+### [Schiltigheim.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Grand_Est\departments~Grand_Est\Bas-Rhin\communes~Bas-Rhin\Strasbourg-Ville\cities~Strasbourg-VilleSchiltigheim.private.md) 
+
+### [Schiltigheim.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Grand_Est\departments~Grand_Est\Bas-Rhin\communes~Bas-Rhin\Strasbourg-Ville\cities~Strasbourg-VilleSchiltigheim.personal.md) 
+
+### [Schiltigheim.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Grand_Est\departments~Grand_Est\Bas-Rhin\communes~Bas-Rhin\Strasbourg-Ville\cities~Strasbourg-VilleSchiltigheim.secret.md)
+

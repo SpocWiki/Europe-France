@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~West/France/City/Peronne|Peronne]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~West/France/City/Peronne.public|Peronne.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~West/France/City/Peronne.internal|Peronne.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~West/France/City/Peronne.protect|Peronne.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~West/France/City/Peronne.private|Peronne.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~West/France/City/Peronne.personal|Peronne.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~West/France/City/Peronne.secret|Peronne.secret]] 
+
+### [Peronne.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Hauts-de-France\departments~Hauts-de-France\Somme\communes~Somme\Péronne\cities~PéronnePeronne.public.md) 
+
+### [Peronne.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Hauts-de-France\departments~Hauts-de-France\Somme\communes~Somme\Péronne\cities~PéronnePeronne.internal.md) 
+
+### [Peronne.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Hauts-de-France\departments~Hauts-de-France\Somme\communes~Somme\Péronne\cities~PéronnePeronne.protect.md) 
+
+### [Peronne.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Hauts-de-France\departments~Hauts-de-France\Somme\communes~Somme\Péronne\cities~PéronnePeronne.private.md) 
+
+### [Peronne.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Hauts-de-France\departments~Hauts-de-France\Somme\communes~Somme\Péronne\cities~PéronnePeronne.personal.md) 
+
+### [Peronne.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Hauts-de-France\departments~Hauts-de-France\Somme\communes~Somme\Péronne\cities~PéronnePeronne.secret.md)
+

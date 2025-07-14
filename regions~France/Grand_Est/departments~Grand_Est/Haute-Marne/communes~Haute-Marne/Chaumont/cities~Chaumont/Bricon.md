@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~West/France/City/Bricon|Bricon]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~West/France/City/Bricon.public|Bricon.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~West/France/City/Bricon.internal|Bricon.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~West/France/City/Bricon.protect|Bricon.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~West/France/City/Bricon.private|Bricon.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~West/France/City/Bricon.personal|Bricon.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~West/France/City/Bricon.secret|Bricon.secret]] 
+
+### [Bricon.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Grand_Est\departments~Grand_Est\Haute-Marne\communes~Haute-Marne\Chaumont\cities~ChaumontBricon.public.md) 
+
+### [Bricon.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Grand_Est\departments~Grand_Est\Haute-Marne\communes~Haute-Marne\Chaumont\cities~ChaumontBricon.internal.md) 
+
+### [Bricon.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Grand_Est\departments~Grand_Est\Haute-Marne\communes~Haute-Marne\Chaumont\cities~ChaumontBricon.protect.md) 
+
+### [Bricon.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Grand_Est\departments~Grand_Est\Haute-Marne\communes~Haute-Marne\Chaumont\cities~ChaumontBricon.private.md) 
+
+### [Bricon.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Grand_Est\departments~Grand_Est\Haute-Marne\communes~Haute-Marne\Chaumont\cities~ChaumontBricon.personal.md) 
+
+### [Bricon.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Grand_Est\departments~Grand_Est\Haute-Marne\communes~Haute-Marne\Chaumont\cities~ChaumontBricon.secret.md)
+

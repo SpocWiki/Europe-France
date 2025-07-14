@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~West/France/City/Moulins|Moulins]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~West/France/City/Moulins.public|Moulins.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~West/France/City/Moulins.internal|Moulins.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~West/France/City/Moulins.protect|Moulins.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~West/France/City/Moulins.private|Moulins.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~West/France/City/Moulins.personal|Moulins.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~West/France/City/Moulins.secret|Moulins.secret]] 
+
+### [Moulins.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Auvergne-Rhône-Alpes\departments~Auvergne-Rhône-Alpes\Allier\communes~Allier\Moulins\cities~MoulinsMoulins.public.md) 
+
+### [Moulins.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Auvergne-Rhône-Alpes\departments~Auvergne-Rhône-Alpes\Allier\communes~Allier\Moulins\cities~MoulinsMoulins.internal.md) 
+
+### [Moulins.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Auvergne-Rhône-Alpes\departments~Auvergne-Rhône-Alpes\Allier\communes~Allier\Moulins\cities~MoulinsMoulins.protect.md) 
+
+### [Moulins.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Auvergne-Rhône-Alpes\departments~Auvergne-Rhône-Alpes\Allier\communes~Allier\Moulins\cities~MoulinsMoulins.private.md) 
+
+### [Moulins.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Auvergne-Rhône-Alpes\departments~Auvergne-Rhône-Alpes\Allier\communes~Allier\Moulins\cities~MoulinsMoulins.personal.md) 
+
+### [Moulins.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Auvergne-Rhône-Alpes\departments~Auvergne-Rhône-Alpes\Allier\communes~Allier\Moulins\cities~MoulinsMoulins.secret.md)
+

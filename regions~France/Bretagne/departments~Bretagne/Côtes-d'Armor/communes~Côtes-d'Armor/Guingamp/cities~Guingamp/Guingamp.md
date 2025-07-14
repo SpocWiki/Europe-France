@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~West/France/City/Guingamp|Guingamp]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~West/France/City/Guingamp.public|Guingamp.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~West/France/City/Guingamp.internal|Guingamp.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~West/France/City/Guingamp.protect|Guingamp.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~West/France/City/Guingamp.private|Guingamp.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~West/France/City/Guingamp.personal|Guingamp.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~West/France/City/Guingamp.secret|Guingamp.secret]] 
+
+### [Guingamp.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Bretagne\departments~Bretagne\Côtes-d'Armor\communes~Côtes-d'Armor\Guingamp\cities~GuingampGuingamp.public.md) 
+
+### [Guingamp.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Bretagne\departments~Bretagne\Côtes-d'Armor\communes~Côtes-d'Armor\Guingamp\cities~GuingampGuingamp.internal.md) 
+
+### [Guingamp.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Bretagne\departments~Bretagne\Côtes-d'Armor\communes~Côtes-d'Armor\Guingamp\cities~GuingampGuingamp.protect.md) 
+
+### [Guingamp.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Bretagne\departments~Bretagne\Côtes-d'Armor\communes~Côtes-d'Armor\Guingamp\cities~GuingampGuingamp.private.md) 
+
+### [Guingamp.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Bretagne\departments~Bretagne\Côtes-d'Armor\communes~Côtes-d'Armor\Guingamp\cities~GuingampGuingamp.personal.md) 
+
+### [Guingamp.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Bretagne\departments~Bretagne\Côtes-d'Armor\communes~Côtes-d'Armor\Guingamp\cities~GuingampGuingamp.secret.md)
+

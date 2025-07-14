@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~West/France/City/Aurillac|Aurillac]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~West/France/City/Aurillac.public|Aurillac.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~West/France/City/Aurillac.internal|Aurillac.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~West/France/City/Aurillac.protect|Aurillac.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~West/France/City/Aurillac.private|Aurillac.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~West/France/City/Aurillac.personal|Aurillac.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~West/France/City/Aurillac.secret|Aurillac.secret]] 
+
+### [Aurillac.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Auvergne-Rhône-Alpes\departments~Auvergne-Rhône-Alpes\Cantal\communes~Cantal\Aurillac\cities~AurillacAurillac.public.md) 
+
+### [Aurillac.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Auvergne-Rhône-Alpes\departments~Auvergne-Rhône-Alpes\Cantal\communes~Cantal\Aurillac\cities~AurillacAurillac.internal.md) 
+
+### [Aurillac.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Auvergne-Rhône-Alpes\departments~Auvergne-Rhône-Alpes\Cantal\communes~Cantal\Aurillac\cities~AurillacAurillac.protect.md) 
+
+### [Aurillac.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Auvergne-Rhône-Alpes\departments~Auvergne-Rhône-Alpes\Cantal\communes~Cantal\Aurillac\cities~AurillacAurillac.private.md) 
+
+### [Aurillac.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Auvergne-Rhône-Alpes\departments~Auvergne-Rhône-Alpes\Cantal\communes~Cantal\Aurillac\cities~AurillacAurillac.personal.md) 
+
+### [Aurillac.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Auvergne-Rhône-Alpes\departments~Auvergne-Rhône-Alpes\Cantal\communes~Cantal\Aurillac\cities~AurillacAurillac.secret.md)
+

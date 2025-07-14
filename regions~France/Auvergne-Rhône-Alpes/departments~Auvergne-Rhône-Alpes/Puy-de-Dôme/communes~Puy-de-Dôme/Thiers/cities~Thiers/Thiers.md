@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~West/France/City/Thiers|Thiers]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~West/France/City/Thiers.public|Thiers.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~West/France/City/Thiers.internal|Thiers.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~West/France/City/Thiers.protect|Thiers.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~West/France/City/Thiers.private|Thiers.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~West/France/City/Thiers.personal|Thiers.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~West/France/City/Thiers.secret|Thiers.secret]] 
+
+### [Thiers.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Auvergne-Rhône-Alpes\departments~Auvergne-Rhône-Alpes\Puy-de-Dôme\communes~Puy-de-Dôme\Thiers\cities~ThiersThiers.public.md) 
+
+### [Thiers.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Auvergne-Rhône-Alpes\departments~Auvergne-Rhône-Alpes\Puy-de-Dôme\communes~Puy-de-Dôme\Thiers\cities~ThiersThiers.internal.md) 
+
+### [Thiers.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Auvergne-Rhône-Alpes\departments~Auvergne-Rhône-Alpes\Puy-de-Dôme\communes~Puy-de-Dôme\Thiers\cities~ThiersThiers.protect.md) 
+
+### [Thiers.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Auvergne-Rhône-Alpes\departments~Auvergne-Rhône-Alpes\Puy-de-Dôme\communes~Puy-de-Dôme\Thiers\cities~ThiersThiers.private.md) 
+
+### [Thiers.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Auvergne-Rhône-Alpes\departments~Auvergne-Rhône-Alpes\Puy-de-Dôme\communes~Puy-de-Dôme\Thiers\cities~ThiersThiers.personal.md) 
+
+### [Thiers.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Auvergne-Rhône-Alpes\departments~Auvergne-Rhône-Alpes\Puy-de-Dôme\communes~Puy-de-Dôme\Thiers\cities~ThiersThiers.secret.md)
+

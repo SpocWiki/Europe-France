@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~West/France/City/Briancon|Briancon]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~West/France/City/Briancon.public|Briancon.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~West/France/City/Briancon.internal|Briancon.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~West/France/City/Briancon.protect|Briancon.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~West/France/City/Briancon.private|Briancon.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~West/France/City/Briancon.personal|Briancon.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~West/France/City/Briancon.secret|Briancon.secret]] 
+
+### [Briancon.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Provence-Alpes-Côte_d'Azur\departments~Provence\Hautes-Alpes\communes~Hautes-Alpes\Briançon\cities~BriançonBriancon.public.md) 
+
+### [Briancon.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Provence-Alpes-Côte_d'Azur\departments~Provence\Hautes-Alpes\communes~Hautes-Alpes\Briançon\cities~BriançonBriancon.internal.md) 
+
+### [Briancon.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Provence-Alpes-Côte_d'Azur\departments~Provence\Hautes-Alpes\communes~Hautes-Alpes\Briançon\cities~BriançonBriancon.protect.md) 
+
+### [Briancon.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Provence-Alpes-Côte_d'Azur\departments~Provence\Hautes-Alpes\communes~Hautes-Alpes\Briançon\cities~BriançonBriancon.private.md) 
+
+### [Briancon.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Provence-Alpes-Côte_d'Azur\departments~Provence\Hautes-Alpes\communes~Hautes-Alpes\Briançon\cities~BriançonBriancon.personal.md) 
+
+### [Briancon.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Provence-Alpes-Côte_d'Azur\departments~Provence\Hautes-Alpes\communes~Hautes-Alpes\Briançon\cities~BriançonBriancon.secret.md)
+

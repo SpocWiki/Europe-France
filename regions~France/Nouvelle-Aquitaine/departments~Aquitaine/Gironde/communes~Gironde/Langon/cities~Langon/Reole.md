@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~West/France/City/Reole|Reole]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~West/France/City/Reole.public|Reole.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~West/France/City/Reole.internal|Reole.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~West/France/City/Reole.protect|Reole.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~West/France/City/Reole.private|Reole.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~West/France/City/Reole.personal|Reole.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~West/France/City/Reole.secret|Reole.secret]] 
+
+### [Reole.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~Aquitaine\Gironde\communes~Gironde\Langon\cities~LangonReole.public.md) 
+
+### [Reole.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~Aquitaine\Gironde\communes~Gironde\Langon\cities~LangonReole.internal.md) 
+
+### [Reole.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~Aquitaine\Gironde\communes~Gironde\Langon\cities~LangonReole.protect.md) 
+
+### [Reole.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~Aquitaine\Gironde\communes~Gironde\Langon\cities~LangonReole.private.md) 
+
+### [Reole.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~Aquitaine\Gironde\communes~Gironde\Langon\cities~LangonReole.personal.md) 
+
+### [Reole.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~Aquitaine\Gironde\communes~Gironde\Langon\cities~LangonReole.secret.md)
+

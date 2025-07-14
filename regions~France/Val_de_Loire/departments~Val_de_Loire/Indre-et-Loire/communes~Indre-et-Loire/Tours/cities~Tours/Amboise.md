@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~West/France/City/Amboise|Amboise]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~West/France/City/Amboise.public|Amboise.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~West/France/City/Amboise.internal|Amboise.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~West/France/City/Amboise.protect|Amboise.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~West/France/City/Amboise.private|Amboise.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~West/France/City/Amboise.personal|Amboise.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~West/France/City/Amboise.secret|Amboise.secret]] 
+
+### [Amboise.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Val_de_Loire\departments~Val_de_Loire\Indre-et-Loire\communes~Indre-et-Loire\Tours\cities~ToursAmboise.public.md) 
+
+### [Amboise.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Val_de_Loire\departments~Val_de_Loire\Indre-et-Loire\communes~Indre-et-Loire\Tours\cities~ToursAmboise.internal.md) 
+
+### [Amboise.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Val_de_Loire\departments~Val_de_Loire\Indre-et-Loire\communes~Indre-et-Loire\Tours\cities~ToursAmboise.protect.md) 
+
+### [Amboise.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Val_de_Loire\departments~Val_de_Loire\Indre-et-Loire\communes~Indre-et-Loire\Tours\cities~ToursAmboise.private.md) 
+
+### [Amboise.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Val_de_Loire\departments~Val_de_Loire\Indre-et-Loire\communes~Indre-et-Loire\Tours\cities~ToursAmboise.personal.md) 
+
+### [Amboise.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Val_de_Loire\departments~Val_de_Loire\Indre-et-Loire\communes~Indre-et-Loire\Tours\cities~ToursAmboise.secret.md)
+

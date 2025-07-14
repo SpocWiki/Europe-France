@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~West/France/City/Chateau-Gontier|Chateau-Gontier]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~West/France/City/Chateau-Gontier.public|Chateau-Gontier.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~West/France/City/Chateau-Gontier.internal|Chateau-Gontier.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~West/France/City/Chateau-Gontier.protect|Chateau-Gontier.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~West/France/City/Chateau-Gontier.private|Chateau-Gontier.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~West/France/City/Chateau-Gontier.personal|Chateau-Gontier.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~West/France/City/Chateau-Gontier.secret|Chateau-Gontier.secret]] 
+
+### [Chateau-Gontier.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Pays_de_la_Loire\departments~Pays_de_la_Loire\Mayenne\communes~Mayenne\Château-Gontier\cities~Château-GontierChateau-Gontier.public.md) 
+
+### [Chateau-Gontier.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Pays_de_la_Loire\departments~Pays_de_la_Loire\Mayenne\communes~Mayenne\Château-Gontier\cities~Château-GontierChateau-Gontier.internal.md) 
+
+### [Chateau-Gontier.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Pays_de_la_Loire\departments~Pays_de_la_Loire\Mayenne\communes~Mayenne\Château-Gontier\cities~Château-GontierChateau-Gontier.protect.md) 
+
+### [Chateau-Gontier.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Pays_de_la_Loire\departments~Pays_de_la_Loire\Mayenne\communes~Mayenne\Château-Gontier\cities~Château-GontierChateau-Gontier.private.md) 
+
+### [Chateau-Gontier.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Pays_de_la_Loire\departments~Pays_de_la_Loire\Mayenne\communes~Mayenne\Château-Gontier\cities~Château-GontierChateau-Gontier.personal.md) 
+
+### [Chateau-Gontier.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Pays_de_la_Loire\departments~Pays_de_la_Loire\Mayenne\communes~Mayenne\Château-Gontier\cities~Château-GontierChateau-Gontier.secret.md)
+

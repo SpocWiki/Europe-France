@@ -40,11 +40,16 @@ markerFolder: ./Département~Orne/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../_Standards/geo/Continent/Europe/Europe~West/France/Counties/Normandie/Département~Orne|Département~Orne]] 
-- [[../../../../../../../../_public/geo/Continent/Europe/Europe~West/France/Counties/Normandie/Département~Orne.public|Département~Orne.public]] 
-- [[../../../../../../../../_internal/geo/Continent/Europe/Europe~West/France/Counties/Normandie/Département~Orne.internal|Département~Orne.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Europe~West/France/Counties/Normandie/Département~Orne.protect|Département~Orne.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Europe~West/France/Counties/Normandie/Département~Orne.private|Département~Orne.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Europe~West/France/Counties/Normandie/Département~Orne.personal|Département~Orne.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Europe~West/France/Counties/Normandie/Département~Orne.secret|Département~Orne.secret]] 
+
+### [Orne.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Normandie\departments~NormandieOrne.public.md) 
+
+### [Orne.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Normandie\departments~NormandieOrne.internal.md) 
+
+### [Orne.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Normandie\departments~NormandieOrne.protect.md) 
+
+### [Orne.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Normandie\departments~NormandieOrne.private.md) 
+
+### [Orne.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Normandie\departments~NormandieOrne.personal.md) 
+
+### [Orne.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Normandie\departments~NormandieOrne.secret.md)
 

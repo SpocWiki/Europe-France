@@ -40,11 +40,16 @@ markerFolder: ./Département~Creuse/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../_Standards/geo/Continent/Europe/Europe~West/France/Counties/Nouvelle-Aquitaine/Département~Creuse|Département~Creuse]] 
-- [[../../../../../../../../_public/geo/Continent/Europe/Europe~West/France/Counties/Nouvelle-Aquitaine/Département~Creuse.public|Département~Creuse.public]] 
-- [[../../../../../../../../_internal/geo/Continent/Europe/Europe~West/France/Counties/Nouvelle-Aquitaine/Département~Creuse.internal|Département~Creuse.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Europe~West/France/Counties/Nouvelle-Aquitaine/Département~Creuse.protect|Département~Creuse.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Europe~West/France/Counties/Nouvelle-Aquitaine/Département~Creuse.private|Département~Creuse.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Europe~West/France/Counties/Nouvelle-Aquitaine/Département~Creuse.personal|Département~Creuse.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Europe~West/France/Counties/Nouvelle-Aquitaine/Département~Creuse.secret|Département~Creuse.secret]] 
+
+### [Creuse.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~AquitaineCreuse.public.md) 
+
+### [Creuse.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~AquitaineCreuse.internal.md) 
+
+### [Creuse.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~AquitaineCreuse.protect.md) 
+
+### [Creuse.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~AquitaineCreuse.private.md) 
+
+### [Creuse.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~AquitaineCreuse.personal.md) 
+
+### [Creuse.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~AquitaineCreuse.secret.md)
 

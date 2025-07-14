@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~West/France/City/Fléche|Fléche]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~West/France/City/Fléche.public|Fléche.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~West/France/City/Fléche.internal|Fléche.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~West/France/City/Fléche.protect|Fléche.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~West/France/City/Fléche.private|Fléche.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~West/France/City/Fléche.personal|Fléche.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~West/France/City/Fléche.secret|Fléche.secret]] 
+
+### [Fléche.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Pays_de_la_Loire\departments~Pays_de_la_Loire\Sarthe\communes~Sarthe\La_Flèche\cities~LaFlècheFléche.public.md) 
+
+### [Fléche.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Pays_de_la_Loire\departments~Pays_de_la_Loire\Sarthe\communes~Sarthe\La_Flèche\cities~LaFlècheFléche.internal.md) 
+
+### [Fléche.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Pays_de_la_Loire\departments~Pays_de_la_Loire\Sarthe\communes~Sarthe\La_Flèche\cities~LaFlècheFléche.protect.md) 
+
+### [Fléche.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Pays_de_la_Loire\departments~Pays_de_la_Loire\Sarthe\communes~Sarthe\La_Flèche\cities~LaFlècheFléche.private.md) 
+
+### [Fléche.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Pays_de_la_Loire\departments~Pays_de_la_Loire\Sarthe\communes~Sarthe\La_Flèche\cities~LaFlècheFléche.personal.md) 
+
+### [Fléche.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Pays_de_la_Loire\departments~Pays_de_la_Loire\Sarthe\communes~Sarthe\La_Flèche\cities~LaFlècheFléche.secret.md)
+

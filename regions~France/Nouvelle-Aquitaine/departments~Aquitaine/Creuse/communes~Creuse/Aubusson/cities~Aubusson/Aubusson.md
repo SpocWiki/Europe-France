@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~West/France/City/Aubusson|Aubusson]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~West/France/City/Aubusson.public|Aubusson.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~West/France/City/Aubusson.internal|Aubusson.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~West/France/City/Aubusson.protect|Aubusson.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~West/France/City/Aubusson.private|Aubusson.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~West/France/City/Aubusson.personal|Aubusson.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~West/France/City/Aubusson.secret|Aubusson.secret]] 
+
+### [Aubusson.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~Aquitaine\Creuse\communes~Creuse\Aubusson\cities~AubussonAubusson.public.md) 
+
+### [Aubusson.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~Aquitaine\Creuse\communes~Creuse\Aubusson\cities~AubussonAubusson.internal.md) 
+
+### [Aubusson.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~Aquitaine\Creuse\communes~Creuse\Aubusson\cities~AubussonAubusson.protect.md) 
+
+### [Aubusson.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~Aquitaine\Creuse\communes~Creuse\Aubusson\cities~AubussonAubusson.private.md) 
+
+### [Aubusson.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~Aquitaine\Creuse\communes~Creuse\Aubusson\cities~AubussonAubusson.personal.md) 
+
+### [Aubusson.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~Aquitaine\Creuse\communes~Creuse\Aubusson\cities~AubussonAubusson.secret.md)
+

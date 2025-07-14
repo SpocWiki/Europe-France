@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~West/France/City/St.Quentin|St.Quentin]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~West/France/City/St.Quentin.public|St.Quentin.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~West/France/City/St.Quentin.internal|St.Quentin.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~West/France/City/St.Quentin.protect|St.Quentin.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~West/France/City/St.Quentin.private|St.Quentin.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~West/France/City/St.Quentin.personal|St.Quentin.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~West/France/City/St.Quentin.secret|St.Quentin.secret]] 
+
+### [St.Quentin.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Hauts-de-France\departments~Hauts-de-France\Aisne\communes~Aisne\Saint-Quentin\cities~Saint-QuentinSt.Quentin.public.md) 
+
+### [St.Quentin.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Hauts-de-France\departments~Hauts-de-France\Aisne\communes~Aisne\Saint-Quentin\cities~Saint-QuentinSt.Quentin.internal.md) 
+
+### [St.Quentin.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Hauts-de-France\departments~Hauts-de-France\Aisne\communes~Aisne\Saint-Quentin\cities~Saint-QuentinSt.Quentin.protect.md) 
+
+### [St.Quentin.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Hauts-de-France\departments~Hauts-de-France\Aisne\communes~Aisne\Saint-Quentin\cities~Saint-QuentinSt.Quentin.private.md) 
+
+### [St.Quentin.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Hauts-de-France\departments~Hauts-de-France\Aisne\communes~Aisne\Saint-Quentin\cities~Saint-QuentinSt.Quentin.personal.md) 
+
+### [St.Quentin.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Hauts-de-France\departments~Hauts-de-France\Aisne\communes~Aisne\Saint-Quentin\cities~Saint-QuentinSt.Quentin.secret.md)
+

@@ -40,11 +40,16 @@ markerFolder: ./Département~Hautes-Alpes/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/geo/Continent/egions/Provence-Alpes-Côte d'Azur/Département~Hautes-Alpes|Département~Hautes-Alpes]] 
-- [[../../../../../_public/geo/Continent/egions/Provence-Alpes-Côte d'Azur/Département~Hautes-Alpes.public|Département~Hautes-Alpes.public]] 
-- [[../../../../../_internal/geo/Continent/egions/Provence-Alpes-Côte d'Azur/Département~Hautes-Alpes.internal|Département~Hautes-Alpes.internal]] 
-- [[../../../../../_protect/geo/Continent/egions/Provence-Alpes-Côte d'Azur/Département~Hautes-Alpes.protect|Département~Hautes-Alpes.protect]] 
-- [[../../../../../_private/geo/Continent/egions/Provence-Alpes-Côte d'Azur/Département~Hautes-Alpes.private|Département~Hautes-Alpes.private]] 
-- [[../../../../../_personal/geo/Continent/egions/Provence-Alpes-Côte d'Azur/Département~Hautes-Alpes.personal|Département~Hautes-Alpes.personal]] 
-- [[../../../../../_secret/geo/Continent/egions/Provence-Alpes-Côte d'Azur/Département~Hautes-Alpes.secret|Département~Hautes-Alpes.secret]] 
+
+### [Hautes-Alpes.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Provence-Alpes-Côte_d'Azur\departments~ProvenceHautes-Alpes.public.md) 
+
+### [Hautes-Alpes.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Provence-Alpes-Côte_d'Azur\departments~ProvenceHautes-Alpes.internal.md) 
+
+### [Hautes-Alpes.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Provence-Alpes-Côte_d'Azur\departments~ProvenceHautes-Alpes.protect.md) 
+
+### [Hautes-Alpes.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Provence-Alpes-Côte_d'Azur\departments~ProvenceHautes-Alpes.private.md) 
+
+### [Hautes-Alpes.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Provence-Alpes-Côte_d'Azur\departments~ProvenceHautes-Alpes.personal.md) 
+
+### [Hautes-Alpes.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Provence-Alpes-Côte_d'Azur\departments~ProvenceHautes-Alpes.secret.md)
 

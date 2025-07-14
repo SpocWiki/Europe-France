@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~West/France/City/St.Malo|St.Malo]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~West/France/City/St.Malo.public|St.Malo.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~West/France/City/St.Malo.internal|St.Malo.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~West/France/City/St.Malo.protect|St.Malo.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~West/France/City/St.Malo.private|St.Malo.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~West/France/City/St.Malo.personal|St.Malo.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~West/France/City/St.Malo.secret|St.Malo.secret]] 
+
+### [St.Malo.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\NormandieSt.Malo.public.md) 
+
+### [St.Malo.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\NormandieSt.Malo.internal.md) 
+
+### [St.Malo.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\NormandieSt.Malo.protect.md) 
+
+### [St.Malo.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\NormandieSt.Malo.private.md) 
+
+### [St.Malo.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\NormandieSt.Malo.personal.md) 
+
+### [St.Malo.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\NormandieSt.Malo.secret.md)
+

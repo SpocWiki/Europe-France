@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~West/France/City/Lesparre|Lesparre]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~West/France/City/Lesparre.public|Lesparre.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~West/France/City/Lesparre.internal|Lesparre.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~West/France/City/Lesparre.protect|Lesparre.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~West/France/City/Lesparre.private|Lesparre.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~West/France/City/Lesparre.personal|Lesparre.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~West/France/City/Lesparre.secret|Lesparre.secret]] 
+
+### [Lesparre.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~Aquitaine\Gironde\communes~Gironde\Lesparre-Médoc\cities~Lesparre-MédocLesparre.public.md) 
+
+### [Lesparre.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~Aquitaine\Gironde\communes~Gironde\Lesparre-Médoc\cities~Lesparre-MédocLesparre.internal.md) 
+
+### [Lesparre.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~Aquitaine\Gironde\communes~Gironde\Lesparre-Médoc\cities~Lesparre-MédocLesparre.protect.md) 
+
+### [Lesparre.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~Aquitaine\Gironde\communes~Gironde\Lesparre-Médoc\cities~Lesparre-MédocLesparre.private.md) 
+
+### [Lesparre.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~Aquitaine\Gironde\communes~Gironde\Lesparre-Médoc\cities~Lesparre-MédocLesparre.personal.md) 
+
+### [Lesparre.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~Aquitaine\Gironde\communes~Gironde\Lesparre-Médoc\cities~Lesparre-MédocLesparre.secret.md)
+

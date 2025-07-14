@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~West/France/City/Evreux|Evreux]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~West/France/City/Evreux.public|Evreux.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~West/France/City/Evreux.internal|Evreux.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~West/France/City/Evreux.protect|Evreux.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~West/France/City/Evreux.private|Evreux.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~West/France/City/Evreux.personal|Evreux.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~West/France/City/Evreux.secret|Evreux.secret]] 
+
+### [Evreux.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Normandie\departments~Normandie\Eure\communes~Eure\Évreux\cities~ÉvreuxEvreux.public.md) 
+
+### [Evreux.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Normandie\departments~Normandie\Eure\communes~Eure\Évreux\cities~ÉvreuxEvreux.internal.md) 
+
+### [Evreux.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Normandie\departments~Normandie\Eure\communes~Eure\Évreux\cities~ÉvreuxEvreux.protect.md) 
+
+### [Evreux.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Normandie\departments~Normandie\Eure\communes~Eure\Évreux\cities~ÉvreuxEvreux.private.md) 
+
+### [Evreux.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Normandie\departments~Normandie\Eure\communes~Eure\Évreux\cities~ÉvreuxEvreux.personal.md) 
+
+### [Evreux.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Normandie\departments~Normandie\Eure\communes~Eure\Évreux\cities~ÉvreuxEvreux.secret.md)
+

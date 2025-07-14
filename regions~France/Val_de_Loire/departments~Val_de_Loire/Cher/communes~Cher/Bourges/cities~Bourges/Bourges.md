@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~West/France/City/Bourges|Bourges]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~West/France/City/Bourges.public|Bourges.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~West/France/City/Bourges.internal|Bourges.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~West/France/City/Bourges.protect|Bourges.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~West/France/City/Bourges.private|Bourges.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~West/France/City/Bourges.personal|Bourges.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~West/France/City/Bourges.secret|Bourges.secret]] 
+
+### [Bourges.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Val_de_Loire\departments~Val_de_Loire\Cher\communes~Cher\Bourges\cities~BourgesBourges.public.md) 
+
+### [Bourges.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Val_de_Loire\departments~Val_de_Loire\Cher\communes~Cher\Bourges\cities~BourgesBourges.internal.md) 
+
+### [Bourges.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Val_de_Loire\departments~Val_de_Loire\Cher\communes~Cher\Bourges\cities~BourgesBourges.protect.md) 
+
+### [Bourges.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Val_de_Loire\departments~Val_de_Loire\Cher\communes~Cher\Bourges\cities~BourgesBourges.private.md) 
+
+### [Bourges.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Val_de_Loire\departments~Val_de_Loire\Cher\communes~Cher\Bourges\cities~BourgesBourges.personal.md) 
+
+### [Bourges.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Val_de_Loire\departments~Val_de_Loire\Cher\communes~Cher\Bourges\cities~BourgesBourges.secret.md)
+

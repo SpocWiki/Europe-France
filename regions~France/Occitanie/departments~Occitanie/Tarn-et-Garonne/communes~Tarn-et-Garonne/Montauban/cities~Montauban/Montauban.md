@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~West/France/City/Montauban|Montauban]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~West/France/City/Montauban.public|Montauban.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~West/France/City/Montauban.internal|Montauban.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~West/France/City/Montauban.protect|Montauban.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~West/France/City/Montauban.private|Montauban.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~West/France/City/Montauban.personal|Montauban.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~West/France/City/Montauban.secret|Montauban.secret]] 
+
+### [Montauban.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~Occitanie\Tarn-et-Garonne\communes~Tarn-et-Garonne\Montauban\cities~MontaubanMontauban.public.md) 
+
+### [Montauban.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~Occitanie\Tarn-et-Garonne\communes~Tarn-et-Garonne\Montauban\cities~MontaubanMontauban.internal.md) 
+
+### [Montauban.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~Occitanie\Tarn-et-Garonne\communes~Tarn-et-Garonne\Montauban\cities~MontaubanMontauban.protect.md) 
+
+### [Montauban.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~Occitanie\Tarn-et-Garonne\communes~Tarn-et-Garonne\Montauban\cities~MontaubanMontauban.private.md) 
+
+### [Montauban.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~Occitanie\Tarn-et-Garonne\communes~Tarn-et-Garonne\Montauban\cities~MontaubanMontauban.personal.md) 
+
+### [Montauban.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~Occitanie\Tarn-et-Garonne\communes~Tarn-et-Garonne\Montauban\cities~MontaubanMontauban.secret.md)
+

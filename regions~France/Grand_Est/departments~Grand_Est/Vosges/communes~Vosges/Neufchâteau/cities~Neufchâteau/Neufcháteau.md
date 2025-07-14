@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~West/France/City/Neufcháteau|Neufcháteau]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~West/France/City/Neufcháteau.public|Neufcháteau.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~West/France/City/Neufcháteau.internal|Neufcháteau.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~West/France/City/Neufcháteau.protect|Neufcháteau.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~West/France/City/Neufcháteau.private|Neufcháteau.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~West/France/City/Neufcháteau.personal|Neufcháteau.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~West/France/City/Neufcháteau.secret|Neufcháteau.secret]] 
+
+### [Neufcháteau.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Grand_Est\departments~Grand_Est\Vosges\communes~Vosges\Neufchâteau\cities~NeufchâteauNeufcháteau.public.md) 
+
+### [Neufcháteau.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Grand_Est\departments~Grand_Est\Vosges\communes~Vosges\Neufchâteau\cities~NeufchâteauNeufcháteau.internal.md) 
+
+### [Neufcháteau.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Grand_Est\departments~Grand_Est\Vosges\communes~Vosges\Neufchâteau\cities~NeufchâteauNeufcháteau.protect.md) 
+
+### [Neufcháteau.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Grand_Est\departments~Grand_Est\Vosges\communes~Vosges\Neufchâteau\cities~NeufchâteauNeufcháteau.private.md) 
+
+### [Neufcháteau.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Grand_Est\departments~Grand_Est\Vosges\communes~Vosges\Neufchâteau\cities~NeufchâteauNeufcháteau.personal.md) 
+
+### [Neufcháteau.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Grand_Est\departments~Grand_Est\Vosges\communes~Vosges\Neufchâteau\cities~NeufchâteauNeufcháteau.secret.md)
+

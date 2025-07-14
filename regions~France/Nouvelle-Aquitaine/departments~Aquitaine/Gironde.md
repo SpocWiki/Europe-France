@@ -40,11 +40,16 @@ markerFolder: ./Département~Gironde/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/geo/Continent/egions/Nouvelle-Aquitaine/Département~Gironde|Département~Gironde]] 
-- [[../../../../../_public/geo/Continent/egions/Nouvelle-Aquitaine/Département~Gironde.public|Département~Gironde.public]] 
-- [[../../../../../_internal/geo/Continent/egions/Nouvelle-Aquitaine/Département~Gironde.internal|Département~Gironde.internal]] 
-- [[../../../../../_protect/geo/Continent/egions/Nouvelle-Aquitaine/Département~Gironde.protect|Département~Gironde.protect]] 
-- [[../../../../../_private/geo/Continent/egions/Nouvelle-Aquitaine/Département~Gironde.private|Département~Gironde.private]] 
-- [[../../../../../_personal/geo/Continent/egions/Nouvelle-Aquitaine/Département~Gironde.personal|Département~Gironde.personal]] 
-- [[../../../../../_secret/geo/Continent/egions/Nouvelle-Aquitaine/Département~Gironde.secret|Département~Gironde.secret]] 
+
+### [Gironde.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~AquitaineGironde.public.md) 
+
+### [Gironde.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~AquitaineGironde.internal.md) 
+
+### [Gironde.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~AquitaineGironde.protect.md) 
+
+### [Gironde.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~AquitaineGironde.private.md) 
+
+### [Gironde.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~AquitaineGironde.personal.md) 
+
+### [Gironde.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~AquitaineGironde.secret.md)
 

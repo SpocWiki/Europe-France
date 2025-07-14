@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~West/France/City/Mamers|Mamers]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~West/France/City/Mamers.public|Mamers.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~West/France/City/Mamers.internal|Mamers.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~West/France/City/Mamers.protect|Mamers.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~West/France/City/Mamers.private|Mamers.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~West/France/City/Mamers.personal|Mamers.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~West/France/City/Mamers.secret|Mamers.secret]] 
+
+### [Mamers.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Pays_de_la_Loire\departments~Pays_de_la_Loire\Sarthe\communes~Sarthe\Mamers\cities~MamersMamers.public.md) 
+
+### [Mamers.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Pays_de_la_Loire\departments~Pays_de_la_Loire\Sarthe\communes~Sarthe\Mamers\cities~MamersMamers.internal.md) 
+
+### [Mamers.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Pays_de_la_Loire\departments~Pays_de_la_Loire\Sarthe\communes~Sarthe\Mamers\cities~MamersMamers.protect.md) 
+
+### [Mamers.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Pays_de_la_Loire\departments~Pays_de_la_Loire\Sarthe\communes~Sarthe\Mamers\cities~MamersMamers.private.md) 
+
+### [Mamers.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Pays_de_la_Loire\departments~Pays_de_la_Loire\Sarthe\communes~Sarthe\Mamers\cities~MamersMamers.personal.md) 
+
+### [Mamers.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Pays_de_la_Loire\departments~Pays_de_la_Loire\Sarthe\communes~Sarthe\Mamers\cities~MamersMamers.secret.md)
+

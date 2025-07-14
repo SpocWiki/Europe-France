@@ -40,11 +40,16 @@ markerFolder: ./Département~Charente/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/geo/Continent/egions/Nouvelle-Aquitaine/Département~Charente|Département~Charente]] 
-- [[../../../../../_public/geo/Continent/egions/Nouvelle-Aquitaine/Département~Charente.public|Département~Charente.public]] 
-- [[../../../../../_internal/geo/Continent/egions/Nouvelle-Aquitaine/Département~Charente.internal|Département~Charente.internal]] 
-- [[../../../../../_protect/geo/Continent/egions/Nouvelle-Aquitaine/Département~Charente.protect|Département~Charente.protect]] 
-- [[../../../../../_private/geo/Continent/egions/Nouvelle-Aquitaine/Département~Charente.private|Département~Charente.private]] 
-- [[../../../../../_personal/geo/Continent/egions/Nouvelle-Aquitaine/Département~Charente.personal|Département~Charente.personal]] 
-- [[../../../../../_secret/geo/Continent/egions/Nouvelle-Aquitaine/Département~Charente.secret|Département~Charente.secret]] 
+
+### [Charente.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~AquitaineCharente.public.md) 
+
+### [Charente.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~AquitaineCharente.internal.md) 
+
+### [Charente.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~AquitaineCharente.protect.md) 
+
+### [Charente.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~AquitaineCharente.private.md) 
+
+### [Charente.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~AquitaineCharente.personal.md) 
+
+### [Charente.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~AquitaineCharente.secret.md)
 

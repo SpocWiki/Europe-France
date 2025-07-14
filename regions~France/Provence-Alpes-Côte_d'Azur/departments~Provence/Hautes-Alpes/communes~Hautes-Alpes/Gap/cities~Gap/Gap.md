@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~West/France/City/Gap|Gap]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~West/France/City/Gap.public|Gap.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~West/France/City/Gap.internal|Gap.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~West/France/City/Gap.protect|Gap.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~West/France/City/Gap.private|Gap.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~West/France/City/Gap.personal|Gap.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~West/France/City/Gap.secret|Gap.secret]] 
+
+### [Gap.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Provence-Alpes-Côte_d'Azur\departments~Provence\Hautes-Alpes\communes~Hautes-Alpes\Gap\cities~GapGap.public.md) 
+
+### [Gap.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Provence-Alpes-Côte_d'Azur\departments~Provence\Hautes-Alpes\communes~Hautes-Alpes\Gap\cities~GapGap.internal.md) 
+
+### [Gap.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Provence-Alpes-Côte_d'Azur\departments~Provence\Hautes-Alpes\communes~Hautes-Alpes\Gap\cities~GapGap.protect.md) 
+
+### [Gap.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Provence-Alpes-Côte_d'Azur\departments~Provence\Hautes-Alpes\communes~Hautes-Alpes\Gap\cities~GapGap.private.md) 
+
+### [Gap.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Provence-Alpes-Côte_d'Azur\departments~Provence\Hautes-Alpes\communes~Hautes-Alpes\Gap\cities~GapGap.personal.md) 
+
+### [Gap.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Provence-Alpes-Côte_d'Azur\departments~Provence\Hautes-Alpes\communes~Hautes-Alpes\Gap\cities~GapGap.secret.md)
+

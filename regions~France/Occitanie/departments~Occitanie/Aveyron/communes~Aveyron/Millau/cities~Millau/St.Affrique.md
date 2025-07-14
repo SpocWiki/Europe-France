@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~West/France/City/St.Affrique|St.Affrique]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~West/France/City/St.Affrique.public|St.Affrique.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~West/France/City/St.Affrique.internal|St.Affrique.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~West/France/City/St.Affrique.protect|St.Affrique.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~West/France/City/St.Affrique.private|St.Affrique.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~West/France/City/St.Affrique.personal|St.Affrique.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~West/France/City/St.Affrique.secret|St.Affrique.secret]] 
+
+### [St.Affrique.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~Occitanie\Aveyron\communes~Aveyron\Millau\cities~MillauSt.Affrique.public.md) 
+
+### [St.Affrique.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~Occitanie\Aveyron\communes~Aveyron\Millau\cities~MillauSt.Affrique.internal.md) 
+
+### [St.Affrique.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~Occitanie\Aveyron\communes~Aveyron\Millau\cities~MillauSt.Affrique.protect.md) 
+
+### [St.Affrique.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~Occitanie\Aveyron\communes~Aveyron\Millau\cities~MillauSt.Affrique.private.md) 
+
+### [St.Affrique.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~Occitanie\Aveyron\communes~Aveyron\Millau\cities~MillauSt.Affrique.personal.md) 
+
+### [St.Affrique.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~Occitanie\Aveyron\communes~Aveyron\Millau\cities~MillauSt.Affrique.secret.md)
+

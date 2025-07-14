@@ -40,11 +40,16 @@ markerFolder: ./Département~Aude/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../_Standards/geo/Continent/Europe/Europe~West/France/Counties/Occitanie/Département~Aude|Département~Aude]] 
-- [[../../../../../../../../_public/geo/Continent/Europe/Europe~West/France/Counties/Occitanie/Département~Aude.public|Département~Aude.public]] 
-- [[../../../../../../../../_internal/geo/Continent/Europe/Europe~West/France/Counties/Occitanie/Département~Aude.internal|Département~Aude.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Europe~West/France/Counties/Occitanie/Département~Aude.protect|Département~Aude.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Europe~West/France/Counties/Occitanie/Département~Aude.private|Département~Aude.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Europe~West/France/Counties/Occitanie/Département~Aude.personal|Département~Aude.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Europe~West/France/Counties/Occitanie/Département~Aude.secret|Département~Aude.secret]] 
+
+### [Aude.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~OccitanieAude.public.md) 
+
+### [Aude.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~OccitanieAude.internal.md) 
+
+### [Aude.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~OccitanieAude.protect.md) 
+
+### [Aude.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~OccitanieAude.private.md) 
+
+### [Aude.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~OccitanieAude.personal.md) 
+
+### [Aude.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~OccitanieAude.secret.md)
 

@@ -40,11 +40,16 @@ markerFolder: ./Département~Vosges/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/geo/Continent/egions/Grand_Est/Département~Vosges|Département~Vosges]] 
-- [[../../../../../_public/geo/Continent/egions/Grand_Est/Département~Vosges.public|Département~Vosges.public]] 
-- [[../../../../../_internal/geo/Continent/egions/Grand_Est/Département~Vosges.internal|Département~Vosges.internal]] 
-- [[../../../../../_protect/geo/Continent/egions/Grand_Est/Département~Vosges.protect|Département~Vosges.protect]] 
-- [[../../../../../_private/geo/Continent/egions/Grand_Est/Département~Vosges.private|Département~Vosges.private]] 
-- [[../../../../../_personal/geo/Continent/egions/Grand_Est/Département~Vosges.personal|Département~Vosges.personal]] 
-- [[../../../../../_secret/geo/Continent/egions/Grand_Est/Département~Vosges.secret|Département~Vosges.secret]] 
+
+### [Vosges.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Grand_Est\departments~Grand_EstVosges.public.md) 
+
+### [Vosges.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Grand_Est\departments~Grand_EstVosges.internal.md) 
+
+### [Vosges.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Grand_Est\departments~Grand_EstVosges.protect.md) 
+
+### [Vosges.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Grand_Est\departments~Grand_EstVosges.private.md) 
+
+### [Vosges.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Grand_Est\departments~Grand_EstVosges.personal.md) 
+
+### [Vosges.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Grand_Est\departments~Grand_EstVosges.secret.md)
 

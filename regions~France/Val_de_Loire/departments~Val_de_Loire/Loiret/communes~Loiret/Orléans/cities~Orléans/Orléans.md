@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~West/France/City/Orléans|Orléans]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~West/France/City/Orléans.public|Orléans.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~West/France/City/Orléans.internal|Orléans.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~West/France/City/Orléans.protect|Orléans.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~West/France/City/Orléans.private|Orléans.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~West/France/City/Orléans.personal|Orléans.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~West/France/City/Orléans.secret|Orléans.secret]] 
+
+### [Orléans.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Val_de_Loire\departments~Val_de_Loire\Loiret\communes~Loiret\Orléans\cities~OrléansOrléans.public.md) 
+
+### [Orléans.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Val_de_Loire\departments~Val_de_Loire\Loiret\communes~Loiret\Orléans\cities~OrléansOrléans.internal.md) 
+
+### [Orléans.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Val_de_Loire\departments~Val_de_Loire\Loiret\communes~Loiret\Orléans\cities~OrléansOrléans.protect.md) 
+
+### [Orléans.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Val_de_Loire\departments~Val_de_Loire\Loiret\communes~Loiret\Orléans\cities~OrléansOrléans.private.md) 
+
+### [Orléans.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Val_de_Loire\departments~Val_de_Loire\Loiret\communes~Loiret\Orléans\cities~OrléansOrléans.personal.md) 
+
+### [Orléans.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Val_de_Loire\departments~Val_de_Loire\Loiret\communes~Loiret\Orléans\cities~OrléansOrléans.secret.md)
+

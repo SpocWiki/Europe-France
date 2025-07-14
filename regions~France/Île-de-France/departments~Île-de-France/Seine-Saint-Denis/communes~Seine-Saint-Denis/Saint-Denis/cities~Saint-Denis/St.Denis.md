@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~West/France/City/St.Denis|St.Denis]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~West/France/City/St.Denis.public|St.Denis.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~West/France/City/St.Denis.internal|St.Denis.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~West/France/City/St.Denis.protect|St.Denis.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~West/France/City/St.Denis.private|St.Denis.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~West/France/City/St.Denis.personal|St.Denis.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~West/France/City/St.Denis.secret|St.Denis.secret]] 
+
+### [St.Denis.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Île-de-France\departments~Île-de-France\Seine-Saint-Denis\communes~Seine-Saint-Denis\Saint-Denis\cities~Saint-DenisSt.Denis.public.md) 
+
+### [St.Denis.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Île-de-France\departments~Île-de-France\Seine-Saint-Denis\communes~Seine-Saint-Denis\Saint-Denis\cities~Saint-DenisSt.Denis.internal.md) 
+
+### [St.Denis.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Île-de-France\departments~Île-de-France\Seine-Saint-Denis\communes~Seine-Saint-Denis\Saint-Denis\cities~Saint-DenisSt.Denis.protect.md) 
+
+### [St.Denis.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Île-de-France\departments~Île-de-France\Seine-Saint-Denis\communes~Seine-Saint-Denis\Saint-Denis\cities~Saint-DenisSt.Denis.private.md) 
+
+### [St.Denis.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Île-de-France\departments~Île-de-France\Seine-Saint-Denis\communes~Seine-Saint-Denis\Saint-Denis\cities~Saint-DenisSt.Denis.personal.md) 
+
+### [St.Denis.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Île-de-France\departments~Île-de-France\Seine-Saint-Denis\communes~Seine-Saint-Denis\Saint-Denis\cities~Saint-DenisSt.Denis.secret.md)
+

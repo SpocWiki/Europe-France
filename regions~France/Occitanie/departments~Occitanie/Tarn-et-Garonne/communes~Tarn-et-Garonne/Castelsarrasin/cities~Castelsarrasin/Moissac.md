@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~West/France/City/Moissac|Moissac]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~West/France/City/Moissac.public|Moissac.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~West/France/City/Moissac.internal|Moissac.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~West/France/City/Moissac.protect|Moissac.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~West/France/City/Moissac.private|Moissac.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~West/France/City/Moissac.personal|Moissac.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~West/France/City/Moissac.secret|Moissac.secret]] 
+
+### [Moissac.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~Occitanie\Tarn-et-Garonne\communes~Tarn-et-Garonne\Castelsarrasin\cities~CastelsarrasinMoissac.public.md) 
+
+### [Moissac.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~Occitanie\Tarn-et-Garonne\communes~Tarn-et-Garonne\Castelsarrasin\cities~CastelsarrasinMoissac.internal.md) 
+
+### [Moissac.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~Occitanie\Tarn-et-Garonne\communes~Tarn-et-Garonne\Castelsarrasin\cities~CastelsarrasinMoissac.protect.md) 
+
+### [Moissac.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~Occitanie\Tarn-et-Garonne\communes~Tarn-et-Garonne\Castelsarrasin\cities~CastelsarrasinMoissac.private.md) 
+
+### [Moissac.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~Occitanie\Tarn-et-Garonne\communes~Tarn-et-Garonne\Castelsarrasin\cities~CastelsarrasinMoissac.personal.md) 
+
+### [Moissac.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~Occitanie\Tarn-et-Garonne\communes~Tarn-et-Garonne\Castelsarrasin\cities~CastelsarrasinMoissac.secret.md)
+

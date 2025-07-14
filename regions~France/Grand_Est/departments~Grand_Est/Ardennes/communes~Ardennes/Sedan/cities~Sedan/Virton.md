@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~West/Belgium/City/Virton|Virton]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~West/Belgium/City/Virton.public|Virton.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~West/Belgium/City/Virton.internal|Virton.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~West/Belgium/City/Virton.protect|Virton.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~West/Belgium/City/Virton.private|Virton.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~West/Belgium/City/Virton.personal|Virton.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~West/Belgium/City/Virton.secret|Virton.secret]] 
+
+### [Virton.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Grand_Est\departments~Grand_Est\Ardennes\communes~Ardennes\Sedan\cities~SedanVirton.public.md) 
+
+### [Virton.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Grand_Est\departments~Grand_Est\Ardennes\communes~Ardennes\Sedan\cities~SedanVirton.internal.md) 
+
+### [Virton.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Grand_Est\departments~Grand_Est\Ardennes\communes~Ardennes\Sedan\cities~SedanVirton.protect.md) 
+
+### [Virton.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Grand_Est\departments~Grand_Est\Ardennes\communes~Ardennes\Sedan\cities~SedanVirton.private.md) 
+
+### [Virton.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Grand_Est\departments~Grand_Est\Ardennes\communes~Ardennes\Sedan\cities~SedanVirton.personal.md) 
+
+### [Virton.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Grand_Est\departments~Grand_Est\Ardennes\communes~Ardennes\Sedan\cities~SedanVirton.secret.md)
+

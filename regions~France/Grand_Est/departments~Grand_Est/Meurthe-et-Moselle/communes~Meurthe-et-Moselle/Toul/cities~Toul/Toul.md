@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~West/France/City/Toul|Toul]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~West/France/City/Toul.public|Toul.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~West/France/City/Toul.internal|Toul.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~West/France/City/Toul.protect|Toul.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~West/France/City/Toul.private|Toul.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~West/France/City/Toul.personal|Toul.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~West/France/City/Toul.secret|Toul.secret]] 
+
+### [Toul.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Grand_Est\departments~Grand_Est\Meurthe-et-Moselle\communes~Meurthe-et-Moselle\Toul\cities~ToulToul.public.md) 
+
+### [Toul.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Grand_Est\departments~Grand_Est\Meurthe-et-Moselle\communes~Meurthe-et-Moselle\Toul\cities~ToulToul.internal.md) 
+
+### [Toul.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Grand_Est\departments~Grand_Est\Meurthe-et-Moselle\communes~Meurthe-et-Moselle\Toul\cities~ToulToul.protect.md) 
+
+### [Toul.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Grand_Est\departments~Grand_Est\Meurthe-et-Moselle\communes~Meurthe-et-Moselle\Toul\cities~ToulToul.private.md) 
+
+### [Toul.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Grand_Est\departments~Grand_Est\Meurthe-et-Moselle\communes~Meurthe-et-Moselle\Toul\cities~ToulToul.personal.md) 
+
+### [Toul.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Grand_Est\departments~Grand_Est\Meurthe-et-Moselle\communes~Meurthe-et-Moselle\Toul\cities~ToulToul.secret.md)
+

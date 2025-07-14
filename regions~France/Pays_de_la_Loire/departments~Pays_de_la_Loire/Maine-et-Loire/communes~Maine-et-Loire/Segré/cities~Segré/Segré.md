@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~West/France/City/Segré|Segré]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~West/France/City/Segré.public|Segré.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~West/France/City/Segré.internal|Segré.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~West/France/City/Segré.protect|Segré.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~West/France/City/Segré.private|Segré.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~West/France/City/Segré.personal|Segré.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~West/France/City/Segré.secret|Segré.secret]] 
+
+### [Segré.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Pays_de_la_Loire\departments~Pays_de_la_Loire\Maine-et-Loire\communes~Maine-et-Loire\Segré\cities~SegréSegré.public.md) 
+
+### [Segré.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Pays_de_la_Loire\departments~Pays_de_la_Loire\Maine-et-Loire\communes~Maine-et-Loire\Segré\cities~SegréSegré.internal.md) 
+
+### [Segré.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Pays_de_la_Loire\departments~Pays_de_la_Loire\Maine-et-Loire\communes~Maine-et-Loire\Segré\cities~SegréSegré.protect.md) 
+
+### [Segré.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Pays_de_la_Loire\departments~Pays_de_la_Loire\Maine-et-Loire\communes~Maine-et-Loire\Segré\cities~SegréSegré.private.md) 
+
+### [Segré.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Pays_de_la_Loire\departments~Pays_de_la_Loire\Maine-et-Loire\communes~Maine-et-Loire\Segré\cities~SegréSegré.personal.md) 
+
+### [Segré.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Pays_de_la_Loire\departments~Pays_de_la_Loire\Maine-et-Loire\communes~Maine-et-Loire\Segré\cities~SegréSegré.secret.md)
+

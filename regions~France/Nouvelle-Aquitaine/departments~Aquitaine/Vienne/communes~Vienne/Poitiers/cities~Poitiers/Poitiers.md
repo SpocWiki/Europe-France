@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~West/France/City/Poitiers|Poitiers]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~West/France/City/Poitiers.public|Poitiers.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~West/France/City/Poitiers.internal|Poitiers.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~West/France/City/Poitiers.protect|Poitiers.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~West/France/City/Poitiers.private|Poitiers.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~West/France/City/Poitiers.personal|Poitiers.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~West/France/City/Poitiers.secret|Poitiers.secret]] 
+
+### [Poitiers.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~Aquitaine\Vienne\communes~Vienne\Poitiers\cities~PoitiersPoitiers.public.md) 
+
+### [Poitiers.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~Aquitaine\Vienne\communes~Vienne\Poitiers\cities~PoitiersPoitiers.internal.md) 
+
+### [Poitiers.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~Aquitaine\Vienne\communes~Vienne\Poitiers\cities~PoitiersPoitiers.protect.md) 
+
+### [Poitiers.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~Aquitaine\Vienne\communes~Vienne\Poitiers\cities~PoitiersPoitiers.private.md) 
+
+### [Poitiers.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~Aquitaine\Vienne\communes~Vienne\Poitiers\cities~PoitiersPoitiers.personal.md) 
+
+### [Poitiers.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~Aquitaine\Vienne\communes~Vienne\Poitiers\cities~PoitiersPoitiers.secret.md)
+

@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~West/France/City/Apt|Apt]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~West/France/City/Apt.public|Apt.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~West/France/City/Apt.internal|Apt.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~West/France/City/Apt.protect|Apt.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~West/France/City/Apt.private|Apt.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~West/France/City/Apt.personal|Apt.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~West/France/City/Apt.secret|Apt.secret]] 
+
+### [Apt.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Provence-Alpes-Côte_d'Azur\departments~Provence\Vaucluse\communes~Vaucluse\Apt\cities~AptApt.public.md) 
+
+### [Apt.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Provence-Alpes-Côte_d'Azur\departments~Provence\Vaucluse\communes~Vaucluse\Apt\cities~AptApt.internal.md) 
+
+### [Apt.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Provence-Alpes-Côte_d'Azur\departments~Provence\Vaucluse\communes~Vaucluse\Apt\cities~AptApt.protect.md) 
+
+### [Apt.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Provence-Alpes-Côte_d'Azur\departments~Provence\Vaucluse\communes~Vaucluse\Apt\cities~AptApt.private.md) 
+
+### [Apt.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Provence-Alpes-Côte_d'Azur\departments~Provence\Vaucluse\communes~Vaucluse\Apt\cities~AptApt.personal.md) 
+
+### [Apt.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Provence-Alpes-Côte_d'Azur\departments~Provence\Vaucluse\communes~Vaucluse\Apt\cities~AptApt.secret.md)
+

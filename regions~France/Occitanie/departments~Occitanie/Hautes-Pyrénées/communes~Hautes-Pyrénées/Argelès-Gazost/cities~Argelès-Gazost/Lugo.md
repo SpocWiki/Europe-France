@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~West/Spain/City/Lugo|Lugo]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~West/Spain/City/Lugo.public|Lugo.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~West/Spain/City/Lugo.internal|Lugo.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~West/Spain/City/Lugo.protect|Lugo.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~West/Spain/City/Lugo.private|Lugo.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~West/Spain/City/Lugo.personal|Lugo.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~West/Spain/City/Lugo.secret|Lugo.secret]] 
+
+### [Lugo.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~Occitanie\Hautes-Pyrénées\communes~Hautes-Pyrénées\Argelès-Gazost\cities~Argelès-GazostLugo.public.md) 
+
+### [Lugo.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~Occitanie\Hautes-Pyrénées\communes~Hautes-Pyrénées\Argelès-Gazost\cities~Argelès-GazostLugo.internal.md) 
+
+### [Lugo.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~Occitanie\Hautes-Pyrénées\communes~Hautes-Pyrénées\Argelès-Gazost\cities~Argelès-GazostLugo.protect.md) 
+
+### [Lugo.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~Occitanie\Hautes-Pyrénées\communes~Hautes-Pyrénées\Argelès-Gazost\cities~Argelès-GazostLugo.private.md) 
+
+### [Lugo.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~Occitanie\Hautes-Pyrénées\communes~Hautes-Pyrénées\Argelès-Gazost\cities~Argelès-GazostLugo.personal.md) 
+
+### [Lugo.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~Occitanie\Hautes-Pyrénées\communes~Hautes-Pyrénées\Argelès-Gazost\cities~Argelès-GazostLugo.secret.md)
+

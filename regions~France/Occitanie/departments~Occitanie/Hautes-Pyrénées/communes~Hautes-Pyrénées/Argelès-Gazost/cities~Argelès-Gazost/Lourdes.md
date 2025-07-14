@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~West/France/City/Lourdes|Lourdes]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~West/France/City/Lourdes.public|Lourdes.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~West/France/City/Lourdes.internal|Lourdes.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~West/France/City/Lourdes.protect|Lourdes.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~West/France/City/Lourdes.private|Lourdes.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~West/France/City/Lourdes.personal|Lourdes.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~West/France/City/Lourdes.secret|Lourdes.secret]] 
+
+### [Lourdes.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~Occitanie\Hautes-Pyrénées\communes~Hautes-Pyrénées\Argelès-Gazost\cities~Argelès-GazostLourdes.public.md) 
+
+### [Lourdes.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~Occitanie\Hautes-Pyrénées\communes~Hautes-Pyrénées\Argelès-Gazost\cities~Argelès-GazostLourdes.internal.md) 
+
+### [Lourdes.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~Occitanie\Hautes-Pyrénées\communes~Hautes-Pyrénées\Argelès-Gazost\cities~Argelès-GazostLourdes.protect.md) 
+
+### [Lourdes.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~Occitanie\Hautes-Pyrénées\communes~Hautes-Pyrénées\Argelès-Gazost\cities~Argelès-GazostLourdes.private.md) 
+
+### [Lourdes.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~Occitanie\Hautes-Pyrénées\communes~Hautes-Pyrénées\Argelès-Gazost\cities~Argelès-GazostLourdes.personal.md) 
+
+### [Lourdes.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~Occitanie\Hautes-Pyrénées\communes~Hautes-Pyrénées\Argelès-Gazost\cities~Argelès-GazostLourdes.secret.md)
+

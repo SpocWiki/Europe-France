@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~West/Switzerland/City/Nyon|Nyon]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~West/Switzerland/City/Nyon.public|Nyon.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~West/Switzerland/City/Nyon.internal|Nyon.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~West/Switzerland/City/Nyon.protect|Nyon.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~West/Switzerland/City/Nyon.private|Nyon.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~West/Switzerland/City/Nyon.personal|Nyon.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~West/Switzerland/City/Nyon.secret|Nyon.secret]] 
+
+### [Nyon.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Auvergne-Rhône-Alpes\departments~Auvergne-Rhône-Alpes\Allier\communes~Allier\Vichy\cities~VichyNyon.public.md) 
+
+### [Nyon.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Auvergne-Rhône-Alpes\departments~Auvergne-Rhône-Alpes\Allier\communes~Allier\Vichy\cities~VichyNyon.internal.md) 
+
+### [Nyon.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Auvergne-Rhône-Alpes\departments~Auvergne-Rhône-Alpes\Allier\communes~Allier\Vichy\cities~VichyNyon.protect.md) 
+
+### [Nyon.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Auvergne-Rhône-Alpes\departments~Auvergne-Rhône-Alpes\Allier\communes~Allier\Vichy\cities~VichyNyon.private.md) 
+
+### [Nyon.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Auvergne-Rhône-Alpes\departments~Auvergne-Rhône-Alpes\Allier\communes~Allier\Vichy\cities~VichyNyon.personal.md) 
+
+### [Nyon.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Auvergne-Rhône-Alpes\departments~Auvergne-Rhône-Alpes\Allier\communes~Allier\Vichy\cities~VichyNyon.secret.md)
+

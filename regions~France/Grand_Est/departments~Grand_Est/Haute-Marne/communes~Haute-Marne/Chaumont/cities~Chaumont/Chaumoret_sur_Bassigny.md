@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~West/France/City/Chaumoret_sur_Bassigny|Chaumoret_sur_Bassigny]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~West/France/City/Chaumoret_sur_Bassigny.public|Chaumoret_sur_Bassigny.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~West/France/City/Chaumoret_sur_Bassigny.internal|Chaumoret_sur_Bassigny.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~West/France/City/Chaumoret_sur_Bassigny.protect|Chaumoret_sur_Bassigny.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~West/France/City/Chaumoret_sur_Bassigny.private|Chaumoret_sur_Bassigny.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~West/France/City/Chaumoret_sur_Bassigny.personal|Chaumoret_sur_Bassigny.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~West/France/City/Chaumoret_sur_Bassigny.secret|Chaumoret_sur_Bassigny.secret]] 
+
+### [Chaumoret_sur_Bassigny.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Grand_Est\departments~Grand_Est\Haute-Marne\communes~Haute-Marne\Chaumont\cities~ChaumontChaumoret_sur_Bassigny.public.md) 
+
+### [Chaumoret_sur_Bassigny.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Grand_Est\departments~Grand_Est\Haute-Marne\communes~Haute-Marne\Chaumont\cities~ChaumontChaumoret_sur_Bassigny.internal.md) 
+
+### [Chaumoret_sur_Bassigny.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Grand_Est\departments~Grand_Est\Haute-Marne\communes~Haute-Marne\Chaumont\cities~ChaumontChaumoret_sur_Bassigny.protect.md) 
+
+### [Chaumoret_sur_Bassigny.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Grand_Est\departments~Grand_Est\Haute-Marne\communes~Haute-Marne\Chaumont\cities~ChaumontChaumoret_sur_Bassigny.private.md) 
+
+### [Chaumoret_sur_Bassigny.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Grand_Est\departments~Grand_Est\Haute-Marne\communes~Haute-Marne\Chaumont\cities~ChaumontChaumoret_sur_Bassigny.personal.md) 
+
+### [Chaumoret_sur_Bassigny.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Grand_Est\departments~Grand_Est\Haute-Marne\communes~Haute-Marne\Chaumont\cities~ChaumontChaumoret_sur_Bassigny.secret.md)
+

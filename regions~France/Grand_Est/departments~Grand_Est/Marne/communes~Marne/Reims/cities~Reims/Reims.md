@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~West/France/City/Reims|Reims]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~West/France/City/Reims.public|Reims.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~West/France/City/Reims.internal|Reims.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~West/France/City/Reims.protect|Reims.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~West/France/City/Reims.private|Reims.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~West/France/City/Reims.personal|Reims.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~West/France/City/Reims.secret|Reims.secret]] 
+
+### [Reims.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Grand_Est\departments~Grand_Est\Marne\communes~Marne\Reims\cities~ReimsReims.public.md) 
+
+### [Reims.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Grand_Est\departments~Grand_Est\Marne\communes~Marne\Reims\cities~ReimsReims.internal.md) 
+
+### [Reims.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Grand_Est\departments~Grand_Est\Marne\communes~Marne\Reims\cities~ReimsReims.protect.md) 
+
+### [Reims.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Grand_Est\departments~Grand_Est\Marne\communes~Marne\Reims\cities~ReimsReims.private.md) 
+
+### [Reims.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Grand_Est\departments~Grand_Est\Marne\communes~Marne\Reims\cities~ReimsReims.personal.md) 
+
+### [Reims.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Grand_Est\departments~Grand_Est\Marne\communes~Marne\Reims\cities~ReimsReims.secret.md)
+

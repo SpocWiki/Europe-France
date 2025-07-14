@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~West/France/City/Orange|Orange]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~West/France/City/Orange.public|Orange.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~West/France/City/Orange.internal|Orange.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~West/France/City/Orange.protect|Orange.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~West/France/City/Orange.private|Orange.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~West/France/City/Orange.personal|Orange.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~West/France/City/Orange.secret|Orange.secret]] 
+
+### [Orange.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Provence-Alpes-Côte_d'Azur\departments~Provence\Vaucluse\communes~Vaucluse\Avignon\cities~AvignonOrange.public.md) 
+
+### [Orange.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Provence-Alpes-Côte_d'Azur\departments~Provence\Vaucluse\communes~Vaucluse\Avignon\cities~AvignonOrange.internal.md) 
+
+### [Orange.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Provence-Alpes-Côte_d'Azur\departments~Provence\Vaucluse\communes~Vaucluse\Avignon\cities~AvignonOrange.protect.md) 
+
+### [Orange.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Provence-Alpes-Côte_d'Azur\departments~Provence\Vaucluse\communes~Vaucluse\Avignon\cities~AvignonOrange.private.md) 
+
+### [Orange.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Provence-Alpes-Côte_d'Azur\departments~Provence\Vaucluse\communes~Vaucluse\Avignon\cities~AvignonOrange.personal.md) 
+
+### [Orange.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Provence-Alpes-Côte_d'Azur\departments~Provence\Vaucluse\communes~Vaucluse\Avignon\cities~AvignonOrange.secret.md)
+

@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~West/France/City/Chinon|Chinon]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~West/France/City/Chinon.public|Chinon.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~West/France/City/Chinon.internal|Chinon.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~West/France/City/Chinon.protect|Chinon.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~West/France/City/Chinon.private|Chinon.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~West/France/City/Chinon.personal|Chinon.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~West/France/City/Chinon.secret|Chinon.secret]] 
+
+### [Chinon.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Val_de_Loire\departments~Val_de_Loire\Indre-et-Loire\communes~Indre-et-Loire\Chinon\cities~ChinonChinon.public.md) 
+
+### [Chinon.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Val_de_Loire\departments~Val_de_Loire\Indre-et-Loire\communes~Indre-et-Loire\Chinon\cities~ChinonChinon.internal.md) 
+
+### [Chinon.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Val_de_Loire\departments~Val_de_Loire\Indre-et-Loire\communes~Indre-et-Loire\Chinon\cities~ChinonChinon.protect.md) 
+
+### [Chinon.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Val_de_Loire\departments~Val_de_Loire\Indre-et-Loire\communes~Indre-et-Loire\Chinon\cities~ChinonChinon.private.md) 
+
+### [Chinon.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Val_de_Loire\departments~Val_de_Loire\Indre-et-Loire\communes~Indre-et-Loire\Chinon\cities~ChinonChinon.personal.md) 
+
+### [Chinon.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Val_de_Loire\departments~Val_de_Loire\Indre-et-Loire\communes~Indre-et-Loire\Chinon\cities~ChinonChinon.secret.md)
+

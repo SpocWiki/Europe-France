@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~West/France/City/Ruffec|Ruffec]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~West/France/City/Ruffec.public|Ruffec.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~West/France/City/Ruffec.internal|Ruffec.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~West/France/City/Ruffec.protect|Ruffec.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~West/France/City/Ruffec.private|Ruffec.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~West/France/City/Ruffec.personal|Ruffec.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~West/France/City/Ruffec.secret|Ruffec.secret]] 
+
+### [Ruffec.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~Aquitaine\Charente\communes~Charente\Confolens\cities~ConfolensRuffec.public.md) 
+
+### [Ruffec.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~Aquitaine\Charente\communes~Charente\Confolens\cities~ConfolensRuffec.internal.md) 
+
+### [Ruffec.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~Aquitaine\Charente\communes~Charente\Confolens\cities~ConfolensRuffec.protect.md) 
+
+### [Ruffec.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~Aquitaine\Charente\communes~Charente\Confolens\cities~ConfolensRuffec.private.md) 
+
+### [Ruffec.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~Aquitaine\Charente\communes~Charente\Confolens\cities~ConfolensRuffec.personal.md) 
+
+### [Ruffec.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~Aquitaine\Charente\communes~Charente\Confolens\cities~ConfolensRuffec.secret.md)
+

@@ -40,11 +40,16 @@ markerFolder: ./Département~Drôme/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../_Standards/geo/Continent/Europe/Europe~West/France/Counties/Auvergne-Rhône-Alpes/Département~Drôme|Département~Drôme]] 
-- [[../../../../../../../../_public/geo/Continent/Europe/Europe~West/France/Counties/Auvergne-Rhône-Alpes/Département~Drôme.public|Département~Drôme.public]] 
-- [[../../../../../../../../_internal/geo/Continent/Europe/Europe~West/France/Counties/Auvergne-Rhône-Alpes/Département~Drôme.internal|Département~Drôme.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Europe~West/France/Counties/Auvergne-Rhône-Alpes/Département~Drôme.protect|Département~Drôme.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Europe~West/France/Counties/Auvergne-Rhône-Alpes/Département~Drôme.private|Département~Drôme.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Europe~West/France/Counties/Auvergne-Rhône-Alpes/Département~Drôme.personal|Département~Drôme.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Europe~West/France/Counties/Auvergne-Rhône-Alpes/Département~Drôme.secret|Département~Drôme.secret]] 
+
+### [Drôme.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Auvergne-Rhône-Alpes\departments~Auvergne-Rhône-AlpesDrôme.public.md) 
+
+### [Drôme.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Auvergne-Rhône-Alpes\departments~Auvergne-Rhône-AlpesDrôme.internal.md) 
+
+### [Drôme.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Auvergne-Rhône-Alpes\departments~Auvergne-Rhône-AlpesDrôme.protect.md) 
+
+### [Drôme.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Auvergne-Rhône-Alpes\departments~Auvergne-Rhône-AlpesDrôme.private.md) 
+
+### [Drôme.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Auvergne-Rhône-Alpes\departments~Auvergne-Rhône-AlpesDrôme.personal.md) 
+
+### [Drôme.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Auvergne-Rhône-Alpes\departments~Auvergne-Rhône-AlpesDrôme.secret.md)
 

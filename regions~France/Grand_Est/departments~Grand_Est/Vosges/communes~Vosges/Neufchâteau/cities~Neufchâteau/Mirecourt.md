@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~West/France/City/Mirecourt|Mirecourt]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~West/France/City/Mirecourt.public|Mirecourt.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~West/France/City/Mirecourt.internal|Mirecourt.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~West/France/City/Mirecourt.protect|Mirecourt.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~West/France/City/Mirecourt.private|Mirecourt.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~West/France/City/Mirecourt.personal|Mirecourt.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~West/France/City/Mirecourt.secret|Mirecourt.secret]] 
+
+### [Mirecourt.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Grand_Est\departments~Grand_Est\Vosges\communes~Vosges\Neufchâteau\cities~NeufchâteauMirecourt.public.md) 
+
+### [Mirecourt.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Grand_Est\departments~Grand_Est\Vosges\communes~Vosges\Neufchâteau\cities~NeufchâteauMirecourt.internal.md) 
+
+### [Mirecourt.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Grand_Est\departments~Grand_Est\Vosges\communes~Vosges\Neufchâteau\cities~NeufchâteauMirecourt.protect.md) 
+
+### [Mirecourt.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Grand_Est\departments~Grand_Est\Vosges\communes~Vosges\Neufchâteau\cities~NeufchâteauMirecourt.private.md) 
+
+### [Mirecourt.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Grand_Est\departments~Grand_Est\Vosges\communes~Vosges\Neufchâteau\cities~NeufchâteauMirecourt.personal.md) 
+
+### [Mirecourt.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Grand_Est\departments~Grand_Est\Vosges\communes~Vosges\Neufchâteau\cities~NeufchâteauMirecourt.secret.md)
+

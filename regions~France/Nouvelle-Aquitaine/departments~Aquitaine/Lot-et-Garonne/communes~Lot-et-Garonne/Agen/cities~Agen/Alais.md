@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~West/France/City/Alais|Alais]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~West/France/City/Alais.public|Alais.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~West/France/City/Alais.internal|Alais.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~West/France/City/Alais.protect|Alais.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~West/France/City/Alais.private|Alais.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~West/France/City/Alais.personal|Alais.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~West/France/City/Alais.secret|Alais.secret]] 
+
+### [Alais.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~Aquitaine\Lot-et-Garonne\communes~Lot-et-Garonne\Agen\cities~AgenAlais.public.md) 
+
+### [Alais.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~Aquitaine\Lot-et-Garonne\communes~Lot-et-Garonne\Agen\cities~AgenAlais.internal.md) 
+
+### [Alais.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~Aquitaine\Lot-et-Garonne\communes~Lot-et-Garonne\Agen\cities~AgenAlais.protect.md) 
+
+### [Alais.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~Aquitaine\Lot-et-Garonne\communes~Lot-et-Garonne\Agen\cities~AgenAlais.private.md) 
+
+### [Alais.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~Aquitaine\Lot-et-Garonne\communes~Lot-et-Garonne\Agen\cities~AgenAlais.personal.md) 
+
+### [Alais.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~Aquitaine\Lot-et-Garonne\communes~Lot-et-Garonne\Agen\cities~AgenAlais.secret.md)
+

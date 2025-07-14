@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~West/France/City/Vitry-le-Franc|Vitry-le-Franc]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~West/France/City/Vitry-le-Franc.public|Vitry-le-Franc.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~West/France/City/Vitry-le-Franc.internal|Vitry-le-Franc.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~West/France/City/Vitry-le-Franc.protect|Vitry-le-Franc.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~West/France/City/Vitry-le-Franc.private|Vitry-le-Franc.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~West/France/City/Vitry-le-Franc.personal|Vitry-le-Franc.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~West/France/City/Vitry-le-Franc.secret|Vitry-le-Franc.secret]] 
+
+### [Vitry-le-Franc.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Grand_Est\departments~Grand_Est\Marne\communes~Marne\Vitry-le-François\cities~Vitry-le-FrançoisVitry-le-Franc.public.md) 
+
+### [Vitry-le-Franc.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Grand_Est\departments~Grand_Est\Marne\communes~Marne\Vitry-le-François\cities~Vitry-le-FrançoisVitry-le-Franc.internal.md) 
+
+### [Vitry-le-Franc.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Grand_Est\departments~Grand_Est\Marne\communes~Marne\Vitry-le-François\cities~Vitry-le-FrançoisVitry-le-Franc.protect.md) 
+
+### [Vitry-le-Franc.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Grand_Est\departments~Grand_Est\Marne\communes~Marne\Vitry-le-François\cities~Vitry-le-FrançoisVitry-le-Franc.private.md) 
+
+### [Vitry-le-Franc.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Grand_Est\departments~Grand_Est\Marne\communes~Marne\Vitry-le-François\cities~Vitry-le-FrançoisVitry-le-Franc.personal.md) 
+
+### [Vitry-le-Franc.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Grand_Est\departments~Grand_Est\Marne\communes~Marne\Vitry-le-François\cities~Vitry-le-FrançoisVitry-le-Franc.secret.md)
+

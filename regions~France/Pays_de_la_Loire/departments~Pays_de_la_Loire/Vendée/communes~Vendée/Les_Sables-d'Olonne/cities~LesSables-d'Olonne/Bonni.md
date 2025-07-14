@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~West/France/City/Bonni|Bonni]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~West/France/City/Bonni.public|Bonni.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~West/France/City/Bonni.internal|Bonni.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~West/France/City/Bonni.protect|Bonni.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~West/France/City/Bonni.private|Bonni.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~West/France/City/Bonni.personal|Bonni.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~West/France/City/Bonni.secret|Bonni.secret]] 
+
+### [Bonni.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Pays_de_la_Loire\departments~Pays_de_la_Loire\Vendée\communes~Vendée\Les_Sables-d'Olonne\cities~LesSables-d'OlonneBonni.public.md) 
+
+### [Bonni.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Pays_de_la_Loire\departments~Pays_de_la_Loire\Vendée\communes~Vendée\Les_Sables-d'Olonne\cities~LesSables-d'OlonneBonni.internal.md) 
+
+### [Bonni.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Pays_de_la_Loire\departments~Pays_de_la_Loire\Vendée\communes~Vendée\Les_Sables-d'Olonne\cities~LesSables-d'OlonneBonni.protect.md) 
+
+### [Bonni.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Pays_de_la_Loire\departments~Pays_de_la_Loire\Vendée\communes~Vendée\Les_Sables-d'Olonne\cities~LesSables-d'OlonneBonni.private.md) 
+
+### [Bonni.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Pays_de_la_Loire\departments~Pays_de_la_Loire\Vendée\communes~Vendée\Les_Sables-d'Olonne\cities~LesSables-d'OlonneBonni.personal.md) 
+
+### [Bonni.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Pays_de_la_Loire\departments~Pays_de_la_Loire\Vendée\communes~Vendée\Les_Sables-d'Olonne\cities~LesSables-d'OlonneBonni.secret.md)
+

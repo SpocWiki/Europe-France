@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~West/France/City/Yssengeaux|Yssengeaux]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~West/France/City/Yssengeaux.public|Yssengeaux.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~West/France/City/Yssengeaux.internal|Yssengeaux.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~West/France/City/Yssengeaux.protect|Yssengeaux.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~West/France/City/Yssengeaux.private|Yssengeaux.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~West/France/City/Yssengeaux.personal|Yssengeaux.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~West/France/City/Yssengeaux.secret|Yssengeaux.secret]] 
+
+### [Yssengeaux.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Auvergne-Rhône-Alpes\departments~Auvergne-Rhône-Alpes\Haute-Loire\communes~Haute-Loire\Yssingeaux\cities~YssingeauxYssengeaux.public.md) 
+
+### [Yssengeaux.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Auvergne-Rhône-Alpes\departments~Auvergne-Rhône-Alpes\Haute-Loire\communes~Haute-Loire\Yssingeaux\cities~YssingeauxYssengeaux.internal.md) 
+
+### [Yssengeaux.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Auvergne-Rhône-Alpes\departments~Auvergne-Rhône-Alpes\Haute-Loire\communes~Haute-Loire\Yssingeaux\cities~YssingeauxYssengeaux.protect.md) 
+
+### [Yssengeaux.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Auvergne-Rhône-Alpes\departments~Auvergne-Rhône-Alpes\Haute-Loire\communes~Haute-Loire\Yssingeaux\cities~YssingeauxYssengeaux.private.md) 
+
+### [Yssengeaux.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Auvergne-Rhône-Alpes\departments~Auvergne-Rhône-Alpes\Haute-Loire\communes~Haute-Loire\Yssingeaux\cities~YssingeauxYssengeaux.personal.md) 
+
+### [Yssengeaux.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Auvergne-Rhône-Alpes\departments~Auvergne-Rhône-Alpes\Haute-Loire\communes~Haute-Loire\Yssingeaux\cities~YssingeauxYssengeaux.secret.md)
+

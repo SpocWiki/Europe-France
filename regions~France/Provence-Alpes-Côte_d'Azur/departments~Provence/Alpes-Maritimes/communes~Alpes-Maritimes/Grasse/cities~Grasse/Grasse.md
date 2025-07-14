@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~West/France/City/Grasse|Grasse]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~West/France/City/Grasse.public|Grasse.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~West/France/City/Grasse.internal|Grasse.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~West/France/City/Grasse.protect|Grasse.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~West/France/City/Grasse.private|Grasse.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~West/France/City/Grasse.personal|Grasse.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~West/France/City/Grasse.secret|Grasse.secret]] 
+
+### [Grasse.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Provence-Alpes-Côte_d'Azur\departments~Provence\Alpes-Maritimes\communes~Alpes-Maritimes\Grasse\cities~GrasseGrasse.public.md) 
+
+### [Grasse.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Provence-Alpes-Côte_d'Azur\departments~Provence\Alpes-Maritimes\communes~Alpes-Maritimes\Grasse\cities~GrasseGrasse.internal.md) 
+
+### [Grasse.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Provence-Alpes-Côte_d'Azur\departments~Provence\Alpes-Maritimes\communes~Alpes-Maritimes\Grasse\cities~GrasseGrasse.protect.md) 
+
+### [Grasse.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Provence-Alpes-Côte_d'Azur\departments~Provence\Alpes-Maritimes\communes~Alpes-Maritimes\Grasse\cities~GrasseGrasse.private.md) 
+
+### [Grasse.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Provence-Alpes-Côte_d'Azur\departments~Provence\Alpes-Maritimes\communes~Alpes-Maritimes\Grasse\cities~GrasseGrasse.personal.md) 
+
+### [Grasse.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Provence-Alpes-Côte_d'Azur\departments~Provence\Alpes-Maritimes\communes~Alpes-Maritimes\Grasse\cities~GrasseGrasse.secret.md)
+

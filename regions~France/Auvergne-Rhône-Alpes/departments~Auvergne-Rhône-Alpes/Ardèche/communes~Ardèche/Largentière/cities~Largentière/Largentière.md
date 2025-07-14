@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~West/France/City/Largentière|Largentière]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~West/France/City/Largentière.public|Largentière.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~West/France/City/Largentière.internal|Largentière.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~West/France/City/Largentière.protect|Largentière.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~West/France/City/Largentière.private|Largentière.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~West/France/City/Largentière.personal|Largentière.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~West/France/City/Largentière.secret|Largentière.secret]] 
+
+### [Largentière.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Auvergne-Rhône-Alpes\departments~Auvergne-Rhône-Alpes\Ardèche\communes~Ardèche\Largentière\cities~LargentièreLargentière.public.md) 
+
+### [Largentière.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Auvergne-Rhône-Alpes\departments~Auvergne-Rhône-Alpes\Ardèche\communes~Ardèche\Largentière\cities~LargentièreLargentière.internal.md) 
+
+### [Largentière.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Auvergne-Rhône-Alpes\departments~Auvergne-Rhône-Alpes\Ardèche\communes~Ardèche\Largentière\cities~LargentièreLargentière.protect.md) 
+
+### [Largentière.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Auvergne-Rhône-Alpes\departments~Auvergne-Rhône-Alpes\Ardèche\communes~Ardèche\Largentière\cities~LargentièreLargentière.private.md) 
+
+### [Largentière.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Auvergne-Rhône-Alpes\departments~Auvergne-Rhône-Alpes\Ardèche\communes~Ardèche\Largentière\cities~LargentièreLargentière.personal.md) 
+
+### [Largentière.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Auvergne-Rhône-Alpes\departments~Auvergne-Rhône-Alpes\Ardèche\communes~Ardèche\Largentière\cities~LargentièreLargentière.secret.md)
+

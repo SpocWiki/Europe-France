@@ -40,11 +40,16 @@ markerFolder: ./Département~Loire-Atlantique/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/geo/Continent/egions/Pays_de_la_Loire/Département~Loire-Atlantique|Département~Loire-Atlantique]] 
-- [[../../../../../_public/geo/Continent/egions/Pays_de_la_Loire/Département~Loire-Atlantique.public|Département~Loire-Atlantique.public]] 
-- [[../../../../../_internal/geo/Continent/egions/Pays_de_la_Loire/Département~Loire-Atlantique.internal|Département~Loire-Atlantique.internal]] 
-- [[../../../../../_protect/geo/Continent/egions/Pays_de_la_Loire/Département~Loire-Atlantique.protect|Département~Loire-Atlantique.protect]] 
-- [[../../../../../_private/geo/Continent/egions/Pays_de_la_Loire/Département~Loire-Atlantique.private|Département~Loire-Atlantique.private]] 
-- [[../../../../../_personal/geo/Continent/egions/Pays_de_la_Loire/Département~Loire-Atlantique.personal|Département~Loire-Atlantique.personal]] 
-- [[../../../../../_secret/geo/Continent/egions/Pays_de_la_Loire/Département~Loire-Atlantique.secret|Département~Loire-Atlantique.secret]] 
+
+### [Loire-Atlantique.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Pays_de_la_Loire\departments~Pays_de_la_LoireLoire-Atlantique.public.md) 
+
+### [Loire-Atlantique.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Pays_de_la_Loire\departments~Pays_de_la_LoireLoire-Atlantique.internal.md) 
+
+### [Loire-Atlantique.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Pays_de_la_Loire\departments~Pays_de_la_LoireLoire-Atlantique.protect.md) 
+
+### [Loire-Atlantique.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Pays_de_la_Loire\departments~Pays_de_la_LoireLoire-Atlantique.private.md) 
+
+### [Loire-Atlantique.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Pays_de_la_Loire\departments~Pays_de_la_LoireLoire-Atlantique.personal.md) 
+
+### [Loire-Atlantique.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Pays_de_la_Loire\departments~Pays_de_la_LoireLoire-Atlantique.secret.md)
 

@@ -40,11 +40,16 @@ markerFolder: ./Département~Seine-Maritime/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../_Standards/geo/Continent/Europe/Europe~West/France/Counties/Normandie/Département~Seine-Maritime|Département~Seine-Maritime]] 
-- [[../../../../../../../../_public/geo/Continent/Europe/Europe~West/France/Counties/Normandie/Département~Seine-Maritime.public|Département~Seine-Maritime.public]] 
-- [[../../../../../../../../_internal/geo/Continent/Europe/Europe~West/France/Counties/Normandie/Département~Seine-Maritime.internal|Département~Seine-Maritime.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Europe~West/France/Counties/Normandie/Département~Seine-Maritime.protect|Département~Seine-Maritime.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Europe~West/France/Counties/Normandie/Département~Seine-Maritime.private|Département~Seine-Maritime.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Europe~West/France/Counties/Normandie/Département~Seine-Maritime.personal|Département~Seine-Maritime.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Europe~West/France/Counties/Normandie/Département~Seine-Maritime.secret|Département~Seine-Maritime.secret]] 
+
+### [Seine-Maritime.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Normandie\departments~NormandieSeine-Maritime.public.md) 
+
+### [Seine-Maritime.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Normandie\departments~NormandieSeine-Maritime.internal.md) 
+
+### [Seine-Maritime.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Normandie\departments~NormandieSeine-Maritime.protect.md) 
+
+### [Seine-Maritime.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Normandie\departments~NormandieSeine-Maritime.private.md) 
+
+### [Seine-Maritime.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Normandie\departments~NormandieSeine-Maritime.personal.md) 
+
+### [Seine-Maritime.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Normandie\departments~NormandieSeine-Maritime.secret.md)
 

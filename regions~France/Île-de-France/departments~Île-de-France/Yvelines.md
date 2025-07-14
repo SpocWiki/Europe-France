@@ -40,11 +40,16 @@ markerFolder: ./Département~Yvelines/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../_Standards/geo/Continent/Europe/Europe~West/France/Counties/Île-de-France/Département~Yvelines|Département~Yvelines]] 
-- [[../../../../../../../../_public/geo/Continent/Europe/Europe~West/France/Counties/Île-de-France/Département~Yvelines.public|Département~Yvelines.public]] 
-- [[../../../../../../../../_internal/geo/Continent/Europe/Europe~West/France/Counties/Île-de-France/Département~Yvelines.internal|Département~Yvelines.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Europe~West/France/Counties/Île-de-France/Département~Yvelines.protect|Département~Yvelines.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Europe~West/France/Counties/Île-de-France/Département~Yvelines.private|Département~Yvelines.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Europe~West/France/Counties/Île-de-France/Département~Yvelines.personal|Département~Yvelines.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Europe~West/France/Counties/Île-de-France/Département~Yvelines.secret|Département~Yvelines.secret]] 
+
+### [Yvelines.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Île-de-France\departments~Île-de-FranceYvelines.public.md) 
+
+### [Yvelines.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Île-de-France\departments~Île-de-FranceYvelines.internal.md) 
+
+### [Yvelines.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Île-de-France\departments~Île-de-FranceYvelines.protect.md) 
+
+### [Yvelines.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Île-de-France\departments~Île-de-FranceYvelines.private.md) 
+
+### [Yvelines.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Île-de-France\departments~Île-de-FranceYvelines.personal.md) 
+
+### [Yvelines.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Île-de-France\departments~Île-de-FranceYvelines.secret.md)
 

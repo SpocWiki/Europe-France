@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~West/France/City/Pontarlier|Pontarlier]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~West/France/City/Pontarlier.public|Pontarlier.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~West/France/City/Pontarlier.internal|Pontarlier.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~West/France/City/Pontarlier.protect|Pontarlier.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~West/France/City/Pontarlier.private|Pontarlier.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~West/France/City/Pontarlier.personal|Pontarlier.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~West/France/City/Pontarlier.secret|Pontarlier.secret]] 
+
+### [Pontarlier.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Bourgogne-Franche-Comté\departments~Bourgogne-Franche-Comté\Doubs\communes~Doubs\Pontarlier\cities~PontarlierPontarlier.public.md) 
+
+### [Pontarlier.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Bourgogne-Franche-Comté\departments~Bourgogne-Franche-Comté\Doubs\communes~Doubs\Pontarlier\cities~PontarlierPontarlier.internal.md) 
+
+### [Pontarlier.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Bourgogne-Franche-Comté\departments~Bourgogne-Franche-Comté\Doubs\communes~Doubs\Pontarlier\cities~PontarlierPontarlier.protect.md) 
+
+### [Pontarlier.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Bourgogne-Franche-Comté\departments~Bourgogne-Franche-Comté\Doubs\communes~Doubs\Pontarlier\cities~PontarlierPontarlier.private.md) 
+
+### [Pontarlier.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Bourgogne-Franche-Comté\departments~Bourgogne-Franche-Comté\Doubs\communes~Doubs\Pontarlier\cities~PontarlierPontarlier.personal.md) 
+
+### [Pontarlier.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Bourgogne-Franche-Comté\departments~Bourgogne-Franche-Comté\Doubs\communes~Doubs\Pontarlier\cities~PontarlierPontarlier.secret.md)
+

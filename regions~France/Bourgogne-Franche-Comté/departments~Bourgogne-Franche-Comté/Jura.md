@@ -40,11 +40,16 @@ markerFolder: ./Département~Jura/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/geo/Continent/egions/Bourgogne-Franche-Comté/Département~Jura|Département~Jura]] 
-- [[../../../../../_public/geo/Continent/egions/Bourgogne-Franche-Comté/Département~Jura.public|Département~Jura.public]] 
-- [[../../../../../_internal/geo/Continent/egions/Bourgogne-Franche-Comté/Département~Jura.internal|Département~Jura.internal]] 
-- [[../../../../../_protect/geo/Continent/egions/Bourgogne-Franche-Comté/Département~Jura.protect|Département~Jura.protect]] 
-- [[../../../../../_private/geo/Continent/egions/Bourgogne-Franche-Comté/Département~Jura.private|Département~Jura.private]] 
-- [[../../../../../_personal/geo/Continent/egions/Bourgogne-Franche-Comté/Département~Jura.personal|Département~Jura.personal]] 
-- [[../../../../../_secret/geo/Continent/egions/Bourgogne-Franche-Comté/Département~Jura.secret|Département~Jura.secret]] 
+
+### [Jura.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Bourgogne-Franche-Comté\departments~Bourgogne-Franche-ComtéJura.public.md) 
+
+### [Jura.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Bourgogne-Franche-Comté\departments~Bourgogne-Franche-ComtéJura.internal.md) 
+
+### [Jura.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Bourgogne-Franche-Comté\departments~Bourgogne-Franche-ComtéJura.protect.md) 
+
+### [Jura.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Bourgogne-Franche-Comté\departments~Bourgogne-Franche-ComtéJura.private.md) 
+
+### [Jura.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Bourgogne-Franche-Comté\departments~Bourgogne-Franche-ComtéJura.personal.md) 
+
+### [Jura.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Bourgogne-Franche-Comté\departments~Bourgogne-Franche-ComtéJura.secret.md)
 

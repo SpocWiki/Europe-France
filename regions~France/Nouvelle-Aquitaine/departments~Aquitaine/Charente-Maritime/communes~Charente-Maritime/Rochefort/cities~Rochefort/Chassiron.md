@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~West/France/City/Chassiron|Chassiron]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~West/France/City/Chassiron.public|Chassiron.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~West/France/City/Chassiron.internal|Chassiron.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~West/France/City/Chassiron.protect|Chassiron.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~West/France/City/Chassiron.private|Chassiron.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~West/France/City/Chassiron.personal|Chassiron.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~West/France/City/Chassiron.secret|Chassiron.secret]] 
+
+### [Chassiron.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~Aquitaine\Charente-Maritime\communes~Charente-Maritime\Rochefort\cities~RochefortChassiron.public.md) 
+
+### [Chassiron.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~Aquitaine\Charente-Maritime\communes~Charente-Maritime\Rochefort\cities~RochefortChassiron.internal.md) 
+
+### [Chassiron.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~Aquitaine\Charente-Maritime\communes~Charente-Maritime\Rochefort\cities~RochefortChassiron.protect.md) 
+
+### [Chassiron.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~Aquitaine\Charente-Maritime\communes~Charente-Maritime\Rochefort\cities~RochefortChassiron.private.md) 
+
+### [Chassiron.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~Aquitaine\Charente-Maritime\communes~Charente-Maritime\Rochefort\cities~RochefortChassiron.personal.md) 
+
+### [Chassiron.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~Aquitaine\Charente-Maritime\communes~Charente-Maritime\Rochefort\cities~RochefortChassiron.secret.md)
+

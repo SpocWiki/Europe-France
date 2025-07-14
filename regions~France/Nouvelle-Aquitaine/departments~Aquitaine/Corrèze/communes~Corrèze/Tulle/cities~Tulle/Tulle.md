@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~West/France/City/Tulle|Tulle]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~West/France/City/Tulle.public|Tulle.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~West/France/City/Tulle.internal|Tulle.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~West/France/City/Tulle.protect|Tulle.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~West/France/City/Tulle.private|Tulle.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~West/France/City/Tulle.personal|Tulle.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~West/France/City/Tulle.secret|Tulle.secret]] 
+
+### [Tulle.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~Aquitaine\Corrèze\communes~Corrèze\Tulle\cities~TulleTulle.public.md) 
+
+### [Tulle.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~Aquitaine\Corrèze\communes~Corrèze\Tulle\cities~TulleTulle.internal.md) 
+
+### [Tulle.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~Aquitaine\Corrèze\communes~Corrèze\Tulle\cities~TulleTulle.protect.md) 
+
+### [Tulle.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~Aquitaine\Corrèze\communes~Corrèze\Tulle\cities~TulleTulle.private.md) 
+
+### [Tulle.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~Aquitaine\Corrèze\communes~Corrèze\Tulle\cities~TulleTulle.personal.md) 
+
+### [Tulle.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~Aquitaine\Corrèze\communes~Corrèze\Tulle\cities~TulleTulle.secret.md)
+

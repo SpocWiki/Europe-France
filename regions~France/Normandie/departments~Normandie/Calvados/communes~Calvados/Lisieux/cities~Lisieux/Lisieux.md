@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~West/France/City/Lisieux|Lisieux]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~West/France/City/Lisieux.public|Lisieux.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~West/France/City/Lisieux.internal|Lisieux.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~West/France/City/Lisieux.protect|Lisieux.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~West/France/City/Lisieux.private|Lisieux.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~West/France/City/Lisieux.personal|Lisieux.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~West/France/City/Lisieux.secret|Lisieux.secret]] 
+
+### [Lisieux.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Normandie\departments~Normandie\Calvados\communes~Calvados\Lisieux\cities~LisieuxLisieux.public.md) 
+
+### [Lisieux.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Normandie\departments~Normandie\Calvados\communes~Calvados\Lisieux\cities~LisieuxLisieux.internal.md) 
+
+### [Lisieux.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Normandie\departments~Normandie\Calvados\communes~Calvados\Lisieux\cities~LisieuxLisieux.protect.md) 
+
+### [Lisieux.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Normandie\departments~Normandie\Calvados\communes~Calvados\Lisieux\cities~LisieuxLisieux.private.md) 
+
+### [Lisieux.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Normandie\departments~Normandie\Calvados\communes~Calvados\Lisieux\cities~LisieuxLisieux.personal.md) 
+
+### [Lisieux.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Normandie\departments~Normandie\Calvados\communes~Calvados\Lisieux\cities~LisieuxLisieux.secret.md)
+

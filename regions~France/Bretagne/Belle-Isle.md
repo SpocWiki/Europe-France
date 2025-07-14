@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~West/France/City/Belle-Isle|Belle-Isle]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~West/France/City/Belle-Isle.public|Belle-Isle.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~West/France/City/Belle-Isle.internal|Belle-Isle.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~West/France/City/Belle-Isle.protect|Belle-Isle.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~West/France/City/Belle-Isle.private|Belle-Isle.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~West/France/City/Belle-Isle.personal|Belle-Isle.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~West/France/City/Belle-Isle.secret|Belle-Isle.secret]] 
+
+### [Belle-Isle.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\BretagneBelle-Isle.public.md) 
+
+### [Belle-Isle.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\BretagneBelle-Isle.internal.md) 
+
+### [Belle-Isle.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\BretagneBelle-Isle.protect.md) 
+
+### [Belle-Isle.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\BretagneBelle-Isle.private.md) 
+
+### [Belle-Isle.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\BretagneBelle-Isle.personal.md) 
+
+### [Belle-Isle.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\BretagneBelle-Isle.secret.md)
+

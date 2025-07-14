@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~West/France/City/Amiens|Amiens]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~West/France/City/Amiens.public|Amiens.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~West/France/City/Amiens.internal|Amiens.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~West/France/City/Amiens.protect|Amiens.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~West/France/City/Amiens.private|Amiens.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~West/France/City/Amiens.personal|Amiens.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~West/France/City/Amiens.secret|Amiens.secret]] 
+
+### [Amiens.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Hauts-de-France\departments~Hauts-de-France\Somme\communes~Somme\Amiens\cities~AmiensAmiens.public.md) 
+
+### [Amiens.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Hauts-de-France\departments~Hauts-de-France\Somme\communes~Somme\Amiens\cities~AmiensAmiens.internal.md) 
+
+### [Amiens.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Hauts-de-France\departments~Hauts-de-France\Somme\communes~Somme\Amiens\cities~AmiensAmiens.protect.md) 
+
+### [Amiens.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Hauts-de-France\departments~Hauts-de-France\Somme\communes~Somme\Amiens\cities~AmiensAmiens.private.md) 
+
+### [Amiens.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Hauts-de-France\departments~Hauts-de-France\Somme\communes~Somme\Amiens\cities~AmiensAmiens.personal.md) 
+
+### [Amiens.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Hauts-de-France\departments~Hauts-de-France\Somme\communes~Somme\Amiens\cities~AmiensAmiens.secret.md)
+

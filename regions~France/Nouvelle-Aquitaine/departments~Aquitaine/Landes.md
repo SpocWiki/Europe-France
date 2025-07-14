@@ -40,11 +40,16 @@ markerFolder: ./Département~Landes/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../_Standards/geo/Continent/Europe/Europe~West/France/Counties/Nouvelle-Aquitaine/Département~Landes|Département~Landes]] 
-- [[../../../../../../../../_public/geo/Continent/Europe/Europe~West/France/Counties/Nouvelle-Aquitaine/Département~Landes.public|Département~Landes.public]] 
-- [[../../../../../../../../_internal/geo/Continent/Europe/Europe~West/France/Counties/Nouvelle-Aquitaine/Département~Landes.internal|Département~Landes.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Europe~West/France/Counties/Nouvelle-Aquitaine/Département~Landes.protect|Département~Landes.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Europe~West/France/Counties/Nouvelle-Aquitaine/Département~Landes.private|Département~Landes.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Europe~West/France/Counties/Nouvelle-Aquitaine/Département~Landes.personal|Département~Landes.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Europe~West/France/Counties/Nouvelle-Aquitaine/Département~Landes.secret|Département~Landes.secret]] 
+
+### [Landes.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~AquitaineLandes.public.md) 
+
+### [Landes.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~AquitaineLandes.internal.md) 
+
+### [Landes.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~AquitaineLandes.protect.md) 
+
+### [Landes.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~AquitaineLandes.private.md) 
+
+### [Landes.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~AquitaineLandes.personal.md) 
+
+### [Landes.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~AquitaineLandes.secret.md)
 

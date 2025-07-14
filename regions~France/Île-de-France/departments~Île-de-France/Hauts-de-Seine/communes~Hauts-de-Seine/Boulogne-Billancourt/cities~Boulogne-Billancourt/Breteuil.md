@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~West/France/City/Breteuil|Breteuil]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~West/France/City/Breteuil.public|Breteuil.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~West/France/City/Breteuil.internal|Breteuil.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~West/France/City/Breteuil.protect|Breteuil.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~West/France/City/Breteuil.private|Breteuil.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~West/France/City/Breteuil.personal|Breteuil.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~West/France/City/Breteuil.secret|Breteuil.secret]] 
+
+### [Breteuil.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Île-de-France\departments~Île-de-France\Hauts-de-Seine\communes~Hauts-de-Seine\Boulogne-Billancourt\cities~Boulogne-BillancourtBreteuil.public.md) 
+
+### [Breteuil.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Île-de-France\departments~Île-de-France\Hauts-de-Seine\communes~Hauts-de-Seine\Boulogne-Billancourt\cities~Boulogne-BillancourtBreteuil.internal.md) 
+
+### [Breteuil.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Île-de-France\departments~Île-de-France\Hauts-de-Seine\communes~Hauts-de-Seine\Boulogne-Billancourt\cities~Boulogne-BillancourtBreteuil.protect.md) 
+
+### [Breteuil.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Île-de-France\departments~Île-de-France\Hauts-de-Seine\communes~Hauts-de-Seine\Boulogne-Billancourt\cities~Boulogne-BillancourtBreteuil.private.md) 
+
+### [Breteuil.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Île-de-France\departments~Île-de-France\Hauts-de-Seine\communes~Hauts-de-Seine\Boulogne-Billancourt\cities~Boulogne-BillancourtBreteuil.personal.md) 
+
+### [Breteuil.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Île-de-France\departments~Île-de-France\Hauts-de-Seine\communes~Hauts-de-Seine\Boulogne-Billancourt\cities~Boulogne-BillancourtBreteuil.secret.md)
+

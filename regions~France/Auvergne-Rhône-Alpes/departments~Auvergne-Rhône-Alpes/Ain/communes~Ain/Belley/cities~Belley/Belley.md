@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~West/France/City/Belley|Belley]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~West/France/City/Belley.public|Belley.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~West/France/City/Belley.internal|Belley.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~West/France/City/Belley.protect|Belley.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~West/France/City/Belley.private|Belley.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~West/France/City/Belley.personal|Belley.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~West/France/City/Belley.secret|Belley.secret]] 
+
+### [Belley.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Auvergne-Rhône-Alpes\departments~Auvergne-Rhône-Alpes\Ain\communes~Ain\Belley\cities~BelleyBelley.public.md) 
+
+### [Belley.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Auvergne-Rhône-Alpes\departments~Auvergne-Rhône-Alpes\Ain\communes~Ain\Belley\cities~BelleyBelley.internal.md) 
+
+### [Belley.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Auvergne-Rhône-Alpes\departments~Auvergne-Rhône-Alpes\Ain\communes~Ain\Belley\cities~BelleyBelley.protect.md) 
+
+### [Belley.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Auvergne-Rhône-Alpes\departments~Auvergne-Rhône-Alpes\Ain\communes~Ain\Belley\cities~BelleyBelley.private.md) 
+
+### [Belley.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Auvergne-Rhône-Alpes\departments~Auvergne-Rhône-Alpes\Ain\communes~Ain\Belley\cities~BelleyBelley.personal.md) 
+
+### [Belley.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Auvergne-Rhône-Alpes\departments~Auvergne-Rhône-Alpes\Ain\communes~Ain\Belley\cities~BelleyBelley.secret.md)
+

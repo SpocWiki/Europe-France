@@ -25,3 +25,20 @@ markerFolder: ./Normandie//
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Normandy) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### [Normandie.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~FranceNormandie.public.md) 
+
+### [Normandie.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~FranceNormandie.internal.md) 
+
+### [Normandie.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~FranceNormandie.protect.md) 
+
+### [Normandie.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~FranceNormandie.private.md) 
+
+### [Normandie.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~FranceNormandie.personal.md) 
+
+### [Normandie.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~FranceNormandie.secret.md)
+

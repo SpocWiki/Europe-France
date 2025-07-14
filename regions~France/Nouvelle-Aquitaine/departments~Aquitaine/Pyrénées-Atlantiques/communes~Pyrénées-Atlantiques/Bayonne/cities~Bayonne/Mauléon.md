@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~West/France/City/Mauléon|Mauléon]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~West/France/City/Mauléon.public|Mauléon.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~West/France/City/Mauléon.internal|Mauléon.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~West/France/City/Mauléon.protect|Mauléon.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~West/France/City/Mauléon.private|Mauléon.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~West/France/City/Mauléon.personal|Mauléon.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~West/France/City/Mauléon.secret|Mauléon.secret]] 
+
+### [Mauléon.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~Aquitaine\Pyrénées-Atlantiques\communes~Pyrénées-Atlantiques\Bayonne\cities~BayonneMauléon.public.md) 
+
+### [Mauléon.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~Aquitaine\Pyrénées-Atlantiques\communes~Pyrénées-Atlantiques\Bayonne\cities~BayonneMauléon.internal.md) 
+
+### [Mauléon.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~Aquitaine\Pyrénées-Atlantiques\communes~Pyrénées-Atlantiques\Bayonne\cities~BayonneMauléon.protect.md) 
+
+### [Mauléon.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~Aquitaine\Pyrénées-Atlantiques\communes~Pyrénées-Atlantiques\Bayonne\cities~BayonneMauléon.private.md) 
+
+### [Mauléon.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~Aquitaine\Pyrénées-Atlantiques\communes~Pyrénées-Atlantiques\Bayonne\cities~BayonneMauléon.personal.md) 
+
+### [Mauléon.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~Aquitaine\Pyrénées-Atlantiques\communes~Pyrénées-Atlantiques\Bayonne\cities~BayonneMauléon.secret.md)
+

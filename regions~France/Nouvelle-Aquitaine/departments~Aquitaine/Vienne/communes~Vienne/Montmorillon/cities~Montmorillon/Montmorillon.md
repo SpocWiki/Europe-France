@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~West/France/City/Montmorillon|Montmorillon]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~West/France/City/Montmorillon.public|Montmorillon.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~West/France/City/Montmorillon.internal|Montmorillon.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~West/France/City/Montmorillon.protect|Montmorillon.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~West/France/City/Montmorillon.private|Montmorillon.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~West/France/City/Montmorillon.personal|Montmorillon.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~West/France/City/Montmorillon.secret|Montmorillon.secret]] 
+
+### [Montmorillon.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~Aquitaine\Vienne\communes~Vienne\Montmorillon\cities~MontmorillonMontmorillon.public.md) 
+
+### [Montmorillon.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~Aquitaine\Vienne\communes~Vienne\Montmorillon\cities~MontmorillonMontmorillon.internal.md) 
+
+### [Montmorillon.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~Aquitaine\Vienne\communes~Vienne\Montmorillon\cities~MontmorillonMontmorillon.protect.md) 
+
+### [Montmorillon.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~Aquitaine\Vienne\communes~Vienne\Montmorillon\cities~MontmorillonMontmorillon.private.md) 
+
+### [Montmorillon.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~Aquitaine\Vienne\communes~Vienne\Montmorillon\cities~MontmorillonMontmorillon.personal.md) 
+
+### [Montmorillon.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~Aquitaine\Vienne\communes~Vienne\Montmorillon\cities~MontmorillonMontmorillon.secret.md)
+

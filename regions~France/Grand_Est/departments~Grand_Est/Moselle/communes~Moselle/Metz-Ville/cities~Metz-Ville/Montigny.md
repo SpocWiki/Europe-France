@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~West/France/City/Montigny|Montigny]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~West/France/City/Montigny.public|Montigny.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~West/France/City/Montigny.internal|Montigny.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~West/France/City/Montigny.protect|Montigny.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~West/France/City/Montigny.private|Montigny.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~West/France/City/Montigny.personal|Montigny.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~West/France/City/Montigny.secret|Montigny.secret]] 
+
+### [Montigny.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Grand_Est\departments~Grand_Est\Moselle\communes~Moselle\Metz-Ville\cities~Metz-VilleMontigny.public.md) 
+
+### [Montigny.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Grand_Est\departments~Grand_Est\Moselle\communes~Moselle\Metz-Ville\cities~Metz-VilleMontigny.internal.md) 
+
+### [Montigny.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Grand_Est\departments~Grand_Est\Moselle\communes~Moselle\Metz-Ville\cities~Metz-VilleMontigny.protect.md) 
+
+### [Montigny.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Grand_Est\departments~Grand_Est\Moselle\communes~Moselle\Metz-Ville\cities~Metz-VilleMontigny.private.md) 
+
+### [Montigny.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Grand_Est\departments~Grand_Est\Moselle\communes~Moselle\Metz-Ville\cities~Metz-VilleMontigny.personal.md) 
+
+### [Montigny.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Grand_Est\departments~Grand_Est\Moselle\communes~Moselle\Metz-Ville\cities~Metz-VilleMontigny.secret.md)
+

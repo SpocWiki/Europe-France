@@ -40,11 +40,16 @@ markerFolder: ./Département~Charente-Maritime/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../_Standards/geo/Continent/Europe/Europe~West/France/Counties/Nouvelle-Aquitaine/Département~Charente-Maritime|Département~Charente-Maritime]] 
-- [[../../../../../../../../_public/geo/Continent/Europe/Europe~West/France/Counties/Nouvelle-Aquitaine/Département~Charente-Maritime.public|Département~Charente-Maritime.public]] 
-- [[../../../../../../../../_internal/geo/Continent/Europe/Europe~West/France/Counties/Nouvelle-Aquitaine/Département~Charente-Maritime.internal|Département~Charente-Maritime.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Europe~West/France/Counties/Nouvelle-Aquitaine/Département~Charente-Maritime.protect|Département~Charente-Maritime.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Europe~West/France/Counties/Nouvelle-Aquitaine/Département~Charente-Maritime.private|Département~Charente-Maritime.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Europe~West/France/Counties/Nouvelle-Aquitaine/Département~Charente-Maritime.personal|Département~Charente-Maritime.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Europe~West/France/Counties/Nouvelle-Aquitaine/Département~Charente-Maritime.secret|Département~Charente-Maritime.secret]] 
+
+### [Charente-Maritime.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~AquitaineCharente-Maritime.public.md) 
+
+### [Charente-Maritime.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~AquitaineCharente-Maritime.internal.md) 
+
+### [Charente-Maritime.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~AquitaineCharente-Maritime.protect.md) 
+
+### [Charente-Maritime.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~AquitaineCharente-Maritime.private.md) 
+
+### [Charente-Maritime.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~AquitaineCharente-Maritime.personal.md) 
+
+### [Charente-Maritime.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~AquitaineCharente-Maritime.secret.md)
 

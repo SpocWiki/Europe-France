@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~West/France/City/Louviers|Louviers]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~West/France/City/Louviers.public|Louviers.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~West/France/City/Louviers.internal|Louviers.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~West/France/City/Louviers.protect|Louviers.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~West/France/City/Louviers.private|Louviers.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~West/France/City/Louviers.personal|Louviers.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~West/France/City/Louviers.secret|Louviers.secret]] 
+
+### [Louviers.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Normandie\departments~Normandie\Eure\communes~Eure\Les_Andelys\cities~LesAndelysLouviers.public.md) 
+
+### [Louviers.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Normandie\departments~Normandie\Eure\communes~Eure\Les_Andelys\cities~LesAndelysLouviers.internal.md) 
+
+### [Louviers.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Normandie\departments~Normandie\Eure\communes~Eure\Les_Andelys\cities~LesAndelysLouviers.protect.md) 
+
+### [Louviers.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Normandie\departments~Normandie\Eure\communes~Eure\Les_Andelys\cities~LesAndelysLouviers.private.md) 
+
+### [Louviers.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Normandie\departments~Normandie\Eure\communes~Eure\Les_Andelys\cities~LesAndelysLouviers.personal.md) 
+
+### [Louviers.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Normandie\departments~Normandie\Eure\communes~Eure\Les_Andelys\cities~LesAndelysLouviers.secret.md)
+

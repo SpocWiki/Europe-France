@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~West/France/City/Montdidier|Montdidier]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~West/France/City/Montdidier.public|Montdidier.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~West/France/City/Montdidier.internal|Montdidier.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~West/France/City/Montdidier.protect|Montdidier.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~West/France/City/Montdidier.private|Montdidier.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~West/France/City/Montdidier.personal|Montdidier.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~West/France/City/Montdidier.secret|Montdidier.secret]] 
+
+### [Montdidier.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Hauts-de-France\departments~Hauts-de-France\Somme\communes~Somme\Montdidier\cities~MontdidierMontdidier.public.md) 
+
+### [Montdidier.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Hauts-de-France\departments~Hauts-de-France\Somme\communes~Somme\Montdidier\cities~MontdidierMontdidier.internal.md) 
+
+### [Montdidier.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Hauts-de-France\departments~Hauts-de-France\Somme\communes~Somme\Montdidier\cities~MontdidierMontdidier.protect.md) 
+
+### [Montdidier.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Hauts-de-France\departments~Hauts-de-France\Somme\communes~Somme\Montdidier\cities~MontdidierMontdidier.private.md) 
+
+### [Montdidier.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Hauts-de-France\departments~Hauts-de-France\Somme\communes~Somme\Montdidier\cities~MontdidierMontdidier.personal.md) 
+
+### [Montdidier.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Hauts-de-France\departments~Hauts-de-France\Somme\communes~Somme\Montdidier\cities~MontdidierMontdidier.secret.md)
+

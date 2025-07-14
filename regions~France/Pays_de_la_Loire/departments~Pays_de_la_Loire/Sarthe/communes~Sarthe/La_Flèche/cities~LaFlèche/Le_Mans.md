@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~West/France/City/Le_Mans|Le_Mans]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~West/France/City/Le_Mans.public|Le_Mans.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~West/France/City/Le_Mans.internal|Le_Mans.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~West/France/City/Le_Mans.protect|Le_Mans.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~West/France/City/Le_Mans.private|Le_Mans.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~West/France/City/Le_Mans.personal|Le_Mans.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~West/France/City/Le_Mans.secret|Le_Mans.secret]] 
+
+### [Le_Mans.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Pays_de_la_Loire\departments~Pays_de_la_Loire\Sarthe\communes~Sarthe\La_Flèche\cities~LaFlècheLe_Mans.public.md) 
+
+### [Le_Mans.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Pays_de_la_Loire\departments~Pays_de_la_Loire\Sarthe\communes~Sarthe\La_Flèche\cities~LaFlècheLe_Mans.internal.md) 
+
+### [Le_Mans.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Pays_de_la_Loire\departments~Pays_de_la_Loire\Sarthe\communes~Sarthe\La_Flèche\cities~LaFlècheLe_Mans.protect.md) 
+
+### [Le_Mans.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Pays_de_la_Loire\departments~Pays_de_la_Loire\Sarthe\communes~Sarthe\La_Flèche\cities~LaFlècheLe_Mans.private.md) 
+
+### [Le_Mans.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Pays_de_la_Loire\departments~Pays_de_la_Loire\Sarthe\communes~Sarthe\La_Flèche\cities~LaFlècheLe_Mans.personal.md) 
+
+### [Le_Mans.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Pays_de_la_Loire\departments~Pays_de_la_Loire\Sarthe\communes~Sarthe\La_Flèche\cities~LaFlècheLe_Mans.secret.md)
+

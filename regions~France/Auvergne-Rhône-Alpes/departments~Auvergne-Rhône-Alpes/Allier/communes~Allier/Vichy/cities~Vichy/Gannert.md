@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~West/France/City/Gannert|Gannert]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~West/France/City/Gannert.public|Gannert.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~West/France/City/Gannert.internal|Gannert.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~West/France/City/Gannert.protect|Gannert.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~West/France/City/Gannert.private|Gannert.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~West/France/City/Gannert.personal|Gannert.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~West/France/City/Gannert.secret|Gannert.secret]] 
+
+### [Gannert.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Auvergne-Rhône-Alpes\departments~Auvergne-Rhône-Alpes\Allier\communes~Allier\Vichy\cities~VichyGannert.public.md) 
+
+### [Gannert.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Auvergne-Rhône-Alpes\departments~Auvergne-Rhône-Alpes\Allier\communes~Allier\Vichy\cities~VichyGannert.internal.md) 
+
+### [Gannert.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Auvergne-Rhône-Alpes\departments~Auvergne-Rhône-Alpes\Allier\communes~Allier\Vichy\cities~VichyGannert.protect.md) 
+
+### [Gannert.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Auvergne-Rhône-Alpes\departments~Auvergne-Rhône-Alpes\Allier\communes~Allier\Vichy\cities~VichyGannert.private.md) 
+
+### [Gannert.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Auvergne-Rhône-Alpes\departments~Auvergne-Rhône-Alpes\Allier\communes~Allier\Vichy\cities~VichyGannert.personal.md) 
+
+### [Gannert.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Auvergne-Rhône-Alpes\departments~Auvergne-Rhône-Alpes\Allier\communes~Allier\Vichy\cities~VichyGannert.secret.md)
+

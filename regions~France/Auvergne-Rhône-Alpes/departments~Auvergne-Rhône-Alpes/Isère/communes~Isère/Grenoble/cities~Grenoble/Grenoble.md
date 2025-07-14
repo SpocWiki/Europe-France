@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~West/France/City/Grenoble|Grenoble]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~West/France/City/Grenoble.public|Grenoble.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~West/France/City/Grenoble.internal|Grenoble.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~West/France/City/Grenoble.protect|Grenoble.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~West/France/City/Grenoble.private|Grenoble.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~West/France/City/Grenoble.personal|Grenoble.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~West/France/City/Grenoble.secret|Grenoble.secret]] 
+
+### [Grenoble.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Auvergne-Rhône-Alpes\departments~Auvergne-Rhône-Alpes\Isère\communes~Isère\Grenoble\cities~GrenobleGrenoble.public.md) 
+
+### [Grenoble.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Auvergne-Rhône-Alpes\departments~Auvergne-Rhône-Alpes\Isère\communes~Isère\Grenoble\cities~GrenobleGrenoble.internal.md) 
+
+### [Grenoble.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Auvergne-Rhône-Alpes\departments~Auvergne-Rhône-Alpes\Isère\communes~Isère\Grenoble\cities~GrenobleGrenoble.protect.md) 
+
+### [Grenoble.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Auvergne-Rhône-Alpes\departments~Auvergne-Rhône-Alpes\Isère\communes~Isère\Grenoble\cities~GrenobleGrenoble.private.md) 
+
+### [Grenoble.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Auvergne-Rhône-Alpes\departments~Auvergne-Rhône-Alpes\Isère\communes~Isère\Grenoble\cities~GrenobleGrenoble.personal.md) 
+
+### [Grenoble.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Auvergne-Rhône-Alpes\departments~Auvergne-Rhône-Alpes\Isère\communes~Isère\Grenoble\cities~GrenobleGrenoble.secret.md)
+

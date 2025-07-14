@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~West/France/City/St.Germain_en_Laye|St.Germain_en_Laye]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~West/France/City/St.Germain_en_Laye.public|St.Germain_en_Laye.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~West/France/City/St.Germain_en_Laye.internal|St.Germain_en_Laye.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~West/France/City/St.Germain_en_Laye.protect|St.Germain_en_Laye.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~West/France/City/St.Germain_en_Laye.private|St.Germain_en_Laye.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~West/France/City/St.Germain_en_Laye.personal|St.Germain_en_Laye.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~West/France/City/St.Germain_en_Laye.secret|St.Germain_en_Laye.secret]] 
+
+### [St.Germain_en_Laye.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Île-de-France\departments~Île-de-France\Yvelines\communes~Yvelines\Saint-Germain-en-Laye\cities~Saint-Germain-en-LayeSt.Germain_en_Laye.public.md) 
+
+### [St.Germain_en_Laye.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Île-de-France\departments~Île-de-France\Yvelines\communes~Yvelines\Saint-Germain-en-Laye\cities~Saint-Germain-en-LayeSt.Germain_en_Laye.internal.md) 
+
+### [St.Germain_en_Laye.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Île-de-France\departments~Île-de-France\Yvelines\communes~Yvelines\Saint-Germain-en-Laye\cities~Saint-Germain-en-LayeSt.Germain_en_Laye.protect.md) 
+
+### [St.Germain_en_Laye.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Île-de-France\departments~Île-de-France\Yvelines\communes~Yvelines\Saint-Germain-en-Laye\cities~Saint-Germain-en-LayeSt.Germain_en_Laye.private.md) 
+
+### [St.Germain_en_Laye.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Île-de-France\departments~Île-de-France\Yvelines\communes~Yvelines\Saint-Germain-en-Laye\cities~Saint-Germain-en-LayeSt.Germain_en_Laye.personal.md) 
+
+### [St.Germain_en_Laye.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Île-de-France\departments~Île-de-France\Yvelines\communes~Yvelines\Saint-Germain-en-Laye\cities~Saint-Germain-en-LayeSt.Germain_en_Laye.secret.md)
+

@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~West/France/City/Albertville|Albertville]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~West/France/City/Albertville.public|Albertville.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~West/France/City/Albertville.internal|Albertville.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~West/France/City/Albertville.protect|Albertville.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~West/France/City/Albertville.private|Albertville.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~West/France/City/Albertville.personal|Albertville.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~West/France/City/Albertville.secret|Albertville.secret]] 
+
+### [Albertville.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Auvergne-Rhône-Alpes\departments~Auvergne-Rhône-Alpes\Savoie\communes~Savoie\Albertville\cities~AlbertvilleAlbertville.public.md) 
+
+### [Albertville.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Auvergne-Rhône-Alpes\departments~Auvergne-Rhône-Alpes\Savoie\communes~Savoie\Albertville\cities~AlbertvilleAlbertville.internal.md) 
+
+### [Albertville.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Auvergne-Rhône-Alpes\departments~Auvergne-Rhône-Alpes\Savoie\communes~Savoie\Albertville\cities~AlbertvilleAlbertville.protect.md) 
+
+### [Albertville.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Auvergne-Rhône-Alpes\departments~Auvergne-Rhône-Alpes\Savoie\communes~Savoie\Albertville\cities~AlbertvilleAlbertville.private.md) 
+
+### [Albertville.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Auvergne-Rhône-Alpes\departments~Auvergne-Rhône-Alpes\Savoie\communes~Savoie\Albertville\cities~AlbertvilleAlbertville.personal.md) 
+
+### [Albertville.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Auvergne-Rhône-Alpes\departments~Auvergne-Rhône-Alpes\Savoie\communes~Savoie\Albertville\cities~AlbertvilleAlbertville.secret.md)
+

@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~West/France/City/Chateaudun|Chateaudun]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~West/France/City/Chateaudun.public|Chateaudun.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~West/France/City/Chateaudun.internal|Chateaudun.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~West/France/City/Chateaudun.protect|Chateaudun.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~West/France/City/Chateaudun.private|Chateaudun.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~West/France/City/Chateaudun.personal|Chateaudun.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~West/France/City/Chateaudun.secret|Chateaudun.secret]] 
+
+### [Chateaudun.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Val_de_Loire\departments~Val_de_Loire\Eure-et-Loir\communes~Eure-et-Loir\Châteaudun\cities~ChâteaudunChateaudun.public.md) 
+
+### [Chateaudun.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Val_de_Loire\departments~Val_de_Loire\Eure-et-Loir\communes~Eure-et-Loir\Châteaudun\cities~ChâteaudunChateaudun.internal.md) 
+
+### [Chateaudun.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Val_de_Loire\departments~Val_de_Loire\Eure-et-Loir\communes~Eure-et-Loir\Châteaudun\cities~ChâteaudunChateaudun.protect.md) 
+
+### [Chateaudun.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Val_de_Loire\departments~Val_de_Loire\Eure-et-Loir\communes~Eure-et-Loir\Châteaudun\cities~ChâteaudunChateaudun.private.md) 
+
+### [Chateaudun.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Val_de_Loire\departments~Val_de_Loire\Eure-et-Loir\communes~Eure-et-Loir\Châteaudun\cities~ChâteaudunChateaudun.personal.md) 
+
+### [Chateaudun.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Val_de_Loire\departments~Val_de_Loire\Eure-et-Loir\communes~Eure-et-Loir\Châteaudun\cities~ChâteaudunChateaudun.secret.md)
+

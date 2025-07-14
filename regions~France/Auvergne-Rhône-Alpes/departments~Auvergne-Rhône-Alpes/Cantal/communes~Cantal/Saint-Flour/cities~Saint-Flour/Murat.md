@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~West/France/City/Murat|Murat]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~West/France/City/Murat.public|Murat.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~West/France/City/Murat.internal|Murat.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~West/France/City/Murat.protect|Murat.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~West/France/City/Murat.private|Murat.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~West/France/City/Murat.personal|Murat.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~West/France/City/Murat.secret|Murat.secret]] 
+
+### [Murat.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Auvergne-Rhône-Alpes\departments~Auvergne-Rhône-Alpes\Cantal\communes~Cantal\Saint-Flour\cities~Saint-FlourMurat.public.md) 
+
+### [Murat.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Auvergne-Rhône-Alpes\departments~Auvergne-Rhône-Alpes\Cantal\communes~Cantal\Saint-Flour\cities~Saint-FlourMurat.internal.md) 
+
+### [Murat.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Auvergne-Rhône-Alpes\departments~Auvergne-Rhône-Alpes\Cantal\communes~Cantal\Saint-Flour\cities~Saint-FlourMurat.protect.md) 
+
+### [Murat.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Auvergne-Rhône-Alpes\departments~Auvergne-Rhône-Alpes\Cantal\communes~Cantal\Saint-Flour\cities~Saint-FlourMurat.private.md) 
+
+### [Murat.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Auvergne-Rhône-Alpes\departments~Auvergne-Rhône-Alpes\Cantal\communes~Cantal\Saint-Flour\cities~Saint-FlourMurat.personal.md) 
+
+### [Murat.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Auvergne-Rhône-Alpes\departments~Auvergne-Rhône-Alpes\Cantal\communes~Cantal\Saint-Flour\cities~Saint-FlourMurat.secret.md)
+

@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~West/France/City/Nontron|Nontron]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~West/France/City/Nontron.public|Nontron.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~West/France/City/Nontron.internal|Nontron.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~West/France/City/Nontron.protect|Nontron.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~West/France/City/Nontron.private|Nontron.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~West/France/City/Nontron.personal|Nontron.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~West/France/City/Nontron.secret|Nontron.secret]] 
+
+### [Nontron.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~Aquitaine\Dordogne\communes~Dordogne\Nontron\cities~NontronNontron.public.md) 
+
+### [Nontron.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~Aquitaine\Dordogne\communes~Dordogne\Nontron\cities~NontronNontron.internal.md) 
+
+### [Nontron.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~Aquitaine\Dordogne\communes~Dordogne\Nontron\cities~NontronNontron.protect.md) 
+
+### [Nontron.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~Aquitaine\Dordogne\communes~Dordogne\Nontron\cities~NontronNontron.private.md) 
+
+### [Nontron.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~Aquitaine\Dordogne\communes~Dordogne\Nontron\cities~NontronNontron.personal.md) 
+
+### [Nontron.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~Aquitaine\Dordogne\communes~Dordogne\Nontron\cities~NontronNontron.secret.md)
+

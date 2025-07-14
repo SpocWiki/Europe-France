@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~West/France/City/Remiremont|Remiremont]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~West/France/City/Remiremont.public|Remiremont.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~West/France/City/Remiremont.internal|Remiremont.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~West/France/City/Remiremont.protect|Remiremont.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~West/France/City/Remiremont.private|Remiremont.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~West/France/City/Remiremont.personal|Remiremont.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~West/France/City/Remiremont.secret|Remiremont.secret]] 
+
+### [Remiremont.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Grand_Est\departments~Grand_Est\Vosges\communes~Vosges\Épinal\cities~ÉpinalRemiremont.public.md) 
+
+### [Remiremont.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Grand_Est\departments~Grand_Est\Vosges\communes~Vosges\Épinal\cities~ÉpinalRemiremont.internal.md) 
+
+### [Remiremont.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Grand_Est\departments~Grand_Est\Vosges\communes~Vosges\Épinal\cities~ÉpinalRemiremont.protect.md) 
+
+### [Remiremont.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Grand_Est\departments~Grand_Est\Vosges\communes~Vosges\Épinal\cities~ÉpinalRemiremont.private.md) 
+
+### [Remiremont.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Grand_Est\departments~Grand_Est\Vosges\communes~Vosges\Épinal\cities~ÉpinalRemiremont.personal.md) 
+
+### [Remiremont.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Grand_Est\departments~Grand_Est\Vosges\communes~Vosges\Épinal\cities~ÉpinalRemiremont.secret.md)
+

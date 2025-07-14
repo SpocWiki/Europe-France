@@ -40,11 +40,16 @@ markerFolder: ./Département~Pyrénées-Orientales/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/geo/Continent/egions/Occitanie/Département~Pyrénées-Orientales|Département~Pyrénées-Orientales]] 
-- [[../../../../../_public/geo/Continent/egions/Occitanie/Département~Pyrénées-Orientales.public|Département~Pyrénées-Orientales.public]] 
-- [[../../../../../_internal/geo/Continent/egions/Occitanie/Département~Pyrénées-Orientales.internal|Département~Pyrénées-Orientales.internal]] 
-- [[../../../../../_protect/geo/Continent/egions/Occitanie/Département~Pyrénées-Orientales.protect|Département~Pyrénées-Orientales.protect]] 
-- [[../../../../../_private/geo/Continent/egions/Occitanie/Département~Pyrénées-Orientales.private|Département~Pyrénées-Orientales.private]] 
-- [[../../../../../_personal/geo/Continent/egions/Occitanie/Département~Pyrénées-Orientales.personal|Département~Pyrénées-Orientales.personal]] 
-- [[../../../../../_secret/geo/Continent/egions/Occitanie/Département~Pyrénées-Orientales.secret|Département~Pyrénées-Orientales.secret]] 
+
+### [Pyrénées-Orientales.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~OccitaniePyrénées-Orientales.public.md) 
+
+### [Pyrénées-Orientales.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~OccitaniePyrénées-Orientales.internal.md) 
+
+### [Pyrénées-Orientales.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~OccitaniePyrénées-Orientales.protect.md) 
+
+### [Pyrénées-Orientales.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~OccitaniePyrénées-Orientales.private.md) 
+
+### [Pyrénées-Orientales.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~OccitaniePyrénées-Orientales.personal.md) 
+
+### [Pyrénées-Orientales.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~OccitaniePyrénées-Orientales.secret.md)
 

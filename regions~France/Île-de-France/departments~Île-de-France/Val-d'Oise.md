@@ -40,11 +40,16 @@ markerFolder: ./Département~Val-d'Oise/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../_Standards/geo/Continent/Europe/Europe~West/France/Counties/Île-de-France/Département~Val-d'Oise|Département~Val-d'Oise]] 
-- [[../../../../../../../../_public/geo/Continent/Europe/Europe~West/France/Counties/Île-de-France/Département~Val-d'Oise.public|Département~Val-d'Oise.public]] 
-- [[../../../../../../../../_internal/geo/Continent/Europe/Europe~West/France/Counties/Île-de-France/Département~Val-d'Oise.internal|Département~Val-d'Oise.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Europe~West/France/Counties/Île-de-France/Département~Val-d'Oise.protect|Département~Val-d'Oise.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Europe~West/France/Counties/Île-de-France/Département~Val-d'Oise.private|Département~Val-d'Oise.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Europe~West/France/Counties/Île-de-France/Département~Val-d'Oise.personal|Département~Val-d'Oise.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Europe~West/France/Counties/Île-de-France/Département~Val-d'Oise.secret|Département~Val-d'Oise.secret]] 
+
+### [Val-d'Oise.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Île-de-France\departments~Île-de-FranceVal-d'Oise.public.md) 
+
+### [Val-d'Oise.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Île-de-France\departments~Île-de-FranceVal-d'Oise.internal.md) 
+
+### [Val-d'Oise.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Île-de-France\departments~Île-de-FranceVal-d'Oise.protect.md) 
+
+### [Val-d'Oise.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Île-de-France\departments~Île-de-FranceVal-d'Oise.private.md) 
+
+### [Val-d'Oise.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Île-de-France\departments~Île-de-FranceVal-d'Oise.personal.md) 
+
+### [Val-d'Oise.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Île-de-France\departments~Île-de-FranceVal-d'Oise.secret.md)
 

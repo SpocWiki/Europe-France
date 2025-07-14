@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~West/France/City/St.Fleur|St.Fleur]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~West/France/City/St.Fleur.public|St.Fleur.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~West/France/City/St.Fleur.internal|St.Fleur.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~West/France/City/St.Fleur.protect|St.Fleur.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~West/France/City/St.Fleur.private|St.Fleur.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~West/France/City/St.Fleur.personal|St.Fleur.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~West/France/City/St.Fleur.secret|St.Fleur.secret]] 
+
+### [St.Fleur.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Auvergne-Rhône-Alpes\departments~Auvergne-Rhône-Alpes\Cantal\communes~Cantal\Saint-Flour\cities~Saint-FlourSt.Fleur.public.md) 
+
+### [St.Fleur.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Auvergne-Rhône-Alpes\departments~Auvergne-Rhône-Alpes\Cantal\communes~Cantal\Saint-Flour\cities~Saint-FlourSt.Fleur.internal.md) 
+
+### [St.Fleur.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Auvergne-Rhône-Alpes\departments~Auvergne-Rhône-Alpes\Cantal\communes~Cantal\Saint-Flour\cities~Saint-FlourSt.Fleur.protect.md) 
+
+### [St.Fleur.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Auvergne-Rhône-Alpes\departments~Auvergne-Rhône-Alpes\Cantal\communes~Cantal\Saint-Flour\cities~Saint-FlourSt.Fleur.private.md) 
+
+### [St.Fleur.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Auvergne-Rhône-Alpes\departments~Auvergne-Rhône-Alpes\Cantal\communes~Cantal\Saint-Flour\cities~Saint-FlourSt.Fleur.personal.md) 
+
+### [St.Fleur.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Auvergne-Rhône-Alpes\departments~Auvergne-Rhône-Alpes\Cantal\communes~Cantal\Saint-Flour\cities~Saint-FlourSt.Fleur.secret.md)
+

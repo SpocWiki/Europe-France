@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~West/France/City/Quimperlé|Quimperlé]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~West/France/City/Quimperlé.public|Quimperlé.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~West/France/City/Quimperlé.internal|Quimperlé.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~West/France/City/Quimperlé.protect|Quimperlé.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~West/France/City/Quimperlé.private|Quimperlé.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~West/France/City/Quimperlé.personal|Quimperlé.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~West/France/City/Quimperlé.secret|Quimperlé.secret]] 
+
+### [Quimperlé.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Bretagne\departments~Bretagne\Finistère\communes~Finistère\Quimper\cities~QuimperQuimperlé.public.md) 
+
+### [Quimperlé.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Bretagne\departments~Bretagne\Finistère\communes~Finistère\Quimper\cities~QuimperQuimperlé.internal.md) 
+
+### [Quimperlé.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Bretagne\departments~Bretagne\Finistère\communes~Finistère\Quimper\cities~QuimperQuimperlé.protect.md) 
+
+### [Quimperlé.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Bretagne\departments~Bretagne\Finistère\communes~Finistère\Quimper\cities~QuimperQuimperlé.private.md) 
+
+### [Quimperlé.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Bretagne\departments~Bretagne\Finistère\communes~Finistère\Quimper\cities~QuimperQuimperlé.personal.md) 
+
+### [Quimperlé.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Bretagne\departments~Bretagne\Finistère\communes~Finistère\Quimper\cities~QuimperQuimperlé.secret.md)
+

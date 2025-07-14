@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~West/France/City/Saintes|Saintes]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~West/France/City/Saintes.public|Saintes.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~West/France/City/Saintes.internal|Saintes.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~West/France/City/Saintes.protect|Saintes.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~West/France/City/Saintes.private|Saintes.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~West/France/City/Saintes.personal|Saintes.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~West/France/City/Saintes.secret|Saintes.secret]] 
+
+### [Saintes.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~Aquitaine\Charente-Maritime\communes~Charente-Maritime\Saintes\cities~SaintesSaintes.public.md) 
+
+### [Saintes.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~Aquitaine\Charente-Maritime\communes~Charente-Maritime\Saintes\cities~SaintesSaintes.internal.md) 
+
+### [Saintes.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~Aquitaine\Charente-Maritime\communes~Charente-Maritime\Saintes\cities~SaintesSaintes.protect.md) 
+
+### [Saintes.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~Aquitaine\Charente-Maritime\communes~Charente-Maritime\Saintes\cities~SaintesSaintes.private.md) 
+
+### [Saintes.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~Aquitaine\Charente-Maritime\communes~Charente-Maritime\Saintes\cities~SaintesSaintes.personal.md) 
+
+### [Saintes.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~Aquitaine\Charente-Maritime\communes~Charente-Maritime\Saintes\cities~SaintesSaintes.secret.md)
+

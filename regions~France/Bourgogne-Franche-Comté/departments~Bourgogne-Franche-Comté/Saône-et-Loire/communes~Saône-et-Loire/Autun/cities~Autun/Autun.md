@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~West/France/City/Autun|Autun]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~West/France/City/Autun.public|Autun.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~West/France/City/Autun.internal|Autun.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~West/France/City/Autun.protect|Autun.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~West/France/City/Autun.private|Autun.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~West/France/City/Autun.personal|Autun.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~West/France/City/Autun.secret|Autun.secret]] 
+
+### [Autun.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Bourgogne-Franche-Comté\departments~Bourgogne-Franche-Comté\Saône-et-Loire\communes~Saône-et-Loire\Autun\cities~AutunAutun.public.md) 
+
+### [Autun.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Bourgogne-Franche-Comté\departments~Bourgogne-Franche-Comté\Saône-et-Loire\communes~Saône-et-Loire\Autun\cities~AutunAutun.internal.md) 
+
+### [Autun.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Bourgogne-Franche-Comté\departments~Bourgogne-Franche-Comté\Saône-et-Loire\communes~Saône-et-Loire\Autun\cities~AutunAutun.protect.md) 
+
+### [Autun.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Bourgogne-Franche-Comté\departments~Bourgogne-Franche-Comté\Saône-et-Loire\communes~Saône-et-Loire\Autun\cities~AutunAutun.private.md) 
+
+### [Autun.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Bourgogne-Franche-Comté\departments~Bourgogne-Franche-Comté\Saône-et-Loire\communes~Saône-et-Loire\Autun\cities~AutunAutun.personal.md) 
+
+### [Autun.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Bourgogne-Franche-Comté\departments~Bourgogne-Franche-Comté\Saône-et-Loire\communes~Saône-et-Loire\Autun\cities~AutunAutun.secret.md)
+

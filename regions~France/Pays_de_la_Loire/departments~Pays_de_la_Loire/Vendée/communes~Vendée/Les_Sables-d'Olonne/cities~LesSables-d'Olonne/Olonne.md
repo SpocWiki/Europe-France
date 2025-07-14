@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~West/France/City/Olonne|Olonne]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~West/France/City/Olonne.public|Olonne.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~West/France/City/Olonne.internal|Olonne.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~West/France/City/Olonne.protect|Olonne.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~West/France/City/Olonne.private|Olonne.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~West/France/City/Olonne.personal|Olonne.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~West/France/City/Olonne.secret|Olonne.secret]] 
+
+### [Olonne.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Pays_de_la_Loire\departments~Pays_de_la_Loire\Vendée\communes~Vendée\Les_Sables-d'Olonne\cities~LesSables-d'OlonneOlonne.public.md) 
+
+### [Olonne.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Pays_de_la_Loire\departments~Pays_de_la_Loire\Vendée\communes~Vendée\Les_Sables-d'Olonne\cities~LesSables-d'OlonneOlonne.internal.md) 
+
+### [Olonne.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Pays_de_la_Loire\departments~Pays_de_la_Loire\Vendée\communes~Vendée\Les_Sables-d'Olonne\cities~LesSables-d'OlonneOlonne.protect.md) 
+
+### [Olonne.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Pays_de_la_Loire\departments~Pays_de_la_Loire\Vendée\communes~Vendée\Les_Sables-d'Olonne\cities~LesSables-d'OlonneOlonne.private.md) 
+
+### [Olonne.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Pays_de_la_Loire\departments~Pays_de_la_Loire\Vendée\communes~Vendée\Les_Sables-d'Olonne\cities~LesSables-d'OlonneOlonne.personal.md) 
+
+### [Olonne.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Pays_de_la_Loire\departments~Pays_de_la_Loire\Vendée\communes~Vendée\Les_Sables-d'Olonne\cities~LesSables-d'OlonneOlonne.secret.md)
+

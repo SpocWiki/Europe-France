@@ -11,3 +11,20 @@ maxZoom: 18
 defaultZoom: 11 
 ```
 
+
+
+
+## Confidential Links & Embeds: 
+
+### [lakes~France.public](/_public/\Earth\Continent\Europe\Europe~West\Francelakes~France.public.md) 
+
+### [lakes~France.internal](/_internal/\Earth\Continent\Europe\Europe~West\Francelakes~France.internal.md) 
+
+### [lakes~France.protect](/_protect/\Earth\Continent\Europe\Europe~West\Francelakes~France.protect.md) 
+
+### [lakes~France.private](/_private/\Earth\Continent\Europe\Europe~West\Francelakes~France.private.md) 
+
+### [lakes~France.personal](/_personal/\Earth\Continent\Europe\Europe~West\Francelakes~France.personal.md) 
+
+### [lakes~France.secret](/_secret/\Earth\Continent\Europe\Europe~West\Francelakes~France.secret.md)
+

@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~West/France/City/Rethel|Rethel]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~West/France/City/Rethel.public|Rethel.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~West/France/City/Rethel.internal|Rethel.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~West/France/City/Rethel.protect|Rethel.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~West/France/City/Rethel.private|Rethel.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~West/France/City/Rethel.personal|Rethel.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~West/France/City/Rethel.secret|Rethel.secret]] 
+
+### [Rethel.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Grand_Est\departments~Grand_Est\Ardennes\communes~Ardennes\Rethel\cities~RethelRethel.public.md) 
+
+### [Rethel.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Grand_Est\departments~Grand_Est\Ardennes\communes~Ardennes\Rethel\cities~RethelRethel.internal.md) 
+
+### [Rethel.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Grand_Est\departments~Grand_Est\Ardennes\communes~Ardennes\Rethel\cities~RethelRethel.protect.md) 
+
+### [Rethel.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Grand_Est\departments~Grand_Est\Ardennes\communes~Ardennes\Rethel\cities~RethelRethel.private.md) 
+
+### [Rethel.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Grand_Est\departments~Grand_Est\Ardennes\communes~Ardennes\Rethel\cities~RethelRethel.personal.md) 
+
+### [Rethel.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Grand_Est\departments~Grand_Est\Ardennes\communes~Ardennes\Rethel\cities~RethelRethel.secret.md)
+

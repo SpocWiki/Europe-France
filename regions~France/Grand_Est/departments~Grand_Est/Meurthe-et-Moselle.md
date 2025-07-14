@@ -40,11 +40,16 @@ markerFolder: ./Département~Meurhe-et-Moselle/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/geo/Continent/egions/Grand_Est/Département~Meurhe-et-Moselle|Département~Meurhe-et-Moselle]] 
-- [[../../../../../_public/geo/Continent/egions/Grand_Est/Département~Meurhe-et-Moselle.public|Département~Meurhe-et-Moselle.public]] 
-- [[../../../../../_internal/geo/Continent/egions/Grand_Est/Département~Meurhe-et-Moselle.internal|Département~Meurhe-et-Moselle.internal]] 
-- [[../../../../../_protect/geo/Continent/egions/Grand_Est/Département~Meurhe-et-Moselle.protect|Département~Meurhe-et-Moselle.protect]] 
-- [[../../../../../_private/geo/Continent/egions/Grand_Est/Département~Meurhe-et-Moselle.private|Département~Meurhe-et-Moselle.private]] 
-- [[../../../../../_personal/geo/Continent/egions/Grand_Est/Département~Meurhe-et-Moselle.personal|Département~Meurhe-et-Moselle.personal]] 
-- [[../../../../../_secret/geo/Continent/egions/Grand_Est/Département~Meurhe-et-Moselle.secret|Département~Meurhe-et-Moselle.secret]] 
+
+### [Meurthe-et-Moselle.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Grand_Est\departments~Grand_EstMeurthe-et-Moselle.public.md) 
+
+### [Meurthe-et-Moselle.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Grand_Est\departments~Grand_EstMeurthe-et-Moselle.internal.md) 
+
+### [Meurthe-et-Moselle.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Grand_Est\departments~Grand_EstMeurthe-et-Moselle.protect.md) 
+
+### [Meurthe-et-Moselle.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Grand_Est\departments~Grand_EstMeurthe-et-Moselle.private.md) 
+
+### [Meurthe-et-Moselle.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Grand_Est\departments~Grand_EstMeurthe-et-Moselle.personal.md) 
+
+### [Meurthe-et-Moselle.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Grand_Est\departments~Grand_EstMeurthe-et-Moselle.secret.md)
 

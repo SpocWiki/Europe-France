@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~West/France/City/Muret|Muret]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~West/France/City/Muret.public|Muret.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~West/France/City/Muret.internal|Muret.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~West/France/City/Muret.protect|Muret.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~West/France/City/Muret.private|Muret.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~West/France/City/Muret.personal|Muret.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~West/France/City/Muret.secret|Muret.secret]] 
+
+### [Muret.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~Occitanie\Haute-Garonne\communes~Haute-Garonne\Muret\cities~MuretMuret.public.md) 
+
+### [Muret.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~Occitanie\Haute-Garonne\communes~Haute-Garonne\Muret\cities~MuretMuret.internal.md) 
+
+### [Muret.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~Occitanie\Haute-Garonne\communes~Haute-Garonne\Muret\cities~MuretMuret.protect.md) 
+
+### [Muret.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~Occitanie\Haute-Garonne\communes~Haute-Garonne\Muret\cities~MuretMuret.private.md) 
+
+### [Muret.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~Occitanie\Haute-Garonne\communes~Haute-Garonne\Muret\cities~MuretMuret.personal.md) 
+
+### [Muret.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~Occitanie\Haute-Garonne\communes~Haute-Garonne\Muret\cities~MuretMuret.secret.md)
+

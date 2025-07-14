@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~West/France/City/Avesnes|Avesnes]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~West/France/City/Avesnes.public|Avesnes.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~West/France/City/Avesnes.internal|Avesnes.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~West/France/City/Avesnes.protect|Avesnes.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~West/France/City/Avesnes.private|Avesnes.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~West/France/City/Avesnes.personal|Avesnes.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~West/France/City/Avesnes.secret|Avesnes.secret]] 
+
+### [Avesnes.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Hauts-de-France\departments~Hauts-de-France\Hauts-de-France~Nord\communes~Nord\Avesnes-sur-Helpe\cities~Avesnes-sur-HelpeAvesnes.public.md) 
+
+### [Avesnes.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Hauts-de-France\departments~Hauts-de-France\Hauts-de-France~Nord\communes~Nord\Avesnes-sur-Helpe\cities~Avesnes-sur-HelpeAvesnes.internal.md) 
+
+### [Avesnes.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Hauts-de-France\departments~Hauts-de-France\Hauts-de-France~Nord\communes~Nord\Avesnes-sur-Helpe\cities~Avesnes-sur-HelpeAvesnes.protect.md) 
+
+### [Avesnes.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Hauts-de-France\departments~Hauts-de-France\Hauts-de-France~Nord\communes~Nord\Avesnes-sur-Helpe\cities~Avesnes-sur-HelpeAvesnes.private.md) 
+
+### [Avesnes.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Hauts-de-France\departments~Hauts-de-France\Hauts-de-France~Nord\communes~Nord\Avesnes-sur-Helpe\cities~Avesnes-sur-HelpeAvesnes.personal.md) 
+
+### [Avesnes.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Hauts-de-France\departments~Hauts-de-France\Hauts-de-France~Nord\communes~Nord\Avesnes-sur-Helpe\cities~Avesnes-sur-HelpeAvesnes.secret.md)
+

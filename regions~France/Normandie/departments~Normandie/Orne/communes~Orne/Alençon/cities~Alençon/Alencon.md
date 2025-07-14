@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~West/France/City/Alencon|Alencon]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~West/France/City/Alencon.public|Alencon.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~West/France/City/Alencon.internal|Alencon.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~West/France/City/Alencon.protect|Alencon.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~West/France/City/Alencon.private|Alencon.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~West/France/City/Alencon.personal|Alencon.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~West/France/City/Alencon.secret|Alencon.secret]] 
+
+### [Alencon.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Normandie\departments~Normandie\Orne\communes~Orne\Alençon\cities~AlençonAlencon.public.md) 
+
+### [Alencon.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Normandie\departments~Normandie\Orne\communes~Orne\Alençon\cities~AlençonAlencon.internal.md) 
+
+### [Alencon.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Normandie\departments~Normandie\Orne\communes~Orne\Alençon\cities~AlençonAlencon.protect.md) 
+
+### [Alencon.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Normandie\departments~Normandie\Orne\communes~Orne\Alençon\cities~AlençonAlencon.private.md) 
+
+### [Alencon.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Normandie\departments~Normandie\Orne\communes~Orne\Alençon\cities~AlençonAlencon.personal.md) 
+
+### [Alencon.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Normandie\departments~Normandie\Orne\communes~Orne\Alençon\cities~AlençonAlencon.secret.md)
+

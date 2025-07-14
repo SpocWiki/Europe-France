@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~West/France/City/Loudon|Loudon]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~West/France/City/Loudon.public|Loudon.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~West/France/City/Loudon.internal|Loudon.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~West/France/City/Loudon.protect|Loudon.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~West/France/City/Loudon.private|Loudon.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~West/France/City/Loudon.personal|Loudon.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~West/France/City/Loudon.secret|Loudon.secret]] 
+
+### [Loudon.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~Aquitaine\Vienne\communes~Vienne\Châtellerault\cities~ChâtelleraultLoudon.public.md) 
+
+### [Loudon.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~Aquitaine\Vienne\communes~Vienne\Châtellerault\cities~ChâtelleraultLoudon.internal.md) 
+
+### [Loudon.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~Aquitaine\Vienne\communes~Vienne\Châtellerault\cities~ChâtelleraultLoudon.protect.md) 
+
+### [Loudon.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~Aquitaine\Vienne\communes~Vienne\Châtellerault\cities~ChâtelleraultLoudon.private.md) 
+
+### [Loudon.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~Aquitaine\Vienne\communes~Vienne\Châtellerault\cities~ChâtelleraultLoudon.personal.md) 
+
+### [Loudon.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~Aquitaine\Vienne\communes~Vienne\Châtellerault\cities~ChâtelleraultLoudon.secret.md)
+

@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~West/France/City/Redon|Redon]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~West/France/City/Redon.public|Redon.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~West/France/City/Redon.internal|Redon.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~West/France/City/Redon.protect|Redon.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~West/France/City/Redon.private|Redon.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~West/France/City/Redon.personal|Redon.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~West/France/City/Redon.secret|Redon.secret]] 
+
+### [Redon.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Bretagne\departments~Bretagne\Ille-et-Vilaine\communes~Ille-et-Vilaine\Redon\cities~RedonRedon.public.md) 
+
+### [Redon.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Bretagne\departments~Bretagne\Ille-et-Vilaine\communes~Ille-et-Vilaine\Redon\cities~RedonRedon.internal.md) 
+
+### [Redon.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Bretagne\departments~Bretagne\Ille-et-Vilaine\communes~Ille-et-Vilaine\Redon\cities~RedonRedon.protect.md) 
+
+### [Redon.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Bretagne\departments~Bretagne\Ille-et-Vilaine\communes~Ille-et-Vilaine\Redon\cities~RedonRedon.private.md) 
+
+### [Redon.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Bretagne\departments~Bretagne\Ille-et-Vilaine\communes~Ille-et-Vilaine\Redon\cities~RedonRedon.personal.md) 
+
+### [Redon.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Bretagne\departments~Bretagne\Ille-et-Vilaine\communes~Ille-et-Vilaine\Redon\cities~RedonRedon.secret.md)
+

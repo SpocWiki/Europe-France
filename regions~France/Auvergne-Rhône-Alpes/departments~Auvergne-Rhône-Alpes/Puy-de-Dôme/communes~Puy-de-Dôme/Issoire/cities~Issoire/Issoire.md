@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~West/France/City/Issoire|Issoire]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~West/France/City/Issoire.public|Issoire.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~West/France/City/Issoire.internal|Issoire.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~West/France/City/Issoire.protect|Issoire.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~West/France/City/Issoire.private|Issoire.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~West/France/City/Issoire.personal|Issoire.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~West/France/City/Issoire.secret|Issoire.secret]] 
+
+### [Issoire.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Auvergne-Rhône-Alpes\departments~Auvergne-Rhône-Alpes\Puy-de-Dôme\communes~Puy-de-Dôme\Issoire\cities~IssoireIssoire.public.md) 
+
+### [Issoire.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Auvergne-Rhône-Alpes\departments~Auvergne-Rhône-Alpes\Puy-de-Dôme\communes~Puy-de-Dôme\Issoire\cities~IssoireIssoire.internal.md) 
+
+### [Issoire.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Auvergne-Rhône-Alpes\departments~Auvergne-Rhône-Alpes\Puy-de-Dôme\communes~Puy-de-Dôme\Issoire\cities~IssoireIssoire.protect.md) 
+
+### [Issoire.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Auvergne-Rhône-Alpes\departments~Auvergne-Rhône-Alpes\Puy-de-Dôme\communes~Puy-de-Dôme\Issoire\cities~IssoireIssoire.private.md) 
+
+### [Issoire.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Auvergne-Rhône-Alpes\departments~Auvergne-Rhône-Alpes\Puy-de-Dôme\communes~Puy-de-Dôme\Issoire\cities~IssoireIssoire.personal.md) 
+
+### [Issoire.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Auvergne-Rhône-Alpes\departments~Auvergne-Rhône-Alpes\Puy-de-Dôme\communes~Puy-de-Dôme\Issoire\cities~IssoireIssoire.secret.md)
+

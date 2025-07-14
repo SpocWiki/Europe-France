@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~West/France/City/Pont_l`Evéque|Pont_l`Evéque]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~West/France/City/Pont_l`Evéque.public|Pont_l`Evéque.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~West/France/City/Pont_l`Evéque.internal|Pont_l`Evéque.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~West/France/City/Pont_l`Evéque.protect|Pont_l`Evéque.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~West/France/City/Pont_l`Evéque.private|Pont_l`Evéque.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~West/France/City/Pont_l`Evéque.personal|Pont_l`Evéque.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~West/France/City/Pont_l`Evéque.secret|Pont_l`Evéque.secret]] 
+
+### [Pont_l`Evéque.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Normandie\departments~Normandie\Calvados\communes~Calvados\Lisieux\cities~LisieuxPont_l`Evéque.public.md) 
+
+### [Pont_l`Evéque.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Normandie\departments~Normandie\Calvados\communes~Calvados\Lisieux\cities~LisieuxPont_l`Evéque.internal.md) 
+
+### [Pont_l`Evéque.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Normandie\departments~Normandie\Calvados\communes~Calvados\Lisieux\cities~LisieuxPont_l`Evéque.protect.md) 
+
+### [Pont_l`Evéque.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Normandie\departments~Normandie\Calvados\communes~Calvados\Lisieux\cities~LisieuxPont_l`Evéque.private.md) 
+
+### [Pont_l`Evéque.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Normandie\departments~Normandie\Calvados\communes~Calvados\Lisieux\cities~LisieuxPont_l`Evéque.personal.md) 
+
+### [Pont_l`Evéque.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Normandie\departments~Normandie\Calvados\communes~Calvados\Lisieux\cities~LisieuxPont_l`Evéque.secret.md)
+

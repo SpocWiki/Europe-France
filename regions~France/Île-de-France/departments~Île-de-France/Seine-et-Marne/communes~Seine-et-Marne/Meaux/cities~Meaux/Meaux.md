@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~West/France/City/Meaux|Meaux]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~West/France/City/Meaux.public|Meaux.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~West/France/City/Meaux.internal|Meaux.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~West/France/City/Meaux.protect|Meaux.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~West/France/City/Meaux.private|Meaux.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~West/France/City/Meaux.personal|Meaux.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~West/France/City/Meaux.secret|Meaux.secret]] 
+
+### [Meaux.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Île-de-France\departments~Île-de-France\Seine-et-Marne\communes~Seine-et-Marne\Meaux\cities~MeauxMeaux.public.md) 
+
+### [Meaux.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Île-de-France\departments~Île-de-France\Seine-et-Marne\communes~Seine-et-Marne\Meaux\cities~MeauxMeaux.internal.md) 
+
+### [Meaux.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Île-de-France\departments~Île-de-France\Seine-et-Marne\communes~Seine-et-Marne\Meaux\cities~MeauxMeaux.protect.md) 
+
+### [Meaux.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Île-de-France\departments~Île-de-France\Seine-et-Marne\communes~Seine-et-Marne\Meaux\cities~MeauxMeaux.private.md) 
+
+### [Meaux.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Île-de-France\departments~Île-de-France\Seine-et-Marne\communes~Seine-et-Marne\Meaux\cities~MeauxMeaux.personal.md) 
+
+### [Meaux.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Île-de-France\departments~Île-de-France\Seine-et-Marne\communes~Seine-et-Marne\Meaux\cities~MeauxMeaux.secret.md)
+

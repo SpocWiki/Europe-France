@@ -58,3 +58,20 @@ markerFolder: ./Grand_Est//
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Grand%20Est) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### [Grand_Est.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~FranceGrand_Est.public.md) 
+
+### [Grand_Est.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~FranceGrand_Est.internal.md) 
+
+### [Grand_Est.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~FranceGrand_Est.protect.md) 
+
+### [Grand_Est.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~FranceGrand_Est.private.md) 
+
+### [Grand_Est.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~FranceGrand_Est.personal.md) 
+
+### [Grand_Est.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~FranceGrand_Est.secret.md)
+

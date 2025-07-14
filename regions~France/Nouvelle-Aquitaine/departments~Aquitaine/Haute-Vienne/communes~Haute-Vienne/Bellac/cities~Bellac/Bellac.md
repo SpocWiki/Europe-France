@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~West/France/City/Bellac|Bellac]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~West/France/City/Bellac.public|Bellac.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~West/France/City/Bellac.internal|Bellac.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~West/France/City/Bellac.protect|Bellac.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~West/France/City/Bellac.private|Bellac.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~West/France/City/Bellac.personal|Bellac.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~West/France/City/Bellac.secret|Bellac.secret]] 
+
+### [Bellac.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~Aquitaine\Haute-Vienne\communes~Haute-Vienne\Bellac\cities~BellacBellac.public.md) 
+
+### [Bellac.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~Aquitaine\Haute-Vienne\communes~Haute-Vienne\Bellac\cities~BellacBellac.internal.md) 
+
+### [Bellac.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~Aquitaine\Haute-Vienne\communes~Haute-Vienne\Bellac\cities~BellacBellac.protect.md) 
+
+### [Bellac.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~Aquitaine\Haute-Vienne\communes~Haute-Vienne\Bellac\cities~BellacBellac.private.md) 
+
+### [Bellac.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~Aquitaine\Haute-Vienne\communes~Haute-Vienne\Bellac\cities~BellacBellac.personal.md) 
+
+### [Bellac.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~Aquitaine\Haute-Vienne\communes~Haute-Vienne\Bellac\cities~BellacBellac.secret.md)
+

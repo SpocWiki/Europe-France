@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~West/France/City/Evaux|Evaux]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~West/France/City/Evaux.public|Evaux.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~West/France/City/Evaux.internal|Evaux.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~West/France/City/Evaux.protect|Evaux.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~West/France/City/Evaux.private|Evaux.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~West/France/City/Evaux.personal|Evaux.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~West/France/City/Evaux.secret|Evaux.secret]] 
+
+### [Evaux.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~Aquitaine\Creuse\communes~Creuse\Aubusson\cities~AubussonEvaux.public.md) 
+
+### [Evaux.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~Aquitaine\Creuse\communes~Creuse\Aubusson\cities~AubussonEvaux.internal.md) 
+
+### [Evaux.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~Aquitaine\Creuse\communes~Creuse\Aubusson\cities~AubussonEvaux.protect.md) 
+
+### [Evaux.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~Aquitaine\Creuse\communes~Creuse\Aubusson\cities~AubussonEvaux.private.md) 
+
+### [Evaux.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~Aquitaine\Creuse\communes~Creuse\Aubusson\cities~AubussonEvaux.personal.md) 
+
+### [Evaux.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~Aquitaine\Creuse\communes~Creuse\Aubusson\cities~AubussonEvaux.secret.md)
+

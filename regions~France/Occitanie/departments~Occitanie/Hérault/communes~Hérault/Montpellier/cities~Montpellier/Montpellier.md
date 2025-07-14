@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~West/France/City/Montpellier|Montpellier]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~West/France/City/Montpellier.public|Montpellier.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~West/France/City/Montpellier.internal|Montpellier.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~West/France/City/Montpellier.protect|Montpellier.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~West/France/City/Montpellier.private|Montpellier.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~West/France/City/Montpellier.personal|Montpellier.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~West/France/City/Montpellier.secret|Montpellier.secret]] 
+
+### [Montpellier.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~Occitanie\Hérault\communes~Hérault\Montpellier\cities~MontpellierMontpellier.public.md) 
+
+### [Montpellier.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~Occitanie\Hérault\communes~Hérault\Montpellier\cities~MontpellierMontpellier.internal.md) 
+
+### [Montpellier.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~Occitanie\Hérault\communes~Hérault\Montpellier\cities~MontpellierMontpellier.protect.md) 
+
+### [Montpellier.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~Occitanie\Hérault\communes~Hérault\Montpellier\cities~MontpellierMontpellier.private.md) 
+
+### [Montpellier.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~Occitanie\Hérault\communes~Hérault\Montpellier\cities~MontpellierMontpellier.personal.md) 
+
+### [Montpellier.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~Occitanie\Hérault\communes~Hérault\Montpellier\cities~MontpellierMontpellier.secret.md)
+

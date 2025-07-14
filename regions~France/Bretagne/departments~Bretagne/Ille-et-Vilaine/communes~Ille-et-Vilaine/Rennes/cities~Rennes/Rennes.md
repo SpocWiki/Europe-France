@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~West/France/City/Rennes|Rennes]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~West/France/City/Rennes.public|Rennes.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~West/France/City/Rennes.internal|Rennes.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~West/France/City/Rennes.protect|Rennes.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~West/France/City/Rennes.private|Rennes.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~West/France/City/Rennes.personal|Rennes.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~West/France/City/Rennes.secret|Rennes.secret]] 
+
+### [Rennes.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Bretagne\departments~Bretagne\Ille-et-Vilaine\communes~Ille-et-Vilaine\Rennes\cities~RennesRennes.public.md) 
+
+### [Rennes.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Bretagne\departments~Bretagne\Ille-et-Vilaine\communes~Ille-et-Vilaine\Rennes\cities~RennesRennes.internal.md) 
+
+### [Rennes.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Bretagne\departments~Bretagne\Ille-et-Vilaine\communes~Ille-et-Vilaine\Rennes\cities~RennesRennes.protect.md) 
+
+### [Rennes.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Bretagne\departments~Bretagne\Ille-et-Vilaine\communes~Ille-et-Vilaine\Rennes\cities~RennesRennes.private.md) 
+
+### [Rennes.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Bretagne\departments~Bretagne\Ille-et-Vilaine\communes~Ille-et-Vilaine\Rennes\cities~RennesRennes.personal.md) 
+
+### [Rennes.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Bretagne\departments~Bretagne\Ille-et-Vilaine\communes~Ille-et-Vilaine\Rennes\cities~RennesRennes.secret.md)
+

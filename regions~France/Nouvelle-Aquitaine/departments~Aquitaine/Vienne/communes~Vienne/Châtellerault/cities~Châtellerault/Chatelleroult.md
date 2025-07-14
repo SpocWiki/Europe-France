@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~West/France/City/Chatelleroult|Chatelleroult]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~West/France/City/Chatelleroult.public|Chatelleroult.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~West/France/City/Chatelleroult.internal|Chatelleroult.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~West/France/City/Chatelleroult.protect|Chatelleroult.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~West/France/City/Chatelleroult.private|Chatelleroult.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~West/France/City/Chatelleroult.personal|Chatelleroult.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~West/France/City/Chatelleroult.secret|Chatelleroult.secret]] 
+
+### [Chatelleroult.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~Aquitaine\Vienne\communes~Vienne\Châtellerault\cities~ChâtelleraultChatelleroult.public.md) 
+
+### [Chatelleroult.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~Aquitaine\Vienne\communes~Vienne\Châtellerault\cities~ChâtelleraultChatelleroult.internal.md) 
+
+### [Chatelleroult.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~Aquitaine\Vienne\communes~Vienne\Châtellerault\cities~ChâtelleraultChatelleroult.protect.md) 
+
+### [Chatelleroult.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~Aquitaine\Vienne\communes~Vienne\Châtellerault\cities~ChâtelleraultChatelleroult.private.md) 
+
+### [Chatelleroult.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~Aquitaine\Vienne\communes~Vienne\Châtellerault\cities~ChâtelleraultChatelleroult.personal.md) 
+
+### [Chatelleroult.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~Aquitaine\Vienne\communes~Vienne\Châtellerault\cities~ChâtelleraultChatelleroult.secret.md)
+

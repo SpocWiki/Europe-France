@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~West/France/City/Ussel|Ussel]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~West/France/City/Ussel.public|Ussel.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~West/France/City/Ussel.internal|Ussel.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~West/France/City/Ussel.protect|Ussel.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~West/France/City/Ussel.private|Ussel.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~West/France/City/Ussel.personal|Ussel.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~West/France/City/Ussel.secret|Ussel.secret]] 
+
+### [Ussel.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~Aquitaine\Corrèze\communes~Corrèze\Ussel\cities~UsselUssel.public.md) 
+
+### [Ussel.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~Aquitaine\Corrèze\communes~Corrèze\Ussel\cities~UsselUssel.internal.md) 
+
+### [Ussel.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~Aquitaine\Corrèze\communes~Corrèze\Ussel\cities~UsselUssel.protect.md) 
+
+### [Ussel.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~Aquitaine\Corrèze\communes~Corrèze\Ussel\cities~UsselUssel.private.md) 
+
+### [Ussel.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~Aquitaine\Corrèze\communes~Corrèze\Ussel\cities~UsselUssel.personal.md) 
+
+### [Ussel.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~Aquitaine\Corrèze\communes~Corrèze\Ussel\cities~UsselUssel.secret.md)
+

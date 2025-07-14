@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~West/France/City/Puteaux|Puteaux]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~West/France/City/Puteaux.public|Puteaux.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~West/France/City/Puteaux.internal|Puteaux.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~West/France/City/Puteaux.protect|Puteaux.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~West/France/City/Puteaux.private|Puteaux.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~West/France/City/Puteaux.personal|Puteaux.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~West/France/City/Puteaux.secret|Puteaux.secret]] 
+
+### [Puteaux.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Île-de-France\departments~Île-de-France\Hauts-de-Seine\communes~Hauts-de-Seine\Nanterre\cities~NanterrePuteaux.public.md) 
+
+### [Puteaux.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Île-de-France\departments~Île-de-France\Hauts-de-Seine\communes~Hauts-de-Seine\Nanterre\cities~NanterrePuteaux.internal.md) 
+
+### [Puteaux.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Île-de-France\departments~Île-de-France\Hauts-de-Seine\communes~Hauts-de-Seine\Nanterre\cities~NanterrePuteaux.protect.md) 
+
+### [Puteaux.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Île-de-France\departments~Île-de-France\Hauts-de-Seine\communes~Hauts-de-Seine\Nanterre\cities~NanterrePuteaux.private.md) 
+
+### [Puteaux.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Île-de-France\departments~Île-de-France\Hauts-de-Seine\communes~Hauts-de-Seine\Nanterre\cities~NanterrePuteaux.personal.md) 
+
+### [Puteaux.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Île-de-France\departments~Île-de-France\Hauts-de-Seine\communes~Hauts-de-Seine\Nanterre\cities~NanterrePuteaux.secret.md)
+

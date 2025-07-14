@@ -40,11 +40,16 @@ markerFolder: ./Département~Loire/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../_Standards/geo/Continent/Europe/Europe~West/France/Counties/Auvergne-Rhône-Alpes/Département~Loire|Département~Loire]] 
-- [[../../../../../../../../_public/geo/Continent/Europe/Europe~West/France/Counties/Auvergne-Rhône-Alpes/Département~Loire.public|Département~Loire.public]] 
-- [[../../../../../../../../_internal/geo/Continent/Europe/Europe~West/France/Counties/Auvergne-Rhône-Alpes/Département~Loire.internal|Département~Loire.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Europe~West/France/Counties/Auvergne-Rhône-Alpes/Département~Loire.protect|Département~Loire.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Europe~West/France/Counties/Auvergne-Rhône-Alpes/Département~Loire.private|Département~Loire.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Europe~West/France/Counties/Auvergne-Rhône-Alpes/Département~Loire.personal|Département~Loire.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Europe~West/France/Counties/Auvergne-Rhône-Alpes/Département~Loire.secret|Département~Loire.secret]] 
+
+### [Loire.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Auvergne-Rhône-Alpes\departments~Auvergne-Rhône-AlpesLoire.public.md) 
+
+### [Loire.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Auvergne-Rhône-Alpes\departments~Auvergne-Rhône-AlpesLoire.internal.md) 
+
+### [Loire.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Auvergne-Rhône-Alpes\departments~Auvergne-Rhône-AlpesLoire.protect.md) 
+
+### [Loire.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Auvergne-Rhône-Alpes\departments~Auvergne-Rhône-AlpesLoire.private.md) 
+
+### [Loire.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Auvergne-Rhône-Alpes\departments~Auvergne-Rhône-AlpesLoire.personal.md) 
+
+### [Loire.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Auvergne-Rhône-Alpes\departments~Auvergne-Rhône-AlpesLoire.secret.md)
 

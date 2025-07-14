@@ -24,3 +24,20 @@
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Regions%20of%20France)
 
+
+
+
+## Confidential Links & Embeds: 
+
+### [regions~France.public](/_public/\Earth\Continent\Europe\Europe~West\Franceregions~France.public.md) 
+
+### [regions~France.internal](/_internal/\Earth\Continent\Europe\Europe~West\Franceregions~France.internal.md) 
+
+### [regions~France.protect](/_protect/\Earth\Continent\Europe\Europe~West\Franceregions~France.protect.md) 
+
+### [regions~France.private](/_private/\Earth\Continent\Europe\Europe~West\Franceregions~France.private.md) 
+
+### [regions~France.personal](/_personal/\Earth\Continent\Europe\Europe~West\Franceregions~France.personal.md) 
+
+### [regions~France.secret](/_secret/\Earth\Continent\Europe\Europe~West\Franceregions~France.secret.md)
+

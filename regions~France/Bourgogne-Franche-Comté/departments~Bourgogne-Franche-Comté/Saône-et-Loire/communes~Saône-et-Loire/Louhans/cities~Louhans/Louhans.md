@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~West/France/City/Louhans|Louhans]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~West/France/City/Louhans.public|Louhans.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~West/France/City/Louhans.internal|Louhans.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~West/France/City/Louhans.protect|Louhans.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~West/France/City/Louhans.private|Louhans.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~West/France/City/Louhans.personal|Louhans.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~West/France/City/Louhans.secret|Louhans.secret]] 
+
+### [Louhans.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Bourgogne-Franche-Comté\departments~Bourgogne-Franche-Comté\Saône-et-Loire\communes~Saône-et-Loire\Louhans\cities~LouhansLouhans.public.md) 
+
+### [Louhans.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Bourgogne-Franche-Comté\departments~Bourgogne-Franche-Comté\Saône-et-Loire\communes~Saône-et-Loire\Louhans\cities~LouhansLouhans.internal.md) 
+
+### [Louhans.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Bourgogne-Franche-Comté\departments~Bourgogne-Franche-Comté\Saône-et-Loire\communes~Saône-et-Loire\Louhans\cities~LouhansLouhans.protect.md) 
+
+### [Louhans.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Bourgogne-Franche-Comté\departments~Bourgogne-Franche-Comté\Saône-et-Loire\communes~Saône-et-Loire\Louhans\cities~LouhansLouhans.private.md) 
+
+### [Louhans.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Bourgogne-Franche-Comté\departments~Bourgogne-Franche-Comté\Saône-et-Loire\communes~Saône-et-Loire\Louhans\cities~LouhansLouhans.personal.md) 
+
+### [Louhans.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Bourgogne-Franche-Comté\departments~Bourgogne-Franche-Comté\Saône-et-Loire\communes~Saône-et-Loire\Louhans\cities~LouhansLouhans.secret.md)
+

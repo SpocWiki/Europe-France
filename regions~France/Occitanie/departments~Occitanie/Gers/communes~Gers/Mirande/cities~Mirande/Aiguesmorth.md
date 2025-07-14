@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~West/France/City/Aiguesmorth|Aiguesmorth]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~West/France/City/Aiguesmorth.public|Aiguesmorth.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~West/France/City/Aiguesmorth.internal|Aiguesmorth.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~West/France/City/Aiguesmorth.protect|Aiguesmorth.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~West/France/City/Aiguesmorth.private|Aiguesmorth.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~West/France/City/Aiguesmorth.personal|Aiguesmorth.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~West/France/City/Aiguesmorth.secret|Aiguesmorth.secret]] 
+
+### [Aiguesmorth.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~Occitanie\Gers\communes~Gers\Mirande\cities~MirandeAiguesmorth.public.md) 
+
+### [Aiguesmorth.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~Occitanie\Gers\communes~Gers\Mirande\cities~MirandeAiguesmorth.internal.md) 
+
+### [Aiguesmorth.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~Occitanie\Gers\communes~Gers\Mirande\cities~MirandeAiguesmorth.protect.md) 
+
+### [Aiguesmorth.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~Occitanie\Gers\communes~Gers\Mirande\cities~MirandeAiguesmorth.private.md) 
+
+### [Aiguesmorth.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~Occitanie\Gers\communes~Gers\Mirande\cities~MirandeAiguesmorth.personal.md) 
+
+### [Aiguesmorth.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~Occitanie\Gers\communes~Gers\Mirande\cities~MirandeAiguesmorth.secret.md)
+

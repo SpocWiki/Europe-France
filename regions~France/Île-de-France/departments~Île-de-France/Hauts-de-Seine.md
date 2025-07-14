@@ -40,11 +40,16 @@ markerFolder: ./Département~Hauts-de-Seine/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../_Standards/geo/Continent/Europe/Europe~West/France/Counties/Île-de-France/Département~Hauts-de-Seine|Département~Hauts-de-Seine]] 
-- [[../../../../../../../../_public/geo/Continent/Europe/Europe~West/France/Counties/Île-de-France/Département~Hauts-de-Seine.public|Département~Hauts-de-Seine.public]] 
-- [[../../../../../../../../_internal/geo/Continent/Europe/Europe~West/France/Counties/Île-de-France/Département~Hauts-de-Seine.internal|Département~Hauts-de-Seine.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Europe~West/France/Counties/Île-de-France/Département~Hauts-de-Seine.protect|Département~Hauts-de-Seine.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Europe~West/France/Counties/Île-de-France/Département~Hauts-de-Seine.private|Département~Hauts-de-Seine.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Europe~West/France/Counties/Île-de-France/Département~Hauts-de-Seine.personal|Département~Hauts-de-Seine.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Europe~West/France/Counties/Île-de-France/Département~Hauts-de-Seine.secret|Département~Hauts-de-Seine.secret]] 
+
+### [Hauts-de-Seine.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Île-de-France\departments~Île-de-FranceHauts-de-Seine.public.md) 
+
+### [Hauts-de-Seine.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Île-de-France\departments~Île-de-FranceHauts-de-Seine.internal.md) 
+
+### [Hauts-de-Seine.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Île-de-France\departments~Île-de-FranceHauts-de-Seine.protect.md) 
+
+### [Hauts-de-Seine.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Île-de-France\departments~Île-de-FranceHauts-de-Seine.private.md) 
+
+### [Hauts-de-Seine.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Île-de-France\departments~Île-de-FranceHauts-de-Seine.personal.md) 
+
+### [Hauts-de-Seine.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Île-de-France\departments~Île-de-FranceHauts-de-Seine.secret.md)
 

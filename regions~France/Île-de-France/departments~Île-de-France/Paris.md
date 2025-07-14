@@ -1,4 +1,4 @@
-﻿---
+---
 location:
 - 48.85
 - 2.33
@@ -348,11 +348,16 @@ markerFolder: ./Département~Paris/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../_Standards/geo/Continent/Europe/Europe~West/France/regions~France/Île-de-France/departments~Île-de-France/Paris|Département~Paris]] 
-- [[../../../../../../../../_public/geo/Continent/Europe/Europe~West/France/regions~France/Île-de-France/departments~Île-de-France/Paris.public|Département~Paris.public]] 
-- [[../../../../../../../../_internal/geo/Continent/Europe/Europe~West/France/regions~France/Île-de-France/departments~Île-de-France/Paris.internal|Département~Paris.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Europe~West/France/regions~France/Île-de-France/departments~Île-de-France/Paris.protect|Département~Paris.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Europe~West/France/regions~France/Île-de-France/departments~Île-de-France/Paris.private|Département~Paris.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Europe~West/France/regions~France/Île-de-France/departments~Île-de-France/Paris.personal|Département~Paris.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Europe~West/France/regions~France/Île-de-France/departments~Île-de-France/ParisParis.secret|Département~Paris.secret]] 
+
+### [Paris.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Île-de-France\departments~Île-de-FranceParis.public.md) 
+
+### [Paris.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Île-de-France\departments~Île-de-FranceParis.internal.md) 
+
+### [Paris.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Île-de-France\departments~Île-de-FranceParis.protect.md) 
+
+### [Paris.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Île-de-France\departments~Île-de-FranceParis.private.md) 
+
+### [Paris.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Île-de-France\departments~Île-de-FranceParis.personal.md) 
+
+### [Paris.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Île-de-France\departments~Île-de-FranceParis.secret.md)
 

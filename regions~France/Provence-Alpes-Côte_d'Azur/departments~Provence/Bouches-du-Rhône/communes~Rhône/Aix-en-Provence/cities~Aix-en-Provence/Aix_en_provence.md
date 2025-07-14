@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~West/France/City/Aix_en_provence|Aix_en_provence]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~West/France/City/Aix_en_provence.public|Aix_en_provence.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~West/France/City/Aix_en_provence.internal|Aix_en_provence.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~West/France/City/Aix_en_provence.protect|Aix_en_provence.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~West/France/City/Aix_en_provence.private|Aix_en_provence.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~West/France/City/Aix_en_provence.personal|Aix_en_provence.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~West/France/City/Aix_en_provence.secret|Aix_en_provence.secret]] 
+
+### [Aix_en_provence.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Provence-Alpes-Côte_d'Azur\departments~Provence\Bouches-du-Rhône\communes~Rhône\Aix-en-Provence\cities~Aix-en-ProvenceAix_en_provence.public.md) 
+
+### [Aix_en_provence.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Provence-Alpes-Côte_d'Azur\departments~Provence\Bouches-du-Rhône\communes~Rhône\Aix-en-Provence\cities~Aix-en-ProvenceAix_en_provence.internal.md) 
+
+### [Aix_en_provence.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Provence-Alpes-Côte_d'Azur\departments~Provence\Bouches-du-Rhône\communes~Rhône\Aix-en-Provence\cities~Aix-en-ProvenceAix_en_provence.protect.md) 
+
+### [Aix_en_provence.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Provence-Alpes-Côte_d'Azur\departments~Provence\Bouches-du-Rhône\communes~Rhône\Aix-en-Provence\cities~Aix-en-ProvenceAix_en_provence.private.md) 
+
+### [Aix_en_provence.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Provence-Alpes-Côte_d'Azur\departments~Provence\Bouches-du-Rhône\communes~Rhône\Aix-en-Provence\cities~Aix-en-ProvenceAix_en_provence.personal.md) 
+
+### [Aix_en_provence.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Provence-Alpes-Côte_d'Azur\departments~Provence\Bouches-du-Rhône\communes~Rhône\Aix-en-Provence\cities~Aix-en-ProvenceAix_en_provence.secret.md)
+

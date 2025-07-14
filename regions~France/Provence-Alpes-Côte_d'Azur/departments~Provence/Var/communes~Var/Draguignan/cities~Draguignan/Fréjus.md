@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~West/France/City/Fréjus|Fréjus]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~West/France/City/Fréjus.public|Fréjus.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~West/France/City/Fréjus.internal|Fréjus.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~West/France/City/Fréjus.protect|Fréjus.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~West/France/City/Fréjus.private|Fréjus.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~West/France/City/Fréjus.personal|Fréjus.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~West/France/City/Fréjus.secret|Fréjus.secret]] 
+
+### [Fréjus.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Provence-Alpes-Côte_d'Azur\departments~Provence\Var\communes~Var\Draguignan\cities~DraguignanFréjus.public.md) 
+
+### [Fréjus.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Provence-Alpes-Côte_d'Azur\departments~Provence\Var\communes~Var\Draguignan\cities~DraguignanFréjus.internal.md) 
+
+### [Fréjus.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Provence-Alpes-Côte_d'Azur\departments~Provence\Var\communes~Var\Draguignan\cities~DraguignanFréjus.protect.md) 
+
+### [Fréjus.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Provence-Alpes-Côte_d'Azur\departments~Provence\Var\communes~Var\Draguignan\cities~DraguignanFréjus.private.md) 
+
+### [Fréjus.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Provence-Alpes-Côte_d'Azur\departments~Provence\Var\communes~Var\Draguignan\cities~DraguignanFréjus.personal.md) 
+
+### [Fréjus.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Provence-Alpes-Côte_d'Azur\departments~Provence\Var\communes~Var\Draguignan\cities~DraguignanFréjus.secret.md)
+

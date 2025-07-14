@@ -40,11 +40,16 @@ markerFolder: ./Département~Rhône/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../_Standards/geo/Continent/Europe/Europe~West/France/Counties/Auvergne-Rhône-Alpes/Département~Rhône|Département~Rhône]] 
-- [[../../../../../../../../_public/geo/Continent/Europe/Europe~West/France/Counties/Auvergne-Rhône-Alpes/Département~Rhône.public|Département~Rhône.public]] 
-- [[../../../../../../../../_internal/geo/Continent/Europe/Europe~West/France/Counties/Auvergne-Rhône-Alpes/Département~Rhône.internal|Département~Rhône.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Europe~West/France/Counties/Auvergne-Rhône-Alpes/Département~Rhône.protect|Département~Rhône.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Europe~West/France/Counties/Auvergne-Rhône-Alpes/Département~Rhône.private|Département~Rhône.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Europe~West/France/Counties/Auvergne-Rhône-Alpes/Département~Rhône.personal|Département~Rhône.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Europe~West/France/Counties/Auvergne-Rhône-Alpes/Département~Rhône.secret|Département~Rhône.secret]] 
+
+### [Rhône.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Auvergne-Rhône-Alpes\departments~Auvergne-Rhône-AlpesRhône.public.md) 
+
+### [Rhône.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Auvergne-Rhône-Alpes\departments~Auvergne-Rhône-AlpesRhône.internal.md) 
+
+### [Rhône.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Auvergne-Rhône-Alpes\departments~Auvergne-Rhône-AlpesRhône.protect.md) 
+
+### [Rhône.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Auvergne-Rhône-Alpes\departments~Auvergne-Rhône-AlpesRhône.private.md) 
+
+### [Rhône.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Auvergne-Rhône-Alpes\departments~Auvergne-Rhône-AlpesRhône.personal.md) 
+
+### [Rhône.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Auvergne-Rhône-Alpes\departments~Auvergne-Rhône-AlpesRhône.secret.md)
 

@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~West/France/City/Gourdon|Gourdon]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~West/France/City/Gourdon.public|Gourdon.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~West/France/City/Gourdon.internal|Gourdon.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~West/France/City/Gourdon.protect|Gourdon.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~West/France/City/Gourdon.private|Gourdon.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~West/France/City/Gourdon.personal|Gourdon.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~West/France/City/Gourdon.secret|Gourdon.secret]] 
+
+### [Gourdon.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~Occitanie\Lot\communes~Lot\Gourdon\cities~GourdonGourdon.public.md) 
+
+### [Gourdon.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~Occitanie\Lot\communes~Lot\Gourdon\cities~GourdonGourdon.internal.md) 
+
+### [Gourdon.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~Occitanie\Lot\communes~Lot\Gourdon\cities~GourdonGourdon.protect.md) 
+
+### [Gourdon.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~Occitanie\Lot\communes~Lot\Gourdon\cities~GourdonGourdon.private.md) 
+
+### [Gourdon.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~Occitanie\Lot\communes~Lot\Gourdon\cities~GourdonGourdon.personal.md) 
+
+### [Gourdon.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~Occitanie\Lot\communes~Lot\Gourdon\cities~GourdonGourdon.secret.md)
+

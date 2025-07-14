@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~West/France/City/Auray|Auray]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~West/France/City/Auray.public|Auray.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~West/France/City/Auray.internal|Auray.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~West/France/City/Auray.protect|Auray.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~West/France/City/Auray.private|Auray.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~West/France/City/Auray.personal|Auray.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~West/France/City/Auray.secret|Auray.secret]] 
+
+### [Auray.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Bretagne\departments~Bretagne\Morbihan\communes~Morbihan\Lorient\cities~LorientAuray.public.md) 
+
+### [Auray.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Bretagne\departments~Bretagne\Morbihan\communes~Morbihan\Lorient\cities~LorientAuray.internal.md) 
+
+### [Auray.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Bretagne\departments~Bretagne\Morbihan\communes~Morbihan\Lorient\cities~LorientAuray.protect.md) 
+
+### [Auray.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Bretagne\departments~Bretagne\Morbihan\communes~Morbihan\Lorient\cities~LorientAuray.private.md) 
+
+### [Auray.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Bretagne\departments~Bretagne\Morbihan\communes~Morbihan\Lorient\cities~LorientAuray.personal.md) 
+
+### [Auray.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Bretagne\departments~Bretagne\Morbihan\communes~Morbihan\Lorient\cities~LorientAuray.secret.md)
+

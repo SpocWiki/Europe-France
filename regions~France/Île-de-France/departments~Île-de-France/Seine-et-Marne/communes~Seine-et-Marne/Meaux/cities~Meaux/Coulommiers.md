@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~West/France/City/Coulommiers|Coulommiers]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~West/France/City/Coulommiers.public|Coulommiers.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~West/France/City/Coulommiers.internal|Coulommiers.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~West/France/City/Coulommiers.protect|Coulommiers.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~West/France/City/Coulommiers.private|Coulommiers.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~West/France/City/Coulommiers.personal|Coulommiers.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~West/France/City/Coulommiers.secret|Coulommiers.secret]] 
+
+### [Coulommiers.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Île-de-France\departments~Île-de-France\Seine-et-Marne\communes~Seine-et-Marne\Meaux\cities~MeauxCoulommiers.public.md) 
+
+### [Coulommiers.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Île-de-France\departments~Île-de-France\Seine-et-Marne\communes~Seine-et-Marne\Meaux\cities~MeauxCoulommiers.internal.md) 
+
+### [Coulommiers.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Île-de-France\departments~Île-de-France\Seine-et-Marne\communes~Seine-et-Marne\Meaux\cities~MeauxCoulommiers.protect.md) 
+
+### [Coulommiers.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Île-de-France\departments~Île-de-France\Seine-et-Marne\communes~Seine-et-Marne\Meaux\cities~MeauxCoulommiers.private.md) 
+
+### [Coulommiers.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Île-de-France\departments~Île-de-France\Seine-et-Marne\communes~Seine-et-Marne\Meaux\cities~MeauxCoulommiers.personal.md) 
+
+### [Coulommiers.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Île-de-France\departments~Île-de-France\Seine-et-Marne\communes~Seine-et-Marne\Meaux\cities~MeauxCoulommiers.secret.md)
+

@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~West/France/City/Arras|Arras]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~West/France/City/Arras.public|Arras.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~West/France/City/Arras.internal|Arras.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~West/France/City/Arras.protect|Arras.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~West/France/City/Arras.private|Arras.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~West/France/City/Arras.personal|Arras.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~West/France/City/Arras.secret|Arras.secret]] 
+
+### [Arras.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Hauts-de-France\departments~Hauts-de-France\Pas-de-Calais\communes~Pas-de-Calais\Arras\cities~ArrasArras.public.md) 
+
+### [Arras.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Hauts-de-France\departments~Hauts-de-France\Pas-de-Calais\communes~Pas-de-Calais\Arras\cities~ArrasArras.internal.md) 
+
+### [Arras.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Hauts-de-France\departments~Hauts-de-France\Pas-de-Calais\communes~Pas-de-Calais\Arras\cities~ArrasArras.protect.md) 
+
+### [Arras.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Hauts-de-France\departments~Hauts-de-France\Pas-de-Calais\communes~Pas-de-Calais\Arras\cities~ArrasArras.private.md) 
+
+### [Arras.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Hauts-de-France\departments~Hauts-de-France\Pas-de-Calais\communes~Pas-de-Calais\Arras\cities~ArrasArras.personal.md) 
+
+### [Arras.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Hauts-de-France\departments~Hauts-de-France\Pas-de-Calais\communes~Pas-de-Calais\Arras\cities~ArrasArras.secret.md)
+

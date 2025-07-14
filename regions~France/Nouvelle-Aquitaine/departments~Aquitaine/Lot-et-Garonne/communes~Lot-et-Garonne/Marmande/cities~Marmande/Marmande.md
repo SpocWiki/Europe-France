@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~West/France/City/Marmande|Marmande]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~West/France/City/Marmande.public|Marmande.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~West/France/City/Marmande.internal|Marmande.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~West/France/City/Marmande.protect|Marmande.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~West/France/City/Marmande.private|Marmande.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~West/France/City/Marmande.personal|Marmande.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~West/France/City/Marmande.secret|Marmande.secret]] 
+
+### [Marmande.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~Aquitaine\Lot-et-Garonne\communes~Lot-et-Garonne\Marmande\cities~MarmandeMarmande.public.md) 
+
+### [Marmande.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~Aquitaine\Lot-et-Garonne\communes~Lot-et-Garonne\Marmande\cities~MarmandeMarmande.internal.md) 
+
+### [Marmande.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~Aquitaine\Lot-et-Garonne\communes~Lot-et-Garonne\Marmande\cities~MarmandeMarmande.protect.md) 
+
+### [Marmande.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~Aquitaine\Lot-et-Garonne\communes~Lot-et-Garonne\Marmande\cities~MarmandeMarmande.private.md) 
+
+### [Marmande.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~Aquitaine\Lot-et-Garonne\communes~Lot-et-Garonne\Marmande\cities~MarmandeMarmande.personal.md) 
+
+### [Marmande.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~Aquitaine\Lot-et-Garonne\communes~Lot-et-Garonne\Marmande\cities~MarmandeMarmande.secret.md)
+

@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~West/France/City/St.Dié|St.Dié]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~West/France/City/St.Dié.public|St.Dié.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~West/France/City/St.Dié.internal|St.Dié.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~West/France/City/St.Dié.protect|St.Dié.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~West/France/City/St.Dié.private|St.Dié.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~West/France/City/St.Dié.personal|St.Dié.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~West/France/City/St.Dié.secret|St.Dié.secret]] 
+
+### [St.Dié.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Grand_Est\departments~Grand_Est\Vosges\communes~Vosges\Saint-Dié-des-Vosges\cities~Saint-Dié-des-VosgesSt.Dié.public.md) 
+
+### [St.Dié.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Grand_Est\departments~Grand_Est\Vosges\communes~Vosges\Saint-Dié-des-Vosges\cities~Saint-Dié-des-VosgesSt.Dié.internal.md) 
+
+### [St.Dié.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Grand_Est\departments~Grand_Est\Vosges\communes~Vosges\Saint-Dié-des-Vosges\cities~Saint-Dié-des-VosgesSt.Dié.protect.md) 
+
+### [St.Dié.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Grand_Est\departments~Grand_Est\Vosges\communes~Vosges\Saint-Dié-des-Vosges\cities~Saint-Dié-des-VosgesSt.Dié.private.md) 
+
+### [St.Dié.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Grand_Est\departments~Grand_Est\Vosges\communes~Vosges\Saint-Dié-des-Vosges\cities~Saint-Dié-des-VosgesSt.Dié.personal.md) 
+
+### [St.Dié.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Grand_Est\departments~Grand_Est\Vosges\communes~Vosges\Saint-Dié-des-Vosges\cities~Saint-Dié-des-VosgesSt.Dié.secret.md)
+

@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~West/France/City/Villefranch_de_Rouergue|Villefranch_de_Rouergue]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~West/France/City/Villefranch_de_Rouergue.public|Villefranch_de_Rouergue.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~West/France/City/Villefranch_de_Rouergue.internal|Villefranch_de_Rouergue.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~West/France/City/Villefranch_de_Rouergue.protect|Villefranch_de_Rouergue.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~West/France/City/Villefranch_de_Rouergue.private|Villefranch_de_Rouergue.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~West/France/City/Villefranch_de_Rouergue.personal|Villefranch_de_Rouergue.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~West/France/City/Villefranch_de_Rouergue.secret|Villefranch_de_Rouergue.secret]] 
+
+### [Villefranch_de_Rouergue.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~Occitanie\Aveyron\communes~Aveyron\Villefranche-de-Rouergue\cities~Villefranche-de-RouergueVillefranch_de_Rouergue.public.md) 
+
+### [Villefranch_de_Rouergue.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~Occitanie\Aveyron\communes~Aveyron\Villefranche-de-Rouergue\cities~Villefranche-de-RouergueVillefranch_de_Rouergue.internal.md) 
+
+### [Villefranch_de_Rouergue.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~Occitanie\Aveyron\communes~Aveyron\Villefranche-de-Rouergue\cities~Villefranche-de-RouergueVillefranch_de_Rouergue.protect.md) 
+
+### [Villefranch_de_Rouergue.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~Occitanie\Aveyron\communes~Aveyron\Villefranche-de-Rouergue\cities~Villefranche-de-RouergueVillefranch_de_Rouergue.private.md) 
+
+### [Villefranch_de_Rouergue.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~Occitanie\Aveyron\communes~Aveyron\Villefranche-de-Rouergue\cities~Villefranche-de-RouergueVillefranch_de_Rouergue.personal.md) 
+
+### [Villefranch_de_Rouergue.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~Occitanie\Aveyron\communes~Aveyron\Villefranche-de-Rouergue\cities~Villefranche-de-RouergueVillefranch_de_Rouergue.secret.md)
+

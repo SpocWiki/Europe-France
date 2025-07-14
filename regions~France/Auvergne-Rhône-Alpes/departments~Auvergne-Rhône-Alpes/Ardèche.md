@@ -40,11 +40,16 @@ markerFolder: ./Département~Ardèche/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../_Standards/geo/Continent/Département~Ardèche|Département~Ardèche]] 
-- [[../../../_public/geo/Continent/Département~Ardèche.public|Département~Ardèche.public]] 
-- [[../../../_internal/geo/Continent/Département~Ardèche.internal|Département~Ardèche.internal]] 
-- [[../../../_protect/geo/Continent/Département~Ardèche.protect|Département~Ardèche.protect]] 
-- [[../../../_private/geo/Continent/Département~Ardèche.private|Département~Ardèche.private]] 
-- [[../../../_personal/geo/Continent/Département~Ardèche.personal|Département~Ardèche.personal]] 
-- [[../../../_secret/geo/Continent/Département~Ardèche.secret|Département~Ardèche.secret]] 
+
+### [Ardèche.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Auvergne-Rhône-Alpes\departments~Auvergne-Rhône-AlpesArdèche.public.md) 
+
+### [Ardèche.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Auvergne-Rhône-Alpes\departments~Auvergne-Rhône-AlpesArdèche.internal.md) 
+
+### [Ardèche.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Auvergne-Rhône-Alpes\departments~Auvergne-Rhône-AlpesArdèche.protect.md) 
+
+### [Ardèche.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Auvergne-Rhône-Alpes\departments~Auvergne-Rhône-AlpesArdèche.private.md) 
+
+### [Ardèche.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Auvergne-Rhône-Alpes\departments~Auvergne-Rhône-AlpesArdèche.personal.md) 
+
+### [Ardèche.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Auvergne-Rhône-Alpes\departments~Auvergne-Rhône-AlpesArdèche.secret.md)
 

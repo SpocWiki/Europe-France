@@ -40,11 +40,16 @@ markerFolder: ./Département~Loir-et-Cher/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../_Standards/geo/Continent/Europe/Europe~West/France/Counties/Val_de_Loire/Département~Loir-et-Cher|Département~Loir-et-Cher]] 
-- [[../../../../../../../../_public/geo/Continent/Europe/Europe~West/France/Counties/Val_de_Loire/Département~Loir-et-Cher.public|Département~Loir-et-Cher.public]] 
-- [[../../../../../../../../_internal/geo/Continent/Europe/Europe~West/France/Counties/Val_de_Loire/Département~Loir-et-Cher.internal|Département~Loir-et-Cher.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Europe~West/France/Counties/Val_de_Loire/Département~Loir-et-Cher.protect|Département~Loir-et-Cher.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Europe~West/France/Counties/Val_de_Loire/Département~Loir-et-Cher.private|Département~Loir-et-Cher.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Europe~West/France/Counties/Val_de_Loire/Département~Loir-et-Cher.personal|Département~Loir-et-Cher.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Europe~West/France/Counties/Val_de_Loire/Département~Loir-et-Cher.secret|Département~Loir-et-Cher.secret]] 
+
+### [Loir-et-Cher.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Val_de_Loire\departments~Val_de_LoireLoir-et-Cher.public.md) 
+
+### [Loir-et-Cher.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Val_de_Loire\departments~Val_de_LoireLoir-et-Cher.internal.md) 
+
+### [Loir-et-Cher.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Val_de_Loire\departments~Val_de_LoireLoir-et-Cher.protect.md) 
+
+### [Loir-et-Cher.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Val_de_Loire\departments~Val_de_LoireLoir-et-Cher.private.md) 
+
+### [Loir-et-Cher.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Val_de_Loire\departments~Val_de_LoireLoir-et-Cher.personal.md) 
+
+### [Loir-et-Cher.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Val_de_Loire\departments~Val_de_LoireLoir-et-Cher.secret.md)
 

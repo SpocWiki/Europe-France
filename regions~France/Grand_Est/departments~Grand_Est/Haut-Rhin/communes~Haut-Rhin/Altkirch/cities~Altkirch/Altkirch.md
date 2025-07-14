@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~West/France/City/Altkirch|Altkirch]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~West/France/City/Altkirch.public|Altkirch.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~West/France/City/Altkirch.internal|Altkirch.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~West/France/City/Altkirch.protect|Altkirch.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~West/France/City/Altkirch.private|Altkirch.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~West/France/City/Altkirch.personal|Altkirch.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~West/France/City/Altkirch.secret|Altkirch.secret]] 
+
+### [Altkirch.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Grand_Est\departments~Grand_Est\Haut-Rhin\communes~Haut-Rhin\Altkirch\cities~AltkirchAltkirch.public.md) 
+
+### [Altkirch.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Grand_Est\departments~Grand_Est\Haut-Rhin\communes~Haut-Rhin\Altkirch\cities~AltkirchAltkirch.internal.md) 
+
+### [Altkirch.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Grand_Est\departments~Grand_Est\Haut-Rhin\communes~Haut-Rhin\Altkirch\cities~AltkirchAltkirch.protect.md) 
+
+### [Altkirch.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Grand_Est\departments~Grand_Est\Haut-Rhin\communes~Haut-Rhin\Altkirch\cities~AltkirchAltkirch.private.md) 
+
+### [Altkirch.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Grand_Est\departments~Grand_Est\Haut-Rhin\communes~Haut-Rhin\Altkirch\cities~AltkirchAltkirch.personal.md) 
+
+### [Altkirch.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Grand_Est\departments~Grand_Est\Haut-Rhin\communes~Haut-Rhin\Altkirch\cities~AltkirchAltkirch.secret.md)
+

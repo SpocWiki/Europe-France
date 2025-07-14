@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~West/France/City/Limoges|Limoges]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~West/France/City/Limoges.public|Limoges.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~West/France/City/Limoges.internal|Limoges.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~West/France/City/Limoges.protect|Limoges.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~West/France/City/Limoges.private|Limoges.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~West/France/City/Limoges.personal|Limoges.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~West/France/City/Limoges.secret|Limoges.secret]] 
+
+### [Limoges.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~Aquitaine\Haute-Vienne\communes~Haute-Vienne\Limoges\cities~LimogesLimoges.public.md) 
+
+### [Limoges.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~Aquitaine\Haute-Vienne\communes~Haute-Vienne\Limoges\cities~LimogesLimoges.internal.md) 
+
+### [Limoges.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~Aquitaine\Haute-Vienne\communes~Haute-Vienne\Limoges\cities~LimogesLimoges.protect.md) 
+
+### [Limoges.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~Aquitaine\Haute-Vienne\communes~Haute-Vienne\Limoges\cities~LimogesLimoges.private.md) 
+
+### [Limoges.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~Aquitaine\Haute-Vienne\communes~Haute-Vienne\Limoges\cities~LimogesLimoges.personal.md) 
+
+### [Limoges.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~Aquitaine\Haute-Vienne\communes~Haute-Vienne\Limoges\cities~LimogesLimoges.secret.md)
+

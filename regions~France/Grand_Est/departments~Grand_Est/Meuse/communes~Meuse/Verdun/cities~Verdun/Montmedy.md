@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~West/France/City/Montmedy|Montmedy]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~West/France/City/Montmedy.public|Montmedy.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~West/France/City/Montmedy.internal|Montmedy.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~West/France/City/Montmedy.protect|Montmedy.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~West/France/City/Montmedy.private|Montmedy.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~West/France/City/Montmedy.personal|Montmedy.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~West/France/City/Montmedy.secret|Montmedy.secret]] 
+
+### [Montmedy.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Grand_Est\departments~Grand_Est\Meuse\communes~Meuse\Verdun\cities~VerdunMontmedy.public.md) 
+
+### [Montmedy.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Grand_Est\departments~Grand_Est\Meuse\communes~Meuse\Verdun\cities~VerdunMontmedy.internal.md) 
+
+### [Montmedy.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Grand_Est\departments~Grand_Est\Meuse\communes~Meuse\Verdun\cities~VerdunMontmedy.protect.md) 
+
+### [Montmedy.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Grand_Est\departments~Grand_Est\Meuse\communes~Meuse\Verdun\cities~VerdunMontmedy.private.md) 
+
+### [Montmedy.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Grand_Est\departments~Grand_Est\Meuse\communes~Meuse\Verdun\cities~VerdunMontmedy.personal.md) 
+
+### [Montmedy.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Grand_Est\departments~Grand_Est\Meuse\communes~Meuse\Verdun\cities~VerdunMontmedy.secret.md)
+

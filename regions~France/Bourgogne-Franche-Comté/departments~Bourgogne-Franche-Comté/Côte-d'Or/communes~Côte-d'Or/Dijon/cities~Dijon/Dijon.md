@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~West/France/City/Dijon|Dijon]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~West/France/City/Dijon.public|Dijon.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~West/France/City/Dijon.internal|Dijon.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~West/France/City/Dijon.protect|Dijon.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~West/France/City/Dijon.private|Dijon.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~West/France/City/Dijon.personal|Dijon.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~West/France/City/Dijon.secret|Dijon.secret]] 
+
+### [Dijon.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Bourgogne-Franche-Comté\departments~Bourgogne-Franche-Comté\Côte-d'Or\communes~Côte-d'Or\Dijon\cities~DijonDijon.public.md) 
+
+### [Dijon.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Bourgogne-Franche-Comté\departments~Bourgogne-Franche-Comté\Côte-d'Or\communes~Côte-d'Or\Dijon\cities~DijonDijon.internal.md) 
+
+### [Dijon.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Bourgogne-Franche-Comté\departments~Bourgogne-Franche-Comté\Côte-d'Or\communes~Côte-d'Or\Dijon\cities~DijonDijon.protect.md) 
+
+### [Dijon.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Bourgogne-Franche-Comté\departments~Bourgogne-Franche-Comté\Côte-d'Or\communes~Côte-d'Or\Dijon\cities~DijonDijon.private.md) 
+
+### [Dijon.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Bourgogne-Franche-Comté\departments~Bourgogne-Franche-Comté\Côte-d'Or\communes~Côte-d'Or\Dijon\cities~DijonDijon.personal.md) 
+
+### [Dijon.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Bourgogne-Franche-Comté\departments~Bourgogne-Franche-Comté\Côte-d'Or\communes~Côte-d'Or\Dijon\cities~DijonDijon.secret.md)
+

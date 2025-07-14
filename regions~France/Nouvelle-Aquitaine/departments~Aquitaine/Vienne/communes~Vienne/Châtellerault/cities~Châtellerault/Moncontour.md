@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~West/France/City/Moncontour|Moncontour]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~West/France/City/Moncontour.public|Moncontour.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~West/France/City/Moncontour.internal|Moncontour.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~West/France/City/Moncontour.protect|Moncontour.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~West/France/City/Moncontour.private|Moncontour.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~West/France/City/Moncontour.personal|Moncontour.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~West/France/City/Moncontour.secret|Moncontour.secret]] 
+
+### [Moncontour.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~Aquitaine\Vienne\communes~Vienne\Châtellerault\cities~ChâtelleraultMoncontour.public.md) 
+
+### [Moncontour.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~Aquitaine\Vienne\communes~Vienne\Châtellerault\cities~ChâtelleraultMoncontour.internal.md) 
+
+### [Moncontour.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~Aquitaine\Vienne\communes~Vienne\Châtellerault\cities~ChâtelleraultMoncontour.protect.md) 
+
+### [Moncontour.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~Aquitaine\Vienne\communes~Vienne\Châtellerault\cities~ChâtelleraultMoncontour.private.md) 
+
+### [Moncontour.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~Aquitaine\Vienne\communes~Vienne\Châtellerault\cities~ChâtelleraultMoncontour.personal.md) 
+
+### [Moncontour.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~Aquitaine\Vienne\communes~Vienne\Châtellerault\cities~ChâtelleraultMoncontour.secret.md)
+

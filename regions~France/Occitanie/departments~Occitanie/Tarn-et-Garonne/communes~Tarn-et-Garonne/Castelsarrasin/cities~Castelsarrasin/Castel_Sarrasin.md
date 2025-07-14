@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~West/France/City/Castel_Sarrasin|Castel_Sarrasin]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~West/France/City/Castel_Sarrasin.public|Castel_Sarrasin.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~West/France/City/Castel_Sarrasin.internal|Castel_Sarrasin.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~West/France/City/Castel_Sarrasin.protect|Castel_Sarrasin.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~West/France/City/Castel_Sarrasin.private|Castel_Sarrasin.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~West/France/City/Castel_Sarrasin.personal|Castel_Sarrasin.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~West/France/City/Castel_Sarrasin.secret|Castel_Sarrasin.secret]] 
+
+### [Castel_Sarrasin.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~Occitanie\Tarn-et-Garonne\communes~Tarn-et-Garonne\Castelsarrasin\cities~CastelsarrasinCastel_Sarrasin.public.md) 
+
+### [Castel_Sarrasin.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~Occitanie\Tarn-et-Garonne\communes~Tarn-et-Garonne\Castelsarrasin\cities~CastelsarrasinCastel_Sarrasin.internal.md) 
+
+### [Castel_Sarrasin.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~Occitanie\Tarn-et-Garonne\communes~Tarn-et-Garonne\Castelsarrasin\cities~CastelsarrasinCastel_Sarrasin.protect.md) 
+
+### [Castel_Sarrasin.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~Occitanie\Tarn-et-Garonne\communes~Tarn-et-Garonne\Castelsarrasin\cities~CastelsarrasinCastel_Sarrasin.private.md) 
+
+### [Castel_Sarrasin.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~Occitanie\Tarn-et-Garonne\communes~Tarn-et-Garonne\Castelsarrasin\cities~CastelsarrasinCastel_Sarrasin.personal.md) 
+
+### [Castel_Sarrasin.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~Occitanie\Tarn-et-Garonne\communes~Tarn-et-Garonne\Castelsarrasin\cities~CastelsarrasinCastel_Sarrasin.secret.md)
+

@@ -40,11 +40,16 @@ markerFolder: ./Département~Finistère/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../_Standards/geo/Continent/Europe/Europe~West/France/Counties/Bretagne/Département~Finistère|Département~Finistère]] 
-- [[../../../../../../../../_public/geo/Continent/Europe/Europe~West/France/Counties/Bretagne/Département~Finistère.public|Département~Finistère.public]] 
-- [[../../../../../../../../_internal/geo/Continent/Europe/Europe~West/France/Counties/Bretagne/Département~Finistère.internal|Département~Finistère.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Europe~West/France/Counties/Bretagne/Département~Finistère.protect|Département~Finistère.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Europe~West/France/Counties/Bretagne/Département~Finistère.private|Département~Finistère.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Europe~West/France/Counties/Bretagne/Département~Finistère.personal|Département~Finistère.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Europe~West/France/Counties/Bretagne/Département~Finistère.secret|Département~Finistère.secret]] 
+
+### [Finistère.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Bretagne\departments~BretagneFinistère.public.md) 
+
+### [Finistère.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Bretagne\departments~BretagneFinistère.internal.md) 
+
+### [Finistère.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Bretagne\departments~BretagneFinistère.protect.md) 
+
+### [Finistère.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Bretagne\departments~BretagneFinistère.private.md) 
+
+### [Finistère.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Bretagne\departments~BretagneFinistère.personal.md) 
+
+### [Finistère.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Bretagne\departments~BretagneFinistère.secret.md)
 

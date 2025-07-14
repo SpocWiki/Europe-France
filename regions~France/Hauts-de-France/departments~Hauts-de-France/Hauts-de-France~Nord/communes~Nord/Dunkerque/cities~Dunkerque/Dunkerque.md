@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~West/France/City/Dunkerque|Dunkerque]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~West/France/City/Dunkerque.public|Dunkerque.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~West/France/City/Dunkerque.internal|Dunkerque.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~West/France/City/Dunkerque.protect|Dunkerque.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~West/France/City/Dunkerque.private|Dunkerque.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~West/France/City/Dunkerque.personal|Dunkerque.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~West/France/City/Dunkerque.secret|Dunkerque.secret]] 
+
+### [Dunkerque.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Hauts-de-France\departments~Hauts-de-France\Hauts-de-France~Nord\communes~Nord\Dunkerque\cities~DunkerqueDunkerque.public.md) 
+
+### [Dunkerque.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Hauts-de-France\departments~Hauts-de-France\Hauts-de-France~Nord\communes~Nord\Dunkerque\cities~DunkerqueDunkerque.internal.md) 
+
+### [Dunkerque.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Hauts-de-France\departments~Hauts-de-France\Hauts-de-France~Nord\communes~Nord\Dunkerque\cities~DunkerqueDunkerque.protect.md) 
+
+### [Dunkerque.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Hauts-de-France\departments~Hauts-de-France\Hauts-de-France~Nord\communes~Nord\Dunkerque\cities~DunkerqueDunkerque.private.md) 
+
+### [Dunkerque.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Hauts-de-France\departments~Hauts-de-France\Hauts-de-France~Nord\communes~Nord\Dunkerque\cities~DunkerqueDunkerque.personal.md) 
+
+### [Dunkerque.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Hauts-de-France\departments~Hauts-de-France\Hauts-de-France~Nord\communes~Nord\Dunkerque\cities~DunkerqueDunkerque.secret.md)
+

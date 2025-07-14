@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~West/France/City/Poligny|Poligny]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~West/France/City/Poligny.public|Poligny.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~West/France/City/Poligny.internal|Poligny.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~West/France/City/Poligny.protect|Poligny.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~West/France/City/Poligny.private|Poligny.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~West/France/City/Poligny.personal|Poligny.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~West/France/City/Poligny.secret|Poligny.secret]] 
+
+### [Poligny.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Auvergne-Rhône-Alpes\departments~Auvergne-Rhône-Alpes\Ain\communes~Ain\Nantua\cities~NantuaPoligny.public.md) 
+
+### [Poligny.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Auvergne-Rhône-Alpes\departments~Auvergne-Rhône-Alpes\Ain\communes~Ain\Nantua\cities~NantuaPoligny.internal.md) 
+
+### [Poligny.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Auvergne-Rhône-Alpes\departments~Auvergne-Rhône-Alpes\Ain\communes~Ain\Nantua\cities~NantuaPoligny.protect.md) 
+
+### [Poligny.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Auvergne-Rhône-Alpes\departments~Auvergne-Rhône-Alpes\Ain\communes~Ain\Nantua\cities~NantuaPoligny.private.md) 
+
+### [Poligny.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Auvergne-Rhône-Alpes\departments~Auvergne-Rhône-Alpes\Ain\communes~Ain\Nantua\cities~NantuaPoligny.personal.md) 
+
+### [Poligny.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Auvergne-Rhône-Alpes\departments~Auvergne-Rhône-Alpes\Ain\communes~Ain\Nantua\cities~NantuaPoligny.secret.md)
+

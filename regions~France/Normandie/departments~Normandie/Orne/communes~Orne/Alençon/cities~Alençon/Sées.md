@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~West/France/City/Sées|Sées]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~West/France/City/Sées.public|Sées.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~West/France/City/Sées.internal|Sées.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~West/France/City/Sées.protect|Sées.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~West/France/City/Sées.private|Sées.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~West/France/City/Sées.personal|Sées.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~West/France/City/Sées.secret|Sées.secret]] 
+
+### [Sées.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Normandie\departments~Normandie\Orne\communes~Orne\Alençon\cities~AlençonSées.public.md) 
+
+### [Sées.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Normandie\departments~Normandie\Orne\communes~Orne\Alençon\cities~AlençonSées.internal.md) 
+
+### [Sées.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Normandie\departments~Normandie\Orne\communes~Orne\Alençon\cities~AlençonSées.protect.md) 
+
+### [Sées.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Normandie\departments~Normandie\Orne\communes~Orne\Alençon\cities~AlençonSées.private.md) 
+
+### [Sées.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Normandie\departments~Normandie\Orne\communes~Orne\Alençon\cities~AlençonSées.personal.md) 
+
+### [Sées.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Normandie\departments~Normandie\Orne\communes~Orne\Alençon\cities~AlençonSées.secret.md)
+

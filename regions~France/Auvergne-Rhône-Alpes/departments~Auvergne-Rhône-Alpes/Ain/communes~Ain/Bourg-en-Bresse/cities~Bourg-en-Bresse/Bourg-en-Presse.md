@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~West/France/City/Bourg-en-Presse|Bourg-en-Presse]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~West/France/City/Bourg-en-Presse.public|Bourg-en-Presse.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~West/France/City/Bourg-en-Presse.internal|Bourg-en-Presse.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~West/France/City/Bourg-en-Presse.protect|Bourg-en-Presse.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~West/France/City/Bourg-en-Presse.private|Bourg-en-Presse.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~West/France/City/Bourg-en-Presse.personal|Bourg-en-Presse.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~West/France/City/Bourg-en-Presse.secret|Bourg-en-Presse.secret]] 
+
+### [Bourg-en-Presse.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Auvergne-Rhône-Alpes\departments~Auvergne-Rhône-Alpes\Ain\communes~Ain\Bourg-en-Bresse\cities~Bourg-en-BresseBourg-en-Presse.public.md) 
+
+### [Bourg-en-Presse.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Auvergne-Rhône-Alpes\departments~Auvergne-Rhône-Alpes\Ain\communes~Ain\Bourg-en-Bresse\cities~Bourg-en-BresseBourg-en-Presse.internal.md) 
+
+### [Bourg-en-Presse.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Auvergne-Rhône-Alpes\departments~Auvergne-Rhône-Alpes\Ain\communes~Ain\Bourg-en-Bresse\cities~Bourg-en-BresseBourg-en-Presse.protect.md) 
+
+### [Bourg-en-Presse.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Auvergne-Rhône-Alpes\departments~Auvergne-Rhône-Alpes\Ain\communes~Ain\Bourg-en-Bresse\cities~Bourg-en-BresseBourg-en-Presse.private.md) 
+
+### [Bourg-en-Presse.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Auvergne-Rhône-Alpes\departments~Auvergne-Rhône-Alpes\Ain\communes~Ain\Bourg-en-Bresse\cities~Bourg-en-BresseBourg-en-Presse.personal.md) 
+
+### [Bourg-en-Presse.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Auvergne-Rhône-Alpes\departments~Auvergne-Rhône-Alpes\Ain\communes~Ain\Bourg-en-Bresse\cities~Bourg-en-BresseBourg-en-Presse.secret.md)
+

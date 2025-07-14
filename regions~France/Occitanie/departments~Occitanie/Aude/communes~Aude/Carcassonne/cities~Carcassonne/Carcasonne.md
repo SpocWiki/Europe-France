@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~West/France/City/Carcasonne|Carcasonne]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~West/France/City/Carcasonne.public|Carcasonne.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~West/France/City/Carcasonne.internal|Carcasonne.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~West/France/City/Carcasonne.protect|Carcasonne.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~West/France/City/Carcasonne.private|Carcasonne.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~West/France/City/Carcasonne.personal|Carcasonne.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~West/France/City/Carcasonne.secret|Carcasonne.secret]] 
+
+### [Carcasonne.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~Occitanie\Aude\communes~Aude\Carcassonne\cities~CarcassonneCarcasonne.public.md) 
+
+### [Carcasonne.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~Occitanie\Aude\communes~Aude\Carcassonne\cities~CarcassonneCarcasonne.internal.md) 
+
+### [Carcasonne.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~Occitanie\Aude\communes~Aude\Carcassonne\cities~CarcassonneCarcasonne.protect.md) 
+
+### [Carcasonne.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~Occitanie\Aude\communes~Aude\Carcassonne\cities~CarcassonneCarcasonne.private.md) 
+
+### [Carcasonne.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~Occitanie\Aude\communes~Aude\Carcassonne\cities~CarcassonneCarcasonne.personal.md) 
+
+### [Carcasonne.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~Occitanie\Aude\communes~Aude\Carcassonne\cities~CarcassonneCarcasonne.secret.md)
+

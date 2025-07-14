@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~West/France/City/Foix|Foix]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~West/France/City/Foix.public|Foix.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~West/France/City/Foix.internal|Foix.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~West/France/City/Foix.protect|Foix.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~West/France/City/Foix.private|Foix.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~West/France/City/Foix.personal|Foix.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~West/France/City/Foix.secret|Foix.secret]] 
+
+### [Foix.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~Occitanie\Ariège\communes~Ariège\Foix\cities~FoixFoix.public.md) 
+
+### [Foix.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~Occitanie\Ariège\communes~Ariège\Foix\cities~FoixFoix.internal.md) 
+
+### [Foix.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~Occitanie\Ariège\communes~Ariège\Foix\cities~FoixFoix.protect.md) 
+
+### [Foix.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~Occitanie\Ariège\communes~Ariège\Foix\cities~FoixFoix.private.md) 
+
+### [Foix.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~Occitanie\Ariège\communes~Ariège\Foix\cities~FoixFoix.personal.md) 
+
+### [Foix.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~Occitanie\Ariège\communes~Ariège\Foix\cities~FoixFoix.secret.md)
+

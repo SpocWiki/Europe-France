@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~West/France/City/Guéret|Guéret]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~West/France/City/Guéret.public|Guéret.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~West/France/City/Guéret.internal|Guéret.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~West/France/City/Guéret.protect|Guéret.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~West/France/City/Guéret.private|Guéret.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~West/France/City/Guéret.personal|Guéret.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~West/France/City/Guéret.secret|Guéret.secret]] 
+
+### [Guéret.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~Aquitaine\Creuse\communes~Creuse\Guéret\cities~GuéretGuéret.public.md) 
+
+### [Guéret.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~Aquitaine\Creuse\communes~Creuse\Guéret\cities~GuéretGuéret.internal.md) 
+
+### [Guéret.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~Aquitaine\Creuse\communes~Creuse\Guéret\cities~GuéretGuéret.protect.md) 
+
+### [Guéret.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~Aquitaine\Creuse\communes~Creuse\Guéret\cities~GuéretGuéret.private.md) 
+
+### [Guéret.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~Aquitaine\Creuse\communes~Creuse\Guéret\cities~GuéretGuéret.personal.md) 
+
+### [Guéret.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~Aquitaine\Creuse\communes~Creuse\Guéret\cities~GuéretGuéret.secret.md)
+

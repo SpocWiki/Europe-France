@@ -40,11 +40,16 @@ markerFolder: ./Département~Haute-Rhin/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../_Standards/geo/Continent/Europe/Europe~West/France/Counties/Grand_Est/Département~Haute-Rhin|Département~Haute-Rhin]] 
-- [[../../../../../../../../_public/geo/Continent/Europe/Europe~West/France/Counties/Grand_Est/Département~Haute-Rhin.public|Département~Haute-Rhin.public]] 
-- [[../../../../../../../../_internal/geo/Continent/Europe/Europe~West/France/Counties/Grand_Est/Département~Haute-Rhin.internal|Département~Haute-Rhin.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Europe~West/France/Counties/Grand_Est/Département~Haute-Rhin.protect|Département~Haute-Rhin.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Europe~West/France/Counties/Grand_Est/Département~Haute-Rhin.private|Département~Haute-Rhin.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Europe~West/France/Counties/Grand_Est/Département~Haute-Rhin.personal|Département~Haute-Rhin.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Europe~West/France/Counties/Grand_Est/Département~Haute-Rhin.secret|Département~Haute-Rhin.secret]] 
+
+### [Haut-Rhin.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Grand_Est\departments~Grand_EstHaut-Rhin.public.md) 
+
+### [Haut-Rhin.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Grand_Est\departments~Grand_EstHaut-Rhin.internal.md) 
+
+### [Haut-Rhin.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Grand_Est\departments~Grand_EstHaut-Rhin.protect.md) 
+
+### [Haut-Rhin.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Grand_Est\departments~Grand_EstHaut-Rhin.private.md) 
+
+### [Haut-Rhin.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Grand_Est\departments~Grand_EstHaut-Rhin.personal.md) 
+
+### [Haut-Rhin.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Grand_Est\departments~Grand_EstHaut-Rhin.secret.md)
 

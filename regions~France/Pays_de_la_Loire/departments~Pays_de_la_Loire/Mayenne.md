@@ -40,11 +40,16 @@ markerFolder: ./Département~Mayenne/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../_Standards/geo/Continent/Europe/Europe~West/France/Counties/Pays_de_la_Loire/Département~Mayenne|Département~Mayenne]] 
-- [[../../../../../../../../_public/geo/Continent/Europe/Europe~West/France/Counties/Pays_de_la_Loire/Département~Mayenne.public|Département~Mayenne.public]] 
-- [[../../../../../../../../_internal/geo/Continent/Europe/Europe~West/France/Counties/Pays_de_la_Loire/Département~Mayenne.internal|Département~Mayenne.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Europe~West/France/Counties/Pays_de_la_Loire/Département~Mayenne.protect|Département~Mayenne.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Europe~West/France/Counties/Pays_de_la_Loire/Département~Mayenne.private|Département~Mayenne.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Europe~West/France/Counties/Pays_de_la_Loire/Département~Mayenne.personal|Département~Mayenne.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Europe~West/France/Counties/Pays_de_la_Loire/Département~Mayenne.secret|Département~Mayenne.secret]] 
+
+### [Mayenne.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Pays_de_la_Loire\departments~Pays_de_la_LoireMayenne.public.md) 
+
+### [Mayenne.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Pays_de_la_Loire\departments~Pays_de_la_LoireMayenne.internal.md) 
+
+### [Mayenne.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Pays_de_la_Loire\departments~Pays_de_la_LoireMayenne.protect.md) 
+
+### [Mayenne.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Pays_de_la_Loire\departments~Pays_de_la_LoireMayenne.private.md) 
+
+### [Mayenne.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Pays_de_la_Loire\departments~Pays_de_la_LoireMayenne.personal.md) 
+
+### [Mayenne.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Pays_de_la_Loire\departments~Pays_de_la_LoireMayenne.secret.md)
 

@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~West/France/City/Marseille|Marseille]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~West/France/City/Marseille.public|Marseille.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~West/France/City/Marseille.internal|Marseille.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~West/France/City/Marseille.protect|Marseille.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~West/France/City/Marseille.private|Marseille.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~West/France/City/Marseille.personal|Marseille.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~West/France/City/Marseille.secret|Marseille.secret]] 
+
+### [Marseille.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Provence-Alpes-Côte_d'Azur\departments~Provence\Bouches-du-Rhône\communes~Rhône\Marseille\cities~MarseilleMarseille.public.md) 
+
+### [Marseille.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Provence-Alpes-Côte_d'Azur\departments~Provence\Bouches-du-Rhône\communes~Rhône\Marseille\cities~MarseilleMarseille.internal.md) 
+
+### [Marseille.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Provence-Alpes-Côte_d'Azur\departments~Provence\Bouches-du-Rhône\communes~Rhône\Marseille\cities~MarseilleMarseille.protect.md) 
+
+### [Marseille.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Provence-Alpes-Côte_d'Azur\departments~Provence\Bouches-du-Rhône\communes~Rhône\Marseille\cities~MarseilleMarseille.private.md) 
+
+### [Marseille.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Provence-Alpes-Côte_d'Azur\departments~Provence\Bouches-du-Rhône\communes~Rhône\Marseille\cities~MarseilleMarseille.personal.md) 
+
+### [Marseille.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Provence-Alpes-Côte_d'Azur\departments~Provence\Bouches-du-Rhône\communes~Rhône\Marseille\cities~MarseilleMarseille.secret.md)
+

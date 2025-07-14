@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~West/France/City/Blois|Blois]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~West/France/City/Blois.public|Blois.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~West/France/City/Blois.internal|Blois.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~West/France/City/Blois.protect|Blois.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~West/France/City/Blois.private|Blois.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~West/France/City/Blois.personal|Blois.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~West/France/City/Blois.secret|Blois.secret]] 
+
+### [Blois.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Val_de_Loire\departments~Val_de_Loire\Loir-et-Cher\communes~Loir-et-Cher\Blois\cities~BloisBlois.public.md) 
+
+### [Blois.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Val_de_Loire\departments~Val_de_Loire\Loir-et-Cher\communes~Loir-et-Cher\Blois\cities~BloisBlois.internal.md) 
+
+### [Blois.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Val_de_Loire\departments~Val_de_Loire\Loir-et-Cher\communes~Loir-et-Cher\Blois\cities~BloisBlois.protect.md) 
+
+### [Blois.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Val_de_Loire\departments~Val_de_Loire\Loir-et-Cher\communes~Loir-et-Cher\Blois\cities~BloisBlois.private.md) 
+
+### [Blois.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Val_de_Loire\departments~Val_de_Loire\Loir-et-Cher\communes~Loir-et-Cher\Blois\cities~BloisBlois.personal.md) 
+
+### [Blois.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Val_de_Loire\departments~Val_de_Loire\Loir-et-Cher\communes~Loir-et-Cher\Blois\cities~BloisBlois.secret.md)
+

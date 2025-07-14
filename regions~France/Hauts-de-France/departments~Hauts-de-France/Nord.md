@@ -40,11 +40,16 @@ markerFolder: ./Département~Nord/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../_Standards/geo/Continent/Europe/Europe~West/France/Counties/Hauts-de-France/Département~Nord|Département~Nord]] 
-- [[../../../../../../../../_public/geo/Continent/Europe/Europe~West/France/Counties/Hauts-de-France/Département~Nord.public|Département~Nord.public]] 
-- [[../../../../../../../../_internal/geo/Continent/Europe/Europe~West/France/Counties/Hauts-de-France/Département~Nord.internal|Département~Nord.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Europe~West/France/Counties/Hauts-de-France/Département~Nord.protect|Département~Nord.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Europe~West/France/Counties/Hauts-de-France/Département~Nord.private|Département~Nord.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Europe~West/France/Counties/Hauts-de-France/Département~Nord.personal|Département~Nord.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Europe~West/France/Counties/Hauts-de-France/Département~Nord.secret|Département~Nord.secret]] 
+
+### [Nord.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Hauts-de-France\departments~Hauts-de-FranceNord.public.md) 
+
+### [Nord.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Hauts-de-France\departments~Hauts-de-FranceNord.internal.md) 
+
+### [Nord.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Hauts-de-France\departments~Hauts-de-FranceNord.protect.md) 
+
+### [Nord.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Hauts-de-France\departments~Hauts-de-FranceNord.private.md) 
+
+### [Nord.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Hauts-de-France\departments~Hauts-de-FranceNord.personal.md) 
+
+### [Nord.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Hauts-de-France\departments~Hauts-de-FranceNord.secret.md)
 

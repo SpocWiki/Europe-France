@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~West/France/City/Angoulème|Angoulème]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~West/France/City/Angoulème.public|Angoulème.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~West/France/City/Angoulème.internal|Angoulème.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~West/France/City/Angoulème.protect|Angoulème.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~West/France/City/Angoulème.private|Angoulème.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~West/France/City/Angoulème.personal|Angoulème.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~West/France/City/Angoulème.secret|Angoulème.secret]] 
+
+### [Angoulème.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~Aquitaine\Charente\communes~Charente\Angoulême\cities~AngoulêmeAngoulème.public.md) 
+
+### [Angoulème.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~Aquitaine\Charente\communes~Charente\Angoulême\cities~AngoulêmeAngoulème.internal.md) 
+
+### [Angoulème.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~Aquitaine\Charente\communes~Charente\Angoulême\cities~AngoulêmeAngoulème.protect.md) 
+
+### [Angoulème.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~Aquitaine\Charente\communes~Charente\Angoulême\cities~AngoulêmeAngoulème.private.md) 
+
+### [Angoulème.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~Aquitaine\Charente\communes~Charente\Angoulême\cities~AngoulêmeAngoulème.personal.md) 
+
+### [Angoulème.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~Aquitaine\Charente\communes~Charente\Angoulême\cities~AngoulêmeAngoulème.secret.md)
+

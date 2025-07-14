@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~West/France/City/Seneis|Seneis]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~West/France/City/Seneis.public|Seneis.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~West/France/City/Seneis.internal|Seneis.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~West/France/City/Seneis.protect|Seneis.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~West/France/City/Seneis.private|Seneis.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~West/France/City/Seneis.personal|Seneis.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~West/France/City/Seneis.secret|Seneis.secret]] 
+
+### [Seneis.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Hauts-de-France\departments~Hauts-de-France\Oise\communes~Oise\Senlis\cities~SenlisSeneis.public.md) 
+
+### [Seneis.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Hauts-de-France\departments~Hauts-de-France\Oise\communes~Oise\Senlis\cities~SenlisSeneis.internal.md) 
+
+### [Seneis.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Hauts-de-France\departments~Hauts-de-France\Oise\communes~Oise\Senlis\cities~SenlisSeneis.protect.md) 
+
+### [Seneis.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Hauts-de-France\departments~Hauts-de-France\Oise\communes~Oise\Senlis\cities~SenlisSeneis.private.md) 
+
+### [Seneis.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Hauts-de-France\departments~Hauts-de-France\Oise\communes~Oise\Senlis\cities~SenlisSeneis.personal.md) 
+
+### [Seneis.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Hauts-de-France\departments~Hauts-de-France\Oise\communes~Oise\Senlis\cities~SenlisSeneis.secret.md)
+

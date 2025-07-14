@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~West/France/City/Orthez|Orthez]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~West/France/City/Orthez.public|Orthez.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~West/France/City/Orthez.internal|Orthez.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~West/France/City/Orthez.protect|Orthez.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~West/France/City/Orthez.private|Orthez.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~West/France/City/Orthez.personal|Orthez.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~West/France/City/Orthez.secret|Orthez.secret]] 
+
+### [Orthez.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~Aquitaine\Landes\communes~Landes\Dax\cities~DaxOrthez.public.md) 
+
+### [Orthez.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~Aquitaine\Landes\communes~Landes\Dax\cities~DaxOrthez.internal.md) 
+
+### [Orthez.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~Aquitaine\Landes\communes~Landes\Dax\cities~DaxOrthez.protect.md) 
+
+### [Orthez.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~Aquitaine\Landes\communes~Landes\Dax\cities~DaxOrthez.private.md) 
+
+### [Orthez.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~Aquitaine\Landes\communes~Landes\Dax\cities~DaxOrthez.personal.md) 
+
+### [Orthez.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~Aquitaine\Landes\communes~Landes\Dax\cities~DaxOrthez.secret.md)
+

@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~West/France/City/Beziers|Beziers]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~West/France/City/Beziers.public|Beziers.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~West/France/City/Beziers.internal|Beziers.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~West/France/City/Beziers.protect|Beziers.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~West/France/City/Beziers.private|Beziers.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~West/France/City/Beziers.personal|Beziers.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~West/France/City/Beziers.secret|Beziers.secret]] 
+
+### [Beziers.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~Occitanie\Hérault\communes~Hérault\Béziers\cities~BéziersBeziers.public.md) 
+
+### [Beziers.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~Occitanie\Hérault\communes~Hérault\Béziers\cities~BéziersBeziers.internal.md) 
+
+### [Beziers.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~Occitanie\Hérault\communes~Hérault\Béziers\cities~BéziersBeziers.protect.md) 
+
+### [Beziers.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~Occitanie\Hérault\communes~Hérault\Béziers\cities~BéziersBeziers.private.md) 
+
+### [Beziers.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~Occitanie\Hérault\communes~Hérault\Béziers\cities~BéziersBeziers.personal.md) 
+
+### [Beziers.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~Occitanie\Hérault\communes~Hérault\Béziers\cities~BéziersBeziers.secret.md)
+

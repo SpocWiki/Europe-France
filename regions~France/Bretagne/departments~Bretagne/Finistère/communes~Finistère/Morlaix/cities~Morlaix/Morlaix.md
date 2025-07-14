@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~West/France/City/Morlaix|Morlaix]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~West/France/City/Morlaix.public|Morlaix.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~West/France/City/Morlaix.internal|Morlaix.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~West/France/City/Morlaix.protect|Morlaix.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~West/France/City/Morlaix.private|Morlaix.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~West/France/City/Morlaix.personal|Morlaix.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~West/France/City/Morlaix.secret|Morlaix.secret]] 
+
+### [Morlaix.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Bretagne\departments~Bretagne\Finistère\communes~Finistère\Morlaix\cities~MorlaixMorlaix.public.md) 
+
+### [Morlaix.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Bretagne\departments~Bretagne\Finistère\communes~Finistère\Morlaix\cities~MorlaixMorlaix.internal.md) 
+
+### [Morlaix.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Bretagne\departments~Bretagne\Finistère\communes~Finistère\Morlaix\cities~MorlaixMorlaix.protect.md) 
+
+### [Morlaix.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Bretagne\departments~Bretagne\Finistère\communes~Finistère\Morlaix\cities~MorlaixMorlaix.private.md) 
+
+### [Morlaix.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Bretagne\departments~Bretagne\Finistère\communes~Finistère\Morlaix\cities~MorlaixMorlaix.personal.md) 
+
+### [Morlaix.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Bretagne\departments~Bretagne\Finistère\communes~Finistère\Morlaix\cities~MorlaixMorlaix.secret.md)
+

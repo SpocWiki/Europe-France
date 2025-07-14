@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~West/France/City/Cannes|Cannes]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~West/France/City/Cannes.public|Cannes.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~West/France/City/Cannes.internal|Cannes.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~West/France/City/Cannes.protect|Cannes.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~West/France/City/Cannes.private|Cannes.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~West/France/City/Cannes.personal|Cannes.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~West/France/City/Cannes.secret|Cannes.secret]] 
+
+### [Cannes.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Provence-Alpes-Côte_d'AzurCannes.public.md) 
+
+### [Cannes.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Provence-Alpes-Côte_d'AzurCannes.internal.md) 
+
+### [Cannes.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Provence-Alpes-Côte_d'AzurCannes.protect.md) 
+
+### [Cannes.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Provence-Alpes-Côte_d'AzurCannes.private.md) 
+
+### [Cannes.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Provence-Alpes-Côte_d'AzurCannes.personal.md) 
+
+### [Cannes.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Provence-Alpes-Côte_d'AzurCannes.secret.md)
+

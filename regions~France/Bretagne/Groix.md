@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~West/France/City/Groix|Groix]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~West/France/City/Groix.public|Groix.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~West/France/City/Groix.internal|Groix.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~West/France/City/Groix.protect|Groix.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~West/France/City/Groix.private|Groix.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~West/France/City/Groix.personal|Groix.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~West/France/City/Groix.secret|Groix.secret]] 
+
+### [Groix.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\BretagneGroix.public.md) 
+
+### [Groix.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\BretagneGroix.internal.md) 
+
+### [Groix.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\BretagneGroix.protect.md) 
+
+### [Groix.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\BretagneGroix.private.md) 
+
+### [Groix.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\BretagneGroix.personal.md) 
+
+### [Groix.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\BretagneGroix.secret.md)
+

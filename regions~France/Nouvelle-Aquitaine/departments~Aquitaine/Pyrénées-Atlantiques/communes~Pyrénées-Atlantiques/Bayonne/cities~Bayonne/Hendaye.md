@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~West/France/City/Hendaye|Hendaye]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~West/France/City/Hendaye.public|Hendaye.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~West/France/City/Hendaye.internal|Hendaye.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~West/France/City/Hendaye.protect|Hendaye.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~West/France/City/Hendaye.private|Hendaye.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~West/France/City/Hendaye.personal|Hendaye.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~West/France/City/Hendaye.secret|Hendaye.secret]] 
+
+### [Hendaye.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~Aquitaine\Pyrénées-Atlantiques\communes~Pyrénées-Atlantiques\Bayonne\cities~BayonneHendaye.public.md) 
+
+### [Hendaye.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~Aquitaine\Pyrénées-Atlantiques\communes~Pyrénées-Atlantiques\Bayonne\cities~BayonneHendaye.internal.md) 
+
+### [Hendaye.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~Aquitaine\Pyrénées-Atlantiques\communes~Pyrénées-Atlantiques\Bayonne\cities~BayonneHendaye.protect.md) 
+
+### [Hendaye.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~Aquitaine\Pyrénées-Atlantiques\communes~Pyrénées-Atlantiques\Bayonne\cities~BayonneHendaye.private.md) 
+
+### [Hendaye.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~Aquitaine\Pyrénées-Atlantiques\communes~Pyrénées-Atlantiques\Bayonne\cities~BayonneHendaye.personal.md) 
+
+### [Hendaye.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~Aquitaine\Pyrénées-Atlantiques\communes~Pyrénées-Atlantiques\Bayonne\cities~BayonneHendaye.secret.md)
+

@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~West/France/City/St.Pons|St.Pons]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~West/France/City/St.Pons.public|St.Pons.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~West/France/City/St.Pons.internal|St.Pons.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~West/France/City/St.Pons.protect|St.Pons.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~West/France/City/St.Pons.private|St.Pons.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~West/France/City/St.Pons.personal|St.Pons.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~West/France/City/St.Pons.secret|St.Pons.secret]] 
+
+### [St.Pons.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~Occitanie\Hérault\communes~Hérault\Béziers\cities~BéziersSt.Pons.public.md) 
+
+### [St.Pons.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~Occitanie\Hérault\communes~Hérault\Béziers\cities~BéziersSt.Pons.internal.md) 
+
+### [St.Pons.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~Occitanie\Hérault\communes~Hérault\Béziers\cities~BéziersSt.Pons.protect.md) 
+
+### [St.Pons.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~Occitanie\Hérault\communes~Hérault\Béziers\cities~BéziersSt.Pons.private.md) 
+
+### [St.Pons.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~Occitanie\Hérault\communes~Hérault\Béziers\cities~BéziersSt.Pons.personal.md) 
+
+### [St.Pons.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~Occitanie\Hérault\communes~Hérault\Béziers\cities~BéziersSt.Pons.secret.md)
+

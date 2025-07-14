@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~West/France/City/Nancy|Nancy]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~West/France/City/Nancy.public|Nancy.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~West/France/City/Nancy.internal|Nancy.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~West/France/City/Nancy.protect|Nancy.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~West/France/City/Nancy.private|Nancy.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~West/France/City/Nancy.personal|Nancy.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~West/France/City/Nancy.secret|Nancy.secret]] 
+
+### [Nancy.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Grand_Est\departments~Grand_Est\Meurthe-et-Moselle\communes~Meurthe-et-Moselle\Nancy\cities~NancyNancy.public.md) 
+
+### [Nancy.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Grand_Est\departments~Grand_Est\Meurthe-et-Moselle\communes~Meurthe-et-Moselle\Nancy\cities~NancyNancy.internal.md) 
+
+### [Nancy.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Grand_Est\departments~Grand_Est\Meurthe-et-Moselle\communes~Meurthe-et-Moselle\Nancy\cities~NancyNancy.protect.md) 
+
+### [Nancy.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Grand_Est\departments~Grand_Est\Meurthe-et-Moselle\communes~Meurthe-et-Moselle\Nancy\cities~NancyNancy.private.md) 
+
+### [Nancy.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Grand_Est\departments~Grand_Est\Meurthe-et-Moselle\communes~Meurthe-et-Moselle\Nancy\cities~NancyNancy.personal.md) 
+
+### [Nancy.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Grand_Est\departments~Grand_Est\Meurthe-et-Moselle\communes~Meurthe-et-Moselle\Nancy\cities~NancyNancy.secret.md)
+

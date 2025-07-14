@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~West/France/City/Yeu|Yeu]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~West/France/City/Yeu.public|Yeu.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~West/France/City/Yeu.internal|Yeu.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~West/France/City/Yeu.protect|Yeu.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~West/France/City/Yeu.private|Yeu.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~West/France/City/Yeu.personal|Yeu.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~West/France/City/Yeu.secret|Yeu.secret]] 
+
+### [Yeu.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Pays_de_la_Loire\departments~Pays_de_la_Loire\Vendée\communes~Vendée\Les_Sables-d'Olonne\cities~LesSables-d'OlonneYeu.public.md) 
+
+### [Yeu.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Pays_de_la_Loire\departments~Pays_de_la_Loire\Vendée\communes~Vendée\Les_Sables-d'Olonne\cities~LesSables-d'OlonneYeu.internal.md) 
+
+### [Yeu.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Pays_de_la_Loire\departments~Pays_de_la_Loire\Vendée\communes~Vendée\Les_Sables-d'Olonne\cities~LesSables-d'OlonneYeu.protect.md) 
+
+### [Yeu.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Pays_de_la_Loire\departments~Pays_de_la_Loire\Vendée\communes~Vendée\Les_Sables-d'Olonne\cities~LesSables-d'OlonneYeu.private.md) 
+
+### [Yeu.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Pays_de_la_Loire\departments~Pays_de_la_Loire\Vendée\communes~Vendée\Les_Sables-d'Olonne\cities~LesSables-d'OlonneYeu.personal.md) 
+
+### [Yeu.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Pays_de_la_Loire\departments~Pays_de_la_Loire\Vendée\communes~Vendée\Les_Sables-d'Olonne\cities~LesSables-d'OlonneYeu.secret.md)
+

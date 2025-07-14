@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~West/France/City/Doullens|Doullens]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~West/France/City/Doullens.public|Doullens.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~West/France/City/Doullens.internal|Doullens.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~West/France/City/Doullens.protect|Doullens.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~West/France/City/Doullens.private|Doullens.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~West/France/City/Doullens.personal|Doullens.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~West/France/City/Doullens.secret|Doullens.secret]] 
+
+### [Doullens.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Hauts-de-France\departments~Hauts-de-France\Somme\communes~Somme\Amiens\cities~AmiensDoullens.public.md) 
+
+### [Doullens.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Hauts-de-France\departments~Hauts-de-France\Somme\communes~Somme\Amiens\cities~AmiensDoullens.internal.md) 
+
+### [Doullens.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Hauts-de-France\departments~Hauts-de-France\Somme\communes~Somme\Amiens\cities~AmiensDoullens.protect.md) 
+
+### [Doullens.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Hauts-de-France\departments~Hauts-de-France\Somme\communes~Somme\Amiens\cities~AmiensDoullens.private.md) 
+
+### [Doullens.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Hauts-de-France\departments~Hauts-de-France\Somme\communes~Somme\Amiens\cities~AmiensDoullens.personal.md) 
+
+### [Doullens.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Hauts-de-France\departments~Hauts-de-France\Somme\communes~Somme\Amiens\cities~AmiensDoullens.secret.md)
+

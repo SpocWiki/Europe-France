@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~West/France/City/Bazas|Bazas]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~West/France/City/Bazas.public|Bazas.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~West/France/City/Bazas.internal|Bazas.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~West/France/City/Bazas.protect|Bazas.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~West/France/City/Bazas.private|Bazas.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~West/France/City/Bazas.personal|Bazas.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~West/France/City/Bazas.secret|Bazas.secret]] 
+
+### [Bazas.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~Aquitaine\Gironde\communes~Gironde\Langon\cities~LangonBazas.public.md) 
+
+### [Bazas.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~Aquitaine\Gironde\communes~Gironde\Langon\cities~LangonBazas.internal.md) 
+
+### [Bazas.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~Aquitaine\Gironde\communes~Gironde\Langon\cities~LangonBazas.protect.md) 
+
+### [Bazas.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~Aquitaine\Gironde\communes~Gironde\Langon\cities~LangonBazas.private.md) 
+
+### [Bazas.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~Aquitaine\Gironde\communes~Gironde\Langon\cities~LangonBazas.personal.md) 
+
+### [Bazas.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~Aquitaine\Gironde\communes~Gironde\Langon\cities~LangonBazas.secret.md)
+

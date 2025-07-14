@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~West/France/City/Fougéres|Fougéres]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~West/France/City/Fougéres.public|Fougéres.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~West/France/City/Fougéres.internal|Fougéres.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~West/France/City/Fougéres.protect|Fougéres.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~West/France/City/Fougéres.private|Fougéres.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~West/France/City/Fougéres.personal|Fougéres.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~West/France/City/Fougéres.secret|Fougéres.secret]] 
+
+### [Fougéres.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Bretagne\departments~Bretagne\Ille-et-Vilaine\communes~Ille-et-Vilaine\Fougères-Vitré\cities~Fougères-VitréFougéres.public.md) 
+
+### [Fougéres.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Bretagne\departments~Bretagne\Ille-et-Vilaine\communes~Ille-et-Vilaine\Fougères-Vitré\cities~Fougères-VitréFougéres.internal.md) 
+
+### [Fougéres.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Bretagne\departments~Bretagne\Ille-et-Vilaine\communes~Ille-et-Vilaine\Fougères-Vitré\cities~Fougères-VitréFougéres.protect.md) 
+
+### [Fougéres.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Bretagne\departments~Bretagne\Ille-et-Vilaine\communes~Ille-et-Vilaine\Fougères-Vitré\cities~Fougères-VitréFougéres.private.md) 
+
+### [Fougéres.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Bretagne\departments~Bretagne\Ille-et-Vilaine\communes~Ille-et-Vilaine\Fougères-Vitré\cities~Fougères-VitréFougéres.personal.md) 
+
+### [Fougéres.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Bretagne\departments~Bretagne\Ille-et-Vilaine\communes~Ille-et-Vilaine\Fougères-Vitré\cities~Fougères-VitréFougéres.secret.md)
+

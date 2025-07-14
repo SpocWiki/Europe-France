@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~West/France/City/Delle|Delle]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~West/France/City/Delle.public|Delle.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~West/France/City/Delle.internal|Delle.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~West/France/City/Delle.protect|Delle.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~West/France/City/Delle.private|Delle.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~West/France/City/Delle.personal|Delle.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~West/France/City/Delle.secret|Delle.secret]] 
+
+### [Delle.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Bourgogne-Franche-Comté\departments~Bourgogne-Franche-Comté\Territoire_de_Belfort\communes~Territoire_de_Belfort\BelfortDelle.public.md) 
+
+### [Delle.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Bourgogne-Franche-Comté\departments~Bourgogne-Franche-Comté\Territoire_de_Belfort\communes~Territoire_de_Belfort\BelfortDelle.internal.md) 
+
+### [Delle.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Bourgogne-Franche-Comté\departments~Bourgogne-Franche-Comté\Territoire_de_Belfort\communes~Territoire_de_Belfort\BelfortDelle.protect.md) 
+
+### [Delle.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Bourgogne-Franche-Comté\departments~Bourgogne-Franche-Comté\Territoire_de_Belfort\communes~Territoire_de_Belfort\BelfortDelle.private.md) 
+
+### [Delle.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Bourgogne-Franche-Comté\departments~Bourgogne-Franche-Comté\Territoire_de_Belfort\communes~Territoire_de_Belfort\BelfortDelle.personal.md) 
+
+### [Delle.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Bourgogne-Franche-Comté\departments~Bourgogne-Franche-Comté\Territoire_de_Belfort\communes~Territoire_de_Belfort\BelfortDelle.secret.md)
+

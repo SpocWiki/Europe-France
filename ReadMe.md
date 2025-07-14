@@ -275,12 +275,17 @@ Capital :: [[Paris]]
 [has_place_latitude::46.8944]
 
 
-
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/geo/Continent/Europe/Europe~West/France|France]] 
-- [[../../../../../_public/geo/Continent/Europe/Europe~West/France.public|France.public]] 
-- [[../../../../../_internal/geo/Continent/Europe/Europe~West/France.internal|France.internal]] 
-- [[../../../../../_protect/geo/Continent/Europe/Europe~West/France.protect|France.protect]] 
-- [[../../../../../_private/geo/Continent/Europe/Europe~West/France.private|France.private]] 
-- [[../../../../../_personal/geo/Continent/Europe/Europe~West/France.personal|France.personal]] 
-- [[../../../../../_secret/geo/Continent/Europe/Europe~West/France.secret|France.secret]] 
+
+### [ReadMe.public](/_public/\Earth\Continent\Europe\Europe~West\FranceReadMe.public.md) 
+
+### [ReadMe.internal](/_internal/\Earth\Continent\Europe\Europe~West\FranceReadMe.internal.md) 
+
+### [ReadMe.protect](/_protect/\Earth\Continent\Europe\Europe~West\FranceReadMe.protect.md) 
+
+### [ReadMe.private](/_private/\Earth\Continent\Europe\Europe~West\FranceReadMe.private.md) 
+
+### [ReadMe.personal](/_personal/\Earth\Continent\Europe\Europe~West\FranceReadMe.personal.md) 
+
+### [ReadMe.secret](/_secret/\Earth\Continent\Europe\Europe~West\FranceReadMe.secret.md)
+

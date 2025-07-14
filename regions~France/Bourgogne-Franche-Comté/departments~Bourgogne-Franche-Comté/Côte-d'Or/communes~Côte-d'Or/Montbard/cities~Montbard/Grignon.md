@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~West/France/City/Grignon|Grignon]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~West/France/City/Grignon.public|Grignon.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~West/France/City/Grignon.internal|Grignon.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~West/France/City/Grignon.protect|Grignon.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~West/France/City/Grignon.private|Grignon.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~West/France/City/Grignon.personal|Grignon.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~West/France/City/Grignon.secret|Grignon.secret]] 
+
+### [Grignon.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Bourgogne-Franche-Comté\departments~Bourgogne-Franche-Comté\Côte-d'Or\communes~Côte-d'Or\Montbard\cities~MontbardGrignon.public.md) 
+
+### [Grignon.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Bourgogne-Franche-Comté\departments~Bourgogne-Franche-Comté\Côte-d'Or\communes~Côte-d'Or\Montbard\cities~MontbardGrignon.internal.md) 
+
+### [Grignon.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Bourgogne-Franche-Comté\departments~Bourgogne-Franche-Comté\Côte-d'Or\communes~Côte-d'Or\Montbard\cities~MontbardGrignon.protect.md) 
+
+### [Grignon.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Bourgogne-Franche-Comté\departments~Bourgogne-Franche-Comté\Côte-d'Or\communes~Côte-d'Or\Montbard\cities~MontbardGrignon.private.md) 
+
+### [Grignon.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Bourgogne-Franche-Comté\departments~Bourgogne-Franche-Comté\Côte-d'Or\communes~Côte-d'Or\Montbard\cities~MontbardGrignon.personal.md) 
+
+### [Grignon.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Bourgogne-Franche-Comté\departments~Bourgogne-Franche-Comté\Côte-d'Or\communes~Côte-d'Or\Montbard\cities~MontbardGrignon.secret.md)
+

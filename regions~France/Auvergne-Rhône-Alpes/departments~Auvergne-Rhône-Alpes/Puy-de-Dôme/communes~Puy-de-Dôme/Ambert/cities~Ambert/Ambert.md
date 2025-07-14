@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~West/France/City/Ambert|Ambert]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~West/France/City/Ambert.public|Ambert.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~West/France/City/Ambert.internal|Ambert.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~West/France/City/Ambert.protect|Ambert.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~West/France/City/Ambert.private|Ambert.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~West/France/City/Ambert.personal|Ambert.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~West/France/City/Ambert.secret|Ambert.secret]] 
+
+### [Ambert.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Auvergne-Rhône-Alpes\departments~Auvergne-Rhône-Alpes\Puy-de-Dôme\communes~Puy-de-Dôme\Ambert\cities~AmbertAmbert.public.md) 
+
+### [Ambert.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Auvergne-Rhône-Alpes\departments~Auvergne-Rhône-Alpes\Puy-de-Dôme\communes~Puy-de-Dôme\Ambert\cities~AmbertAmbert.internal.md) 
+
+### [Ambert.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Auvergne-Rhône-Alpes\departments~Auvergne-Rhône-Alpes\Puy-de-Dôme\communes~Puy-de-Dôme\Ambert\cities~AmbertAmbert.protect.md) 
+
+### [Ambert.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Auvergne-Rhône-Alpes\departments~Auvergne-Rhône-Alpes\Puy-de-Dôme\communes~Puy-de-Dôme\Ambert\cities~AmbertAmbert.private.md) 
+
+### [Ambert.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Auvergne-Rhône-Alpes\departments~Auvergne-Rhône-Alpes\Puy-de-Dôme\communes~Puy-de-Dôme\Ambert\cities~AmbertAmbert.personal.md) 
+
+### [Ambert.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Auvergne-Rhône-Alpes\departments~Auvergne-Rhône-Alpes\Puy-de-Dôme\communes~Puy-de-Dôme\Ambert\cities~AmbertAmbert.secret.md)
+

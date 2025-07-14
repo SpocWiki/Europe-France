@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~West/France/City/Bayeux|Bayeux]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~West/France/City/Bayeux.public|Bayeux.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~West/France/City/Bayeux.internal|Bayeux.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~West/France/City/Bayeux.protect|Bayeux.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~West/France/City/Bayeux.private|Bayeux.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~West/France/City/Bayeux.personal|Bayeux.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~West/France/City/Bayeux.secret|Bayeux.secret]] 
+
+### [Bayeux.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Normandie\departments~Normandie\Calvados\communes~Calvados\Bayeux\cities~BayeuxBayeux.public.md) 
+
+### [Bayeux.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Normandie\departments~Normandie\Calvados\communes~Calvados\Bayeux\cities~BayeuxBayeux.internal.md) 
+
+### [Bayeux.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Normandie\departments~Normandie\Calvados\communes~Calvados\Bayeux\cities~BayeuxBayeux.protect.md) 
+
+### [Bayeux.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Normandie\departments~Normandie\Calvados\communes~Calvados\Bayeux\cities~BayeuxBayeux.private.md) 
+
+### [Bayeux.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Normandie\departments~Normandie\Calvados\communes~Calvados\Bayeux\cities~BayeuxBayeux.personal.md) 
+
+### [Bayeux.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Normandie\departments~Normandie\Calvados\communes~Calvados\Bayeux\cities~BayeuxBayeux.secret.md)
+

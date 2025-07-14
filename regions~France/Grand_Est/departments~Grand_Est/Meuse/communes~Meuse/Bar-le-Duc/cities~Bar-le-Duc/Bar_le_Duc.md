@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~West/France/City/Bar_le_Duc|Bar_le_Duc]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~West/France/City/Bar_le_Duc.public|Bar_le_Duc.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~West/France/City/Bar_le_Duc.internal|Bar_le_Duc.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~West/France/City/Bar_le_Duc.protect|Bar_le_Duc.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~West/France/City/Bar_le_Duc.private|Bar_le_Duc.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~West/France/City/Bar_le_Duc.personal|Bar_le_Duc.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~West/France/City/Bar_le_Duc.secret|Bar_le_Duc.secret]] 
+
+### [Bar_le_Duc.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Grand_Est\departments~Grand_Est\Meuse\communes~Meuse\Bar-le-Duc\cities~Bar-le-DucBar_le_Duc.public.md) 
+
+### [Bar_le_Duc.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Grand_Est\departments~Grand_Est\Meuse\communes~Meuse\Bar-le-Duc\cities~Bar-le-DucBar_le_Duc.internal.md) 
+
+### [Bar_le_Duc.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Grand_Est\departments~Grand_Est\Meuse\communes~Meuse\Bar-le-Duc\cities~Bar-le-DucBar_le_Duc.protect.md) 
+
+### [Bar_le_Duc.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Grand_Est\departments~Grand_Est\Meuse\communes~Meuse\Bar-le-Duc\cities~Bar-le-DucBar_le_Duc.private.md) 
+
+### [Bar_le_Duc.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Grand_Est\departments~Grand_Est\Meuse\communes~Meuse\Bar-le-Duc\cities~Bar-le-DucBar_le_Duc.personal.md) 
+
+### [Bar_le_Duc.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Grand_Est\departments~Grand_Est\Meuse\communes~Meuse\Bar-le-Duc\cities~Bar-le-DucBar_le_Duc.secret.md)
+

@@ -40,11 +40,16 @@ markerFolder: ./Département~Gers/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../_Standards/geo/Continent/Europe/Europe~West/France/Counties/Occitanie/Département~Gers|Département~Gers]] 
-- [[../../../../../../../../_public/geo/Continent/Europe/Europe~West/France/Counties/Occitanie/Département~Gers.public|Département~Gers.public]] 
-- [[../../../../../../../../_internal/geo/Continent/Europe/Europe~West/France/Counties/Occitanie/Département~Gers.internal|Département~Gers.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Europe~West/France/Counties/Occitanie/Département~Gers.protect|Département~Gers.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Europe~West/France/Counties/Occitanie/Département~Gers.private|Département~Gers.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Europe~West/France/Counties/Occitanie/Département~Gers.personal|Département~Gers.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Europe~West/France/Counties/Occitanie/Département~Gers.secret|Département~Gers.secret]] 
+
+### [Gers.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~OccitanieGers.public.md) 
+
+### [Gers.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~OccitanieGers.internal.md) 
+
+### [Gers.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~OccitanieGers.protect.md) 
+
+### [Gers.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~OccitanieGers.private.md) 
+
+### [Gers.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~OccitanieGers.personal.md) 
+
+### [Gers.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~OccitanieGers.secret.md)
 

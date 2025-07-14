@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~West/France/City/Lunéville|Lunéville]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~West/France/City/Lunéville.public|Lunéville.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~West/France/City/Lunéville.internal|Lunéville.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~West/France/City/Lunéville.protect|Lunéville.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~West/France/City/Lunéville.private|Lunéville.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~West/France/City/Lunéville.personal|Lunéville.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~West/France/City/Lunéville.secret|Lunéville.secret]] 
+
+### [Lunéville.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Grand_Est\departments~Grand_Est\Meurthe-et-Moselle\communes~Meurthe-et-Moselle\Lunéville\cities~LunévilleLunéville.public.md) 
+
+### [Lunéville.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Grand_Est\departments~Grand_Est\Meurthe-et-Moselle\communes~Meurthe-et-Moselle\Lunéville\cities~LunévilleLunéville.internal.md) 
+
+### [Lunéville.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Grand_Est\departments~Grand_Est\Meurthe-et-Moselle\communes~Meurthe-et-Moselle\Lunéville\cities~LunévilleLunéville.protect.md) 
+
+### [Lunéville.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Grand_Est\departments~Grand_Est\Meurthe-et-Moselle\communes~Meurthe-et-Moselle\Lunéville\cities~LunévilleLunéville.private.md) 
+
+### [Lunéville.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Grand_Est\departments~Grand_Est\Meurthe-et-Moselle\communes~Meurthe-et-Moselle\Lunéville\cities~LunévilleLunéville.personal.md) 
+
+### [Lunéville.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Grand_Est\departments~Grand_Est\Meurthe-et-Moselle\communes~Meurthe-et-Moselle\Lunéville\cities~LunévilleLunéville.secret.md)
+

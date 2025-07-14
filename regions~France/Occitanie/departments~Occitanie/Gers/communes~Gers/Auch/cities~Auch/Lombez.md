@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~West/France/City/Lombez|Lombez]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~West/France/City/Lombez.public|Lombez.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~West/France/City/Lombez.internal|Lombez.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~West/France/City/Lombez.protect|Lombez.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~West/France/City/Lombez.private|Lombez.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~West/France/City/Lombez.personal|Lombez.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~West/France/City/Lombez.secret|Lombez.secret]] 
+
+### [Lombez.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~Occitanie\Gers\communes~Gers\Auch\cities~AuchLombez.public.md) 
+
+### [Lombez.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~Occitanie\Gers\communes~Gers\Auch\cities~AuchLombez.internal.md) 
+
+### [Lombez.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~Occitanie\Gers\communes~Gers\Auch\cities~AuchLombez.protect.md) 
+
+### [Lombez.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~Occitanie\Gers\communes~Gers\Auch\cities~AuchLombez.private.md) 
+
+### [Lombez.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~Occitanie\Gers\communes~Gers\Auch\cities~AuchLombez.personal.md) 
+
+### [Lombez.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~Occitanie\Gers\communes~Gers\Auch\cities~AuchLombez.secret.md)
+

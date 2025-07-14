@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~West/France/City/Mantes|Mantes]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~West/France/City/Mantes.public|Mantes.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~West/France/City/Mantes.internal|Mantes.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~West/France/City/Mantes.protect|Mantes.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~West/France/City/Mantes.private|Mantes.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~West/France/City/Mantes.personal|Mantes.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~West/France/City/Mantes.secret|Mantes.secret]] 
+
+### [Mantes.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Île-de-France\departments~Île-de-France\Yvelines\communes~Yvelines\Mantes-la-Jolie\cities~Mantes-la-JolieMantes.public.md) 
+
+### [Mantes.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Île-de-France\departments~Île-de-France\Yvelines\communes~Yvelines\Mantes-la-Jolie\cities~Mantes-la-JolieMantes.internal.md) 
+
+### [Mantes.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Île-de-France\departments~Île-de-France\Yvelines\communes~Yvelines\Mantes-la-Jolie\cities~Mantes-la-JolieMantes.protect.md) 
+
+### [Mantes.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Île-de-France\departments~Île-de-France\Yvelines\communes~Yvelines\Mantes-la-Jolie\cities~Mantes-la-JolieMantes.private.md) 
+
+### [Mantes.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Île-de-France\departments~Île-de-France\Yvelines\communes~Yvelines\Mantes-la-Jolie\cities~Mantes-la-JolieMantes.personal.md) 
+
+### [Mantes.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Île-de-France\departments~Île-de-France\Yvelines\communes~Yvelines\Mantes-la-Jolie\cities~Mantes-la-JolieMantes.secret.md)
+

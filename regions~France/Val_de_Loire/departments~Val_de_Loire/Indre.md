@@ -40,11 +40,16 @@ markerFolder: ./Département~Indre/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../_Standards/geo/Continent/Europe/Europe~West/France/Counties/Val_de_Loire/Département~Indre|Département~Indre]] 
-- [[../../../../../../../../_public/geo/Continent/Europe/Europe~West/France/Counties/Val_de_Loire/Département~Indre.public|Département~Indre.public]] 
-- [[../../../../../../../../_internal/geo/Continent/Europe/Europe~West/France/Counties/Val_de_Loire/Département~Indre.internal|Département~Indre.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Europe~West/France/Counties/Val_de_Loire/Département~Indre.protect|Département~Indre.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Europe~West/France/Counties/Val_de_Loire/Département~Indre.private|Département~Indre.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Europe~West/France/Counties/Val_de_Loire/Département~Indre.personal|Département~Indre.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Europe~West/France/Counties/Val_de_Loire/Département~Indre.secret|Département~Indre.secret]] 
+
+### [Indre.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Val_de_Loire\departments~Val_de_LoireIndre.public.md) 
+
+### [Indre.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Val_de_Loire\departments~Val_de_LoireIndre.internal.md) 
+
+### [Indre.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Val_de_Loire\departments~Val_de_LoireIndre.protect.md) 
+
+### [Indre.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Val_de_Loire\departments~Val_de_LoireIndre.private.md) 
+
+### [Indre.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Val_de_Loire\departments~Val_de_LoireIndre.personal.md) 
+
+### [Indre.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Val_de_Loire\departments~Val_de_LoireIndre.secret.md)
 

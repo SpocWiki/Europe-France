@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~West/France/City/Vendóme|Vendóme]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~West/France/City/Vendóme.public|Vendóme.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~West/France/City/Vendóme.internal|Vendóme.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~West/France/City/Vendóme.protect|Vendóme.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~West/France/City/Vendóme.private|Vendóme.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~West/France/City/Vendóme.personal|Vendóme.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~West/France/City/Vendóme.secret|Vendóme.secret]] 
+
+### [Vendóme.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Val_de_Loire\departments~Val_de_Loire\Loir-et-Cher\communes~Loir-et-Cher\Vendôme\cities~VendômeVendóme.public.md) 
+
+### [Vendóme.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Val_de_Loire\departments~Val_de_Loire\Loir-et-Cher\communes~Loir-et-Cher\Vendôme\cities~VendômeVendóme.internal.md) 
+
+### [Vendóme.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Val_de_Loire\departments~Val_de_Loire\Loir-et-Cher\communes~Loir-et-Cher\Vendôme\cities~VendômeVendóme.protect.md) 
+
+### [Vendóme.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Val_de_Loire\departments~Val_de_Loire\Loir-et-Cher\communes~Loir-et-Cher\Vendôme\cities~VendômeVendóme.private.md) 
+
+### [Vendóme.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Val_de_Loire\departments~Val_de_Loire\Loir-et-Cher\communes~Loir-et-Cher\Vendôme\cities~VendômeVendóme.personal.md) 
+
+### [Vendóme.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Val_de_Loire\departments~Val_de_Loire\Loir-et-Cher\communes~Loir-et-Cher\Vendôme\cities~VendômeVendóme.secret.md)
+

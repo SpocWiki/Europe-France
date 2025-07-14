@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~West/France/City/Niort|Niort]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~West/France/City/Niort.public|Niort.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~West/France/City/Niort.internal|Niort.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~West/France/City/Niort.protect|Niort.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~West/France/City/Niort.private|Niort.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~West/France/City/Niort.personal|Niort.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~West/France/City/Niort.secret|Niort.secret]] 
+
+### [Niort.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~Aquitaine\Deux-Sèvres\communes~Deux-Sèvres\Niort\cities~NiortNiort.public.md) 
+
+### [Niort.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~Aquitaine\Deux-Sèvres\communes~Deux-Sèvres\Niort\cities~NiortNiort.internal.md) 
+
+### [Niort.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~Aquitaine\Deux-Sèvres\communes~Deux-Sèvres\Niort\cities~NiortNiort.protect.md) 
+
+### [Niort.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~Aquitaine\Deux-Sèvres\communes~Deux-Sèvres\Niort\cities~NiortNiort.private.md) 
+
+### [Niort.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~Aquitaine\Deux-Sèvres\communes~Deux-Sèvres\Niort\cities~NiortNiort.personal.md) 
+
+### [Niort.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~Aquitaine\Deux-Sèvres\communes~Deux-Sèvres\Niort\cities~NiortNiort.secret.md)
+

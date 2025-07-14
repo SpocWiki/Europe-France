@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~West/France/City/Die|Die]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~West/France/City/Die.public|Die.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~West/France/City/Die.internal|Die.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~West/France/City/Die.protect|Die.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~West/France/City/Die.private|Die.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~West/France/City/Die.personal|Die.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~West/France/City/Die.secret|Die.secret]] 
+
+### [Die.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Auvergne-Rhône-Alpes\departments~Auvergne-Rhône-Alpes\Drôme\communes~Drôme\Die\cities~DieDie.public.md) 
+
+### [Die.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Auvergne-Rhône-Alpes\departments~Auvergne-Rhône-Alpes\Drôme\communes~Drôme\Die\cities~DieDie.internal.md) 
+
+### [Die.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Auvergne-Rhône-Alpes\departments~Auvergne-Rhône-Alpes\Drôme\communes~Drôme\Die\cities~DieDie.protect.md) 
+
+### [Die.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Auvergne-Rhône-Alpes\departments~Auvergne-Rhône-Alpes\Drôme\communes~Drôme\Die\cities~DieDie.private.md) 
+
+### [Die.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Auvergne-Rhône-Alpes\departments~Auvergne-Rhône-Alpes\Drôme\communes~Drôme\Die\cities~DieDie.personal.md) 
+
+### [Die.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Auvergne-Rhône-Alpes\departments~Auvergne-Rhône-Alpes\Drôme\communes~Drôme\Die\cities~DieDie.secret.md)
+

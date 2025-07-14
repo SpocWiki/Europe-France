@@ -40,11 +40,16 @@ markerFolder: ./Département~Var/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../_Standards/geo/Continent/Europe/Europe~West/France/Counties/Provence-Alpes-Côte d'Azur/Département~Var|Département~Var]] 
-- [[../../../../../../../../_public/geo/Continent/Europe/Europe~West/France/Counties/Provence-Alpes-Côte d'Azur/Département~Var.public|Département~Var.public]] 
-- [[../../../../../../../../_internal/geo/Continent/Europe/Europe~West/France/Counties/Provence-Alpes-Côte d'Azur/Département~Var.internal|Département~Var.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Europe~West/France/Counties/Provence-Alpes-Côte d'Azur/Département~Var.protect|Département~Var.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Europe~West/France/Counties/Provence-Alpes-Côte d'Azur/Département~Var.private|Département~Var.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Europe~West/France/Counties/Provence-Alpes-Côte d'Azur/Département~Var.personal|Département~Var.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Europe~West/France/Counties/Provence-Alpes-Côte d'Azur/Département~Var.secret|Département~Var.secret]] 
+
+### [Var.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Provence-Alpes-Côte_d'Azur\departments~ProvenceVar.public.md) 
+
+### [Var.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Provence-Alpes-Côte_d'Azur\departments~ProvenceVar.internal.md) 
+
+### [Var.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Provence-Alpes-Côte_d'Azur\departments~ProvenceVar.protect.md) 
+
+### [Var.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Provence-Alpes-Côte_d'Azur\departments~ProvenceVar.private.md) 
+
+### [Var.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Provence-Alpes-Côte_d'Azur\departments~ProvenceVar.personal.md) 
+
+### [Var.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Provence-Alpes-Côte_d'Azur\departments~ProvenceVar.secret.md)
 

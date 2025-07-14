@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~West/France/City/Privas|Privas]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~West/France/City/Privas.public|Privas.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~West/France/City/Privas.internal|Privas.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~West/France/City/Privas.protect|Privas.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~West/France/City/Privas.private|Privas.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~West/France/City/Privas.personal|Privas.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~West/France/City/Privas.secret|Privas.secret]] 
+
+### [Privas.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Auvergne-Rhône-Alpes\departments~Auvergne-Rhône-Alpes\Ardèche\communes~Ardèche\Privas\cities~PrivasPrivas.public.md) 
+
+### [Privas.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Auvergne-Rhône-Alpes\departments~Auvergne-Rhône-Alpes\Ardèche\communes~Ardèche\Privas\cities~PrivasPrivas.internal.md) 
+
+### [Privas.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Auvergne-Rhône-Alpes\departments~Auvergne-Rhône-Alpes\Ardèche\communes~Ardèche\Privas\cities~PrivasPrivas.protect.md) 
+
+### [Privas.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Auvergne-Rhône-Alpes\departments~Auvergne-Rhône-Alpes\Ardèche\communes~Ardèche\Privas\cities~PrivasPrivas.private.md) 
+
+### [Privas.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Auvergne-Rhône-Alpes\departments~Auvergne-Rhône-Alpes\Ardèche\communes~Ardèche\Privas\cities~PrivasPrivas.personal.md) 
+
+### [Privas.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Auvergne-Rhône-Alpes\departments~Auvergne-Rhône-Alpes\Ardèche\communes~Ardèche\Privas\cities~PrivasPrivas.secret.md)
+

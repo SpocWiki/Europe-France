@@ -40,11 +40,16 @@ markerFolder: ./Département~Maine-et-Loire/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/geo/Continent/egions/Pays_de_la_Loire/Département~Maine-et-Loire|Département~Maine-et-Loire]] 
-- [[../../../../../_public/geo/Continent/egions/Pays_de_la_Loire/Département~Maine-et-Loire.public|Département~Maine-et-Loire.public]] 
-- [[../../../../../_internal/geo/Continent/egions/Pays_de_la_Loire/Département~Maine-et-Loire.internal|Département~Maine-et-Loire.internal]] 
-- [[../../../../../_protect/geo/Continent/egions/Pays_de_la_Loire/Département~Maine-et-Loire.protect|Département~Maine-et-Loire.protect]] 
-- [[../../../../../_private/geo/Continent/egions/Pays_de_la_Loire/Département~Maine-et-Loire.private|Département~Maine-et-Loire.private]] 
-- [[../../../../../_personal/geo/Continent/egions/Pays_de_la_Loire/Département~Maine-et-Loire.personal|Département~Maine-et-Loire.personal]] 
-- [[../../../../../_secret/geo/Continent/egions/Pays_de_la_Loire/Département~Maine-et-Loire.secret|Département~Maine-et-Loire.secret]] 
+
+### [Maine-et-Loire.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Pays_de_la_Loire\departments~Pays_de_la_LoireMaine-et-Loire.public.md) 
+
+### [Maine-et-Loire.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Pays_de_la_Loire\departments~Pays_de_la_LoireMaine-et-Loire.internal.md) 
+
+### [Maine-et-Loire.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Pays_de_la_Loire\departments~Pays_de_la_LoireMaine-et-Loire.protect.md) 
+
+### [Maine-et-Loire.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Pays_de_la_Loire\departments~Pays_de_la_LoireMaine-et-Loire.private.md) 
+
+### [Maine-et-Loire.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Pays_de_la_Loire\departments~Pays_de_la_LoireMaine-et-Loire.personal.md) 
+
+### [Maine-et-Loire.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Pays_de_la_Loire\departments~Pays_de_la_LoireMaine-et-Loire.secret.md)
 

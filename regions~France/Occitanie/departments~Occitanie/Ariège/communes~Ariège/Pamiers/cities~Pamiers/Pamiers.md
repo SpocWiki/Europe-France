@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~West/France/City/Pamiers|Pamiers]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~West/France/City/Pamiers.public|Pamiers.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~West/France/City/Pamiers.internal|Pamiers.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~West/France/City/Pamiers.protect|Pamiers.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~West/France/City/Pamiers.private|Pamiers.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~West/France/City/Pamiers.personal|Pamiers.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~West/France/City/Pamiers.secret|Pamiers.secret]] 
+
+### [Pamiers.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~Occitanie\Ariège\communes~Ariège\Pamiers\cities~PamiersPamiers.public.md) 
+
+### [Pamiers.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~Occitanie\Ariège\communes~Ariège\Pamiers\cities~PamiersPamiers.internal.md) 
+
+### [Pamiers.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~Occitanie\Ariège\communes~Ariège\Pamiers\cities~PamiersPamiers.protect.md) 
+
+### [Pamiers.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~Occitanie\Ariège\communes~Ariège\Pamiers\cities~PamiersPamiers.private.md) 
+
+### [Pamiers.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~Occitanie\Ariège\communes~Ariège\Pamiers\cities~PamiersPamiers.personal.md) 
+
+### [Pamiers.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~Occitanie\Ariège\communes~Ariège\Pamiers\cities~PamiersPamiers.secret.md)
+

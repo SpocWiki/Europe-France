@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~West/France/City/Bitsch|Bitsch]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~West/France/City/Bitsch.public|Bitsch.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~West/France/City/Bitsch.internal|Bitsch.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~West/France/City/Bitsch.protect|Bitsch.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~West/France/City/Bitsch.private|Bitsch.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~West/France/City/Bitsch.personal|Bitsch.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~West/France/City/Bitsch.secret|Bitsch.secret]] 
+
+### [Bitsch.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Grand_Est\departments~Grand_Est\Moselle\communes~Moselle\Sarreguemines\cities~SarregueminesBitsch.public.md) 
+
+### [Bitsch.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Grand_Est\departments~Grand_Est\Moselle\communes~Moselle\Sarreguemines\cities~SarregueminesBitsch.internal.md) 
+
+### [Bitsch.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Grand_Est\departments~Grand_Est\Moselle\communes~Moselle\Sarreguemines\cities~SarregueminesBitsch.protect.md) 
+
+### [Bitsch.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Grand_Est\departments~Grand_Est\Moselle\communes~Moselle\Sarreguemines\cities~SarregueminesBitsch.private.md) 
+
+### [Bitsch.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Grand_Est\departments~Grand_Est\Moselle\communes~Moselle\Sarreguemines\cities~SarregueminesBitsch.personal.md) 
+
+### [Bitsch.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Grand_Est\departments~Grand_Est\Moselle\communes~Moselle\Sarreguemines\cities~SarregueminesBitsch.secret.md)
+

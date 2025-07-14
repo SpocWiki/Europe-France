@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~West/France/City/Falaise|Falaise]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~West/France/City/Falaise.public|Falaise.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~West/France/City/Falaise.internal|Falaise.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~West/France/City/Falaise.protect|Falaise.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~West/France/City/Falaise.private|Falaise.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~West/France/City/Falaise.personal|Falaise.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~West/France/City/Falaise.secret|Falaise.secret]] 
+
+### [Falaise.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Normandie\departments~Normandie\Calvados\communes~Calvados\Caen\cities~CaenFalaise.public.md) 
+
+### [Falaise.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Normandie\departments~Normandie\Calvados\communes~Calvados\Caen\cities~CaenFalaise.internal.md) 
+
+### [Falaise.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Normandie\departments~Normandie\Calvados\communes~Calvados\Caen\cities~CaenFalaise.protect.md) 
+
+### [Falaise.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Normandie\departments~Normandie\Calvados\communes~Calvados\Caen\cities~CaenFalaise.private.md) 
+
+### [Falaise.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Normandie\departments~Normandie\Calvados\communes~Calvados\Caen\cities~CaenFalaise.personal.md) 
+
+### [Falaise.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Normandie\departments~Normandie\Calvados\communes~Calvados\Caen\cities~CaenFalaise.secret.md)
+

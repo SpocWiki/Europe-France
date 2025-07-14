@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~West/France/City/Blaye|Blaye]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~West/France/City/Blaye.public|Blaye.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~West/France/City/Blaye.internal|Blaye.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~West/France/City/Blaye.protect|Blaye.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~West/France/City/Blaye.private|Blaye.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~West/France/City/Blaye.personal|Blaye.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~West/France/City/Blaye.secret|Blaye.secret]] 
+
+### [Blaye.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-AquitaineBlaye.public.md) 
+
+### [Blaye.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-AquitaineBlaye.internal.md) 
+
+### [Blaye.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-AquitaineBlaye.protect.md) 
+
+### [Blaye.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-AquitaineBlaye.private.md) 
+
+### [Blaye.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-AquitaineBlaye.personal.md) 
+
+### [Blaye.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-AquitaineBlaye.secret.md)
+

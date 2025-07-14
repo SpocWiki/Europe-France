@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~West/France/City/Chateau-Chninon|Chateau-Chninon]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~West/France/City/Chateau-Chninon.public|Chateau-Chninon.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~West/France/City/Chateau-Chninon.internal|Chateau-Chninon.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~West/France/City/Chateau-Chninon.protect|Chateau-Chninon.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~West/France/City/Chateau-Chninon.private|Chateau-Chninon.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~West/France/City/Chateau-Chninon.personal|Chateau-Chninon.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~West/France/City/Chateau-Chninon.secret|Chateau-Chninon.secret]] 
+
+### [Chateau-Chninon.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Bourgogne-Franche-Comté\departments~Bourgogne-Franche-Comté\Nièvre\communes~Nièvre\Château-Chinon~Ville\cities~Château-Chinon~VilleChateau-Chninon.public.md) 
+
+### [Chateau-Chninon.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Bourgogne-Franche-Comté\departments~Bourgogne-Franche-Comté\Nièvre\communes~Nièvre\Château-Chinon~Ville\cities~Château-Chinon~VilleChateau-Chninon.internal.md) 
+
+### [Chateau-Chninon.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Bourgogne-Franche-Comté\departments~Bourgogne-Franche-Comté\Nièvre\communes~Nièvre\Château-Chinon~Ville\cities~Château-Chinon~VilleChateau-Chninon.protect.md) 
+
+### [Chateau-Chninon.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Bourgogne-Franche-Comté\departments~Bourgogne-Franche-Comté\Nièvre\communes~Nièvre\Château-Chinon~Ville\cities~Château-Chinon~VilleChateau-Chninon.private.md) 
+
+### [Chateau-Chninon.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Bourgogne-Franche-Comté\departments~Bourgogne-Franche-Comté\Nièvre\communes~Nièvre\Château-Chinon~Ville\cities~Château-Chinon~VilleChateau-Chninon.personal.md) 
+
+### [Chateau-Chninon.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Bourgogne-Franche-Comté\departments~Bourgogne-Franche-Comté\Nièvre\communes~Nièvre\Château-Chinon~Ville\cities~Château-Chinon~VilleChateau-Chninon.secret.md)
+

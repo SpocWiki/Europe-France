@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~West/France/City/Prades|Prades]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~West/France/City/Prades.public|Prades.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~West/France/City/Prades.internal|Prades.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~West/France/City/Prades.protect|Prades.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~West/France/City/Prades.private|Prades.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~West/France/City/Prades.personal|Prades.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~West/France/City/Prades.secret|Prades.secret]] 
+
+### [Prades.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~Occitanie\Pyrénées-Orientales\communes~Pyrénées-Orientales\Prades\cities~PradesPrades.public.md) 
+
+### [Prades.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~Occitanie\Pyrénées-Orientales\communes~Pyrénées-Orientales\Prades\cities~PradesPrades.internal.md) 
+
+### [Prades.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~Occitanie\Pyrénées-Orientales\communes~Pyrénées-Orientales\Prades\cities~PradesPrades.protect.md) 
+
+### [Prades.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~Occitanie\Pyrénées-Orientales\communes~Pyrénées-Orientales\Prades\cities~PradesPrades.private.md) 
+
+### [Prades.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~Occitanie\Pyrénées-Orientales\communes~Pyrénées-Orientales\Prades\cities~PradesPrades.personal.md) 
+
+### [Prades.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~Occitanie\Pyrénées-Orientales\communes~Pyrénées-Orientales\Prades\cities~PradesPrades.secret.md)
+

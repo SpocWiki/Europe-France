@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~West/France/City/St.Jean|St.Jean]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~West/France/City/St.Jean.public|St.Jean.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~West/France/City/St.Jean.internal|St.Jean.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~West/France/City/St.Jean.protect|St.Jean.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~West/France/City/St.Jean.private|St.Jean.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~West/France/City/St.Jean.personal|St.Jean.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~West/France/City/St.Jean.secret|St.Jean.secret]] 
+
+### [St.Jean.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Auvergne-Rhône-Alpes\departments~Auvergne-Rhône-Alpes\Savoie\communes~Savoie\Saint-Jean-de-Maurienne\cities~Saint-Jean-de-MaurienneSt.Jean.public.md) 
+
+### [St.Jean.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Auvergne-Rhône-Alpes\departments~Auvergne-Rhône-Alpes\Savoie\communes~Savoie\Saint-Jean-de-Maurienne\cities~Saint-Jean-de-MaurienneSt.Jean.internal.md) 
+
+### [St.Jean.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Auvergne-Rhône-Alpes\departments~Auvergne-Rhône-Alpes\Savoie\communes~Savoie\Saint-Jean-de-Maurienne\cities~Saint-Jean-de-MaurienneSt.Jean.protect.md) 
+
+### [St.Jean.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Auvergne-Rhône-Alpes\departments~Auvergne-Rhône-Alpes\Savoie\communes~Savoie\Saint-Jean-de-Maurienne\cities~Saint-Jean-de-MaurienneSt.Jean.private.md) 
+
+### [St.Jean.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Auvergne-Rhône-Alpes\departments~Auvergne-Rhône-Alpes\Savoie\communes~Savoie\Saint-Jean-de-Maurienne\cities~Saint-Jean-de-MaurienneSt.Jean.personal.md) 
+
+### [St.Jean.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Auvergne-Rhône-Alpes\departments~Auvergne-Rhône-Alpes\Savoie\communes~Savoie\Saint-Jean-de-Maurienne\cities~Saint-Jean-de-MaurienneSt.Jean.secret.md)
+

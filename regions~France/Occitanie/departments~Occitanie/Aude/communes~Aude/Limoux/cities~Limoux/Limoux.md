@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~West/France/City/Limoux|Limoux]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~West/France/City/Limoux.public|Limoux.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~West/France/City/Limoux.internal|Limoux.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~West/France/City/Limoux.protect|Limoux.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~West/France/City/Limoux.private|Limoux.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~West/France/City/Limoux.personal|Limoux.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~West/France/City/Limoux.secret|Limoux.secret]] 
+
+### [Limoux.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~Occitanie\Aude\communes~Aude\Limoux\cities~LimouxLimoux.public.md) 
+
+### [Limoux.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~Occitanie\Aude\communes~Aude\Limoux\cities~LimouxLimoux.internal.md) 
+
+### [Limoux.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~Occitanie\Aude\communes~Aude\Limoux\cities~LimouxLimoux.protect.md) 
+
+### [Limoux.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~Occitanie\Aude\communes~Aude\Limoux\cities~LimouxLimoux.private.md) 
+
+### [Limoux.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~Occitanie\Aude\communes~Aude\Limoux\cities~LimouxLimoux.personal.md) 
+
+### [Limoux.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~Occitanie\Aude\communes~Aude\Limoux\cities~LimouxLimoux.secret.md)
+

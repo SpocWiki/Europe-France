@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~West/France/City/Valenciennes|Valenciennes]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~West/France/City/Valenciennes.public|Valenciennes.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~West/France/City/Valenciennes.internal|Valenciennes.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~West/France/City/Valenciennes.protect|Valenciennes.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~West/France/City/Valenciennes.private|Valenciennes.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~West/France/City/Valenciennes.personal|Valenciennes.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~West/France/City/Valenciennes.secret|Valenciennes.secret]] 
+
+### [Valenciennes.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Hauts-de-France\departments~Hauts-de-France\Hauts-de-France~Nord\communes~Nord\Valenciennes\cities~ValenciennesValenciennes.public.md) 
+
+### [Valenciennes.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Hauts-de-France\departments~Hauts-de-France\Hauts-de-France~Nord\communes~Nord\Valenciennes\cities~ValenciennesValenciennes.internal.md) 
+
+### [Valenciennes.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Hauts-de-France\departments~Hauts-de-France\Hauts-de-France~Nord\communes~Nord\Valenciennes\cities~ValenciennesValenciennes.protect.md) 
+
+### [Valenciennes.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Hauts-de-France\departments~Hauts-de-France\Hauts-de-France~Nord\communes~Nord\Valenciennes\cities~ValenciennesValenciennes.private.md) 
+
+### [Valenciennes.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Hauts-de-France\departments~Hauts-de-France\Hauts-de-France~Nord\communes~Nord\Valenciennes\cities~ValenciennesValenciennes.personal.md) 
+
+### [Valenciennes.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Hauts-de-France\departments~Hauts-de-France\Hauts-de-France~Nord\communes~Nord\Valenciennes\cities~ValenciennesValenciennes.secret.md)
+

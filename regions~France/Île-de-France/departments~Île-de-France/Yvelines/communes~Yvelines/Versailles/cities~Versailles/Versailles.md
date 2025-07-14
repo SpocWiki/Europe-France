@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~West/France/City/Versailles|Versailles]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~West/France/City/Versailles.public|Versailles.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~West/France/City/Versailles.internal|Versailles.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~West/France/City/Versailles.protect|Versailles.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~West/France/City/Versailles.private|Versailles.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~West/France/City/Versailles.personal|Versailles.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~West/France/City/Versailles.secret|Versailles.secret]] 
+
+### [Versailles.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Île-de-France\departments~Île-de-France\Yvelines\communes~Yvelines\Versailles\cities~VersaillesVersailles.public.md) 
+
+### [Versailles.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Île-de-France\departments~Île-de-France\Yvelines\communes~Yvelines\Versailles\cities~VersaillesVersailles.internal.md) 
+
+### [Versailles.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Île-de-France\departments~Île-de-France\Yvelines\communes~Yvelines\Versailles\cities~VersaillesVersailles.protect.md) 
+
+### [Versailles.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Île-de-France\departments~Île-de-France\Yvelines\communes~Yvelines\Versailles\cities~VersaillesVersailles.private.md) 
+
+### [Versailles.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Île-de-France\departments~Île-de-France\Yvelines\communes~Yvelines\Versailles\cities~VersaillesVersailles.personal.md) 
+
+### [Versailles.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Île-de-France\departments~Île-de-France\Yvelines\communes~Yvelines\Versailles\cities~VersaillesVersailles.secret.md)
+

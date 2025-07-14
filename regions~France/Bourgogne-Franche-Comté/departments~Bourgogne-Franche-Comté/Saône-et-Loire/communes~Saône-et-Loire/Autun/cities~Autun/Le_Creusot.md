@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~West/France/City/Le_Creusot|Le_Creusot]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~West/France/City/Le_Creusot.public|Le_Creusot.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~West/France/City/Le_Creusot.internal|Le_Creusot.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~West/France/City/Le_Creusot.protect|Le_Creusot.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~West/France/City/Le_Creusot.private|Le_Creusot.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~West/France/City/Le_Creusot.personal|Le_Creusot.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~West/France/City/Le_Creusot.secret|Le_Creusot.secret]] 
+
+### [Le_Creusot.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Bourgogne-Franche-Comté\departments~Bourgogne-Franche-Comté\Saône-et-Loire\communes~Saône-et-Loire\Autun\cities~AutunLe_Creusot.public.md) 
+
+### [Le_Creusot.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Bourgogne-Franche-Comté\departments~Bourgogne-Franche-Comté\Saône-et-Loire\communes~Saône-et-Loire\Autun\cities~AutunLe_Creusot.internal.md) 
+
+### [Le_Creusot.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Bourgogne-Franche-Comté\departments~Bourgogne-Franche-Comté\Saône-et-Loire\communes~Saône-et-Loire\Autun\cities~AutunLe_Creusot.protect.md) 
+
+### [Le_Creusot.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Bourgogne-Franche-Comté\departments~Bourgogne-Franche-Comté\Saône-et-Loire\communes~Saône-et-Loire\Autun\cities~AutunLe_Creusot.private.md) 
+
+### [Le_Creusot.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Bourgogne-Franche-Comté\departments~Bourgogne-Franche-Comté\Saône-et-Loire\communes~Saône-et-Loire\Autun\cities~AutunLe_Creusot.personal.md) 
+
+### [Le_Creusot.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Bourgogne-Franche-Comté\departments~Bourgogne-Franche-Comté\Saône-et-Loire\communes~Saône-et-Loire\Autun\cities~AutunLe_Creusot.secret.md)
+

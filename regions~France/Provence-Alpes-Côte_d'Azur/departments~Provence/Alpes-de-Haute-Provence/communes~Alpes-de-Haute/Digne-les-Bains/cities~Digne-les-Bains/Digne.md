@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~West/France/City/Digne|Digne]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~West/France/City/Digne.public|Digne.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~West/France/City/Digne.internal|Digne.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~West/France/City/Digne.protect|Digne.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~West/France/City/Digne.private|Digne.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~West/France/City/Digne.personal|Digne.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~West/France/City/Digne.secret|Digne.secret]] 
+
+### [Digne.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Provence-Alpes-Côte_d'Azur\departments~Provence\Alpes-de-Haute-Provence\communes~Alpes-de-Haute\Digne-les-Bains\cities~Digne-les-BainsDigne.public.md) 
+
+### [Digne.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Provence-Alpes-Côte_d'Azur\departments~Provence\Alpes-de-Haute-Provence\communes~Alpes-de-Haute\Digne-les-Bains\cities~Digne-les-BainsDigne.internal.md) 
+
+### [Digne.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Provence-Alpes-Côte_d'Azur\departments~Provence\Alpes-de-Haute-Provence\communes~Alpes-de-Haute\Digne-les-Bains\cities~Digne-les-BainsDigne.protect.md) 
+
+### [Digne.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Provence-Alpes-Côte_d'Azur\departments~Provence\Alpes-de-Haute-Provence\communes~Alpes-de-Haute\Digne-les-Bains\cities~Digne-les-BainsDigne.private.md) 
+
+### [Digne.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Provence-Alpes-Côte_d'Azur\departments~Provence\Alpes-de-Haute-Provence\communes~Alpes-de-Haute\Digne-les-Bains\cities~Digne-les-BainsDigne.personal.md) 
+
+### [Digne.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Provence-Alpes-Côte_d'Azur\departments~Provence\Alpes-de-Haute-Provence\communes~Alpes-de-Haute\Digne-les-Bains\cities~Digne-les-BainsDigne.secret.md)
+

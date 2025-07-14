@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~West/France/City/Auxerre|Auxerre]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~West/France/City/Auxerre.public|Auxerre.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~West/France/City/Auxerre.internal|Auxerre.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~West/France/City/Auxerre.protect|Auxerre.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~West/France/City/Auxerre.private|Auxerre.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~West/France/City/Auxerre.personal|Auxerre.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~West/France/City/Auxerre.secret|Auxerre.secret]] 
+
+### [Auxerre.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Bourgogne-Franche-Comté\departments~Bourgogne-Franche-Comté\Yonne\communes~Yonne\Auxerre\cities~AuxerreAuxerre.public.md) 
+
+### [Auxerre.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Bourgogne-Franche-Comté\departments~Bourgogne-Franche-Comté\Yonne\communes~Yonne\Auxerre\cities~AuxerreAuxerre.internal.md) 
+
+### [Auxerre.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Bourgogne-Franche-Comté\departments~Bourgogne-Franche-Comté\Yonne\communes~Yonne\Auxerre\cities~AuxerreAuxerre.protect.md) 
+
+### [Auxerre.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Bourgogne-Franche-Comté\departments~Bourgogne-Franche-Comté\Yonne\communes~Yonne\Auxerre\cities~AuxerreAuxerre.private.md) 
+
+### [Auxerre.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Bourgogne-Franche-Comté\departments~Bourgogne-Franche-Comté\Yonne\communes~Yonne\Auxerre\cities~AuxerreAuxerre.personal.md) 
+
+### [Auxerre.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Bourgogne-Franche-Comté\departments~Bourgogne-Franche-Comté\Yonne\communes~Yonne\Auxerre\cities~AuxerreAuxerre.secret.md)
+

@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~West/France/City/Chobt|Chobt]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~West/France/City/Chobt.public|Chobt.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~West/France/City/Chobt.internal|Chobt.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~West/France/City/Chobt.protect|Chobt.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~West/France/City/Chobt.private|Chobt.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~West/France/City/Chobt.personal|Chobt.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~West/France/City/Chobt.secret|Chobt.secret]] 
+
+### [Chobt.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Pays_de_la_Loire\departments~Pays_de_la_Loire\Maine-et-Loire\communes~Maine-et-Loire\Cholet\cities~CholetChobt.public.md) 
+
+### [Chobt.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Pays_de_la_Loire\departments~Pays_de_la_Loire\Maine-et-Loire\communes~Maine-et-Loire\Cholet\cities~CholetChobt.internal.md) 
+
+### [Chobt.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Pays_de_la_Loire\departments~Pays_de_la_Loire\Maine-et-Loire\communes~Maine-et-Loire\Cholet\cities~CholetChobt.protect.md) 
+
+### [Chobt.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Pays_de_la_Loire\departments~Pays_de_la_Loire\Maine-et-Loire\communes~Maine-et-Loire\Cholet\cities~CholetChobt.private.md) 
+
+### [Chobt.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Pays_de_la_Loire\departments~Pays_de_la_Loire\Maine-et-Loire\communes~Maine-et-Loire\Cholet\cities~CholetChobt.personal.md) 
+
+### [Chobt.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Pays_de_la_Loire\departments~Pays_de_la_Loire\Maine-et-Loire\communes~Maine-et-Loire\Cholet\cities~CholetChobt.secret.md)
+

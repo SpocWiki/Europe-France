@@ -40,11 +40,16 @@ markerFolder: ./Département~Cher/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/geo/Continent/egions/Val_de_Loire/Département~Cher|Département~Cher]] 
-- [[../../../../../_public/geo/Continent/egions/Val_de_Loire/Département~Cher.public|Département~Cher.public]] 
-- [[../../../../../_internal/geo/Continent/egions/Val_de_Loire/Département~Cher.internal|Département~Cher.internal]] 
-- [[../../../../../_protect/geo/Continent/egions/Val_de_Loire/Département~Cher.protect|Département~Cher.protect]] 
-- [[../../../../../_private/geo/Continent/egions/Val_de_Loire/Département~Cher.private|Département~Cher.private]] 
-- [[../../../../../_personal/geo/Continent/egions/Val_de_Loire/Département~Cher.personal|Département~Cher.personal]] 
-- [[../../../../../_secret/geo/Continent/egions/Val_de_Loire/Département~Cher.secret|Département~Cher.secret]] 
+
+### [Cher.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Val_de_Loire\departments~Val_de_LoireCher.public.md) 
+
+### [Cher.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Val_de_Loire\departments~Val_de_LoireCher.internal.md) 
+
+### [Cher.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Val_de_Loire\departments~Val_de_LoireCher.protect.md) 
+
+### [Cher.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Val_de_Loire\departments~Val_de_LoireCher.private.md) 
+
+### [Cher.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Val_de_Loire\departments~Val_de_LoireCher.personal.md) 
+
+### [Cher.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Val_de_Loire\departments~Val_de_LoireCher.secret.md)
 

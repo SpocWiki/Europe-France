@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~West/France/City/Dinan|Dinan]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~West/France/City/Dinan.public|Dinan.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~West/France/City/Dinan.internal|Dinan.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~West/France/City/Dinan.protect|Dinan.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~West/France/City/Dinan.private|Dinan.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~West/France/City/Dinan.personal|Dinan.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~West/France/City/Dinan.secret|Dinan.secret]] 
+
+### [Dinan.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Grand_Est\departments~Grand_Est\Meurthe-et-Moselle\communes~Meurthe-et-Moselle\Lunéville\cities~LunévilleDinan.public.md) 
+
+### [Dinan.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Grand_Est\departments~Grand_Est\Meurthe-et-Moselle\communes~Meurthe-et-Moselle\Lunéville\cities~LunévilleDinan.internal.md) 
+
+### [Dinan.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Grand_Est\departments~Grand_Est\Meurthe-et-Moselle\communes~Meurthe-et-Moselle\Lunéville\cities~LunévilleDinan.protect.md) 
+
+### [Dinan.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Grand_Est\departments~Grand_Est\Meurthe-et-Moselle\communes~Meurthe-et-Moselle\Lunéville\cities~LunévilleDinan.private.md) 
+
+### [Dinan.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Grand_Est\departments~Grand_Est\Meurthe-et-Moselle\communes~Meurthe-et-Moselle\Lunéville\cities~LunévilleDinan.personal.md) 
+
+### [Dinan.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Grand_Est\departments~Grand_Est\Meurthe-et-Moselle\communes~Meurthe-et-Moselle\Lunéville\cities~LunévilleDinan.secret.md)
+

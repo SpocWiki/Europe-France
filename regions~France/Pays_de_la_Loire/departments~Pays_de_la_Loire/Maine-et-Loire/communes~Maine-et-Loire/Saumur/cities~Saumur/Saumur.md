@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~West/France/City/Saumur|Saumur]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~West/France/City/Saumur.public|Saumur.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~West/France/City/Saumur.internal|Saumur.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~West/France/City/Saumur.protect|Saumur.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~West/France/City/Saumur.private|Saumur.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~West/France/City/Saumur.personal|Saumur.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~West/France/City/Saumur.secret|Saumur.secret]] 
+
+### [Saumur.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Pays_de_la_Loire\departments~Pays_de_la_Loire\Maine-et-Loire\communes~Maine-et-Loire\Saumur\cities~SaumurSaumur.public.md) 
+
+### [Saumur.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Pays_de_la_Loire\departments~Pays_de_la_Loire\Maine-et-Loire\communes~Maine-et-Loire\Saumur\cities~SaumurSaumur.internal.md) 
+
+### [Saumur.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Pays_de_la_Loire\departments~Pays_de_la_Loire\Maine-et-Loire\communes~Maine-et-Loire\Saumur\cities~SaumurSaumur.protect.md) 
+
+### [Saumur.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Pays_de_la_Loire\departments~Pays_de_la_Loire\Maine-et-Loire\communes~Maine-et-Loire\Saumur\cities~SaumurSaumur.private.md) 
+
+### [Saumur.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Pays_de_la_Loire\departments~Pays_de_la_Loire\Maine-et-Loire\communes~Maine-et-Loire\Saumur\cities~SaumurSaumur.personal.md) 
+
+### [Saumur.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Pays_de_la_Loire\departments~Pays_de_la_Loire\Maine-et-Loire\communes~Maine-et-Loire\Saumur\cities~SaumurSaumur.secret.md)
+

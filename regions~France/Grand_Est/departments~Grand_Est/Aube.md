@@ -40,11 +40,16 @@ markerFolder: ./Département~Aube/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/geo/Continent/egions/Grand_Est/Département~Aube|Département~Aube]] 
-- [[../../../../../_public/geo/Continent/egions/Grand_Est/Département~Aube.public|Département~Aube.public]] 
-- [[../../../../../_internal/geo/Continent/egions/Grand_Est/Département~Aube.internal|Département~Aube.internal]] 
-- [[../../../../../_protect/geo/Continent/egions/Grand_Est/Département~Aube.protect|Département~Aube.protect]] 
-- [[../../../../../_private/geo/Continent/egions/Grand_Est/Département~Aube.private|Département~Aube.private]] 
-- [[../../../../../_personal/geo/Continent/egions/Grand_Est/Département~Aube.personal|Département~Aube.personal]] 
-- [[../../../../../_secret/geo/Continent/egions/Grand_Est/Département~Aube.secret|Département~Aube.secret]] 
+
+### [Aube.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Grand_Est\departments~Grand_EstAube.public.md) 
+
+### [Aube.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Grand_Est\departments~Grand_EstAube.internal.md) 
+
+### [Aube.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Grand_Est\departments~Grand_EstAube.protect.md) 
+
+### [Aube.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Grand_Est\departments~Grand_EstAube.private.md) 
+
+### [Aube.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Grand_Est\departments~Grand_EstAube.personal.md) 
+
+### [Aube.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Grand_Est\departments~Grand_EstAube.secret.md)
 

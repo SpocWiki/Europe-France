@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~West/France/City/Avranches|Avranches]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~West/France/City/Avranches.public|Avranches.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~West/France/City/Avranches.internal|Avranches.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~West/France/City/Avranches.protect|Avranches.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~West/France/City/Avranches.private|Avranches.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~West/France/City/Avranches.personal|Avranches.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~West/France/City/Avranches.secret|Avranches.secret]] 
+
+### [Avranches.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Normandie\departments~Normandie\Manche\communes~Manche\Avranches\cities~AvranchesAvranches.public.md) 
+
+### [Avranches.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Normandie\departments~Normandie\Manche\communes~Manche\Avranches\cities~AvranchesAvranches.internal.md) 
+
+### [Avranches.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Normandie\departments~Normandie\Manche\communes~Manche\Avranches\cities~AvranchesAvranches.protect.md) 
+
+### [Avranches.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Normandie\departments~Normandie\Manche\communes~Manche\Avranches\cities~AvranchesAvranches.private.md) 
+
+### [Avranches.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Normandie\departments~Normandie\Manche\communes~Manche\Avranches\cities~AvranchesAvranches.personal.md) 
+
+### [Avranches.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Normandie\departments~Normandie\Manche\communes~Manche\Avranches\cities~AvranchesAvranches.secret.md)
+

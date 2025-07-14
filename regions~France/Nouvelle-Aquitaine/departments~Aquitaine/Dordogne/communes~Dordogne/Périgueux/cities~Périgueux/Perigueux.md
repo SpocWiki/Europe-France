@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~West/France/City/Perigueux|Perigueux]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~West/France/City/Perigueux.public|Perigueux.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~West/France/City/Perigueux.internal|Perigueux.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~West/France/City/Perigueux.protect|Perigueux.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~West/France/City/Perigueux.private|Perigueux.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~West/France/City/Perigueux.personal|Perigueux.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~West/France/City/Perigueux.secret|Perigueux.secret]] 
+
+### [Perigueux.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~Aquitaine\Dordogne\communes~Dordogne\Périgueux\cities~PérigueuxPerigueux.public.md) 
+
+### [Perigueux.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~Aquitaine\Dordogne\communes~Dordogne\Périgueux\cities~PérigueuxPerigueux.internal.md) 
+
+### [Perigueux.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~Aquitaine\Dordogne\communes~Dordogne\Périgueux\cities~PérigueuxPerigueux.protect.md) 
+
+### [Perigueux.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~Aquitaine\Dordogne\communes~Dordogne\Périgueux\cities~PérigueuxPerigueux.private.md) 
+
+### [Perigueux.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~Aquitaine\Dordogne\communes~Dordogne\Périgueux\cities~PérigueuxPerigueux.personal.md) 
+
+### [Perigueux.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~Aquitaine\Dordogne\communes~Dordogne\Périgueux\cities~PérigueuxPerigueux.secret.md)
+

@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~West/France/City/Chambery|Chambery]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~West/France/City/Chambery.public|Chambery.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~West/France/City/Chambery.internal|Chambery.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~West/France/City/Chambery.protect|Chambery.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~West/France/City/Chambery.private|Chambery.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~West/France/City/Chambery.personal|Chambery.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~West/France/City/Chambery.secret|Chambery.secret]] 
+
+### [Chambery.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Auvergne-Rhône-Alpes\departments~Auvergne-Rhône-Alpes\Savoie\communes~Savoie\Chambéry\cities~ChambéryChambery.public.md) 
+
+### [Chambery.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Auvergne-Rhône-Alpes\departments~Auvergne-Rhône-Alpes\Savoie\communes~Savoie\Chambéry\cities~ChambéryChambery.internal.md) 
+
+### [Chambery.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Auvergne-Rhône-Alpes\departments~Auvergne-Rhône-Alpes\Savoie\communes~Savoie\Chambéry\cities~ChambéryChambery.protect.md) 
+
+### [Chambery.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Auvergne-Rhône-Alpes\departments~Auvergne-Rhône-Alpes\Savoie\communes~Savoie\Chambéry\cities~ChambéryChambery.private.md) 
+
+### [Chambery.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Auvergne-Rhône-Alpes\departments~Auvergne-Rhône-Alpes\Savoie\communes~Savoie\Chambéry\cities~ChambéryChambery.personal.md) 
+
+### [Chambery.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Auvergne-Rhône-Alpes\departments~Auvergne-Rhône-Alpes\Savoie\communes~Savoie\Chambéry\cities~ChambéryChambery.secret.md)
+

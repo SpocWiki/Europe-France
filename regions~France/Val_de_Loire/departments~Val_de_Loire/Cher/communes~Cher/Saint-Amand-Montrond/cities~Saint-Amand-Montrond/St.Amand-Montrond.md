@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~West/France/City/St.Amand-Montrond|St.Amand-Montrond]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~West/France/City/St.Amand-Montrond.public|St.Amand-Montrond.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~West/France/City/St.Amand-Montrond.internal|St.Amand-Montrond.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~West/France/City/St.Amand-Montrond.protect|St.Amand-Montrond.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~West/France/City/St.Amand-Montrond.private|St.Amand-Montrond.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~West/France/City/St.Amand-Montrond.personal|St.Amand-Montrond.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~West/France/City/St.Amand-Montrond.secret|St.Amand-Montrond.secret]] 
+
+### [St.Amand-Montrond.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Val_de_Loire\departments~Val_de_Loire\Cher\communes~Cher\Saint-Amand-Montrond\cities~Saint-Amand-MontrondSt.Amand-Montrond.public.md) 
+
+### [St.Amand-Montrond.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Val_de_Loire\departments~Val_de_Loire\Cher\communes~Cher\Saint-Amand-Montrond\cities~Saint-Amand-MontrondSt.Amand-Montrond.internal.md) 
+
+### [St.Amand-Montrond.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Val_de_Loire\departments~Val_de_Loire\Cher\communes~Cher\Saint-Amand-Montrond\cities~Saint-Amand-MontrondSt.Amand-Montrond.protect.md) 
+
+### [St.Amand-Montrond.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Val_de_Loire\departments~Val_de_Loire\Cher\communes~Cher\Saint-Amand-Montrond\cities~Saint-Amand-MontrondSt.Amand-Montrond.private.md) 
+
+### [St.Amand-Montrond.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Val_de_Loire\departments~Val_de_Loire\Cher\communes~Cher\Saint-Amand-Montrond\cities~Saint-Amand-MontrondSt.Amand-Montrond.personal.md) 
+
+### [St.Amand-Montrond.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Val_de_Loire\departments~Val_de_Loire\Cher\communes~Cher\Saint-Amand-Montrond\cities~Saint-Amand-MontrondSt.Amand-Montrond.secret.md)
+

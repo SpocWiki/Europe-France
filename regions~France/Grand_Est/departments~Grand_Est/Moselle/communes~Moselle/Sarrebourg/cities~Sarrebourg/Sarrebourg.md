@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~West/France/City/Sarrebourg|Sarrebourg]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~West/France/City/Sarrebourg.public|Sarrebourg.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~West/France/City/Sarrebourg.internal|Sarrebourg.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~West/France/City/Sarrebourg.protect|Sarrebourg.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~West/France/City/Sarrebourg.private|Sarrebourg.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~West/France/City/Sarrebourg.personal|Sarrebourg.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~West/France/City/Sarrebourg.secret|Sarrebourg.secret]] 
+
+### [Sarrebourg.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Grand_Est\departments~Grand_Est\Moselle\communes~Moselle\Sarrebourg\cities~SarrebourgSarrebourg.public.md) 
+
+### [Sarrebourg.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Grand_Est\departments~Grand_Est\Moselle\communes~Moselle\Sarrebourg\cities~SarrebourgSarrebourg.internal.md) 
+
+### [Sarrebourg.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Grand_Est\departments~Grand_Est\Moselle\communes~Moselle\Sarrebourg\cities~SarrebourgSarrebourg.protect.md) 
+
+### [Sarrebourg.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Grand_Est\departments~Grand_Est\Moselle\communes~Moselle\Sarrebourg\cities~SarrebourgSarrebourg.private.md) 
+
+### [Sarrebourg.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Grand_Est\departments~Grand_Est\Moselle\communes~Moselle\Sarrebourg\cities~SarrebourgSarrebourg.personal.md) 
+
+### [Sarrebourg.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Grand_Est\departments~Grand_Est\Moselle\communes~Moselle\Sarrebourg\cities~SarrebourgSarrebourg.secret.md)
+

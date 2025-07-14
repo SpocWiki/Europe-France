@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~West/France/City/Hagenau|Hagenau]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~West/France/City/Hagenau.public|Hagenau.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~West/France/City/Hagenau.internal|Hagenau.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~West/France/City/Hagenau.protect|Hagenau.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~West/France/City/Hagenau.private|Hagenau.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~West/France/City/Hagenau.personal|Hagenau.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~West/France/City/Hagenau.secret|Hagenau.secret]] 
+
+### [Hagenau.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Grand_Est\departments~Grand_Est\Bas-Rhin\communes~Bas-Rhin\Haguenau\cities~HaguenauHagenau.public.md) 
+
+### [Hagenau.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Grand_Est\departments~Grand_Est\Bas-Rhin\communes~Bas-Rhin\Haguenau\cities~HaguenauHagenau.internal.md) 
+
+### [Hagenau.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Grand_Est\departments~Grand_Est\Bas-Rhin\communes~Bas-Rhin\Haguenau\cities~HaguenauHagenau.protect.md) 
+
+### [Hagenau.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Grand_Est\departments~Grand_Est\Bas-Rhin\communes~Bas-Rhin\Haguenau\cities~HaguenauHagenau.private.md) 
+
+### [Hagenau.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Grand_Est\departments~Grand_Est\Bas-Rhin\communes~Bas-Rhin\Haguenau\cities~HaguenauHagenau.personal.md) 
+
+### [Hagenau.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Grand_Est\departments~Grand_Est\Bas-Rhin\communes~Bas-Rhin\Haguenau\cities~HaguenauHagenau.secret.md)
+

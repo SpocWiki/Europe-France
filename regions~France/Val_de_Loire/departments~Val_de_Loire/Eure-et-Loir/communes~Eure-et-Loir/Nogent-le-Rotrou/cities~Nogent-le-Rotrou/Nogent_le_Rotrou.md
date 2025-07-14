@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~West/France/City/Nogent_le_Rotrou|Nogent_le_Rotrou]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~West/France/City/Nogent_le_Rotrou.public|Nogent_le_Rotrou.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~West/France/City/Nogent_le_Rotrou.internal|Nogent_le_Rotrou.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~West/France/City/Nogent_le_Rotrou.protect|Nogent_le_Rotrou.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~West/France/City/Nogent_le_Rotrou.private|Nogent_le_Rotrou.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~West/France/City/Nogent_le_Rotrou.personal|Nogent_le_Rotrou.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~West/France/City/Nogent_le_Rotrou.secret|Nogent_le_Rotrou.secret]] 
+
+### [Nogent_le_Rotrou.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Val_de_Loire\departments~Val_de_Loire\Eure-et-Loir\communes~Eure-et-Loir\Nogent-le-Rotrou\cities~Nogent-le-RotrouNogent_le_Rotrou.public.md) 
+
+### [Nogent_le_Rotrou.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Val_de_Loire\departments~Val_de_Loire\Eure-et-Loir\communes~Eure-et-Loir\Nogent-le-Rotrou\cities~Nogent-le-RotrouNogent_le_Rotrou.internal.md) 
+
+### [Nogent_le_Rotrou.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Val_de_Loire\departments~Val_de_Loire\Eure-et-Loir\communes~Eure-et-Loir\Nogent-le-Rotrou\cities~Nogent-le-RotrouNogent_le_Rotrou.protect.md) 
+
+### [Nogent_le_Rotrou.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Val_de_Loire\departments~Val_de_Loire\Eure-et-Loir\communes~Eure-et-Loir\Nogent-le-Rotrou\cities~Nogent-le-RotrouNogent_le_Rotrou.private.md) 
+
+### [Nogent_le_Rotrou.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Val_de_Loire\departments~Val_de_Loire\Eure-et-Loir\communes~Eure-et-Loir\Nogent-le-Rotrou\cities~Nogent-le-RotrouNogent_le_Rotrou.personal.md) 
+
+### [Nogent_le_Rotrou.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Val_de_Loire\departments~Val_de_Loire\Eure-et-Loir\communes~Eure-et-Loir\Nogent-le-Rotrou\cities~Nogent-le-RotrouNogent_le_Rotrou.secret.md)
+

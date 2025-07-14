@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~West/France/City/Marennes|Marennes]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~West/France/City/Marennes.public|Marennes.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~West/France/City/Marennes.internal|Marennes.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~West/France/City/Marennes.protect|Marennes.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~West/France/City/Marennes.private|Marennes.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~West/France/City/Marennes.personal|Marennes.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~West/France/City/Marennes.secret|Marennes.secret]] 
+
+### [Marennes.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~Aquitaine\Charente-Maritime\communes~Charente-Maritime\Rochefort\cities~RochefortMarennes.public.md) 
+
+### [Marennes.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~Aquitaine\Charente-Maritime\communes~Charente-Maritime\Rochefort\cities~RochefortMarennes.internal.md) 
+
+### [Marennes.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~Aquitaine\Charente-Maritime\communes~Charente-Maritime\Rochefort\cities~RochefortMarennes.protect.md) 
+
+### [Marennes.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~Aquitaine\Charente-Maritime\communes~Charente-Maritime\Rochefort\cities~RochefortMarennes.private.md) 
+
+### [Marennes.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~Aquitaine\Charente-Maritime\communes~Charente-Maritime\Rochefort\cities~RochefortMarennes.personal.md) 
+
+### [Marennes.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~Aquitaine\Charente-Maritime\communes~Charente-Maritime\Rochefort\cities~RochefortMarennes.secret.md)
+

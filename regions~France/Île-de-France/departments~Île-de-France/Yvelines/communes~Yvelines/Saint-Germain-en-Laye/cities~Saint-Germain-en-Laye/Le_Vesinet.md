@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~West/France/City/Le_Vesinet|Le_Vesinet]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~West/France/City/Le_Vesinet.public|Le_Vesinet.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~West/France/City/Le_Vesinet.internal|Le_Vesinet.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~West/France/City/Le_Vesinet.protect|Le_Vesinet.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~West/France/City/Le_Vesinet.private|Le_Vesinet.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~West/France/City/Le_Vesinet.personal|Le_Vesinet.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~West/France/City/Le_Vesinet.secret|Le_Vesinet.secret]] 
+
+### [Le_Vesinet.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Île-de-France\departments~Île-de-France\Yvelines\communes~Yvelines\Saint-Germain-en-Laye\cities~Saint-Germain-en-LayeLe_Vesinet.public.md) 
+
+### [Le_Vesinet.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Île-de-France\departments~Île-de-France\Yvelines\communes~Yvelines\Saint-Germain-en-Laye\cities~Saint-Germain-en-LayeLe_Vesinet.internal.md) 
+
+### [Le_Vesinet.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Île-de-France\departments~Île-de-France\Yvelines\communes~Yvelines\Saint-Germain-en-Laye\cities~Saint-Germain-en-LayeLe_Vesinet.protect.md) 
+
+### [Le_Vesinet.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Île-de-France\departments~Île-de-France\Yvelines\communes~Yvelines\Saint-Germain-en-Laye\cities~Saint-Germain-en-LayeLe_Vesinet.private.md) 
+
+### [Le_Vesinet.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Île-de-France\departments~Île-de-France\Yvelines\communes~Yvelines\Saint-Germain-en-Laye\cities~Saint-Germain-en-LayeLe_Vesinet.personal.md) 
+
+### [Le_Vesinet.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Île-de-France\departments~Île-de-France\Yvelines\communes~Yvelines\Saint-Germain-en-Laye\cities~Saint-Germain-en-LayeLe_Vesinet.secret.md)
+

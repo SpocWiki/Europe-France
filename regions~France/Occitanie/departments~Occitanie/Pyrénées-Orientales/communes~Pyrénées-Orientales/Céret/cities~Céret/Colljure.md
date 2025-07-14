@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~West/France/City/Colljure|Colljure]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~West/France/City/Colljure.public|Colljure.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~West/France/City/Colljure.internal|Colljure.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~West/France/City/Colljure.protect|Colljure.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~West/France/City/Colljure.private|Colljure.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~West/France/City/Colljure.personal|Colljure.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~West/France/City/Colljure.secret|Colljure.secret]] 
+
+### [Colljure.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~Occitanie\Pyrénées-Orientales\communes~Pyrénées-Orientales\Céret\cities~CéretColljure.public.md) 
+
+### [Colljure.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~Occitanie\Pyrénées-Orientales\communes~Pyrénées-Orientales\Céret\cities~CéretColljure.internal.md) 
+
+### [Colljure.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~Occitanie\Pyrénées-Orientales\communes~Pyrénées-Orientales\Céret\cities~CéretColljure.protect.md) 
+
+### [Colljure.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~Occitanie\Pyrénées-Orientales\communes~Pyrénées-Orientales\Céret\cities~CéretColljure.private.md) 
+
+### [Colljure.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~Occitanie\Pyrénées-Orientales\communes~Pyrénées-Orientales\Céret\cities~CéretColljure.personal.md) 
+
+### [Colljure.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~Occitanie\Pyrénées-Orientales\communes~Pyrénées-Orientales\Céret\cities~CéretColljure.secret.md)
+

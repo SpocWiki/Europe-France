@@ -40,11 +40,16 @@ markerFolder: ./Département~Côte-d'Or/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/geo/Continent/egions/Bourgogne-Franche-Comté/Département~Côte-d'Or|Département~Côte-d'Or]] 
-- [[../../../../../_public/geo/Continent/egions/Bourgogne-Franche-Comté/Département~Côte-d'Or.public|Département~Côte-d'Or.public]] 
-- [[../../../../../_internal/geo/Continent/egions/Bourgogne-Franche-Comté/Département~Côte-d'Or.internal|Département~Côte-d'Or.internal]] 
-- [[../../../../../_protect/geo/Continent/egions/Bourgogne-Franche-Comté/Département~Côte-d'Or.protect|Département~Côte-d'Or.protect]] 
-- [[../../../../../_private/geo/Continent/egions/Bourgogne-Franche-Comté/Département~Côte-d'Or.private|Département~Côte-d'Or.private]] 
-- [[../../../../../_personal/geo/Continent/egions/Bourgogne-Franche-Comté/Département~Côte-d'Or.personal|Département~Côte-d'Or.personal]] 
-- [[../../../../../_secret/geo/Continent/egions/Bourgogne-Franche-Comté/Département~Côte-d'Or.secret|Département~Côte-d'Or.secret]] 
+
+### [Côte-d'Or.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Bourgogne-Franche-Comté\departments~Bourgogne-Franche-ComtéCôte-d'Or.public.md) 
+
+### [Côte-d'Or.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Bourgogne-Franche-Comté\departments~Bourgogne-Franche-ComtéCôte-d'Or.internal.md) 
+
+### [Côte-d'Or.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Bourgogne-Franche-Comté\departments~Bourgogne-Franche-ComtéCôte-d'Or.protect.md) 
+
+### [Côte-d'Or.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Bourgogne-Franche-Comté\departments~Bourgogne-Franche-ComtéCôte-d'Or.private.md) 
+
+### [Côte-d'Or.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Bourgogne-Franche-Comté\departments~Bourgogne-Franche-ComtéCôte-d'Or.personal.md) 
+
+### [Côte-d'Or.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Bourgogne-Franche-Comté\departments~Bourgogne-Franche-ComtéCôte-d'Or.secret.md)
 

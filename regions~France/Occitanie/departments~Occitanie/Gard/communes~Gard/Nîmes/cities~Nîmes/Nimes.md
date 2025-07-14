@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~West/France/City/Nimes|Nimes]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~West/France/City/Nimes.public|Nimes.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~West/France/City/Nimes.internal|Nimes.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~West/France/City/Nimes.protect|Nimes.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~West/France/City/Nimes.private|Nimes.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~West/France/City/Nimes.personal|Nimes.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~West/France/City/Nimes.secret|Nimes.secret]] 
+
+### [Nimes.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~Occitanie\Gard\communes~Gard\Nîmes\cities~NîmesNimes.public.md) 
+
+### [Nimes.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~Occitanie\Gard\communes~Gard\Nîmes\cities~NîmesNimes.internal.md) 
+
+### [Nimes.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~Occitanie\Gard\communes~Gard\Nîmes\cities~NîmesNimes.protect.md) 
+
+### [Nimes.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~Occitanie\Gard\communes~Gard\Nîmes\cities~NîmesNimes.private.md) 
+
+### [Nimes.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~Occitanie\Gard\communes~Gard\Nîmes\cities~NîmesNimes.personal.md) 
+
+### [Nimes.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~Occitanie\Gard\communes~Gard\Nîmes\cities~NîmesNimes.secret.md)
+

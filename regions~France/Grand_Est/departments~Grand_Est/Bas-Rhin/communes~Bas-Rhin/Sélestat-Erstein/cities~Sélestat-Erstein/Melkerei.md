@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~West/France/City/Melkerei|Melkerei]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~West/France/City/Melkerei.public|Melkerei.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~West/France/City/Melkerei.internal|Melkerei.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~West/France/City/Melkerei.protect|Melkerei.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~West/France/City/Melkerei.private|Melkerei.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~West/France/City/Melkerei.personal|Melkerei.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~West/France/City/Melkerei.secret|Melkerei.secret]] 
+
+### [Melkerei.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Grand_Est\departments~Grand_Est\Bas-Rhin\communes~Bas-Rhin\Sélestat-Erstein\cities~Sélestat-ErsteinMelkerei.public.md) 
+
+### [Melkerei.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Grand_Est\departments~Grand_Est\Bas-Rhin\communes~Bas-Rhin\Sélestat-Erstein\cities~Sélestat-ErsteinMelkerei.internal.md) 
+
+### [Melkerei.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Grand_Est\departments~Grand_Est\Bas-Rhin\communes~Bas-Rhin\Sélestat-Erstein\cities~Sélestat-ErsteinMelkerei.protect.md) 
+
+### [Melkerei.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Grand_Est\departments~Grand_Est\Bas-Rhin\communes~Bas-Rhin\Sélestat-Erstein\cities~Sélestat-ErsteinMelkerei.private.md) 
+
+### [Melkerei.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Grand_Est\departments~Grand_Est\Bas-Rhin\communes~Bas-Rhin\Sélestat-Erstein\cities~Sélestat-ErsteinMelkerei.personal.md) 
+
+### [Melkerei.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Grand_Est\departments~Grand_Est\Bas-Rhin\communes~Bas-Rhin\Sélestat-Erstein\cities~Sélestat-ErsteinMelkerei.secret.md)
+

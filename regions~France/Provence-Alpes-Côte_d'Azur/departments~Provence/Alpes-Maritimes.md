@@ -40,11 +40,16 @@ markerFolder: ./Département~Alpes-Maritimes/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../_Standards/geo/Continent/Europe/Europe~West/France/Counties/Provence-Alpes-Côte d'Azur/Département~Alpes-Maritimes|Département~Alpes-Maritimes]] 
-- [[../../../../../../../../_public/geo/Continent/Europe/Europe~West/France/Counties/Provence-Alpes-Côte d'Azur/Département~Alpes-Maritimes.public|Département~Alpes-Maritimes.public]] 
-- [[../../../../../../../../_internal/geo/Continent/Europe/Europe~West/France/Counties/Provence-Alpes-Côte d'Azur/Département~Alpes-Maritimes.internal|Département~Alpes-Maritimes.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Europe~West/France/Counties/Provence-Alpes-Côte d'Azur/Département~Alpes-Maritimes.protect|Département~Alpes-Maritimes.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Europe~West/France/Counties/Provence-Alpes-Côte d'Azur/Département~Alpes-Maritimes.private|Département~Alpes-Maritimes.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Europe~West/France/Counties/Provence-Alpes-Côte d'Azur/Département~Alpes-Maritimes.personal|Département~Alpes-Maritimes.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Europe~West/France/Counties/Provence-Alpes-Côte d'Azur/Département~Alpes-Maritimes.secret|Département~Alpes-Maritimes.secret]] 
+
+### [Alpes-Maritimes.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Provence-Alpes-Côte_d'Azur\departments~ProvenceAlpes-Maritimes.public.md) 
+
+### [Alpes-Maritimes.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Provence-Alpes-Côte_d'Azur\departments~ProvenceAlpes-Maritimes.internal.md) 
+
+### [Alpes-Maritimes.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Provence-Alpes-Côte_d'Azur\departments~ProvenceAlpes-Maritimes.protect.md) 
+
+### [Alpes-Maritimes.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Provence-Alpes-Côte_d'Azur\departments~ProvenceAlpes-Maritimes.private.md) 
+
+### [Alpes-Maritimes.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Provence-Alpes-Côte_d'Azur\departments~ProvenceAlpes-Maritimes.personal.md) 
+
+### [Alpes-Maritimes.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Provence-Alpes-Côte_d'Azur\departments~ProvenceAlpes-Maritimes.secret.md)
 

@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~West/France/City/Nerac|Nerac]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~West/France/City/Nerac.public|Nerac.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~West/France/City/Nerac.internal|Nerac.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~West/France/City/Nerac.protect|Nerac.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~West/France/City/Nerac.private|Nerac.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~West/France/City/Nerac.personal|Nerac.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~West/France/City/Nerac.secret|Nerac.secret]] 
+
+### [Nerac.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~Aquitaine\Lot-et-Garonne\communes~Lot-et-Garonne\Nérac\cities~NéracNerac.public.md) 
+
+### [Nerac.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~Aquitaine\Lot-et-Garonne\communes~Lot-et-Garonne\Nérac\cities~NéracNerac.internal.md) 
+
+### [Nerac.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~Aquitaine\Lot-et-Garonne\communes~Lot-et-Garonne\Nérac\cities~NéracNerac.protect.md) 
+
+### [Nerac.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~Aquitaine\Lot-et-Garonne\communes~Lot-et-Garonne\Nérac\cities~NéracNerac.private.md) 
+
+### [Nerac.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~Aquitaine\Lot-et-Garonne\communes~Lot-et-Garonne\Nérac\cities~NéracNerac.personal.md) 
+
+### [Nerac.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~Aquitaine\Lot-et-Garonne\communes~Lot-et-Garonne\Nérac\cities~NéracNerac.secret.md)
+

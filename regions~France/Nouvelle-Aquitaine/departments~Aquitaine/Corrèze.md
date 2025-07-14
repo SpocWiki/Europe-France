@@ -40,11 +40,16 @@ markerFolder: ./Département~Corrèze/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/geo/Continent/egions/Nouvelle-Aquitaine/Département~Corrèze|Département~Corrèze]] 
-- [[../../../../../_public/geo/Continent/egions/Nouvelle-Aquitaine/Département~Corrèze.public|Département~Corrèze.public]] 
-- [[../../../../../_internal/geo/Continent/egions/Nouvelle-Aquitaine/Département~Corrèze.internal|Département~Corrèze.internal]] 
-- [[../../../../../_protect/geo/Continent/egions/Nouvelle-Aquitaine/Département~Corrèze.protect|Département~Corrèze.protect]] 
-- [[../../../../../_private/geo/Continent/egions/Nouvelle-Aquitaine/Département~Corrèze.private|Département~Corrèze.private]] 
-- [[../../../../../_personal/geo/Continent/egions/Nouvelle-Aquitaine/Département~Corrèze.personal|Département~Corrèze.personal]] 
-- [[../../../../../_secret/geo/Continent/egions/Nouvelle-Aquitaine/Département~Corrèze.secret|Département~Corrèze.secret]] 
+
+### [Corrèze.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~AquitaineCorrèze.public.md) 
+
+### [Corrèze.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~AquitaineCorrèze.internal.md) 
+
+### [Corrèze.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~AquitaineCorrèze.protect.md) 
+
+### [Corrèze.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~AquitaineCorrèze.private.md) 
+
+### [Corrèze.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~AquitaineCorrèze.personal.md) 
+
+### [Corrèze.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~AquitaineCorrèze.secret.md)
 

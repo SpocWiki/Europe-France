@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~West/France/City/Chateau-Salines|Chateau-Salines]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~West/France/City/Chateau-Salines.public|Chateau-Salines.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~West/France/City/Chateau-Salines.internal|Chateau-Salines.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~West/France/City/Chateau-Salines.protect|Chateau-Salines.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~West/France/City/Chateau-Salines.private|Chateau-Salines.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~West/France/City/Chateau-Salines.personal|Chateau-Salines.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~West/France/City/Chateau-Salines.secret|Chateau-Salines.secret]] 
+
+### [Chateau-Salines.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Grand_Est\departments~Grand_Est\Moselle\communes~Moselle\Château-Salins\cities~Château-SalinsChateau-Salines.public.md) 
+
+### [Chateau-Salines.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Grand_Est\departments~Grand_Est\Moselle\communes~Moselle\Château-Salins\cities~Château-SalinsChateau-Salines.internal.md) 
+
+### [Chateau-Salines.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Grand_Est\departments~Grand_Est\Moselle\communes~Moselle\Château-Salins\cities~Château-SalinsChateau-Salines.protect.md) 
+
+### [Chateau-Salines.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Grand_Est\departments~Grand_Est\Moselle\communes~Moselle\Château-Salins\cities~Château-SalinsChateau-Salines.private.md) 
+
+### [Chateau-Salines.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Grand_Est\departments~Grand_Est\Moselle\communes~Moselle\Château-Salins\cities~Château-SalinsChateau-Salines.personal.md) 
+
+### [Chateau-Salines.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Grand_Est\departments~Grand_Est\Moselle\communes~Moselle\Château-Salins\cities~Château-SalinsChateau-Salines.secret.md)
+

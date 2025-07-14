@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~West/France/City/Gaillac|Gaillac]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~West/France/City/Gaillac.public|Gaillac.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~West/France/City/Gaillac.internal|Gaillac.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~West/France/City/Gaillac.protect|Gaillac.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~West/France/City/Gaillac.private|Gaillac.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~West/France/City/Gaillac.personal|Gaillac.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~West/France/City/Gaillac.secret|Gaillac.secret]] 
+
+### [Gaillac.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~Occitanie\Tarn\communes~Tarn\Albi\cities~AlbiGaillac.public.md) 
+
+### [Gaillac.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~Occitanie\Tarn\communes~Tarn\Albi\cities~AlbiGaillac.internal.md) 
+
+### [Gaillac.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~Occitanie\Tarn\communes~Tarn\Albi\cities~AlbiGaillac.protect.md) 
+
+### [Gaillac.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~Occitanie\Tarn\communes~Tarn\Albi\cities~AlbiGaillac.private.md) 
+
+### [Gaillac.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~Occitanie\Tarn\communes~Tarn\Albi\cities~AlbiGaillac.personal.md) 
+
+### [Gaillac.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~Occitanie\Tarn\communes~Tarn\Albi\cities~AlbiGaillac.secret.md)
+

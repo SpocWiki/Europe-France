@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~West/France/City/Perpignan|Perpignan]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~West/France/City/Perpignan.public|Perpignan.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~West/France/City/Perpignan.internal|Perpignan.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~West/France/City/Perpignan.protect|Perpignan.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~West/France/City/Perpignan.private|Perpignan.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~West/France/City/Perpignan.personal|Perpignan.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~West/France/City/Perpignan.secret|Perpignan.secret]] 
+
+### [Perpignan.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~Occitanie\Pyrénées-Orientales\communes~Pyrénées-Orientales\Perpignan\cities~PerpignanPerpignan.public.md) 
+
+### [Perpignan.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~Occitanie\Pyrénées-Orientales\communes~Pyrénées-Orientales\Perpignan\cities~PerpignanPerpignan.internal.md) 
+
+### [Perpignan.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~Occitanie\Pyrénées-Orientales\communes~Pyrénées-Orientales\Perpignan\cities~PerpignanPerpignan.protect.md) 
+
+### [Perpignan.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~Occitanie\Pyrénées-Orientales\communes~Pyrénées-Orientales\Perpignan\cities~PerpignanPerpignan.private.md) 
+
+### [Perpignan.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~Occitanie\Pyrénées-Orientales\communes~Pyrénées-Orientales\Perpignan\cities~PerpignanPerpignan.personal.md) 
+
+### [Perpignan.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~Occitanie\Pyrénées-Orientales\communes~Pyrénées-Orientales\Perpignan\cities~PerpignanPerpignan.secret.md)
+

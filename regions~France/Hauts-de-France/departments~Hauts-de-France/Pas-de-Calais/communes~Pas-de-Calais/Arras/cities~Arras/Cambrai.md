@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~West/France/City/Cambrai|Cambrai]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~West/France/City/Cambrai.public|Cambrai.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~West/France/City/Cambrai.internal|Cambrai.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~West/France/City/Cambrai.protect|Cambrai.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~West/France/City/Cambrai.private|Cambrai.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~West/France/City/Cambrai.personal|Cambrai.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~West/France/City/Cambrai.secret|Cambrai.secret]] 
+
+### [Cambrai.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Hauts-de-France\departments~Hauts-de-France\Pas-de-Calais\communes~Pas-de-Calais\Arras\cities~ArrasCambrai.public.md) 
+
+### [Cambrai.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Hauts-de-France\departments~Hauts-de-France\Pas-de-Calais\communes~Pas-de-Calais\Arras\cities~ArrasCambrai.internal.md) 
+
+### [Cambrai.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Hauts-de-France\departments~Hauts-de-France\Pas-de-Calais\communes~Pas-de-Calais\Arras\cities~ArrasCambrai.protect.md) 
+
+### [Cambrai.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Hauts-de-France\departments~Hauts-de-France\Pas-de-Calais\communes~Pas-de-Calais\Arras\cities~ArrasCambrai.private.md) 
+
+### [Cambrai.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Hauts-de-France\departments~Hauts-de-France\Pas-de-Calais\communes~Pas-de-Calais\Arras\cities~ArrasCambrai.personal.md) 
+
+### [Cambrai.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Hauts-de-France\departments~Hauts-de-France\Pas-de-Calais\communes~Pas-de-Calais\Arras\cities~ArrasCambrai.secret.md)
+

@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~West/France/City/Le_Havre|Le_Havre]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~West/France/City/Le_Havre.public|Le_Havre.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~West/France/City/Le_Havre.internal|Le_Havre.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~West/France/City/Le_Havre.protect|Le_Havre.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~West/France/City/Le_Havre.private|Le_Havre.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~West/France/City/Le_Havre.personal|Le_Havre.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~West/France/City/Le_Havre.secret|Le_Havre.secret]] 
+
+### [Le_Havre.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Normandie\departments~Normandie\Seine-Maritime\communes~Seine-Maritime\Le_Havre\cities~LeHavreLe_Havre.public.md) 
+
+### [Le_Havre.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Normandie\departments~Normandie\Seine-Maritime\communes~Seine-Maritime\Le_Havre\cities~LeHavreLe_Havre.internal.md) 
+
+### [Le_Havre.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Normandie\departments~Normandie\Seine-Maritime\communes~Seine-Maritime\Le_Havre\cities~LeHavreLe_Havre.protect.md) 
+
+### [Le_Havre.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Normandie\departments~Normandie\Seine-Maritime\communes~Seine-Maritime\Le_Havre\cities~LeHavreLe_Havre.private.md) 
+
+### [Le_Havre.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Normandie\departments~Normandie\Seine-Maritime\communes~Seine-Maritime\Le_Havre\cities~LeHavreLe_Havre.personal.md) 
+
+### [Le_Havre.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Normandie\departments~Normandie\Seine-Maritime\communes~Seine-Maritime\Le_Havre\cities~LeHavreLe_Havre.secret.md)
+

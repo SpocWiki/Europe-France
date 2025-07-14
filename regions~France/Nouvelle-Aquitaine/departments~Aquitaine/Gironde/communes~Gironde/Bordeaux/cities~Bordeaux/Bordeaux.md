@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~West/France/City/Bordeaux|Bordeaux]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~West/France/City/Bordeaux.public|Bordeaux.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~West/France/City/Bordeaux.internal|Bordeaux.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~West/France/City/Bordeaux.protect|Bordeaux.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~West/France/City/Bordeaux.private|Bordeaux.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~West/France/City/Bordeaux.personal|Bordeaux.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~West/France/City/Bordeaux.secret|Bordeaux.secret]] 
+
+### [Bordeaux.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~Aquitaine\Gironde\communes~Gironde\Bordeaux\cities~BordeauxBordeaux.public.md) 
+
+### [Bordeaux.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~Aquitaine\Gironde\communes~Gironde\Bordeaux\cities~BordeauxBordeaux.internal.md) 
+
+### [Bordeaux.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~Aquitaine\Gironde\communes~Gironde\Bordeaux\cities~BordeauxBordeaux.protect.md) 
+
+### [Bordeaux.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~Aquitaine\Gironde\communes~Gironde\Bordeaux\cities~BordeauxBordeaux.private.md) 
+
+### [Bordeaux.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~Aquitaine\Gironde\communes~Gironde\Bordeaux\cities~BordeauxBordeaux.personal.md) 
+
+### [Bordeaux.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~Aquitaine\Gironde\communes~Gironde\Bordeaux\cities~BordeauxBordeaux.secret.md)
+

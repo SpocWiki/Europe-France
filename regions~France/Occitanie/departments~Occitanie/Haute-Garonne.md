@@ -40,11 +40,16 @@ markerFolder: ./Département~Haute-Garonne/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../_Standards/geo/Continent/Europe/Europe~West/France/Counties/Occitanie/Département~Haute-Garonne|Département~Haute-Garonne]] 
-- [[../../../../../../../../_public/geo/Continent/Europe/Europe~West/France/Counties/Occitanie/Département~Haute-Garonne.public|Département~Haute-Garonne.public]] 
-- [[../../../../../../../../_internal/geo/Continent/Europe/Europe~West/France/Counties/Occitanie/Département~Haute-Garonne.internal|Département~Haute-Garonne.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Europe~West/France/Counties/Occitanie/Département~Haute-Garonne.protect|Département~Haute-Garonne.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Europe~West/France/Counties/Occitanie/Département~Haute-Garonne.private|Département~Haute-Garonne.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Europe~West/France/Counties/Occitanie/Département~Haute-Garonne.personal|Département~Haute-Garonne.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Europe~West/France/Counties/Occitanie/Département~Haute-Garonne.secret|Département~Haute-Garonne.secret]] 
+
+### [Haute-Garonne.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~OccitanieHaute-Garonne.public.md) 
+
+### [Haute-Garonne.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~OccitanieHaute-Garonne.internal.md) 
+
+### [Haute-Garonne.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~OccitanieHaute-Garonne.protect.md) 
+
+### [Haute-Garonne.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~OccitanieHaute-Garonne.private.md) 
+
+### [Haute-Garonne.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~OccitanieHaute-Garonne.personal.md) 
+
+### [Haute-Garonne.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~OccitanieHaute-Garonne.secret.md)
 

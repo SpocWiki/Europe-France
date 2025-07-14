@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~West/France/City/Clermont_de_L'Oise|Clermont_de_L'Oise]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~West/France/City/Clermont_de_L'Oise.public|Clermont_de_L'Oise.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~West/France/City/Clermont_de_L'Oise.internal|Clermont_de_L'Oise.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~West/France/City/Clermont_de_L'Oise.protect|Clermont_de_L'Oise.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~West/France/City/Clermont_de_L'Oise.private|Clermont_de_L'Oise.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~West/France/City/Clermont_de_L'Oise.personal|Clermont_de_L'Oise.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~West/France/City/Clermont_de_L'Oise.secret|Clermont_de_L'Oise.secret]] 
+
+### [Clermont_de_L'Oise.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Hauts-de-France\departments~Hauts-de-France\Oise\communes~Oise\Beauvais\cities~BeauvaisClermont_de_L'Oise.public.md) 
+
+### [Clermont_de_L'Oise.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Hauts-de-France\departments~Hauts-de-France\Oise\communes~Oise\Beauvais\cities~BeauvaisClermont_de_L'Oise.internal.md) 
+
+### [Clermont_de_L'Oise.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Hauts-de-France\departments~Hauts-de-France\Oise\communes~Oise\Beauvais\cities~BeauvaisClermont_de_L'Oise.protect.md) 
+
+### [Clermont_de_L'Oise.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Hauts-de-France\departments~Hauts-de-France\Oise\communes~Oise\Beauvais\cities~BeauvaisClermont_de_L'Oise.private.md) 
+
+### [Clermont_de_L'Oise.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Hauts-de-France\departments~Hauts-de-France\Oise\communes~Oise\Beauvais\cities~BeauvaisClermont_de_L'Oise.personal.md) 
+
+### [Clermont_de_L'Oise.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Hauts-de-France\departments~Hauts-de-France\Oise\communes~Oise\Beauvais\cities~BeauvaisClermont_de_L'Oise.secret.md)
+

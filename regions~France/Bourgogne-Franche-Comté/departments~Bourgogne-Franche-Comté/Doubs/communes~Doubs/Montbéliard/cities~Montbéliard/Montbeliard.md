@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~West/France/City/Montbeliard|Montbeliard]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~West/France/City/Montbeliard.public|Montbeliard.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~West/France/City/Montbeliard.internal|Montbeliard.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~West/France/City/Montbeliard.protect|Montbeliard.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~West/France/City/Montbeliard.private|Montbeliard.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~West/France/City/Montbeliard.personal|Montbeliard.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~West/France/City/Montbeliard.secret|Montbeliard.secret]] 
+
+### [Montbeliard.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Bourgogne-Franche-Comté\departments~Bourgogne-Franche-Comté\Doubs\communes~Doubs\Montbéliard\cities~MontbéliardMontbeliard.public.md) 
+
+### [Montbeliard.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Bourgogne-Franche-Comté\departments~Bourgogne-Franche-Comté\Doubs\communes~Doubs\Montbéliard\cities~MontbéliardMontbeliard.internal.md) 
+
+### [Montbeliard.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Bourgogne-Franche-Comté\departments~Bourgogne-Franche-Comté\Doubs\communes~Doubs\Montbéliard\cities~MontbéliardMontbeliard.protect.md) 
+
+### [Montbeliard.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Bourgogne-Franche-Comté\departments~Bourgogne-Franche-Comté\Doubs\communes~Doubs\Montbéliard\cities~MontbéliardMontbeliard.private.md) 
+
+### [Montbeliard.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Bourgogne-Franche-Comté\departments~Bourgogne-Franche-Comté\Doubs\communes~Doubs\Montbéliard\cities~MontbéliardMontbeliard.personal.md) 
+
+### [Montbeliard.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Bourgogne-Franche-Comté\departments~Bourgogne-Franche-Comté\Doubs\communes~Doubs\Montbéliard\cities~MontbéliardMontbeliard.secret.md)
+

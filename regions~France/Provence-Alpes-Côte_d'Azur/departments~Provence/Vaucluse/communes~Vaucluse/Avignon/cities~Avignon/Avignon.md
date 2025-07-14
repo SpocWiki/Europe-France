@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~West/France/City/Avignon|Avignon]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~West/France/City/Avignon.public|Avignon.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~West/France/City/Avignon.internal|Avignon.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~West/France/City/Avignon.protect|Avignon.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~West/France/City/Avignon.private|Avignon.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~West/France/City/Avignon.personal|Avignon.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~West/France/City/Avignon.secret|Avignon.secret]] 
+
+### [Avignon.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Provence-Alpes-Côte_d'Azur\departments~Provence\Vaucluse\communes~Vaucluse\Avignon\cities~AvignonAvignon.public.md) 
+
+### [Avignon.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Provence-Alpes-Côte_d'Azur\departments~Provence\Vaucluse\communes~Vaucluse\Avignon\cities~AvignonAvignon.internal.md) 
+
+### [Avignon.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Provence-Alpes-Côte_d'Azur\departments~Provence\Vaucluse\communes~Vaucluse\Avignon\cities~AvignonAvignon.protect.md) 
+
+### [Avignon.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Provence-Alpes-Côte_d'Azur\departments~Provence\Vaucluse\communes~Vaucluse\Avignon\cities~AvignonAvignon.private.md) 
+
+### [Avignon.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Provence-Alpes-Côte_d'Azur\departments~Provence\Vaucluse\communes~Vaucluse\Avignon\cities~AvignonAvignon.personal.md) 
+
+### [Avignon.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Provence-Alpes-Côte_d'Azur\departments~Provence\Vaucluse\communes~Vaucluse\Avignon\cities~AvignonAvignon.secret.md)
+

@@ -40,11 +40,16 @@ markerFolder: ./Département~Loiret/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../_Standards/geo/Continent/Europe/Europe~West/France/Counties/Val_de_Loire/Département~Loiret|Département~Loiret]] 
-- [[../../../../../../../../_public/geo/Continent/Europe/Europe~West/France/Counties/Val_de_Loire/Département~Loiret.public|Département~Loiret.public]] 
-- [[../../../../../../../../_internal/geo/Continent/Europe/Europe~West/France/Counties/Val_de_Loire/Département~Loiret.internal|Département~Loiret.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Europe~West/France/Counties/Val_de_Loire/Département~Loiret.protect|Département~Loiret.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Europe~West/France/Counties/Val_de_Loire/Département~Loiret.private|Département~Loiret.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Europe~West/France/Counties/Val_de_Loire/Département~Loiret.personal|Département~Loiret.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Europe~West/France/Counties/Val_de_Loire/Département~Loiret.secret|Département~Loiret.secret]] 
+
+### [Loiret.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Val_de_Loire\departments~Val_de_LoireLoiret.public.md) 
+
+### [Loiret.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Val_de_Loire\departments~Val_de_LoireLoiret.internal.md) 
+
+### [Loiret.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Val_de_Loire\departments~Val_de_LoireLoiret.protect.md) 
+
+### [Loiret.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Val_de_Loire\departments~Val_de_LoireLoiret.private.md) 
+
+### [Loiret.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Val_de_Loire\departments~Val_de_LoireLoiret.personal.md) 
+
+### [Loiret.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Val_de_Loire\departments~Val_de_LoireLoiret.secret.md)
 

@@ -40,11 +40,16 @@ markerFolder: ./Département~Oise/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../_Standards/geo/Continent/Europe/Europe~West/France/Counties/Hauts-de-France/Département~Oise|Département~Oise]] 
-- [[../../../../../../../../_public/geo/Continent/Europe/Europe~West/France/Counties/Hauts-de-France/Département~Oise.public|Département~Oise.public]] 
-- [[../../../../../../../../_internal/geo/Continent/Europe/Europe~West/France/Counties/Hauts-de-France/Département~Oise.internal|Département~Oise.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Europe~West/France/Counties/Hauts-de-France/Département~Oise.protect|Département~Oise.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Europe~West/France/Counties/Hauts-de-France/Département~Oise.private|Département~Oise.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Europe~West/France/Counties/Hauts-de-France/Département~Oise.personal|Département~Oise.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Europe~West/France/Counties/Hauts-de-France/Département~Oise.secret|Département~Oise.secret]] 
+
+### [Oise.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Hauts-de-France\departments~Hauts-de-FranceOise.public.md) 
+
+### [Oise.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Hauts-de-France\departments~Hauts-de-FranceOise.internal.md) 
+
+### [Oise.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Hauts-de-France\departments~Hauts-de-FranceOise.protect.md) 
+
+### [Oise.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Hauts-de-France\departments~Hauts-de-FranceOise.private.md) 
+
+### [Oise.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Hauts-de-France\departments~Hauts-de-FranceOise.personal.md) 
+
+### [Oise.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Hauts-de-France\departments~Hauts-de-FranceOise.secret.md)
 

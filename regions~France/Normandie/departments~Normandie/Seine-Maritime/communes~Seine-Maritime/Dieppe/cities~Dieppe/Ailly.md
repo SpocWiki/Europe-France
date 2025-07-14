@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~West/France/City/Ailly|Ailly]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~West/France/City/Ailly.public|Ailly.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~West/France/City/Ailly.internal|Ailly.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~West/France/City/Ailly.protect|Ailly.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~West/France/City/Ailly.private|Ailly.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~West/France/City/Ailly.personal|Ailly.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~West/France/City/Ailly.secret|Ailly.secret]] 
+
+### [Ailly.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Normandie\departments~Normandie\Seine-Maritime\communes~Seine-Maritime\Dieppe\cities~DieppeAilly.public.md) 
+
+### [Ailly.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Normandie\departments~Normandie\Seine-Maritime\communes~Seine-Maritime\Dieppe\cities~DieppeAilly.internal.md) 
+
+### [Ailly.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Normandie\departments~Normandie\Seine-Maritime\communes~Seine-Maritime\Dieppe\cities~DieppeAilly.protect.md) 
+
+### [Ailly.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Normandie\departments~Normandie\Seine-Maritime\communes~Seine-Maritime\Dieppe\cities~DieppeAilly.private.md) 
+
+### [Ailly.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Normandie\departments~Normandie\Seine-Maritime\communes~Seine-Maritime\Dieppe\cities~DieppeAilly.personal.md) 
+
+### [Ailly.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Normandie\departments~Normandie\Seine-Maritime\communes~Seine-Maritime\Dieppe\cities~DieppeAilly.secret.md)
+

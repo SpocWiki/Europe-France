@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~West/France/City/St.Brieuc|St.Brieuc]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~West/France/City/St.Brieuc.public|St.Brieuc.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~West/France/City/St.Brieuc.internal|St.Brieuc.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~West/France/City/St.Brieuc.protect|St.Brieuc.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~West/France/City/St.Brieuc.private|St.Brieuc.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~West/France/City/St.Brieuc.personal|St.Brieuc.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~West/France/City/St.Brieuc.secret|St.Brieuc.secret]] 
+
+### [St.Brieuc.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Bretagne\departments~Bretagne\Côtes-d'Armor\communes~Côtes-d'Armor\Saint-Brieuc\cities~Saint-BrieucSt.Brieuc.public.md) 
+
+### [St.Brieuc.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Bretagne\departments~Bretagne\Côtes-d'Armor\communes~Côtes-d'Armor\Saint-Brieuc\cities~Saint-BrieucSt.Brieuc.internal.md) 
+
+### [St.Brieuc.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Bretagne\departments~Bretagne\Côtes-d'Armor\communes~Côtes-d'Armor\Saint-Brieuc\cities~Saint-BrieucSt.Brieuc.protect.md) 
+
+### [St.Brieuc.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Bretagne\departments~Bretagne\Côtes-d'Armor\communes~Côtes-d'Armor\Saint-Brieuc\cities~Saint-BrieucSt.Brieuc.private.md) 
+
+### [St.Brieuc.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Bretagne\departments~Bretagne\Côtes-d'Armor\communes~Côtes-d'Armor\Saint-Brieuc\cities~Saint-BrieucSt.Brieuc.personal.md) 
+
+### [St.Brieuc.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Bretagne\departments~Bretagne\Côtes-d'Armor\communes~Côtes-d'Armor\Saint-Brieuc\cities~Saint-BrieucSt.Brieuc.secret.md)
+

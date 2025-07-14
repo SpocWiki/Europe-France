@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~West/France/City/Chalon-sur-Saone|Chalon-sur-Saone]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~West/France/City/Chalon-sur-Saone.public|Chalon-sur-Saone.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~West/France/City/Chalon-sur-Saone.internal|Chalon-sur-Saone.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~West/France/City/Chalon-sur-Saone.protect|Chalon-sur-Saone.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~West/France/City/Chalon-sur-Saone.private|Chalon-sur-Saone.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~West/France/City/Chalon-sur-Saone.personal|Chalon-sur-Saone.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~West/France/City/Chalon-sur-Saone.secret|Chalon-sur-Saone.secret]] 
+
+### [Chalon-sur-Saone.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Bourgogne-Franche-Comté\departments~Bourgogne-Franche-Comté\Saône-et-Loire\communes~Saône-et-Loire\Chalon-sur-Saône\cities~Chalon-sur-SaôneChalon-sur-Saone.public.md) 
+
+### [Chalon-sur-Saone.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Bourgogne-Franche-Comté\departments~Bourgogne-Franche-Comté\Saône-et-Loire\communes~Saône-et-Loire\Chalon-sur-Saône\cities~Chalon-sur-SaôneChalon-sur-Saone.internal.md) 
+
+### [Chalon-sur-Saone.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Bourgogne-Franche-Comté\departments~Bourgogne-Franche-Comté\Saône-et-Loire\communes~Saône-et-Loire\Chalon-sur-Saône\cities~Chalon-sur-SaôneChalon-sur-Saone.protect.md) 
+
+### [Chalon-sur-Saone.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Bourgogne-Franche-Comté\departments~Bourgogne-Franche-Comté\Saône-et-Loire\communes~Saône-et-Loire\Chalon-sur-Saône\cities~Chalon-sur-SaôneChalon-sur-Saone.private.md) 
+
+### [Chalon-sur-Saone.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Bourgogne-Franche-Comté\departments~Bourgogne-Franche-Comté\Saône-et-Loire\communes~Saône-et-Loire\Chalon-sur-Saône\cities~Chalon-sur-SaôneChalon-sur-Saone.personal.md) 
+
+### [Chalon-sur-Saone.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Bourgogne-Franche-Comté\departments~Bourgogne-Franche-Comté\Saône-et-Loire\communes~Saône-et-Loire\Chalon-sur-Saône\cities~Chalon-sur-SaôneChalon-sur-Saone.secret.md)
+

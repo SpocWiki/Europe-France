@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~West/France/City/Ancenis|Ancenis]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~West/France/City/Ancenis.public|Ancenis.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~West/France/City/Ancenis.internal|Ancenis.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~West/France/City/Ancenis.protect|Ancenis.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~West/France/City/Ancenis.private|Ancenis.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~West/France/City/Ancenis.personal|Ancenis.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~West/France/City/Ancenis.secret|Ancenis.secret]] 
+
+### [Ancenis.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Pays_de_la_Loire\departments~Pays_de_la_Loire\Loire-Atlantique\communes~Loire-Atlantique\Ancenis\cities~AncenisAncenis.public.md) 
+
+### [Ancenis.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Pays_de_la_Loire\departments~Pays_de_la_Loire\Loire-Atlantique\communes~Loire-Atlantique\Ancenis\cities~AncenisAncenis.internal.md) 
+
+### [Ancenis.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Pays_de_la_Loire\departments~Pays_de_la_Loire\Loire-Atlantique\communes~Loire-Atlantique\Ancenis\cities~AncenisAncenis.protect.md) 
+
+### [Ancenis.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Pays_de_la_Loire\departments~Pays_de_la_Loire\Loire-Atlantique\communes~Loire-Atlantique\Ancenis\cities~AncenisAncenis.private.md) 
+
+### [Ancenis.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Pays_de_la_Loire\departments~Pays_de_la_Loire\Loire-Atlantique\communes~Loire-Atlantique\Ancenis\cities~AncenisAncenis.personal.md) 
+
+### [Ancenis.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Pays_de_la_Loire\departments~Pays_de_la_Loire\Loire-Atlantique\communes~Loire-Atlantique\Ancenis\cities~AncenisAncenis.secret.md)
+

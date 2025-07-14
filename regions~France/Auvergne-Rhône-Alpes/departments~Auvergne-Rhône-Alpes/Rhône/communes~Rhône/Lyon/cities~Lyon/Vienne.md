@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~West/France/City/Vienne|Vienne]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~West/France/City/Vienne.public|Vienne.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~West/France/City/Vienne.internal|Vienne.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~West/France/City/Vienne.protect|Vienne.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~West/France/City/Vienne.private|Vienne.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~West/France/City/Vienne.personal|Vienne.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~West/France/City/Vienne.secret|Vienne.secret]] 
+
+### [Vienne.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Auvergne-Rhône-Alpes\departments~Auvergne-Rhône-Alpes\Rhône\communes~Rhône\Lyon\cities~LyonVienne.public.md) 
+
+### [Vienne.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Auvergne-Rhône-Alpes\departments~Auvergne-Rhône-Alpes\Rhône\communes~Rhône\Lyon\cities~LyonVienne.internal.md) 
+
+### [Vienne.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Auvergne-Rhône-Alpes\departments~Auvergne-Rhône-Alpes\Rhône\communes~Rhône\Lyon\cities~LyonVienne.protect.md) 
+
+### [Vienne.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Auvergne-Rhône-Alpes\departments~Auvergne-Rhône-Alpes\Rhône\communes~Rhône\Lyon\cities~LyonVienne.private.md) 
+
+### [Vienne.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Auvergne-Rhône-Alpes\departments~Auvergne-Rhône-Alpes\Rhône\communes~Rhône\Lyon\cities~LyonVienne.personal.md) 
+
+### [Vienne.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Auvergne-Rhône-Alpes\departments~Auvergne-Rhône-Alpes\Rhône\communes~Rhône\Lyon\cities~LyonVienne.secret.md)
+

@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~West/France/City/Milau|Milau]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~West/France/City/Milau.public|Milau.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~West/France/City/Milau.internal|Milau.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~West/France/City/Milau.protect|Milau.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~West/France/City/Milau.private|Milau.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~West/France/City/Milau.personal|Milau.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~West/France/City/Milau.secret|Milau.secret]] 
+
+### [Milau.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~Occitanie\Aveyron\communes~Aveyron\Millau\cities~MillauMilau.public.md) 
+
+### [Milau.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~Occitanie\Aveyron\communes~Aveyron\Millau\cities~MillauMilau.internal.md) 
+
+### [Milau.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~Occitanie\Aveyron\communes~Aveyron\Millau\cities~MillauMilau.protect.md) 
+
+### [Milau.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~Occitanie\Aveyron\communes~Aveyron\Millau\cities~MillauMilau.private.md) 
+
+### [Milau.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~Occitanie\Aveyron\communes~Aveyron\Millau\cities~MillauMilau.personal.md) 
+
+### [Milau.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~Occitanie\Aveyron\communes~Aveyron\Millau\cities~MillauMilau.secret.md)
+

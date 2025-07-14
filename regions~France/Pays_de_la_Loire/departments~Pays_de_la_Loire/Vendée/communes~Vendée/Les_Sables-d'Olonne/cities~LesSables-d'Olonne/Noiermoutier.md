@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~West/France/City/Noiermoutier|Noiermoutier]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~West/France/City/Noiermoutier.public|Noiermoutier.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~West/France/City/Noiermoutier.internal|Noiermoutier.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~West/France/City/Noiermoutier.protect|Noiermoutier.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~West/France/City/Noiermoutier.private|Noiermoutier.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~West/France/City/Noiermoutier.personal|Noiermoutier.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~West/France/City/Noiermoutier.secret|Noiermoutier.secret]] 
+
+### [Noiermoutier.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Pays_de_la_Loire\departments~Pays_de_la_Loire\Vendée\communes~Vendée\Les_Sables-d'Olonne\cities~LesSables-d'OlonneNoiermoutier.public.md) 
+
+### [Noiermoutier.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Pays_de_la_Loire\departments~Pays_de_la_Loire\Vendée\communes~Vendée\Les_Sables-d'Olonne\cities~LesSables-d'OlonneNoiermoutier.internal.md) 
+
+### [Noiermoutier.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Pays_de_la_Loire\departments~Pays_de_la_Loire\Vendée\communes~Vendée\Les_Sables-d'Olonne\cities~LesSables-d'OlonneNoiermoutier.protect.md) 
+
+### [Noiermoutier.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Pays_de_la_Loire\departments~Pays_de_la_Loire\Vendée\communes~Vendée\Les_Sables-d'Olonne\cities~LesSables-d'OlonneNoiermoutier.private.md) 
+
+### [Noiermoutier.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Pays_de_la_Loire\departments~Pays_de_la_Loire\Vendée\communes~Vendée\Les_Sables-d'Olonne\cities~LesSables-d'OlonneNoiermoutier.personal.md) 
+
+### [Noiermoutier.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Pays_de_la_Loire\departments~Pays_de_la_Loire\Vendée\communes~Vendée\Les_Sables-d'Olonne\cities~LesSables-d'OlonneNoiermoutier.secret.md)
+

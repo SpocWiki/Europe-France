@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~West/France/City/Chateauroux|Chateauroux]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~West/France/City/Chateauroux.public|Chateauroux.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~West/France/City/Chateauroux.internal|Chateauroux.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~West/France/City/Chateauroux.protect|Chateauroux.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~West/France/City/Chateauroux.private|Chateauroux.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~West/France/City/Chateauroux.personal|Chateauroux.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~West/France/City/Chateauroux.secret|Chateauroux.secret]] 
+
+### [Chateauroux.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Val_de_Loire\departments~Val_de_Loire\Indre\communes~Indre\Châteauroux\cities~ChâteaurouxChateauroux.public.md) 
+
+### [Chateauroux.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Val_de_Loire\departments~Val_de_Loire\Indre\communes~Indre\Châteauroux\cities~ChâteaurouxChateauroux.internal.md) 
+
+### [Chateauroux.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Val_de_Loire\departments~Val_de_Loire\Indre\communes~Indre\Châteauroux\cities~ChâteaurouxChateauroux.protect.md) 
+
+### [Chateauroux.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Val_de_Loire\departments~Val_de_Loire\Indre\communes~Indre\Châteauroux\cities~ChâteaurouxChateauroux.private.md) 
+
+### [Chateauroux.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Val_de_Loire\departments~Val_de_Loire\Indre\communes~Indre\Châteauroux\cities~ChâteaurouxChateauroux.personal.md) 
+
+### [Chateauroux.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Val_de_Loire\departments~Val_de_Loire\Indre\communes~Indre\Châteauroux\cities~ChâteaurouxChateauroux.secret.md)
+

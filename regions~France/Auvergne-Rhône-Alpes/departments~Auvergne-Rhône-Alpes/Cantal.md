@@ -40,11 +40,16 @@ markerFolder: ./Département~Cantal/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../_Standards/geo/Continent/Département~Cantal|Département~Cantal]] 
-- [[../../../_public/geo/Continent/Département~Cantal.public|Département~Cantal.public]] 
-- [[../../../_internal/geo/Continent/Département~Cantal.internal|Département~Cantal.internal]] 
-- [[../../../_protect/geo/Continent/Département~Cantal.protect|Département~Cantal.protect]] 
-- [[../../../_private/geo/Continent/Département~Cantal.private|Département~Cantal.private]] 
-- [[../../../_personal/geo/Continent/Département~Cantal.personal|Département~Cantal.personal]] 
-- [[../../../_secret/geo/Continent/Département~Cantal.secret|Département~Cantal.secret]] 
+
+### [Cantal.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Auvergne-Rhône-Alpes\departments~Auvergne-Rhône-AlpesCantal.public.md) 
+
+### [Cantal.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Auvergne-Rhône-Alpes\departments~Auvergne-Rhône-AlpesCantal.internal.md) 
+
+### [Cantal.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Auvergne-Rhône-Alpes\departments~Auvergne-Rhône-AlpesCantal.protect.md) 
+
+### [Cantal.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Auvergne-Rhône-Alpes\departments~Auvergne-Rhône-AlpesCantal.private.md) 
+
+### [Cantal.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Auvergne-Rhône-Alpes\departments~Auvergne-Rhône-AlpesCantal.personal.md) 
+
+### [Cantal.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Auvergne-Rhône-Alpes\departments~Auvergne-Rhône-AlpesCantal.secret.md)
 

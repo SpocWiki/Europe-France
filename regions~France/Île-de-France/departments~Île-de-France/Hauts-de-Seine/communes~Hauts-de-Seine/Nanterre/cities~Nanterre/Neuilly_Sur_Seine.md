@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~West/France/City/Neuilly_Sur_Seine|Neuilly_Sur_Seine]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~West/France/City/Neuilly_Sur_Seine.public|Neuilly_Sur_Seine.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~West/France/City/Neuilly_Sur_Seine.internal|Neuilly_Sur_Seine.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~West/France/City/Neuilly_Sur_Seine.protect|Neuilly_Sur_Seine.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~West/France/City/Neuilly_Sur_Seine.private|Neuilly_Sur_Seine.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~West/France/City/Neuilly_Sur_Seine.personal|Neuilly_Sur_Seine.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~West/France/City/Neuilly_Sur_Seine.secret|Neuilly_Sur_Seine.secret]] 
+
+### [Neuilly_Sur_Seine.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Île-de-France\departments~Île-de-France\Hauts-de-Seine\communes~Hauts-de-Seine\Nanterre\cities~NanterreNeuilly_Sur_Seine.public.md) 
+
+### [Neuilly_Sur_Seine.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Île-de-France\departments~Île-de-France\Hauts-de-Seine\communes~Hauts-de-Seine\Nanterre\cities~NanterreNeuilly_Sur_Seine.internal.md) 
+
+### [Neuilly_Sur_Seine.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Île-de-France\departments~Île-de-France\Hauts-de-Seine\communes~Hauts-de-Seine\Nanterre\cities~NanterreNeuilly_Sur_Seine.protect.md) 
+
+### [Neuilly_Sur_Seine.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Île-de-France\departments~Île-de-France\Hauts-de-Seine\communes~Hauts-de-Seine\Nanterre\cities~NanterreNeuilly_Sur_Seine.private.md) 
+
+### [Neuilly_Sur_Seine.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Île-de-France\departments~Île-de-France\Hauts-de-Seine\communes~Hauts-de-Seine\Nanterre\cities~NanterreNeuilly_Sur_Seine.personal.md) 
+
+### [Neuilly_Sur_Seine.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Île-de-France\departments~Île-de-France\Hauts-de-Seine\communes~Hauts-de-Seine\Nanterre\cities~NanterreNeuilly_Sur_Seine.secret.md)
+

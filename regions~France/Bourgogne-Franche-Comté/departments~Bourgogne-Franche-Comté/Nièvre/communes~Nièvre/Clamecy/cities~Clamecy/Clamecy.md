@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~West/France/City/Clamecy|Clamecy]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~West/France/City/Clamecy.public|Clamecy.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~West/France/City/Clamecy.internal|Clamecy.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~West/France/City/Clamecy.protect|Clamecy.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~West/France/City/Clamecy.private|Clamecy.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~West/France/City/Clamecy.personal|Clamecy.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~West/France/City/Clamecy.secret|Clamecy.secret]] 
+
+### [Clamecy.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Bourgogne-Franche-Comté\departments~Bourgogne-Franche-Comté\Nièvre\communes~Nièvre\Clamecy\cities~ClamecyClamecy.public.md) 
+
+### [Clamecy.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Bourgogne-Franche-Comté\departments~Bourgogne-Franche-Comté\Nièvre\communes~Nièvre\Clamecy\cities~ClamecyClamecy.internal.md) 
+
+### [Clamecy.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Bourgogne-Franche-Comté\departments~Bourgogne-Franche-Comté\Nièvre\communes~Nièvre\Clamecy\cities~ClamecyClamecy.protect.md) 
+
+### [Clamecy.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Bourgogne-Franche-Comté\departments~Bourgogne-Franche-Comté\Nièvre\communes~Nièvre\Clamecy\cities~ClamecyClamecy.private.md) 
+
+### [Clamecy.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Bourgogne-Franche-Comté\departments~Bourgogne-Franche-Comté\Nièvre\communes~Nièvre\Clamecy\cities~ClamecyClamecy.personal.md) 
+
+### [Clamecy.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Bourgogne-Franche-Comté\departments~Bourgogne-Franche-Comté\Nièvre\communes~Nièvre\Clamecy\cities~ClamecyClamecy.secret.md)
+

@@ -40,11 +40,16 @@ markerFolder: ./Département~Marne/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../_Standards/geo/Continent/Europe/Europe~West/France/Counties/Grand_Est/Département~Marne|Département~Marne]] 
-- [[../../../../../../../../_public/geo/Continent/Europe/Europe~West/France/Counties/Grand_Est/Département~Marne.public|Département~Marne.public]] 
-- [[../../../../../../../../_internal/geo/Continent/Europe/Europe~West/France/Counties/Grand_Est/Département~Marne.internal|Département~Marne.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Europe~West/France/Counties/Grand_Est/Département~Marne.protect|Département~Marne.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Europe~West/France/Counties/Grand_Est/Département~Marne.private|Département~Marne.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Europe~West/France/Counties/Grand_Est/Département~Marne.personal|Département~Marne.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Europe~West/France/Counties/Grand_Est/Département~Marne.secret|Département~Marne.secret]] 
+
+### [Marne.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Grand_Est\departments~Grand_EstMarne.public.md) 
+
+### [Marne.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Grand_Est\departments~Grand_EstMarne.internal.md) 
+
+### [Marne.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Grand_Est\departments~Grand_EstMarne.protect.md) 
+
+### [Marne.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Grand_Est\departments~Grand_EstMarne.private.md) 
+
+### [Marne.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Grand_Est\departments~Grand_EstMarne.personal.md) 
+
+### [Marne.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Grand_Est\departments~Grand_EstMarne.secret.md)
 

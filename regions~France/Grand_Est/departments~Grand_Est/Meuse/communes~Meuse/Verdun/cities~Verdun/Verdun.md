@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~West/France/City/Verdun|Verdun]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~West/France/City/Verdun.public|Verdun.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~West/France/City/Verdun.internal|Verdun.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~West/France/City/Verdun.protect|Verdun.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~West/France/City/Verdun.private|Verdun.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~West/France/City/Verdun.personal|Verdun.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~West/France/City/Verdun.secret|Verdun.secret]] 
+
+### [Verdun.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Grand_Est\departments~Grand_Est\Meuse\communes~Meuse\Verdun\cities~VerdunVerdun.public.md) 
+
+### [Verdun.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Grand_Est\departments~Grand_Est\Meuse\communes~Meuse\Verdun\cities~VerdunVerdun.internal.md) 
+
+### [Verdun.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Grand_Est\departments~Grand_Est\Meuse\communes~Meuse\Verdun\cities~VerdunVerdun.protect.md) 
+
+### [Verdun.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Grand_Est\departments~Grand_Est\Meuse\communes~Meuse\Verdun\cities~VerdunVerdun.private.md) 
+
+### [Verdun.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Grand_Est\departments~Grand_Est\Meuse\communes~Meuse\Verdun\cities~VerdunVerdun.personal.md) 
+
+### [Verdun.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Grand_Est\departments~Grand_Est\Meuse\communes~Meuse\Verdun\cities~VerdunVerdun.secret.md)
+

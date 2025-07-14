@@ -128,10 +128,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~West/France/City/Nizza=Nice|Nizza=Nice]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~West/France/City/Nizza=Nice.public|Nizza=Nice.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~West/France/City/Nizza=Nice.internal|Nizza=Nice.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~West/France/City/Nizza=Nice.protect|Nizza=Nice.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~West/France/City/Nizza=Nice.private|Nizza=Nice.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~West/France/City/Nizza=Nice.personal|Nizza=Nice.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~West/France/City/Nizza=Nice.secret|Nizza=Nice.secret]] 
+
+### [Nice,Cité.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Provence-Alpes-Côte_d'Azur\departments~Provence\Alpes-Maritimes\communes~Alpes-Maritimes\Nice,Commune\cities~NiceNice,Cité.public.md) 
+
+### [Nice,Cité.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Provence-Alpes-Côte_d'Azur\departments~Provence\Alpes-Maritimes\communes~Alpes-Maritimes\Nice,Commune\cities~NiceNice,Cité.internal.md) 
+
+### [Nice,Cité.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Provence-Alpes-Côte_d'Azur\departments~Provence\Alpes-Maritimes\communes~Alpes-Maritimes\Nice,Commune\cities~NiceNice,Cité.protect.md) 
+
+### [Nice,Cité.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Provence-Alpes-Côte_d'Azur\departments~Provence\Alpes-Maritimes\communes~Alpes-Maritimes\Nice,Commune\cities~NiceNice,Cité.private.md) 
+
+### [Nice,Cité.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Provence-Alpes-Côte_d'Azur\departments~Provence\Alpes-Maritimes\communes~Alpes-Maritimes\Nice,Commune\cities~NiceNice,Cité.personal.md) 
+
+### [Nice,Cité.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Provence-Alpes-Côte_d'Azur\departments~Provence\Alpes-Maritimes\communes~Alpes-Maritimes\Nice,Commune\cities~NiceNice,Cité.secret.md)
+

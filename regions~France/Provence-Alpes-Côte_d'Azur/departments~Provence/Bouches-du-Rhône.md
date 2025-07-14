@@ -40,11 +40,16 @@ markerFolder: ./Département~Bouches-du-Rhône/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/geo/Continent/egions/Provence-Alpes-Côte d'Azur/Département~Bouches-du-Rhône|Département~Bouches-du-Rhône]] 
-- [[../../../../../_public/geo/Continent/egions/Provence-Alpes-Côte d'Azur/Département~Bouches-du-Rhône.public|Département~Bouches-du-Rhône.public]] 
-- [[../../../../../_internal/geo/Continent/egions/Provence-Alpes-Côte d'Azur/Département~Bouches-du-Rhône.internal|Département~Bouches-du-Rhône.internal]] 
-- [[../../../../../_protect/geo/Continent/egions/Provence-Alpes-Côte d'Azur/Département~Bouches-du-Rhône.protect|Département~Bouches-du-Rhône.protect]] 
-- [[../../../../../_private/geo/Continent/egions/Provence-Alpes-Côte d'Azur/Département~Bouches-du-Rhône.private|Département~Bouches-du-Rhône.private]] 
-- [[../../../../../_personal/geo/Continent/egions/Provence-Alpes-Côte d'Azur/Département~Bouches-du-Rhône.personal|Département~Bouches-du-Rhône.personal]] 
-- [[../../../../../_secret/geo/Continent/egions/Provence-Alpes-Côte d'Azur/Département~Bouches-du-Rhône.secret|Département~Bouches-du-Rhône.secret]] 
+
+### [Bouches-du-Rhône.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Provence-Alpes-Côte_d'Azur\departments~ProvenceBouches-du-Rhône.public.md) 
+
+### [Bouches-du-Rhône.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Provence-Alpes-Côte_d'Azur\departments~ProvenceBouches-du-Rhône.internal.md) 
+
+### [Bouches-du-Rhône.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Provence-Alpes-Côte_d'Azur\departments~ProvenceBouches-du-Rhône.protect.md) 
+
+### [Bouches-du-Rhône.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Provence-Alpes-Côte_d'Azur\departments~ProvenceBouches-du-Rhône.private.md) 
+
+### [Bouches-du-Rhône.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Provence-Alpes-Côte_d'Azur\departments~ProvenceBouches-du-Rhône.personal.md) 
+
+### [Bouches-du-Rhône.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Provence-Alpes-Côte_d'Azur\departments~ProvenceBouches-du-Rhône.secret.md)
 

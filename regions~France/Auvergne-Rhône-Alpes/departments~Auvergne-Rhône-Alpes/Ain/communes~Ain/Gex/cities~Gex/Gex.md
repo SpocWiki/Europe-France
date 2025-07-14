@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~West/France/City/Gex|Gex]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~West/France/City/Gex.public|Gex.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~West/France/City/Gex.internal|Gex.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~West/France/City/Gex.protect|Gex.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~West/France/City/Gex.private|Gex.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~West/France/City/Gex.personal|Gex.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~West/France/City/Gex.secret|Gex.secret]] 
+
+### [Gex.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Auvergne-Rhône-Alpes\departments~Auvergne-Rhône-Alpes\Ain\communes~Ain\Gex\cities~GexGex.public.md) 
+
+### [Gex.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Auvergne-Rhône-Alpes\departments~Auvergne-Rhône-Alpes\Ain\communes~Ain\Gex\cities~GexGex.internal.md) 
+
+### [Gex.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Auvergne-Rhône-Alpes\departments~Auvergne-Rhône-Alpes\Ain\communes~Ain\Gex\cities~GexGex.protect.md) 
+
+### [Gex.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Auvergne-Rhône-Alpes\departments~Auvergne-Rhône-Alpes\Ain\communes~Ain\Gex\cities~GexGex.private.md) 
+
+### [Gex.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Auvergne-Rhône-Alpes\departments~Auvergne-Rhône-Alpes\Ain\communes~Ain\Gex\cities~GexGex.personal.md) 
+
+### [Gex.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Auvergne-Rhône-Alpes\departments~Auvergne-Rhône-Alpes\Ain\communes~Ain\Gex\cities~GexGex.secret.md)
+

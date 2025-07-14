@@ -40,11 +40,16 @@ markerFolder: ./Haute-Corse/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../_Standards/geo/Continent/Europe/Europe~West/France/Counties/Corsica/Haute-Corse|Haute-Corse]] 
-- [[../../../../../../../../_public/geo/Continent/Europe/Europe~West/France/Counties/Corsica/Haute-Corse.public|Haute-Corse.public]] 
-- [[../../../../../../../../_internal/geo/Continent/Europe/Europe~West/France/Counties/Corsica/Haute-Corse.internal|Haute-Corse.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Europe~West/France/Counties/Corsica/Haute-Corse.protect|Haute-Corse.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Europe~West/France/Counties/Corsica/Haute-Corse.private|Haute-Corse.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Europe~West/France/Counties/Corsica/Haute-Corse.personal|Haute-Corse.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Europe~West/France/Counties/Corsica/Haute-Corse.secret|Haute-Corse.secret]] 
+
+### [Haute-Corse.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Corse\departments~CorseHaute-Corse.public.md) 
+
+### [Haute-Corse.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Corse\departments~CorseHaute-Corse.internal.md) 
+
+### [Haute-Corse.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Corse\departments~CorseHaute-Corse.protect.md) 
+
+### [Haute-Corse.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Corse\departments~CorseHaute-Corse.private.md) 
+
+### [Haute-Corse.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Corse\departments~CorseHaute-Corse.personal.md) 
+
+### [Haute-Corse.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Corse\departments~CorseHaute-Corse.secret.md)
 

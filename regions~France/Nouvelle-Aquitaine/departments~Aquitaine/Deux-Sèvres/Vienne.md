@@ -40,11 +40,16 @@ markerFolder: ./Vienne/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../../_Standards/geo/Continent/Europe/Europe~West/France/Counties/Nouvelle-Aquitaine/Département~Deux-Sèvres/Vienne|Vienne]] 
-- [[../../../../../../../../../_public/geo/Continent/Europe/Europe~West/France/Counties/Nouvelle-Aquitaine/Département~Deux-Sèvres/Vienne.public|Vienne.public]] 
-- [[../../../../../../../../../_internal/geo/Continent/Europe/Europe~West/France/Counties/Nouvelle-Aquitaine/Département~Deux-Sèvres/Vienne.internal|Vienne.internal]] 
-- [[../../../../../../../../../_protect/geo/Continent/Europe/Europe~West/France/Counties/Nouvelle-Aquitaine/Département~Deux-Sèvres/Vienne.protect|Vienne.protect]] 
-- [[../../../../../../../../../_private/geo/Continent/Europe/Europe~West/France/Counties/Nouvelle-Aquitaine/Département~Deux-Sèvres/Vienne.private|Vienne.private]] 
-- [[../../../../../../../../../_personal/geo/Continent/Europe/Europe~West/France/Counties/Nouvelle-Aquitaine/Département~Deux-Sèvres/Vienne.personal|Vienne.personal]] 
-- [[../../../../../../../../../_secret/geo/Continent/Europe/Europe~West/France/Counties/Nouvelle-Aquitaine/Département~Deux-Sèvres/Vienne.secret|Vienne.secret]] 
+
+### [Vienne.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~Aquitaine\Deux-SèvresVienne.public.md) 
+
+### [Vienne.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~Aquitaine\Deux-SèvresVienne.internal.md) 
+
+### [Vienne.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~Aquitaine\Deux-SèvresVienne.protect.md) 
+
+### [Vienne.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~Aquitaine\Deux-SèvresVienne.private.md) 
+
+### [Vienne.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~Aquitaine\Deux-SèvresVienne.personal.md) 
+
+### [Vienne.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~Aquitaine\Deux-SèvresVienne.secret.md)
 

@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~West/France/City/Flers|Flers]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~West/France/City/Flers.public|Flers.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~West/France/City/Flers.internal|Flers.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~West/France/City/Flers.protect|Flers.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~West/France/City/Flers.private|Flers.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~West/France/City/Flers.personal|Flers.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~West/France/City/Flers.secret|Flers.secret]] 
+
+### [Flers.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Normandie\departments~Normandie\Orne\communes~Orne\Argentan\cities~ArgentanFlers.public.md) 
+
+### [Flers.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Normandie\departments~Normandie\Orne\communes~Orne\Argentan\cities~ArgentanFlers.internal.md) 
+
+### [Flers.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Normandie\departments~Normandie\Orne\communes~Orne\Argentan\cities~ArgentanFlers.protect.md) 
+
+### [Flers.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Normandie\departments~Normandie\Orne\communes~Orne\Argentan\cities~ArgentanFlers.private.md) 
+
+### [Flers.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Normandie\departments~Normandie\Orne\communes~Orne\Argentan\cities~ArgentanFlers.personal.md) 
+
+### [Flers.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Normandie\departments~Normandie\Orne\communes~Orne\Argentan\cities~ArgentanFlers.secret.md)
+
