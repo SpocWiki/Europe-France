@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Reims.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Grand_Est\departments~Grand_Est\Marne\communes~Marne\Reims\cities~ReimsReims.public.md) 
+### [Reims](/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Grand_Est/departments~Grand_Est/Marne/communes~Marne/Reims/cities~Reims/Reims.md) 
 
-### [Reims.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Grand_Est\departments~Grand_Est\Marne\communes~Marne\Reims\cities~ReimsReims.internal.md) 
+### [Reims.public](/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Grand_Est/departments~Grand_Est/Marne/communes~Marne/Reims/cities~Reims/Reims.public.md) 
 
-### [Reims.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Grand_Est\departments~Grand_Est\Marne\communes~Marne\Reims\cities~ReimsReims.protect.md) 
+### [Reims.internal](/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Grand_Est/departments~Grand_Est/Marne/communes~Marne/Reims/cities~Reims/Reims.internal.md) 
 
-### [Reims.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Grand_Est\departments~Grand_Est\Marne\communes~Marne\Reims\cities~ReimsReims.private.md) 
+### [Reims.protect](/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Grand_Est/departments~Grand_Est/Marne/communes~Marne/Reims/cities~Reims/Reims.protect.md) 
 
-### [Reims.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Grand_Est\departments~Grand_Est\Marne\communes~Marne\Reims\cities~ReimsReims.personal.md) 
+### [Reims.private](/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Grand_Est/departments~Grand_Est/Marne/communes~Marne/Reims/cities~Reims/Reims.private.md) 
 
-### [Reims.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Grand_Est\departments~Grand_Est\Marne\communes~Marne\Reims\cities~ReimsReims.secret.md)
+### [Reims.personal](/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Grand_Est/departments~Grand_Est/Marne/communes~Marne/Reims/cities~Reims/Reims.personal.md) 
+
+### [Reims.secret](/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Grand_Est/departments~Grand_Est/Marne/communes~Marne/Reims/cities~Reims/Reims.secret.md)
 

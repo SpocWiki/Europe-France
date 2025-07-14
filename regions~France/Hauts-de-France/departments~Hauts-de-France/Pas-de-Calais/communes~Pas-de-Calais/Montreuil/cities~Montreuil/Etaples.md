@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Etaples.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Hauts-de-France\departments~Hauts-de-France\Pas-de-Calais\communes~Pas-de-Calais\Montreuil\cities~MontreuilEtaples.public.md) 
+### [Etaples](/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Hauts-de-France/departments~Hauts-de-France/Pas-de-Calais/communes~Pas-de-Calais/Montreuil/cities~Montreuil/Etaples.md) 
 
-### [Etaples.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Hauts-de-France\departments~Hauts-de-France\Pas-de-Calais\communes~Pas-de-Calais\Montreuil\cities~MontreuilEtaples.internal.md) 
+### [Etaples.public](/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Hauts-de-France/departments~Hauts-de-France/Pas-de-Calais/communes~Pas-de-Calais/Montreuil/cities~Montreuil/Etaples.public.md) 
 
-### [Etaples.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Hauts-de-France\departments~Hauts-de-France\Pas-de-Calais\communes~Pas-de-Calais\Montreuil\cities~MontreuilEtaples.protect.md) 
+### [Etaples.internal](/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Hauts-de-France/departments~Hauts-de-France/Pas-de-Calais/communes~Pas-de-Calais/Montreuil/cities~Montreuil/Etaples.internal.md) 
 
-### [Etaples.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Hauts-de-France\departments~Hauts-de-France\Pas-de-Calais\communes~Pas-de-Calais\Montreuil\cities~MontreuilEtaples.private.md) 
+### [Etaples.protect](/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Hauts-de-France/departments~Hauts-de-France/Pas-de-Calais/communes~Pas-de-Calais/Montreuil/cities~Montreuil/Etaples.protect.md) 
 
-### [Etaples.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Hauts-de-France\departments~Hauts-de-France\Pas-de-Calais\communes~Pas-de-Calais\Montreuil\cities~MontreuilEtaples.personal.md) 
+### [Etaples.private](/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Hauts-de-France/departments~Hauts-de-France/Pas-de-Calais/communes~Pas-de-Calais/Montreuil/cities~Montreuil/Etaples.private.md) 
 
-### [Etaples.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Hauts-de-France\departments~Hauts-de-France\Pas-de-Calais\communes~Pas-de-Calais\Montreuil\cities~MontreuilEtaples.secret.md)
+### [Etaples.personal](/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Hauts-de-France/departments~Hauts-de-France/Pas-de-Calais/communes~Pas-de-Calais/Montreuil/cities~Montreuil/Etaples.personal.md) 
+
+### [Etaples.secret](/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Hauts-de-France/departments~Hauts-de-France/Pas-de-Calais/communes~Pas-de-Calais/Montreuil/cities~Montreuil/Etaples.secret.md)
 

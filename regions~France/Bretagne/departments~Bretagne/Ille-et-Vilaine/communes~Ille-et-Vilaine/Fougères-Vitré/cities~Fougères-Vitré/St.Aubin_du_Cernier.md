@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [St.Aubin_du_Cernier.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Bretagne\departments~Bretagne\Ille-et-Vilaine\communes~Ille-et-Vilaine\Fougères-Vitré\cities~Fougères-VitréSt.Aubin_du_Cernier.public.md) 
+### [St.Aubin_du_Cernier](/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Bretagne/departments~Bretagne/Ille-et-Vilaine/communes~Ille-et-Vilaine/Fougères-Vitré/cities~Fougères-Vitré/St.Aubin_du_Cernier.md) 
 
-### [St.Aubin_du_Cernier.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Bretagne\departments~Bretagne\Ille-et-Vilaine\communes~Ille-et-Vilaine\Fougères-Vitré\cities~Fougères-VitréSt.Aubin_du_Cernier.internal.md) 
+### [St.Aubin_du_Cernier.public](/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Bretagne/departments~Bretagne/Ille-et-Vilaine/communes~Ille-et-Vilaine/Fougères-Vitré/cities~Fougères-Vitré/St.Aubin_du_Cernier.public.md) 
 
-### [St.Aubin_du_Cernier.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Bretagne\departments~Bretagne\Ille-et-Vilaine\communes~Ille-et-Vilaine\Fougères-Vitré\cities~Fougères-VitréSt.Aubin_du_Cernier.protect.md) 
+### [St.Aubin_du_Cernier.internal](/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Bretagne/departments~Bretagne/Ille-et-Vilaine/communes~Ille-et-Vilaine/Fougères-Vitré/cities~Fougères-Vitré/St.Aubin_du_Cernier.internal.md) 
 
-### [St.Aubin_du_Cernier.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Bretagne\departments~Bretagne\Ille-et-Vilaine\communes~Ille-et-Vilaine\Fougères-Vitré\cities~Fougères-VitréSt.Aubin_du_Cernier.private.md) 
+### [St.Aubin_du_Cernier.protect](/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Bretagne/departments~Bretagne/Ille-et-Vilaine/communes~Ille-et-Vilaine/Fougères-Vitré/cities~Fougères-Vitré/St.Aubin_du_Cernier.protect.md) 
 
-### [St.Aubin_du_Cernier.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Bretagne\departments~Bretagne\Ille-et-Vilaine\communes~Ille-et-Vilaine\Fougères-Vitré\cities~Fougères-VitréSt.Aubin_du_Cernier.personal.md) 
+### [St.Aubin_du_Cernier.private](/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Bretagne/departments~Bretagne/Ille-et-Vilaine/communes~Ille-et-Vilaine/Fougères-Vitré/cities~Fougères-Vitré/St.Aubin_du_Cernier.private.md) 
 
-### [St.Aubin_du_Cernier.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Bretagne\departments~Bretagne\Ille-et-Vilaine\communes~Ille-et-Vilaine\Fougères-Vitré\cities~Fougères-VitréSt.Aubin_du_Cernier.secret.md)
+### [St.Aubin_du_Cernier.personal](/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Bretagne/departments~Bretagne/Ille-et-Vilaine/communes~Ille-et-Vilaine/Fougères-Vitré/cities~Fougères-Vitré/St.Aubin_du_Cernier.personal.md) 
+
+### [St.Aubin_du_Cernier.secret](/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Bretagne/departments~Bretagne/Ille-et-Vilaine/communes~Ille-et-Vilaine/Fougères-Vitré/cities~Fougères-Vitré/St.Aubin_du_Cernier.secret.md)
 

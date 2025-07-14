@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Tarbes.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~Occitanie\Hautes-Pyrénées\communes~Hautes-Pyrénées\Tarbes\cities~TarbesTarbes.public.md) 
+### [Tarbes](/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Hautes-Pyrénées/communes~Hautes-Pyrénées/Tarbes/cities~Tarbes/Tarbes.md) 
 
-### [Tarbes.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~Occitanie\Hautes-Pyrénées\communes~Hautes-Pyrénées\Tarbes\cities~TarbesTarbes.internal.md) 
+### [Tarbes.public](/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Hautes-Pyrénées/communes~Hautes-Pyrénées/Tarbes/cities~Tarbes/Tarbes.public.md) 
 
-### [Tarbes.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~Occitanie\Hautes-Pyrénées\communes~Hautes-Pyrénées\Tarbes\cities~TarbesTarbes.protect.md) 
+### [Tarbes.internal](/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Hautes-Pyrénées/communes~Hautes-Pyrénées/Tarbes/cities~Tarbes/Tarbes.internal.md) 
 
-### [Tarbes.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~Occitanie\Hautes-Pyrénées\communes~Hautes-Pyrénées\Tarbes\cities~TarbesTarbes.private.md) 
+### [Tarbes.protect](/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Hautes-Pyrénées/communes~Hautes-Pyrénées/Tarbes/cities~Tarbes/Tarbes.protect.md) 
 
-### [Tarbes.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~Occitanie\Hautes-Pyrénées\communes~Hautes-Pyrénées\Tarbes\cities~TarbesTarbes.personal.md) 
+### [Tarbes.private](/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Hautes-Pyrénées/communes~Hautes-Pyrénées/Tarbes/cities~Tarbes/Tarbes.private.md) 
 
-### [Tarbes.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~Occitanie\Hautes-Pyrénées\communes~Hautes-Pyrénées\Tarbes\cities~TarbesTarbes.secret.md)
+### [Tarbes.personal](/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Hautes-Pyrénées/communes~Hautes-Pyrénées/Tarbes/cities~Tarbes/Tarbes.personal.md) 
+
+### [Tarbes.secret](/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Hautes-Pyrénées/communes~Hautes-Pyrénées/Tarbes/cities~Tarbes/Tarbes.secret.md)
 

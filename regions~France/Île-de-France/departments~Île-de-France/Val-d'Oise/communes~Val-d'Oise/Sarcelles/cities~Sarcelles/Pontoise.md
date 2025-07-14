@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Pontoise.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Île-de-France\departments~Île-de-France\Val-d'Oise\communes~Val-d'Oise\Sarcelles\cities~SarcellesPontoise.public.md) 
+### [Pontoise](/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Île-de-France/departments~Île-de-France/Val-d'Oise/communes~Val-d'Oise/Sarcelles/cities~Sarcelles/Pontoise.md) 
 
-### [Pontoise.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Île-de-France\departments~Île-de-France\Val-d'Oise\communes~Val-d'Oise\Sarcelles\cities~SarcellesPontoise.internal.md) 
+### [Pontoise.public](/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Île-de-France/departments~Île-de-France/Val-d'Oise/communes~Val-d'Oise/Sarcelles/cities~Sarcelles/Pontoise.public.md) 
 
-### [Pontoise.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Île-de-France\departments~Île-de-France\Val-d'Oise\communes~Val-d'Oise\Sarcelles\cities~SarcellesPontoise.protect.md) 
+### [Pontoise.internal](/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Île-de-France/departments~Île-de-France/Val-d'Oise/communes~Val-d'Oise/Sarcelles/cities~Sarcelles/Pontoise.internal.md) 
 
-### [Pontoise.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Île-de-France\departments~Île-de-France\Val-d'Oise\communes~Val-d'Oise\Sarcelles\cities~SarcellesPontoise.private.md) 
+### [Pontoise.protect](/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Île-de-France/departments~Île-de-France/Val-d'Oise/communes~Val-d'Oise/Sarcelles/cities~Sarcelles/Pontoise.protect.md) 
 
-### [Pontoise.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Île-de-France\departments~Île-de-France\Val-d'Oise\communes~Val-d'Oise\Sarcelles\cities~SarcellesPontoise.personal.md) 
+### [Pontoise.private](/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Île-de-France/departments~Île-de-France/Val-d'Oise/communes~Val-d'Oise/Sarcelles/cities~Sarcelles/Pontoise.private.md) 
 
-### [Pontoise.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Île-de-France\departments~Île-de-France\Val-d'Oise\communes~Val-d'Oise\Sarcelles\cities~SarcellesPontoise.secret.md)
+### [Pontoise.personal](/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Île-de-France/departments~Île-de-France/Val-d'Oise/communes~Val-d'Oise/Sarcelles/cities~Sarcelles/Pontoise.personal.md) 
+
+### [Pontoise.secret](/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Île-de-France/departments~Île-de-France/Val-d'Oise/communes~Val-d'Oise/Sarcelles/cities~Sarcelles/Pontoise.secret.md)
 

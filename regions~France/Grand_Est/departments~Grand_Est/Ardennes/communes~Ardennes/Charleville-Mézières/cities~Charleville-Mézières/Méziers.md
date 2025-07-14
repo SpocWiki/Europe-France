@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Méziers.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Grand_Est\departments~Grand_Est\Ardennes\communes~Ardennes\Charleville-Mézières\cities~Charleville-MézièresMéziers.public.md) 
+### [Méziers](/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Grand_Est/departments~Grand_Est/Ardennes/communes~Ardennes/Charleville-Mézières/cities~Charleville-Mézières/Méziers.md) 
 
-### [Méziers.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Grand_Est\departments~Grand_Est\Ardennes\communes~Ardennes\Charleville-Mézières\cities~Charleville-MézièresMéziers.internal.md) 
+### [Méziers.public](/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Grand_Est/departments~Grand_Est/Ardennes/communes~Ardennes/Charleville-Mézières/cities~Charleville-Mézières/Méziers.public.md) 
 
-### [Méziers.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Grand_Est\departments~Grand_Est\Ardennes\communes~Ardennes\Charleville-Mézières\cities~Charleville-MézièresMéziers.protect.md) 
+### [Méziers.internal](/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Grand_Est/departments~Grand_Est/Ardennes/communes~Ardennes/Charleville-Mézières/cities~Charleville-Mézières/Méziers.internal.md) 
 
-### [Méziers.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Grand_Est\departments~Grand_Est\Ardennes\communes~Ardennes\Charleville-Mézières\cities~Charleville-MézièresMéziers.private.md) 
+### [Méziers.protect](/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Grand_Est/departments~Grand_Est/Ardennes/communes~Ardennes/Charleville-Mézières/cities~Charleville-Mézières/Méziers.protect.md) 
 
-### [Méziers.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Grand_Est\departments~Grand_Est\Ardennes\communes~Ardennes\Charleville-Mézières\cities~Charleville-MézièresMéziers.personal.md) 
+### [Méziers.private](/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Grand_Est/departments~Grand_Est/Ardennes/communes~Ardennes/Charleville-Mézières/cities~Charleville-Mézières/Méziers.private.md) 
 
-### [Méziers.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Grand_Est\departments~Grand_Est\Ardennes\communes~Ardennes\Charleville-Mézières\cities~Charleville-MézièresMéziers.secret.md)
+### [Méziers.personal](/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Grand_Est/departments~Grand_Est/Ardennes/communes~Ardennes/Charleville-Mézières/cities~Charleville-Mézières/Méziers.personal.md) 
+
+### [Méziers.secret](/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Grand_Est/departments~Grand_Est/Ardennes/communes~Ardennes/Charleville-Mézières/cities~Charleville-Mézières/Méziers.secret.md)
 

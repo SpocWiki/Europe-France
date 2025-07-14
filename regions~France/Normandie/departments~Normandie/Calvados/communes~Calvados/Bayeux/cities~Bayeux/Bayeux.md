@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Bayeux.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Normandie\departments~Normandie\Calvados\communes~Calvados\Bayeux\cities~BayeuxBayeux.public.md) 
+### [Bayeux](/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Normandie/departments~Normandie/Calvados/communes~Calvados/Bayeux/cities~Bayeux/Bayeux.md) 
 
-### [Bayeux.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Normandie\departments~Normandie\Calvados\communes~Calvados\Bayeux\cities~BayeuxBayeux.internal.md) 
+### [Bayeux.public](/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Normandie/departments~Normandie/Calvados/communes~Calvados/Bayeux/cities~Bayeux/Bayeux.public.md) 
 
-### [Bayeux.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Normandie\departments~Normandie\Calvados\communes~Calvados\Bayeux\cities~BayeuxBayeux.protect.md) 
+### [Bayeux.internal](/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Normandie/departments~Normandie/Calvados/communes~Calvados/Bayeux/cities~Bayeux/Bayeux.internal.md) 
 
-### [Bayeux.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Normandie\departments~Normandie\Calvados\communes~Calvados\Bayeux\cities~BayeuxBayeux.private.md) 
+### [Bayeux.protect](/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Normandie/departments~Normandie/Calvados/communes~Calvados/Bayeux/cities~Bayeux/Bayeux.protect.md) 
 
-### [Bayeux.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Normandie\departments~Normandie\Calvados\communes~Calvados\Bayeux\cities~BayeuxBayeux.personal.md) 
+### [Bayeux.private](/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Normandie/departments~Normandie/Calvados/communes~Calvados/Bayeux/cities~Bayeux/Bayeux.private.md) 
 
-### [Bayeux.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Normandie\departments~Normandie\Calvados\communes~Calvados\Bayeux\cities~BayeuxBayeux.secret.md)
+### [Bayeux.personal](/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Normandie/departments~Normandie/Calvados/communes~Calvados/Bayeux/cities~Bayeux/Bayeux.personal.md) 
+
+### [Bayeux.secret](/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Normandie/departments~Normandie/Calvados/communes~Calvados/Bayeux/cities~Bayeux/Bayeux.secret.md)
 

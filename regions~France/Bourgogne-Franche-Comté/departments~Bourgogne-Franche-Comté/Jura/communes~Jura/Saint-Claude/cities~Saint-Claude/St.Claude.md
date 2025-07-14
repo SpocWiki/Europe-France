@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [St.Claude.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Bourgogne-Franche-Comté\departments~Bourgogne-Franche-Comté\Jura\communes~Jura\Saint-Claude\cities~Saint-ClaudeSt.Claude.public.md) 
+### [St.Claude](/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Bourgogne-Franche-Comté/departments~Bourgogne-Franche-Comté/Jura/communes~Jura/Saint-Claude/cities~Saint-Claude/St.Claude.md) 
 
-### [St.Claude.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Bourgogne-Franche-Comté\departments~Bourgogne-Franche-Comté\Jura\communes~Jura\Saint-Claude\cities~Saint-ClaudeSt.Claude.internal.md) 
+### [St.Claude.public](/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Bourgogne-Franche-Comté/departments~Bourgogne-Franche-Comté/Jura/communes~Jura/Saint-Claude/cities~Saint-Claude/St.Claude.public.md) 
 
-### [St.Claude.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Bourgogne-Franche-Comté\departments~Bourgogne-Franche-Comté\Jura\communes~Jura\Saint-Claude\cities~Saint-ClaudeSt.Claude.protect.md) 
+### [St.Claude.internal](/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Bourgogne-Franche-Comté/departments~Bourgogne-Franche-Comté/Jura/communes~Jura/Saint-Claude/cities~Saint-Claude/St.Claude.internal.md) 
 
-### [St.Claude.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Bourgogne-Franche-Comté\departments~Bourgogne-Franche-Comté\Jura\communes~Jura\Saint-Claude\cities~Saint-ClaudeSt.Claude.private.md) 
+### [St.Claude.protect](/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Bourgogne-Franche-Comté/departments~Bourgogne-Franche-Comté/Jura/communes~Jura/Saint-Claude/cities~Saint-Claude/St.Claude.protect.md) 
 
-### [St.Claude.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Bourgogne-Franche-Comté\departments~Bourgogne-Franche-Comté\Jura\communes~Jura\Saint-Claude\cities~Saint-ClaudeSt.Claude.personal.md) 
+### [St.Claude.private](/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Bourgogne-Franche-Comté/departments~Bourgogne-Franche-Comté/Jura/communes~Jura/Saint-Claude/cities~Saint-Claude/St.Claude.private.md) 
 
-### [St.Claude.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Bourgogne-Franche-Comté\departments~Bourgogne-Franche-Comté\Jura\communes~Jura\Saint-Claude\cities~Saint-ClaudeSt.Claude.secret.md)
+### [St.Claude.personal](/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Bourgogne-Franche-Comté/departments~Bourgogne-Franche-Comté/Jura/communes~Jura/Saint-Claude/cities~Saint-Claude/St.Claude.personal.md) 
+
+### [St.Claude.secret](/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Bourgogne-Franche-Comté/departments~Bourgogne-Franche-Comté/Jura/communes~Jura/Saint-Claude/cities~Saint-Claude/St.Claude.secret.md)
 

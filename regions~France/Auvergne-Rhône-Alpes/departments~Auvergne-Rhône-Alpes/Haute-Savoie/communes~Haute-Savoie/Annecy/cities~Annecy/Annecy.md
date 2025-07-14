@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Annecy.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Auvergne-Rhône-Alpes\departments~Auvergne-Rhône-Alpes\Haute-Savoie\communes~Haute-Savoie\Annecy\cities~AnnecyAnnecy.public.md) 
+### [Annecy](/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Auvergne-Rhône-Alpes/departments~Auvergne-Rhône-Alpes/Haute-Savoie/communes~Haute-Savoie/Annecy/cities~Annecy/Annecy.md) 
 
-### [Annecy.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Auvergne-Rhône-Alpes\departments~Auvergne-Rhône-Alpes\Haute-Savoie\communes~Haute-Savoie\Annecy\cities~AnnecyAnnecy.internal.md) 
+### [Annecy.public](/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Auvergne-Rhône-Alpes/departments~Auvergne-Rhône-Alpes/Haute-Savoie/communes~Haute-Savoie/Annecy/cities~Annecy/Annecy.public.md) 
 
-### [Annecy.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Auvergne-Rhône-Alpes\departments~Auvergne-Rhône-Alpes\Haute-Savoie\communes~Haute-Savoie\Annecy\cities~AnnecyAnnecy.protect.md) 
+### [Annecy.internal](/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Auvergne-Rhône-Alpes/departments~Auvergne-Rhône-Alpes/Haute-Savoie/communes~Haute-Savoie/Annecy/cities~Annecy/Annecy.internal.md) 
 
-### [Annecy.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Auvergne-Rhône-Alpes\departments~Auvergne-Rhône-Alpes\Haute-Savoie\communes~Haute-Savoie\Annecy\cities~AnnecyAnnecy.private.md) 
+### [Annecy.protect](/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Auvergne-Rhône-Alpes/departments~Auvergne-Rhône-Alpes/Haute-Savoie/communes~Haute-Savoie/Annecy/cities~Annecy/Annecy.protect.md) 
 
-### [Annecy.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Auvergne-Rhône-Alpes\departments~Auvergne-Rhône-Alpes\Haute-Savoie\communes~Haute-Savoie\Annecy\cities~AnnecyAnnecy.personal.md) 
+### [Annecy.private](/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Auvergne-Rhône-Alpes/departments~Auvergne-Rhône-Alpes/Haute-Savoie/communes~Haute-Savoie/Annecy/cities~Annecy/Annecy.private.md) 
 
-### [Annecy.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Auvergne-Rhône-Alpes\departments~Auvergne-Rhône-Alpes\Haute-Savoie\communes~Haute-Savoie\Annecy\cities~AnnecyAnnecy.secret.md)
+### [Annecy.personal](/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Auvergne-Rhône-Alpes/departments~Auvergne-Rhône-Alpes/Haute-Savoie/communes~Haute-Savoie/Annecy/cities~Annecy/Annecy.personal.md) 
+
+### [Annecy.secret](/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Auvergne-Rhône-Alpes/departments~Auvergne-Rhône-Alpes/Haute-Savoie/communes~Haute-Savoie/Annecy/cities~Annecy/Annecy.secret.md)
 

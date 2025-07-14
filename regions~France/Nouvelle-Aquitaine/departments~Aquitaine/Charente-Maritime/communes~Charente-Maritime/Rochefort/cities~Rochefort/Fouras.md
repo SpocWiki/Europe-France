@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Fouras.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~Aquitaine\Charente-Maritime\communes~Charente-Maritime\Rochefort\cities~RochefortFouras.public.md) 
+### [Fouras](/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Nouvelle-Aquitaine/departments~Aquitaine/Charente-Maritime/communes~Charente-Maritime/Rochefort/cities~Rochefort/Fouras.md) 
 
-### [Fouras.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~Aquitaine\Charente-Maritime\communes~Charente-Maritime\Rochefort\cities~RochefortFouras.internal.md) 
+### [Fouras.public](/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Nouvelle-Aquitaine/departments~Aquitaine/Charente-Maritime/communes~Charente-Maritime/Rochefort/cities~Rochefort/Fouras.public.md) 
 
-### [Fouras.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~Aquitaine\Charente-Maritime\communes~Charente-Maritime\Rochefort\cities~RochefortFouras.protect.md) 
+### [Fouras.internal](/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Nouvelle-Aquitaine/departments~Aquitaine/Charente-Maritime/communes~Charente-Maritime/Rochefort/cities~Rochefort/Fouras.internal.md) 
 
-### [Fouras.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~Aquitaine\Charente-Maritime\communes~Charente-Maritime\Rochefort\cities~RochefortFouras.private.md) 
+### [Fouras.protect](/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Nouvelle-Aquitaine/departments~Aquitaine/Charente-Maritime/communes~Charente-Maritime/Rochefort/cities~Rochefort/Fouras.protect.md) 
 
-### [Fouras.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~Aquitaine\Charente-Maritime\communes~Charente-Maritime\Rochefort\cities~RochefortFouras.personal.md) 
+### [Fouras.private](/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Nouvelle-Aquitaine/departments~Aquitaine/Charente-Maritime/communes~Charente-Maritime/Rochefort/cities~Rochefort/Fouras.private.md) 
 
-### [Fouras.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~Aquitaine\Charente-Maritime\communes~Charente-Maritime\Rochefort\cities~RochefortFouras.secret.md)
+### [Fouras.personal](/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Nouvelle-Aquitaine/departments~Aquitaine/Charente-Maritime/communes~Charente-Maritime/Rochefort/cities~Rochefort/Fouras.personal.md) 
+
+### [Fouras.secret](/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Nouvelle-Aquitaine/departments~Aquitaine/Charente-Maritime/communes~Charente-Maritime/Rochefort/cities~Rochefort/Fouras.secret.md)
 

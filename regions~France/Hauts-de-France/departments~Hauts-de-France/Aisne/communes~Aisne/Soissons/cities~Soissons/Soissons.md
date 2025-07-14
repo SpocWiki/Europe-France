@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Soissons.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Hauts-de-France\departments~Hauts-de-France\Aisne\communes~Aisne\Soissons\cities~SoissonsSoissons.public.md) 
+### [Soissons](/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Hauts-de-France/departments~Hauts-de-France/Aisne/communes~Aisne/Soissons/cities~Soissons/Soissons.md) 
 
-### [Soissons.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Hauts-de-France\departments~Hauts-de-France\Aisne\communes~Aisne\Soissons\cities~SoissonsSoissons.internal.md) 
+### [Soissons.public](/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Hauts-de-France/departments~Hauts-de-France/Aisne/communes~Aisne/Soissons/cities~Soissons/Soissons.public.md) 
 
-### [Soissons.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Hauts-de-France\departments~Hauts-de-France\Aisne\communes~Aisne\Soissons\cities~SoissonsSoissons.protect.md) 
+### [Soissons.internal](/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Hauts-de-France/departments~Hauts-de-France/Aisne/communes~Aisne/Soissons/cities~Soissons/Soissons.internal.md) 
 
-### [Soissons.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Hauts-de-France\departments~Hauts-de-France\Aisne\communes~Aisne\Soissons\cities~SoissonsSoissons.private.md) 
+### [Soissons.protect](/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Hauts-de-France/departments~Hauts-de-France/Aisne/communes~Aisne/Soissons/cities~Soissons/Soissons.protect.md) 
 
-### [Soissons.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Hauts-de-France\departments~Hauts-de-France\Aisne\communes~Aisne\Soissons\cities~SoissonsSoissons.personal.md) 
+### [Soissons.private](/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Hauts-de-France/departments~Hauts-de-France/Aisne/communes~Aisne/Soissons/cities~Soissons/Soissons.private.md) 
 
-### [Soissons.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Hauts-de-France\departments~Hauts-de-France\Aisne\communes~Aisne\Soissons\cities~SoissonsSoissons.secret.md)
+### [Soissons.personal](/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Hauts-de-France/departments~Hauts-de-France/Aisne/communes~Aisne/Soissons/cities~Soissons/Soissons.personal.md) 
+
+### [Soissons.secret](/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Hauts-de-France/departments~Hauts-de-France/Aisne/communes~Aisne/Soissons/cities~Soissons/Soissons.secret.md)
 

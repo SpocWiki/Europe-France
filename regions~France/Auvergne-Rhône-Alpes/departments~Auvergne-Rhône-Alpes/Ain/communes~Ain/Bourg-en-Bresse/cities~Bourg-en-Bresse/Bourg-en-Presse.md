@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Bourg-en-Presse.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Auvergne-Rhône-Alpes\departments~Auvergne-Rhône-Alpes\Ain\communes~Ain\Bourg-en-Bresse\cities~Bourg-en-BresseBourg-en-Presse.public.md) 
+### [Bourg-en-Presse](/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Auvergne-Rhône-Alpes/departments~Auvergne-Rhône-Alpes/Ain/communes~Ain/Bourg-en-Bresse/cities~Bourg-en-Bresse/Bourg-en-Presse.md) 
 
-### [Bourg-en-Presse.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Auvergne-Rhône-Alpes\departments~Auvergne-Rhône-Alpes\Ain\communes~Ain\Bourg-en-Bresse\cities~Bourg-en-BresseBourg-en-Presse.internal.md) 
+### [Bourg-en-Presse.public](/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Auvergne-Rhône-Alpes/departments~Auvergne-Rhône-Alpes/Ain/communes~Ain/Bourg-en-Bresse/cities~Bourg-en-Bresse/Bourg-en-Presse.public.md) 
 
-### [Bourg-en-Presse.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Auvergne-Rhône-Alpes\departments~Auvergne-Rhône-Alpes\Ain\communes~Ain\Bourg-en-Bresse\cities~Bourg-en-BresseBourg-en-Presse.protect.md) 
+### [Bourg-en-Presse.internal](/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Auvergne-Rhône-Alpes/departments~Auvergne-Rhône-Alpes/Ain/communes~Ain/Bourg-en-Bresse/cities~Bourg-en-Bresse/Bourg-en-Presse.internal.md) 
 
-### [Bourg-en-Presse.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Auvergne-Rhône-Alpes\departments~Auvergne-Rhône-Alpes\Ain\communes~Ain\Bourg-en-Bresse\cities~Bourg-en-BresseBourg-en-Presse.private.md) 
+### [Bourg-en-Presse.protect](/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Auvergne-Rhône-Alpes/departments~Auvergne-Rhône-Alpes/Ain/communes~Ain/Bourg-en-Bresse/cities~Bourg-en-Bresse/Bourg-en-Presse.protect.md) 
 
-### [Bourg-en-Presse.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Auvergne-Rhône-Alpes\departments~Auvergne-Rhône-Alpes\Ain\communes~Ain\Bourg-en-Bresse\cities~Bourg-en-BresseBourg-en-Presse.personal.md) 
+### [Bourg-en-Presse.private](/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Auvergne-Rhône-Alpes/departments~Auvergne-Rhône-Alpes/Ain/communes~Ain/Bourg-en-Bresse/cities~Bourg-en-Bresse/Bourg-en-Presse.private.md) 
 
-### [Bourg-en-Presse.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Auvergne-Rhône-Alpes\departments~Auvergne-Rhône-Alpes\Ain\communes~Ain\Bourg-en-Bresse\cities~Bourg-en-BresseBourg-en-Presse.secret.md)
+### [Bourg-en-Presse.personal](/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Auvergne-Rhône-Alpes/departments~Auvergne-Rhône-Alpes/Ain/communes~Ain/Bourg-en-Bresse/cities~Bourg-en-Bresse/Bourg-en-Presse.personal.md) 
+
+### [Bourg-en-Presse.secret](/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Auvergne-Rhône-Alpes/departments~Auvergne-Rhône-Alpes/Ain/communes~Ain/Bourg-en-Bresse/cities~Bourg-en-Bresse/Bourg-en-Presse.secret.md)
 

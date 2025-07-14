@@ -41,15 +41,17 @@ markerFolder: ./Département~Lot/
 
 ## Confidential Links & Embeds: 
 
-### [Lot.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~OccitanieLot.public.md) 
+### [Lot](/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Lot.md) 
 
-### [Lot.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~OccitanieLot.internal.md) 
+### [Lot.public](/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Lot.public.md) 
 
-### [Lot.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~OccitanieLot.protect.md) 
+### [Lot.internal](/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Lot.internal.md) 
 
-### [Lot.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~OccitanieLot.private.md) 
+### [Lot.protect](/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Lot.protect.md) 
 
-### [Lot.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~OccitanieLot.personal.md) 
+### [Lot.private](/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Lot.private.md) 
 
-### [Lot.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~OccitanieLot.secret.md)
+### [Lot.personal](/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Lot.personal.md) 
+
+### [Lot.secret](/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Lot.secret.md)
 

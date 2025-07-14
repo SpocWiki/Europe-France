@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Ciotat.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Provence-Alpes-Côte_d'Azur\departments~Provence\Bouches-du-Rhône\communes~RhôneCiotat.public.md) 
+### [Ciotat](/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Provence-Alpes-Côte_d'Azur/departments~Provence/Bouches-du-Rhône/communes~Rhône/Ciotat.md) 
 
-### [Ciotat.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Provence-Alpes-Côte_d'Azur\departments~Provence\Bouches-du-Rhône\communes~RhôneCiotat.internal.md) 
+### [Ciotat.public](/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Provence-Alpes-Côte_d'Azur/departments~Provence/Bouches-du-Rhône/communes~Rhône/Ciotat.public.md) 
 
-### [Ciotat.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Provence-Alpes-Côte_d'Azur\departments~Provence\Bouches-du-Rhône\communes~RhôneCiotat.protect.md) 
+### [Ciotat.internal](/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Provence-Alpes-Côte_d'Azur/departments~Provence/Bouches-du-Rhône/communes~Rhône/Ciotat.internal.md) 
 
-### [Ciotat.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Provence-Alpes-Côte_d'Azur\departments~Provence\Bouches-du-Rhône\communes~RhôneCiotat.private.md) 
+### [Ciotat.protect](/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Provence-Alpes-Côte_d'Azur/departments~Provence/Bouches-du-Rhône/communes~Rhône/Ciotat.protect.md) 
 
-### [Ciotat.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Provence-Alpes-Côte_d'Azur\departments~Provence\Bouches-du-Rhône\communes~RhôneCiotat.personal.md) 
+### [Ciotat.private](/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Provence-Alpes-Côte_d'Azur/departments~Provence/Bouches-du-Rhône/communes~Rhône/Ciotat.private.md) 
 
-### [Ciotat.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Provence-Alpes-Côte_d'Azur\departments~Provence\Bouches-du-Rhône\communes~RhôneCiotat.secret.md)
+### [Ciotat.personal](/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Provence-Alpes-Côte_d'Azur/departments~Provence/Bouches-du-Rhône/communes~Rhône/Ciotat.personal.md) 
+
+### [Ciotat.secret](/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Provence-Alpes-Côte_d'Azur/departments~Provence/Bouches-du-Rhône/communes~Rhône/Ciotat.secret.md)
 

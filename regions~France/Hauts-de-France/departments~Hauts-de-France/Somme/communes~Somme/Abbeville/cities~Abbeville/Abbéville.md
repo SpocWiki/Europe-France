@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Abbéville.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Hauts-de-France\departments~Hauts-de-France\Somme\communes~Somme\Abbeville\cities~AbbevilleAbbéville.public.md) 
+### [Abbéville](/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Hauts-de-France/departments~Hauts-de-France/Somme/communes~Somme/Abbeville/cities~Abbeville/Abbéville.md) 
 
-### [Abbéville.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Hauts-de-France\departments~Hauts-de-France\Somme\communes~Somme\Abbeville\cities~AbbevilleAbbéville.internal.md) 
+### [Abbéville.public](/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Hauts-de-France/departments~Hauts-de-France/Somme/communes~Somme/Abbeville/cities~Abbeville/Abbéville.public.md) 
 
-### [Abbéville.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Hauts-de-France\departments~Hauts-de-France\Somme\communes~Somme\Abbeville\cities~AbbevilleAbbéville.protect.md) 
+### [Abbéville.internal](/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Hauts-de-France/departments~Hauts-de-France/Somme/communes~Somme/Abbeville/cities~Abbeville/Abbéville.internal.md) 
 
-### [Abbéville.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Hauts-de-France\departments~Hauts-de-France\Somme\communes~Somme\Abbeville\cities~AbbevilleAbbéville.private.md) 
+### [Abbéville.protect](/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Hauts-de-France/departments~Hauts-de-France/Somme/communes~Somme/Abbeville/cities~Abbeville/Abbéville.protect.md) 
 
-### [Abbéville.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Hauts-de-France\departments~Hauts-de-France\Somme\communes~Somme\Abbeville\cities~AbbevilleAbbéville.personal.md) 
+### [Abbéville.private](/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Hauts-de-France/departments~Hauts-de-France/Somme/communes~Somme/Abbeville/cities~Abbeville/Abbéville.private.md) 
 
-### [Abbéville.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Hauts-de-France\departments~Hauts-de-France\Somme\communes~Somme\Abbeville\cities~AbbevilleAbbéville.secret.md)
+### [Abbéville.personal](/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Hauts-de-France/departments~Hauts-de-France/Somme/communes~Somme/Abbeville/cities~Abbeville/Abbéville.personal.md) 
+
+### [Abbéville.secret](/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Hauts-de-France/departments~Hauts-de-France/Somme/communes~Somme/Abbeville/cities~Abbeville/Abbéville.secret.md)
 

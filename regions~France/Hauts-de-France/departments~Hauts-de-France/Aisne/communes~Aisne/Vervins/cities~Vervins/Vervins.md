@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Vervins.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Hauts-de-France\departments~Hauts-de-France\Aisne\communes~Aisne\Vervins\cities~VervinsVervins.public.md) 
+### [Vervins](/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Hauts-de-France/departments~Hauts-de-France/Aisne/communes~Aisne/Vervins/cities~Vervins/Vervins.md) 
 
-### [Vervins.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Hauts-de-France\departments~Hauts-de-France\Aisne\communes~Aisne\Vervins\cities~VervinsVervins.internal.md) 
+### [Vervins.public](/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Hauts-de-France/departments~Hauts-de-France/Aisne/communes~Aisne/Vervins/cities~Vervins/Vervins.public.md) 
 
-### [Vervins.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Hauts-de-France\departments~Hauts-de-France\Aisne\communes~Aisne\Vervins\cities~VervinsVervins.protect.md) 
+### [Vervins.internal](/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Hauts-de-France/departments~Hauts-de-France/Aisne/communes~Aisne/Vervins/cities~Vervins/Vervins.internal.md) 
 
-### [Vervins.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Hauts-de-France\departments~Hauts-de-France\Aisne\communes~Aisne\Vervins\cities~VervinsVervins.private.md) 
+### [Vervins.protect](/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Hauts-de-France/departments~Hauts-de-France/Aisne/communes~Aisne/Vervins/cities~Vervins/Vervins.protect.md) 
 
-### [Vervins.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Hauts-de-France\departments~Hauts-de-France\Aisne\communes~Aisne\Vervins\cities~VervinsVervins.personal.md) 
+### [Vervins.private](/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Hauts-de-France/departments~Hauts-de-France/Aisne/communes~Aisne/Vervins/cities~Vervins/Vervins.private.md) 
 
-### [Vervins.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Hauts-de-France\departments~Hauts-de-France\Aisne\communes~Aisne\Vervins\cities~VervinsVervins.secret.md)
+### [Vervins.personal](/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Hauts-de-France/departments~Hauts-de-France/Aisne/communes~Aisne/Vervins/cities~Vervins/Vervins.personal.md) 
+
+### [Vervins.secret](/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Hauts-de-France/departments~Hauts-de-France/Aisne/communes~Aisne/Vervins/cities~Vervins/Vervins.secret.md)
 

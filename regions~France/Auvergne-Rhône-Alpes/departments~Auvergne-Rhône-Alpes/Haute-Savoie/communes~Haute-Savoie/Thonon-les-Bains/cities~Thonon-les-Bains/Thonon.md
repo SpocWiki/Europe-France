@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Thonon.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Auvergne-Rhône-Alpes\departments~Auvergne-Rhône-Alpes\Haute-Savoie\communes~Haute-Savoie\Thonon-les-Bains\cities~Thonon-les-BainsThonon.public.md) 
+### [Thonon](/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Auvergne-Rhône-Alpes/departments~Auvergne-Rhône-Alpes/Haute-Savoie/communes~Haute-Savoie/Thonon-les-Bains/cities~Thonon-les-Bains/Thonon.md) 
 
-### [Thonon.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Auvergne-Rhône-Alpes\departments~Auvergne-Rhône-Alpes\Haute-Savoie\communes~Haute-Savoie\Thonon-les-Bains\cities~Thonon-les-BainsThonon.internal.md) 
+### [Thonon.public](/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Auvergne-Rhône-Alpes/departments~Auvergne-Rhône-Alpes/Haute-Savoie/communes~Haute-Savoie/Thonon-les-Bains/cities~Thonon-les-Bains/Thonon.public.md) 
 
-### [Thonon.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Auvergne-Rhône-Alpes\departments~Auvergne-Rhône-Alpes\Haute-Savoie\communes~Haute-Savoie\Thonon-les-Bains\cities~Thonon-les-BainsThonon.protect.md) 
+### [Thonon.internal](/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Auvergne-Rhône-Alpes/departments~Auvergne-Rhône-Alpes/Haute-Savoie/communes~Haute-Savoie/Thonon-les-Bains/cities~Thonon-les-Bains/Thonon.internal.md) 
 
-### [Thonon.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Auvergne-Rhône-Alpes\departments~Auvergne-Rhône-Alpes\Haute-Savoie\communes~Haute-Savoie\Thonon-les-Bains\cities~Thonon-les-BainsThonon.private.md) 
+### [Thonon.protect](/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Auvergne-Rhône-Alpes/departments~Auvergne-Rhône-Alpes/Haute-Savoie/communes~Haute-Savoie/Thonon-les-Bains/cities~Thonon-les-Bains/Thonon.protect.md) 
 
-### [Thonon.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Auvergne-Rhône-Alpes\departments~Auvergne-Rhône-Alpes\Haute-Savoie\communes~Haute-Savoie\Thonon-les-Bains\cities~Thonon-les-BainsThonon.personal.md) 
+### [Thonon.private](/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Auvergne-Rhône-Alpes/departments~Auvergne-Rhône-Alpes/Haute-Savoie/communes~Haute-Savoie/Thonon-les-Bains/cities~Thonon-les-Bains/Thonon.private.md) 
 
-### [Thonon.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Auvergne-Rhône-Alpes\departments~Auvergne-Rhône-Alpes\Haute-Savoie\communes~Haute-Savoie\Thonon-les-Bains\cities~Thonon-les-BainsThonon.secret.md)
+### [Thonon.personal](/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Auvergne-Rhône-Alpes/departments~Auvergne-Rhône-Alpes/Haute-Savoie/communes~Haute-Savoie/Thonon-les-Bains/cities~Thonon-les-Bains/Thonon.personal.md) 
+
+### [Thonon.secret](/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Auvergne-Rhône-Alpes/departments~Auvergne-Rhône-Alpes/Haute-Savoie/communes~Haute-Savoie/Thonon-les-Bains/cities~Thonon-les-Bains/Thonon.secret.md)
 

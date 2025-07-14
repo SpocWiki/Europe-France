@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Colljure.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~Occitanie\Pyrénées-Orientales\communes~Pyrénées-Orientales\Céret\cities~CéretColljure.public.md) 
+### [Colljure](/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Pyrénées-Orientales/communes~Pyrénées-Orientales/Céret/cities~Céret/Colljure.md) 
 
-### [Colljure.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~Occitanie\Pyrénées-Orientales\communes~Pyrénées-Orientales\Céret\cities~CéretColljure.internal.md) 
+### [Colljure.public](/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Pyrénées-Orientales/communes~Pyrénées-Orientales/Céret/cities~Céret/Colljure.public.md) 
 
-### [Colljure.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~Occitanie\Pyrénées-Orientales\communes~Pyrénées-Orientales\Céret\cities~CéretColljure.protect.md) 
+### [Colljure.internal](/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Pyrénées-Orientales/communes~Pyrénées-Orientales/Céret/cities~Céret/Colljure.internal.md) 
 
-### [Colljure.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~Occitanie\Pyrénées-Orientales\communes~Pyrénées-Orientales\Céret\cities~CéretColljure.private.md) 
+### [Colljure.protect](/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Pyrénées-Orientales/communes~Pyrénées-Orientales/Céret/cities~Céret/Colljure.protect.md) 
 
-### [Colljure.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~Occitanie\Pyrénées-Orientales\communes~Pyrénées-Orientales\Céret\cities~CéretColljure.personal.md) 
+### [Colljure.private](/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Pyrénées-Orientales/communes~Pyrénées-Orientales/Céret/cities~Céret/Colljure.private.md) 
 
-### [Colljure.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~Occitanie\Pyrénées-Orientales\communes~Pyrénées-Orientales\Céret\cities~CéretColljure.secret.md)
+### [Colljure.personal](/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Pyrénées-Orientales/communes~Pyrénées-Orientales/Céret/cities~Céret/Colljure.personal.md) 
+
+### [Colljure.secret](/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Pyrénées-Orientales/communes~Pyrénées-Orientales/Céret/cities~Céret/Colljure.secret.md)
 

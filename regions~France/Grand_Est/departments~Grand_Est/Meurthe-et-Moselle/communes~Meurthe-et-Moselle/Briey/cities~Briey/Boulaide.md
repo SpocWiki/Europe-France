@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Boulaide.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Grand_Est\departments~Grand_Est\Meurthe-et-Moselle\communes~Meurthe-et-Moselle\Briey\cities~BrieyBoulaide.public.md) 
+### [Boulaide](/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Grand_Est/departments~Grand_Est/Meurthe-et-Moselle/communes~Meurthe-et-Moselle/Briey/cities~Briey/Boulaide.md) 
 
-### [Boulaide.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Grand_Est\departments~Grand_Est\Meurthe-et-Moselle\communes~Meurthe-et-Moselle\Briey\cities~BrieyBoulaide.internal.md) 
+### [Boulaide.public](/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Grand_Est/departments~Grand_Est/Meurthe-et-Moselle/communes~Meurthe-et-Moselle/Briey/cities~Briey/Boulaide.public.md) 
 
-### [Boulaide.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Grand_Est\departments~Grand_Est\Meurthe-et-Moselle\communes~Meurthe-et-Moselle\Briey\cities~BrieyBoulaide.protect.md) 
+### [Boulaide.internal](/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Grand_Est/departments~Grand_Est/Meurthe-et-Moselle/communes~Meurthe-et-Moselle/Briey/cities~Briey/Boulaide.internal.md) 
 
-### [Boulaide.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Grand_Est\departments~Grand_Est\Meurthe-et-Moselle\communes~Meurthe-et-Moselle\Briey\cities~BrieyBoulaide.private.md) 
+### [Boulaide.protect](/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Grand_Est/departments~Grand_Est/Meurthe-et-Moselle/communes~Meurthe-et-Moselle/Briey/cities~Briey/Boulaide.protect.md) 
 
-### [Boulaide.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Grand_Est\departments~Grand_Est\Meurthe-et-Moselle\communes~Meurthe-et-Moselle\Briey\cities~BrieyBoulaide.personal.md) 
+### [Boulaide.private](/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Grand_Est/departments~Grand_Est/Meurthe-et-Moselle/communes~Meurthe-et-Moselle/Briey/cities~Briey/Boulaide.private.md) 
 
-### [Boulaide.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Grand_Est\departments~Grand_Est\Meurthe-et-Moselle\communes~Meurthe-et-Moselle\Briey\cities~BrieyBoulaide.secret.md)
+### [Boulaide.personal](/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Grand_Est/departments~Grand_Est/Meurthe-et-Moselle/communes~Meurthe-et-Moselle/Briey/cities~Briey/Boulaide.personal.md) 
+
+### [Boulaide.secret](/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Grand_Est/departments~Grand_Est/Meurthe-et-Moselle/communes~Meurthe-et-Moselle/Briey/cities~Briey/Boulaide.secret.md)
 

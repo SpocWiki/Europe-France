@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Orthez.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~Aquitaine\Landes\communes~Landes\Dax\cities~DaxOrthez.public.md) 
+### [Orthez](/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Nouvelle-Aquitaine/departments~Aquitaine/Landes/communes~Landes/Dax/cities~Dax/Orthez.md) 
 
-### [Orthez.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~Aquitaine\Landes\communes~Landes\Dax\cities~DaxOrthez.internal.md) 
+### [Orthez.public](/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Nouvelle-Aquitaine/departments~Aquitaine/Landes/communes~Landes/Dax/cities~Dax/Orthez.public.md) 
 
-### [Orthez.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~Aquitaine\Landes\communes~Landes\Dax\cities~DaxOrthez.protect.md) 
+### [Orthez.internal](/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Nouvelle-Aquitaine/departments~Aquitaine/Landes/communes~Landes/Dax/cities~Dax/Orthez.internal.md) 
 
-### [Orthez.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~Aquitaine\Landes\communes~Landes\Dax\cities~DaxOrthez.private.md) 
+### [Orthez.protect](/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Nouvelle-Aquitaine/departments~Aquitaine/Landes/communes~Landes/Dax/cities~Dax/Orthez.protect.md) 
 
-### [Orthez.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~Aquitaine\Landes\communes~Landes\Dax\cities~DaxOrthez.personal.md) 
+### [Orthez.private](/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Nouvelle-Aquitaine/departments~Aquitaine/Landes/communes~Landes/Dax/cities~Dax/Orthez.private.md) 
 
-### [Orthez.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~Aquitaine\Landes\communes~Landes\Dax\cities~DaxOrthez.secret.md)
+### [Orthez.personal](/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Nouvelle-Aquitaine/departments~Aquitaine/Landes/communes~Landes/Dax/cities~Dax/Orthez.personal.md) 
+
+### [Orthez.secret](/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Nouvelle-Aquitaine/departments~Aquitaine/Landes/communes~Landes/Dax/cities~Dax/Orthez.secret.md)
 

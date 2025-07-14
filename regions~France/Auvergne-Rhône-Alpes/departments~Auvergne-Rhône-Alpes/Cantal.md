@@ -41,15 +41,17 @@ markerFolder: ./Département~Cantal/
 
 ## Confidential Links & Embeds: 
 
-### [Cantal.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Auvergne-Rhône-Alpes\departments~Auvergne-Rhône-AlpesCantal.public.md) 
+### [Cantal](/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Auvergne-Rhône-Alpes/departments~Auvergne-Rhône-Alpes/Cantal.md) 
 
-### [Cantal.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Auvergne-Rhône-Alpes\departments~Auvergne-Rhône-AlpesCantal.internal.md) 
+### [Cantal.public](/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Auvergne-Rhône-Alpes/departments~Auvergne-Rhône-Alpes/Cantal.public.md) 
 
-### [Cantal.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Auvergne-Rhône-Alpes\departments~Auvergne-Rhône-AlpesCantal.protect.md) 
+### [Cantal.internal](/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Auvergne-Rhône-Alpes/departments~Auvergne-Rhône-Alpes/Cantal.internal.md) 
 
-### [Cantal.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Auvergne-Rhône-Alpes\departments~Auvergne-Rhône-AlpesCantal.private.md) 
+### [Cantal.protect](/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Auvergne-Rhône-Alpes/departments~Auvergne-Rhône-Alpes/Cantal.protect.md) 
 
-### [Cantal.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Auvergne-Rhône-Alpes\departments~Auvergne-Rhône-AlpesCantal.personal.md) 
+### [Cantal.private](/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Auvergne-Rhône-Alpes/departments~Auvergne-Rhône-Alpes/Cantal.private.md) 
 
-### [Cantal.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Auvergne-Rhône-Alpes\departments~Auvergne-Rhône-AlpesCantal.secret.md)
+### [Cantal.personal](/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Auvergne-Rhône-Alpes/departments~Auvergne-Rhône-Alpes/Cantal.personal.md) 
+
+### [Cantal.secret](/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Auvergne-Rhône-Alpes/departments~Auvergne-Rhône-Alpes/Cantal.secret.md)
 

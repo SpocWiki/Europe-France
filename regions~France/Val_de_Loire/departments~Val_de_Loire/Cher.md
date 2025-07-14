@@ -41,15 +41,17 @@ markerFolder: ./Département~Cher/
 
 ## Confidential Links & Embeds: 
 
-### [Cher.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Val_de_Loire\departments~Val_de_LoireCher.public.md) 
+### [Cher](/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Val_de_Loire/departments~Val_de_Loire/Cher.md) 
 
-### [Cher.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Val_de_Loire\departments~Val_de_LoireCher.internal.md) 
+### [Cher.public](/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Val_de_Loire/departments~Val_de_Loire/Cher.public.md) 
 
-### [Cher.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Val_de_Loire\departments~Val_de_LoireCher.protect.md) 
+### [Cher.internal](/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Val_de_Loire/departments~Val_de_Loire/Cher.internal.md) 
 
-### [Cher.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Val_de_Loire\departments~Val_de_LoireCher.private.md) 
+### [Cher.protect](/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Val_de_Loire/departments~Val_de_Loire/Cher.protect.md) 
 
-### [Cher.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Val_de_Loire\departments~Val_de_LoireCher.personal.md) 
+### [Cher.private](/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Val_de_Loire/departments~Val_de_Loire/Cher.private.md) 
 
-### [Cher.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Val_de_Loire\departments~Val_de_LoireCher.secret.md)
+### [Cher.personal](/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Val_de_Loire/departments~Val_de_Loire/Cher.personal.md) 
+
+### [Cher.secret](/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Val_de_Loire/departments~Val_de_Loire/Cher.secret.md)
 

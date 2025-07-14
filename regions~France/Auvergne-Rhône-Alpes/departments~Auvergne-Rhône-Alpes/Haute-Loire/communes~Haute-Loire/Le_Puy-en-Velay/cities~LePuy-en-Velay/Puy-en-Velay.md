@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Puy-en-Velay.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Auvergne-Rhône-Alpes\departments~Auvergne-Rhône-Alpes\Haute-Loire\communes~Haute-Loire\Le_Puy-en-Velay\cities~LePuy-en-VelayPuy-en-Velay.public.md) 
+### [Puy-en-Velay](/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Auvergne-Rhône-Alpes/departments~Auvergne-Rhône-Alpes/Haute-Loire/communes~Haute-Loire/Le_Puy-en-Velay/cities~LePuy-en-Velay/Puy-en-Velay.md) 
 
-### [Puy-en-Velay.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Auvergne-Rhône-Alpes\departments~Auvergne-Rhône-Alpes\Haute-Loire\communes~Haute-Loire\Le_Puy-en-Velay\cities~LePuy-en-VelayPuy-en-Velay.internal.md) 
+### [Puy-en-Velay.public](/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Auvergne-Rhône-Alpes/departments~Auvergne-Rhône-Alpes/Haute-Loire/communes~Haute-Loire/Le_Puy-en-Velay/cities~LePuy-en-Velay/Puy-en-Velay.public.md) 
 
-### [Puy-en-Velay.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Auvergne-Rhône-Alpes\departments~Auvergne-Rhône-Alpes\Haute-Loire\communes~Haute-Loire\Le_Puy-en-Velay\cities~LePuy-en-VelayPuy-en-Velay.protect.md) 
+### [Puy-en-Velay.internal](/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Auvergne-Rhône-Alpes/departments~Auvergne-Rhône-Alpes/Haute-Loire/communes~Haute-Loire/Le_Puy-en-Velay/cities~LePuy-en-Velay/Puy-en-Velay.internal.md) 
 
-### [Puy-en-Velay.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Auvergne-Rhône-Alpes\departments~Auvergne-Rhône-Alpes\Haute-Loire\communes~Haute-Loire\Le_Puy-en-Velay\cities~LePuy-en-VelayPuy-en-Velay.private.md) 
+### [Puy-en-Velay.protect](/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Auvergne-Rhône-Alpes/departments~Auvergne-Rhône-Alpes/Haute-Loire/communes~Haute-Loire/Le_Puy-en-Velay/cities~LePuy-en-Velay/Puy-en-Velay.protect.md) 
 
-### [Puy-en-Velay.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Auvergne-Rhône-Alpes\departments~Auvergne-Rhône-Alpes\Haute-Loire\communes~Haute-Loire\Le_Puy-en-Velay\cities~LePuy-en-VelayPuy-en-Velay.personal.md) 
+### [Puy-en-Velay.private](/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Auvergne-Rhône-Alpes/departments~Auvergne-Rhône-Alpes/Haute-Loire/communes~Haute-Loire/Le_Puy-en-Velay/cities~LePuy-en-Velay/Puy-en-Velay.private.md) 
 
-### [Puy-en-Velay.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Auvergne-Rhône-Alpes\departments~Auvergne-Rhône-Alpes\Haute-Loire\communes~Haute-Loire\Le_Puy-en-Velay\cities~LePuy-en-VelayPuy-en-Velay.secret.md)
+### [Puy-en-Velay.personal](/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Auvergne-Rhône-Alpes/departments~Auvergne-Rhône-Alpes/Haute-Loire/communes~Haute-Loire/Le_Puy-en-Velay/cities~LePuy-en-Velay/Puy-en-Velay.personal.md) 
+
+### [Puy-en-Velay.secret](/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Auvergne-Rhône-Alpes/departments~Auvergne-Rhône-Alpes/Haute-Loire/communes~Haute-Loire/Le_Puy-en-Velay/cities~LePuy-en-Velay/Puy-en-Velay.secret.md)
 

@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Blanc.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Val_de_Loire\departments~Val_de_Loire\Indre\communes~Indre\Le_Blanc\cities~LeBlancBlanc.public.md) 
+### [Blanc](/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Val_de_Loire/departments~Val_de_Loire/Indre/communes~Indre/Le_Blanc/cities~LeBlanc/Blanc.md) 
 
-### [Blanc.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Val_de_Loire\departments~Val_de_Loire\Indre\communes~Indre\Le_Blanc\cities~LeBlancBlanc.internal.md) 
+### [Blanc.public](/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Val_de_Loire/departments~Val_de_Loire/Indre/communes~Indre/Le_Blanc/cities~LeBlanc/Blanc.public.md) 
 
-### [Blanc.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Val_de_Loire\departments~Val_de_Loire\Indre\communes~Indre\Le_Blanc\cities~LeBlancBlanc.protect.md) 
+### [Blanc.internal](/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Val_de_Loire/departments~Val_de_Loire/Indre/communes~Indre/Le_Blanc/cities~LeBlanc/Blanc.internal.md) 
 
-### [Blanc.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Val_de_Loire\departments~Val_de_Loire\Indre\communes~Indre\Le_Blanc\cities~LeBlancBlanc.private.md) 
+### [Blanc.protect](/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Val_de_Loire/departments~Val_de_Loire/Indre/communes~Indre/Le_Blanc/cities~LeBlanc/Blanc.protect.md) 
 
-### [Blanc.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Val_de_Loire\departments~Val_de_Loire\Indre\communes~Indre\Le_Blanc\cities~LeBlancBlanc.personal.md) 
+### [Blanc.private](/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Val_de_Loire/departments~Val_de_Loire/Indre/communes~Indre/Le_Blanc/cities~LeBlanc/Blanc.private.md) 
 
-### [Blanc.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Val_de_Loire\departments~Val_de_Loire\Indre\communes~Indre\Le_Blanc\cities~LeBlancBlanc.secret.md)
+### [Blanc.personal](/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Val_de_Loire/departments~Val_de_Loire/Indre/communes~Indre/Le_Blanc/cities~LeBlanc/Blanc.personal.md) 
+
+### [Blanc.secret](/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Val_de_Loire/departments~Val_de_Loire/Indre/communes~Indre/Le_Blanc/cities~LeBlanc/Blanc.secret.md)
 

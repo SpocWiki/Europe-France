@@ -41,15 +41,17 @@ markerFolder: ./Département~Côtes-d'Armor/
 
 ## Confidential Links & Embeds: 
 
-### [Côtes-d'Armor.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Bretagne\departments~BretagneCôtes-d'Armor.public.md) 
+### [Côtes-d'Armor](/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Bretagne/departments~Bretagne/Côtes-d'Armor.md) 
 
-### [Côtes-d'Armor.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Bretagne\departments~BretagneCôtes-d'Armor.internal.md) 
+### [Côtes-d'Armor.public](/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Bretagne/departments~Bretagne/Côtes-d'Armor.public.md) 
 
-### [Côtes-d'Armor.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Bretagne\departments~BretagneCôtes-d'Armor.protect.md) 
+### [Côtes-d'Armor.internal](/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Bretagne/departments~Bretagne/Côtes-d'Armor.internal.md) 
 
-### [Côtes-d'Armor.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Bretagne\departments~BretagneCôtes-d'Armor.private.md) 
+### [Côtes-d'Armor.protect](/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Bretagne/departments~Bretagne/Côtes-d'Armor.protect.md) 
 
-### [Côtes-d'Armor.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Bretagne\departments~BretagneCôtes-d'Armor.personal.md) 
+### [Côtes-d'Armor.private](/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Bretagne/departments~Bretagne/Côtes-d'Armor.private.md) 
 
-### [Côtes-d'Armor.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Bretagne\departments~BretagneCôtes-d'Armor.secret.md)
+### [Côtes-d'Armor.personal](/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Bretagne/departments~Bretagne/Côtes-d'Armor.personal.md) 
+
+### [Côtes-d'Armor.secret](/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Bretagne/departments~Bretagne/Côtes-d'Armor.secret.md)
 

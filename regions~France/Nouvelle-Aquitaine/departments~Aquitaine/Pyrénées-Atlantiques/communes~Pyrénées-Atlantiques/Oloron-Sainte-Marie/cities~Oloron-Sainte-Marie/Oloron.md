@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Oloron.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~Aquitaine\Pyrénées-Atlantiques\communes~Pyrénées-Atlantiques\Oloron-Sainte-Marie\cities~Oloron-Sainte-MarieOloron.public.md) 
+### [Oloron](/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Nouvelle-Aquitaine/departments~Aquitaine/Pyrénées-Atlantiques/communes~Pyrénées-Atlantiques/Oloron-Sainte-Marie/cities~Oloron-Sainte-Marie/Oloron.md) 
 
-### [Oloron.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~Aquitaine\Pyrénées-Atlantiques\communes~Pyrénées-Atlantiques\Oloron-Sainte-Marie\cities~Oloron-Sainte-MarieOloron.internal.md) 
+### [Oloron.public](/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Nouvelle-Aquitaine/departments~Aquitaine/Pyrénées-Atlantiques/communes~Pyrénées-Atlantiques/Oloron-Sainte-Marie/cities~Oloron-Sainte-Marie/Oloron.public.md) 
 
-### [Oloron.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~Aquitaine\Pyrénées-Atlantiques\communes~Pyrénées-Atlantiques\Oloron-Sainte-Marie\cities~Oloron-Sainte-MarieOloron.protect.md) 
+### [Oloron.internal](/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Nouvelle-Aquitaine/departments~Aquitaine/Pyrénées-Atlantiques/communes~Pyrénées-Atlantiques/Oloron-Sainte-Marie/cities~Oloron-Sainte-Marie/Oloron.internal.md) 
 
-### [Oloron.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~Aquitaine\Pyrénées-Atlantiques\communes~Pyrénées-Atlantiques\Oloron-Sainte-Marie\cities~Oloron-Sainte-MarieOloron.private.md) 
+### [Oloron.protect](/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Nouvelle-Aquitaine/departments~Aquitaine/Pyrénées-Atlantiques/communes~Pyrénées-Atlantiques/Oloron-Sainte-Marie/cities~Oloron-Sainte-Marie/Oloron.protect.md) 
 
-### [Oloron.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~Aquitaine\Pyrénées-Atlantiques\communes~Pyrénées-Atlantiques\Oloron-Sainte-Marie\cities~Oloron-Sainte-MarieOloron.personal.md) 
+### [Oloron.private](/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Nouvelle-Aquitaine/departments~Aquitaine/Pyrénées-Atlantiques/communes~Pyrénées-Atlantiques/Oloron-Sainte-Marie/cities~Oloron-Sainte-Marie/Oloron.private.md) 
 
-### [Oloron.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~Aquitaine\Pyrénées-Atlantiques\communes~Pyrénées-Atlantiques\Oloron-Sainte-Marie\cities~Oloron-Sainte-MarieOloron.secret.md)
+### [Oloron.personal](/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Nouvelle-Aquitaine/departments~Aquitaine/Pyrénées-Atlantiques/communes~Pyrénées-Atlantiques/Oloron-Sainte-Marie/cities~Oloron-Sainte-Marie/Oloron.personal.md) 
+
+### [Oloron.secret](/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Nouvelle-Aquitaine/departments~Aquitaine/Pyrénées-Atlantiques/communes~Pyrénées-Atlantiques/Oloron-Sainte-Marie/cities~Oloron-Sainte-Marie/Oloron.secret.md)
 

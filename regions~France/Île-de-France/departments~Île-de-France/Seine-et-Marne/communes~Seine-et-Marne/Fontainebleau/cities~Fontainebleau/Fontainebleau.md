@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Fontainebleau.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Île-de-France\departments~Île-de-France\Seine-et-Marne\communes~Seine-et-Marne\Fontainebleau\cities~FontainebleauFontainebleau.public.md) 
+### [Fontainebleau](/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Île-de-France/departments~Île-de-France/Seine-et-Marne/communes~Seine-et-Marne/Fontainebleau/cities~Fontainebleau/Fontainebleau.md) 
 
-### [Fontainebleau.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Île-de-France\departments~Île-de-France\Seine-et-Marne\communes~Seine-et-Marne\Fontainebleau\cities~FontainebleauFontainebleau.internal.md) 
+### [Fontainebleau.public](/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Île-de-France/departments~Île-de-France/Seine-et-Marne/communes~Seine-et-Marne/Fontainebleau/cities~Fontainebleau/Fontainebleau.public.md) 
 
-### [Fontainebleau.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Île-de-France\departments~Île-de-France\Seine-et-Marne\communes~Seine-et-Marne\Fontainebleau\cities~FontainebleauFontainebleau.protect.md) 
+### [Fontainebleau.internal](/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Île-de-France/departments~Île-de-France/Seine-et-Marne/communes~Seine-et-Marne/Fontainebleau/cities~Fontainebleau/Fontainebleau.internal.md) 
 
-### [Fontainebleau.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Île-de-France\departments~Île-de-France\Seine-et-Marne\communes~Seine-et-Marne\Fontainebleau\cities~FontainebleauFontainebleau.private.md) 
+### [Fontainebleau.protect](/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Île-de-France/departments~Île-de-France/Seine-et-Marne/communes~Seine-et-Marne/Fontainebleau/cities~Fontainebleau/Fontainebleau.protect.md) 
 
-### [Fontainebleau.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Île-de-France\departments~Île-de-France\Seine-et-Marne\communes~Seine-et-Marne\Fontainebleau\cities~FontainebleauFontainebleau.personal.md) 
+### [Fontainebleau.private](/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Île-de-France/departments~Île-de-France/Seine-et-Marne/communes~Seine-et-Marne/Fontainebleau/cities~Fontainebleau/Fontainebleau.private.md) 
 
-### [Fontainebleau.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Île-de-France\departments~Île-de-France\Seine-et-Marne\communes~Seine-et-Marne\Fontainebleau\cities~FontainebleauFontainebleau.secret.md)
+### [Fontainebleau.personal](/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Île-de-France/departments~Île-de-France/Seine-et-Marne/communes~Seine-et-Marne/Fontainebleau/cities~Fontainebleau/Fontainebleau.personal.md) 
+
+### [Fontainebleau.secret](/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Île-de-France/departments~Île-de-France/Seine-et-Marne/communes~Seine-et-Marne/Fontainebleau/cities~Fontainebleau/Fontainebleau.secret.md)
 

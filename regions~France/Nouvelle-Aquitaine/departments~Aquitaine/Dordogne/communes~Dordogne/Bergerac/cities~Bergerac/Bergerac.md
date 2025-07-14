@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Bergerac.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~Aquitaine\Dordogne\communes~Dordogne\Bergerac\cities~BergeracBergerac.public.md) 
+### [Bergerac](/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Nouvelle-Aquitaine/departments~Aquitaine/Dordogne/communes~Dordogne/Bergerac/cities~Bergerac/Bergerac.md) 
 
-### [Bergerac.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~Aquitaine\Dordogne\communes~Dordogne\Bergerac\cities~BergeracBergerac.internal.md) 
+### [Bergerac.public](/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Nouvelle-Aquitaine/departments~Aquitaine/Dordogne/communes~Dordogne/Bergerac/cities~Bergerac/Bergerac.public.md) 
 
-### [Bergerac.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~Aquitaine\Dordogne\communes~Dordogne\Bergerac\cities~BergeracBergerac.protect.md) 
+### [Bergerac.internal](/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Nouvelle-Aquitaine/departments~Aquitaine/Dordogne/communes~Dordogne/Bergerac/cities~Bergerac/Bergerac.internal.md) 
 
-### [Bergerac.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~Aquitaine\Dordogne\communes~Dordogne\Bergerac\cities~BergeracBergerac.private.md) 
+### [Bergerac.protect](/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Nouvelle-Aquitaine/departments~Aquitaine/Dordogne/communes~Dordogne/Bergerac/cities~Bergerac/Bergerac.protect.md) 
 
-### [Bergerac.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~Aquitaine\Dordogne\communes~Dordogne\Bergerac\cities~BergeracBergerac.personal.md) 
+### [Bergerac.private](/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Nouvelle-Aquitaine/departments~Aquitaine/Dordogne/communes~Dordogne/Bergerac/cities~Bergerac/Bergerac.private.md) 
 
-### [Bergerac.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~Aquitaine\Dordogne\communes~Dordogne\Bergerac\cities~BergeracBergerac.secret.md)
+### [Bergerac.personal](/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Nouvelle-Aquitaine/departments~Aquitaine/Dordogne/communes~Dordogne/Bergerac/cities~Bergerac/Bergerac.personal.md) 
+
+### [Bergerac.secret](/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Nouvelle-Aquitaine/departments~Aquitaine/Dordogne/communes~Dordogne/Bergerac/cities~Bergerac/Bergerac.secret.md)
 

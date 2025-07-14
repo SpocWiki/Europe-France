@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Dijon.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Bourgogne-Franche-Comté\departments~Bourgogne-Franche-Comté\Côte-d'Or\communes~Côte-d'Or\Dijon\cities~DijonDijon.public.md) 
+### [Dijon](/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Bourgogne-Franche-Comté/departments~Bourgogne-Franche-Comté/Côte-d'Or/communes~Côte-d'Or/Dijon/cities~Dijon/Dijon.md) 
 
-### [Dijon.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Bourgogne-Franche-Comté\departments~Bourgogne-Franche-Comté\Côte-d'Or\communes~Côte-d'Or\Dijon\cities~DijonDijon.internal.md) 
+### [Dijon.public](/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Bourgogne-Franche-Comté/departments~Bourgogne-Franche-Comté/Côte-d'Or/communes~Côte-d'Or/Dijon/cities~Dijon/Dijon.public.md) 
 
-### [Dijon.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Bourgogne-Franche-Comté\departments~Bourgogne-Franche-Comté\Côte-d'Or\communes~Côte-d'Or\Dijon\cities~DijonDijon.protect.md) 
+### [Dijon.internal](/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Bourgogne-Franche-Comté/departments~Bourgogne-Franche-Comté/Côte-d'Or/communes~Côte-d'Or/Dijon/cities~Dijon/Dijon.internal.md) 
 
-### [Dijon.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Bourgogne-Franche-Comté\departments~Bourgogne-Franche-Comté\Côte-d'Or\communes~Côte-d'Or\Dijon\cities~DijonDijon.private.md) 
+### [Dijon.protect](/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Bourgogne-Franche-Comté/departments~Bourgogne-Franche-Comté/Côte-d'Or/communes~Côte-d'Or/Dijon/cities~Dijon/Dijon.protect.md) 
 
-### [Dijon.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Bourgogne-Franche-Comté\departments~Bourgogne-Franche-Comté\Côte-d'Or\communes~Côte-d'Or\Dijon\cities~DijonDijon.personal.md) 
+### [Dijon.private](/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Bourgogne-Franche-Comté/departments~Bourgogne-Franche-Comté/Côte-d'Or/communes~Côte-d'Or/Dijon/cities~Dijon/Dijon.private.md) 
 
-### [Dijon.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Bourgogne-Franche-Comté\departments~Bourgogne-Franche-Comté\Côte-d'Or\communes~Côte-d'Or\Dijon\cities~DijonDijon.secret.md)
+### [Dijon.personal](/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Bourgogne-Franche-Comté/departments~Bourgogne-Franche-Comté/Côte-d'Or/communes~Côte-d'Or/Dijon/cities~Dijon/Dijon.personal.md) 
+
+### [Dijon.secret](/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Bourgogne-Franche-Comté/departments~Bourgogne-Franche-Comté/Côte-d'Or/communes~Côte-d'Or/Dijon/cities~Dijon/Dijon.secret.md)
 

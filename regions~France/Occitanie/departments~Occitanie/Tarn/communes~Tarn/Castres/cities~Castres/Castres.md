@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Castres.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~Occitanie\Tarn\communes~Tarn\Castres\cities~CastresCastres.public.md) 
+### [Castres](/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Tarn/communes~Tarn/Castres/cities~Castres/Castres.md) 
 
-### [Castres.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~Occitanie\Tarn\communes~Tarn\Castres\cities~CastresCastres.internal.md) 
+### [Castres.public](/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Tarn/communes~Tarn/Castres/cities~Castres/Castres.public.md) 
 
-### [Castres.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~Occitanie\Tarn\communes~Tarn\Castres\cities~CastresCastres.protect.md) 
+### [Castres.internal](/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Tarn/communes~Tarn/Castres/cities~Castres/Castres.internal.md) 
 
-### [Castres.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~Occitanie\Tarn\communes~Tarn\Castres\cities~CastresCastres.private.md) 
+### [Castres.protect](/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Tarn/communes~Tarn/Castres/cities~Castres/Castres.protect.md) 
 
-### [Castres.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~Occitanie\Tarn\communes~Tarn\Castres\cities~CastresCastres.personal.md) 
+### [Castres.private](/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Tarn/communes~Tarn/Castres/cities~Castres/Castres.private.md) 
 
-### [Castres.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~Occitanie\Tarn\communes~Tarn\Castres\cities~CastresCastres.secret.md)
+### [Castres.personal](/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Tarn/communes~Tarn/Castres/cities~Castres/Castres.personal.md) 
+
+### [Castres.secret](/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Tarn/communes~Tarn/Castres/cities~Castres/Castres.secret.md)
 

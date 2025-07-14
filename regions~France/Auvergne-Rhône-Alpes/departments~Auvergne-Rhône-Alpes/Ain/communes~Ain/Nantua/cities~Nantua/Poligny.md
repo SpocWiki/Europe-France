@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Poligny.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Auvergne-Rhône-Alpes\departments~Auvergne-Rhône-Alpes\Ain\communes~Ain\Nantua\cities~NantuaPoligny.public.md) 
+### [Poligny](/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Auvergne-Rhône-Alpes/departments~Auvergne-Rhône-Alpes/Ain/communes~Ain/Nantua/cities~Nantua/Poligny.md) 
 
-### [Poligny.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Auvergne-Rhône-Alpes\departments~Auvergne-Rhône-Alpes\Ain\communes~Ain\Nantua\cities~NantuaPoligny.internal.md) 
+### [Poligny.public](/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Auvergne-Rhône-Alpes/departments~Auvergne-Rhône-Alpes/Ain/communes~Ain/Nantua/cities~Nantua/Poligny.public.md) 
 
-### [Poligny.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Auvergne-Rhône-Alpes\departments~Auvergne-Rhône-Alpes\Ain\communes~Ain\Nantua\cities~NantuaPoligny.protect.md) 
+### [Poligny.internal](/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Auvergne-Rhône-Alpes/departments~Auvergne-Rhône-Alpes/Ain/communes~Ain/Nantua/cities~Nantua/Poligny.internal.md) 
 
-### [Poligny.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Auvergne-Rhône-Alpes\departments~Auvergne-Rhône-Alpes\Ain\communes~Ain\Nantua\cities~NantuaPoligny.private.md) 
+### [Poligny.protect](/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Auvergne-Rhône-Alpes/departments~Auvergne-Rhône-Alpes/Ain/communes~Ain/Nantua/cities~Nantua/Poligny.protect.md) 
 
-### [Poligny.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Auvergne-Rhône-Alpes\departments~Auvergne-Rhône-Alpes\Ain\communes~Ain\Nantua\cities~NantuaPoligny.personal.md) 
+### [Poligny.private](/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Auvergne-Rhône-Alpes/departments~Auvergne-Rhône-Alpes/Ain/communes~Ain/Nantua/cities~Nantua/Poligny.private.md) 
 
-### [Poligny.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Auvergne-Rhône-Alpes\departments~Auvergne-Rhône-Alpes\Ain\communes~Ain\Nantua\cities~NantuaPoligny.secret.md)
+### [Poligny.personal](/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Auvergne-Rhône-Alpes/departments~Auvergne-Rhône-Alpes/Ain/communes~Ain/Nantua/cities~Nantua/Poligny.personal.md) 
+
+### [Poligny.secret](/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Auvergne-Rhône-Alpes/departments~Auvergne-Rhône-Alpes/Ain/communes~Ain/Nantua/cities~Nantua/Poligny.secret.md)
 

@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Narbonne.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~Occitanie\Aude\communes~Aude\Narbonne\cities~NarbonneNarbonne.public.md) 
+### [Narbonne](/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Aude/communes~Aude/Narbonne/cities~Narbonne/Narbonne.md) 
 
-### [Narbonne.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~Occitanie\Aude\communes~Aude\Narbonne\cities~NarbonneNarbonne.internal.md) 
+### [Narbonne.public](/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Aude/communes~Aude/Narbonne/cities~Narbonne/Narbonne.public.md) 
 
-### [Narbonne.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~Occitanie\Aude\communes~Aude\Narbonne\cities~NarbonneNarbonne.protect.md) 
+### [Narbonne.internal](/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Aude/communes~Aude/Narbonne/cities~Narbonne/Narbonne.internal.md) 
 
-### [Narbonne.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~Occitanie\Aude\communes~Aude\Narbonne\cities~NarbonneNarbonne.private.md) 
+### [Narbonne.protect](/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Aude/communes~Aude/Narbonne/cities~Narbonne/Narbonne.protect.md) 
 
-### [Narbonne.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~Occitanie\Aude\communes~Aude\Narbonne\cities~NarbonneNarbonne.personal.md) 
+### [Narbonne.private](/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Aude/communes~Aude/Narbonne/cities~Narbonne/Narbonne.private.md) 
 
-### [Narbonne.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~Occitanie\Aude\communes~Aude\Narbonne\cities~NarbonneNarbonne.secret.md)
+### [Narbonne.personal](/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Aude/communes~Aude/Narbonne/cities~Narbonne/Narbonne.personal.md) 
+
+### [Narbonne.secret](/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Aude/communes~Aude/Narbonne/cities~Narbonne/Narbonne.secret.md)
 

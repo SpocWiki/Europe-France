@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Honfleur.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\NormandieHonfleur.public.md) 
+### [Honfleur](/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Normandie/Honfleur.md) 
 
-### [Honfleur.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\NormandieHonfleur.internal.md) 
+### [Honfleur.public](/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Normandie/Honfleur.public.md) 
 
-### [Honfleur.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\NormandieHonfleur.protect.md) 
+### [Honfleur.internal](/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Normandie/Honfleur.internal.md) 
 
-### [Honfleur.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\NormandieHonfleur.private.md) 
+### [Honfleur.protect](/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Normandie/Honfleur.protect.md) 
 
-### [Honfleur.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\NormandieHonfleur.personal.md) 
+### [Honfleur.private](/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Normandie/Honfleur.private.md) 
 
-### [Honfleur.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\NormandieHonfleur.secret.md)
+### [Honfleur.personal](/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Normandie/Honfleur.personal.md) 
+
+### [Honfleur.secret](/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Normandie/Honfleur.secret.md)
 

@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Gebweiler.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Grand_Est\departments~Grand_Est\Haut-Rhin\communes~Haut-Rhin\Guebwiller\cities~GuebwillerGebweiler.public.md) 
+### [Gebweiler](/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Grand_Est/departments~Grand_Est/Haut-Rhin/communes~Haut-Rhin/Guebwiller/cities~Guebwiller/Gebweiler.md) 
 
-### [Gebweiler.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Grand_Est\departments~Grand_Est\Haut-Rhin\communes~Haut-Rhin\Guebwiller\cities~GuebwillerGebweiler.internal.md) 
+### [Gebweiler.public](/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Grand_Est/departments~Grand_Est/Haut-Rhin/communes~Haut-Rhin/Guebwiller/cities~Guebwiller/Gebweiler.public.md) 
 
-### [Gebweiler.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Grand_Est\departments~Grand_Est\Haut-Rhin\communes~Haut-Rhin\Guebwiller\cities~GuebwillerGebweiler.protect.md) 
+### [Gebweiler.internal](/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Grand_Est/departments~Grand_Est/Haut-Rhin/communes~Haut-Rhin/Guebwiller/cities~Guebwiller/Gebweiler.internal.md) 
 
-### [Gebweiler.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Grand_Est\departments~Grand_Est\Haut-Rhin\communes~Haut-Rhin\Guebwiller\cities~GuebwillerGebweiler.private.md) 
+### [Gebweiler.protect](/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Grand_Est/departments~Grand_Est/Haut-Rhin/communes~Haut-Rhin/Guebwiller/cities~Guebwiller/Gebweiler.protect.md) 
 
-### [Gebweiler.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Grand_Est\departments~Grand_Est\Haut-Rhin\communes~Haut-Rhin\Guebwiller\cities~GuebwillerGebweiler.personal.md) 
+### [Gebweiler.private](/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Grand_Est/departments~Grand_Est/Haut-Rhin/communes~Haut-Rhin/Guebwiller/cities~Guebwiller/Gebweiler.private.md) 
 
-### [Gebweiler.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Grand_Est\departments~Grand_Est\Haut-Rhin\communes~Haut-Rhin\Guebwiller\cities~GuebwillerGebweiler.secret.md)
+### [Gebweiler.personal](/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Grand_Est/departments~Grand_Est/Haut-Rhin/communes~Haut-Rhin/Guebwiller/cities~Guebwiller/Gebweiler.personal.md) 
+
+### [Gebweiler.secret](/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Grand_Est/departments~Grand_Est/Haut-Rhin/communes~Haut-Rhin/Guebwiller/cities~Guebwiller/Gebweiler.secret.md)
 

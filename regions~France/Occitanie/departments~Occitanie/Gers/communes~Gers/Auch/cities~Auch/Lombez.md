@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Lombez.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~Occitanie\Gers\communes~Gers\Auch\cities~AuchLombez.public.md) 
+### [Lombez](/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Gers/communes~Gers/Auch/cities~Auch/Lombez.md) 
 
-### [Lombez.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~Occitanie\Gers\communes~Gers\Auch\cities~AuchLombez.internal.md) 
+### [Lombez.public](/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Gers/communes~Gers/Auch/cities~Auch/Lombez.public.md) 
 
-### [Lombez.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~Occitanie\Gers\communes~Gers\Auch\cities~AuchLombez.protect.md) 
+### [Lombez.internal](/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Gers/communes~Gers/Auch/cities~Auch/Lombez.internal.md) 
 
-### [Lombez.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~Occitanie\Gers\communes~Gers\Auch\cities~AuchLombez.private.md) 
+### [Lombez.protect](/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Gers/communes~Gers/Auch/cities~Auch/Lombez.protect.md) 
 
-### [Lombez.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~Occitanie\Gers\communes~Gers\Auch\cities~AuchLombez.personal.md) 
+### [Lombez.private](/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Gers/communes~Gers/Auch/cities~Auch/Lombez.private.md) 
 
-### [Lombez.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~Occitanie\Gers\communes~Gers\Auch\cities~AuchLombez.secret.md)
+### [Lombez.personal](/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Gers/communes~Gers/Auch/cities~Auch/Lombez.personal.md) 
+
+### [Lombez.secret](/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Gers/communes~Gers/Auch/cities~Auch/Lombez.secret.md)
 

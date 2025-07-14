@@ -41,15 +41,17 @@ markerFolder: ./Département~Hérault/
 
 ## Confidential Links & Embeds: 
 
-### [Hérault.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~OccitanieHérault.public.md) 
+### [Hérault](/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Hérault.md) 
 
-### [Hérault.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~OccitanieHérault.internal.md) 
+### [Hérault.public](/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Hérault.public.md) 
 
-### [Hérault.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~OccitanieHérault.protect.md) 
+### [Hérault.internal](/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Hérault.internal.md) 
 
-### [Hérault.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~OccitanieHérault.private.md) 
+### [Hérault.protect](/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Hérault.protect.md) 
 
-### [Hérault.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~OccitanieHérault.personal.md) 
+### [Hérault.private](/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Hérault.private.md) 
 
-### [Hérault.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~OccitanieHérault.secret.md)
+### [Hérault.personal](/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Hérault.personal.md) 
+
+### [Hérault.secret](/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Hérault.secret.md)
 

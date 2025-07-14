@@ -41,15 +41,17 @@ markerFolder: ./Département~Ardennes/
 
 ## Confidential Links & Embeds: 
 
-### [Ardennes.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Grand_Est\departments~Grand_EstArdennes.public.md) 
+### [Ardennes](/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Grand_Est/departments~Grand_Est/Ardennes.md) 
 
-### [Ardennes.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Grand_Est\departments~Grand_EstArdennes.internal.md) 
+### [Ardennes.public](/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Grand_Est/departments~Grand_Est/Ardennes.public.md) 
 
-### [Ardennes.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Grand_Est\departments~Grand_EstArdennes.protect.md) 
+### [Ardennes.internal](/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Grand_Est/departments~Grand_Est/Ardennes.internal.md) 
 
-### [Ardennes.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Grand_Est\departments~Grand_EstArdennes.private.md) 
+### [Ardennes.protect](/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Grand_Est/departments~Grand_Est/Ardennes.protect.md) 
 
-### [Ardennes.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Grand_Est\departments~Grand_EstArdennes.personal.md) 
+### [Ardennes.private](/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Grand_Est/departments~Grand_Est/Ardennes.private.md) 
 
-### [Ardennes.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Grand_Est\departments~Grand_EstArdennes.secret.md)
+### [Ardennes.personal](/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Grand_Est/departments~Grand_Est/Ardennes.personal.md) 
+
+### [Ardennes.secret](/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Grand_Est/departments~Grand_Est/Ardennes.secret.md)
 

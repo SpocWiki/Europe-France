@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Espalion.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~Occitanie\Aveyron\communes~Aveyron\Rodez\cities~RodezEspalion.public.md) 
+### [Espalion](/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Aveyron/communes~Aveyron/Rodez/cities~Rodez/Espalion.md) 
 
-### [Espalion.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~Occitanie\Aveyron\communes~Aveyron\Rodez\cities~RodezEspalion.internal.md) 
+### [Espalion.public](/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Aveyron/communes~Aveyron/Rodez/cities~Rodez/Espalion.public.md) 
 
-### [Espalion.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~Occitanie\Aveyron\communes~Aveyron\Rodez\cities~RodezEspalion.protect.md) 
+### [Espalion.internal](/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Aveyron/communes~Aveyron/Rodez/cities~Rodez/Espalion.internal.md) 
 
-### [Espalion.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~Occitanie\Aveyron\communes~Aveyron\Rodez\cities~RodezEspalion.private.md) 
+### [Espalion.protect](/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Aveyron/communes~Aveyron/Rodez/cities~Rodez/Espalion.protect.md) 
 
-### [Espalion.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~Occitanie\Aveyron\communes~Aveyron\Rodez\cities~RodezEspalion.personal.md) 
+### [Espalion.private](/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Aveyron/communes~Aveyron/Rodez/cities~Rodez/Espalion.private.md) 
 
-### [Espalion.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~Occitanie\Aveyron\communes~Aveyron\Rodez\cities~RodezEspalion.secret.md)
+### [Espalion.personal](/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Aveyron/communes~Aveyron/Rodez/cities~Rodez/Espalion.personal.md) 
+
+### [Espalion.secret](/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Aveyron/communes~Aveyron/Rodez/cities~Rodez/Espalion.secret.md)
 

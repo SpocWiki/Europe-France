@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Lorient.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Bretagne\departments~Bretagne\Morbihan\communes~Morbihan\Lorient\cities~LorientLorient.public.md) 
+### [Lorient](/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Bretagne/departments~Bretagne/Morbihan/communes~Morbihan/Lorient/cities~Lorient/Lorient.md) 
 
-### [Lorient.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Bretagne\departments~Bretagne\Morbihan\communes~Morbihan\Lorient\cities~LorientLorient.internal.md) 
+### [Lorient.public](/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Bretagne/departments~Bretagne/Morbihan/communes~Morbihan/Lorient/cities~Lorient/Lorient.public.md) 
 
-### [Lorient.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Bretagne\departments~Bretagne\Morbihan\communes~Morbihan\Lorient\cities~LorientLorient.protect.md) 
+### [Lorient.internal](/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Bretagne/departments~Bretagne/Morbihan/communes~Morbihan/Lorient/cities~Lorient/Lorient.internal.md) 
 
-### [Lorient.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Bretagne\departments~Bretagne\Morbihan\communes~Morbihan\Lorient\cities~LorientLorient.private.md) 
+### [Lorient.protect](/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Bretagne/departments~Bretagne/Morbihan/communes~Morbihan/Lorient/cities~Lorient/Lorient.protect.md) 
 
-### [Lorient.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Bretagne\departments~Bretagne\Morbihan\communes~Morbihan\Lorient\cities~LorientLorient.personal.md) 
+### [Lorient.private](/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Bretagne/departments~Bretagne/Morbihan/communes~Morbihan/Lorient/cities~Lorient/Lorient.private.md) 
 
-### [Lorient.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Bretagne\departments~Bretagne\Morbihan\communes~Morbihan\Lorient\cities~LorientLorient.secret.md)
+### [Lorient.personal](/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Bretagne/departments~Bretagne/Morbihan/communes~Morbihan/Lorient/cities~Lorient/Lorient.personal.md) 
+
+### [Lorient.secret](/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Bretagne/departments~Bretagne/Morbihan/communes~Morbihan/Lorient/cities~Lorient/Lorient.secret.md)
 

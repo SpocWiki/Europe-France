@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Palisse.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Auvergne-Rhône-Alpes\departments~Auvergne-Rhône-Alpes\Allier\communes~Allier\Vichy\cities~VichyPalisse.public.md) 
+### [Palisse](/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Auvergne-Rhône-Alpes/departments~Auvergne-Rhône-Alpes/Allier/communes~Allier/Vichy/cities~Vichy/Palisse.md) 
 
-### [Palisse.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Auvergne-Rhône-Alpes\departments~Auvergne-Rhône-Alpes\Allier\communes~Allier\Vichy\cities~VichyPalisse.internal.md) 
+### [Palisse.public](/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Auvergne-Rhône-Alpes/departments~Auvergne-Rhône-Alpes/Allier/communes~Allier/Vichy/cities~Vichy/Palisse.public.md) 
 
-### [Palisse.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Auvergne-Rhône-Alpes\departments~Auvergne-Rhône-Alpes\Allier\communes~Allier\Vichy\cities~VichyPalisse.protect.md) 
+### [Palisse.internal](/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Auvergne-Rhône-Alpes/departments~Auvergne-Rhône-Alpes/Allier/communes~Allier/Vichy/cities~Vichy/Palisse.internal.md) 
 
-### [Palisse.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Auvergne-Rhône-Alpes\departments~Auvergne-Rhône-Alpes\Allier\communes~Allier\Vichy\cities~VichyPalisse.private.md) 
+### [Palisse.protect](/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Auvergne-Rhône-Alpes/departments~Auvergne-Rhône-Alpes/Allier/communes~Allier/Vichy/cities~Vichy/Palisse.protect.md) 
 
-### [Palisse.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Auvergne-Rhône-Alpes\departments~Auvergne-Rhône-Alpes\Allier\communes~Allier\Vichy\cities~VichyPalisse.personal.md) 
+### [Palisse.private](/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Auvergne-Rhône-Alpes/departments~Auvergne-Rhône-Alpes/Allier/communes~Allier/Vichy/cities~Vichy/Palisse.private.md) 
 
-### [Palisse.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Auvergne-Rhône-Alpes\departments~Auvergne-Rhône-Alpes\Allier\communes~Allier\Vichy\cities~VichyPalisse.secret.md)
+### [Palisse.personal](/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Auvergne-Rhône-Alpes/departments~Auvergne-Rhône-Alpes/Allier/communes~Allier/Vichy/cities~Vichy/Palisse.personal.md) 
+
+### [Palisse.secret](/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Auvergne-Rhône-Alpes/departments~Auvergne-Rhône-Alpes/Allier/communes~Allier/Vichy/cities~Vichy/Palisse.secret.md)
 

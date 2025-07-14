@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Chatelleroult.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~Aquitaine\Vienne\communes~Vienne\Châtellerault\cities~ChâtelleraultChatelleroult.public.md) 
+### [Chatelleroult](/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Nouvelle-Aquitaine/departments~Aquitaine/Vienne/communes~Vienne/Châtellerault/cities~Châtellerault/Chatelleroult.md) 
 
-### [Chatelleroult.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~Aquitaine\Vienne\communes~Vienne\Châtellerault\cities~ChâtelleraultChatelleroult.internal.md) 
+### [Chatelleroult.public](/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Nouvelle-Aquitaine/departments~Aquitaine/Vienne/communes~Vienne/Châtellerault/cities~Châtellerault/Chatelleroult.public.md) 
 
-### [Chatelleroult.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~Aquitaine\Vienne\communes~Vienne\Châtellerault\cities~ChâtelleraultChatelleroult.protect.md) 
+### [Chatelleroult.internal](/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Nouvelle-Aquitaine/departments~Aquitaine/Vienne/communes~Vienne/Châtellerault/cities~Châtellerault/Chatelleroult.internal.md) 
 
-### [Chatelleroult.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~Aquitaine\Vienne\communes~Vienne\Châtellerault\cities~ChâtelleraultChatelleroult.private.md) 
+### [Chatelleroult.protect](/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Nouvelle-Aquitaine/departments~Aquitaine/Vienne/communes~Vienne/Châtellerault/cities~Châtellerault/Chatelleroult.protect.md) 
 
-### [Chatelleroult.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~Aquitaine\Vienne\communes~Vienne\Châtellerault\cities~ChâtelleraultChatelleroult.personal.md) 
+### [Chatelleroult.private](/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Nouvelle-Aquitaine/departments~Aquitaine/Vienne/communes~Vienne/Châtellerault/cities~Châtellerault/Chatelleroult.private.md) 
 
-### [Chatelleroult.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~Aquitaine\Vienne\communes~Vienne\Châtellerault\cities~ChâtelleraultChatelleroult.secret.md)
+### [Chatelleroult.personal](/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Nouvelle-Aquitaine/departments~Aquitaine/Vienne/communes~Vienne/Châtellerault/cities~Châtellerault/Chatelleroult.personal.md) 
+
+### [Chatelleroult.secret](/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Nouvelle-Aquitaine/departments~Aquitaine/Vienne/communes~Vienne/Châtellerault/cities~Châtellerault/Chatelleroult.secret.md)
 

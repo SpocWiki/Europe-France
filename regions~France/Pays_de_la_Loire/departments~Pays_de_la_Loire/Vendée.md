@@ -41,15 +41,17 @@ markerFolder: ./Département~Vendée/
 
 ## Confidential Links & Embeds: 
 
-### [Vendée.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Pays_de_la_Loire\departments~Pays_de_la_LoireVendée.public.md) 
+### [Vendée](/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Pays_de_la_Loire/departments~Pays_de_la_Loire/Vendée.md) 
 
-### [Vendée.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Pays_de_la_Loire\departments~Pays_de_la_LoireVendée.internal.md) 
+### [Vendée.public](/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Pays_de_la_Loire/departments~Pays_de_la_Loire/Vendée.public.md) 
 
-### [Vendée.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Pays_de_la_Loire\departments~Pays_de_la_LoireVendée.protect.md) 
+### [Vendée.internal](/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Pays_de_la_Loire/departments~Pays_de_la_Loire/Vendée.internal.md) 
 
-### [Vendée.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Pays_de_la_Loire\departments~Pays_de_la_LoireVendée.private.md) 
+### [Vendée.protect](/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Pays_de_la_Loire/departments~Pays_de_la_Loire/Vendée.protect.md) 
 
-### [Vendée.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Pays_de_la_Loire\departments~Pays_de_la_LoireVendée.personal.md) 
+### [Vendée.private](/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Pays_de_la_Loire/departments~Pays_de_la_Loire/Vendée.private.md) 
 
-### [Vendée.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Pays_de_la_Loire\departments~Pays_de_la_LoireVendée.secret.md)
+### [Vendée.personal](/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Pays_de_la_Loire/departments~Pays_de_la_Loire/Vendée.personal.md) 
+
+### [Vendée.secret](/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Pays_de_la_Loire/departments~Pays_de_la_Loire/Vendée.secret.md)
 

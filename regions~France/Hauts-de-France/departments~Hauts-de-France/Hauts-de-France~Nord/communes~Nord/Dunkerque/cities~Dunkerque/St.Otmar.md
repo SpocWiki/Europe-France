@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [St.Otmar.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Hauts-de-France\departments~Hauts-de-France\Hauts-de-France~Nord\communes~Nord\Dunkerque\cities~DunkerqueSt.Otmar.public.md) 
+### [St.Otmar](/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Hauts-de-France/departments~Hauts-de-France/Hauts-de-France~Nord/communes~Nord/Dunkerque/cities~Dunkerque/St.Otmar.md) 
 
-### [St.Otmar.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Hauts-de-France\departments~Hauts-de-France\Hauts-de-France~Nord\communes~Nord\Dunkerque\cities~DunkerqueSt.Otmar.internal.md) 
+### [St.Otmar.public](/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Hauts-de-France/departments~Hauts-de-France/Hauts-de-France~Nord/communes~Nord/Dunkerque/cities~Dunkerque/St.Otmar.public.md) 
 
-### [St.Otmar.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Hauts-de-France\departments~Hauts-de-France\Hauts-de-France~Nord\communes~Nord\Dunkerque\cities~DunkerqueSt.Otmar.protect.md) 
+### [St.Otmar.internal](/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Hauts-de-France/departments~Hauts-de-France/Hauts-de-France~Nord/communes~Nord/Dunkerque/cities~Dunkerque/St.Otmar.internal.md) 
 
-### [St.Otmar.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Hauts-de-France\departments~Hauts-de-France\Hauts-de-France~Nord\communes~Nord\Dunkerque\cities~DunkerqueSt.Otmar.private.md) 
+### [St.Otmar.protect](/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Hauts-de-France/departments~Hauts-de-France/Hauts-de-France~Nord/communes~Nord/Dunkerque/cities~Dunkerque/St.Otmar.protect.md) 
 
-### [St.Otmar.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Hauts-de-France\departments~Hauts-de-France\Hauts-de-France~Nord\communes~Nord\Dunkerque\cities~DunkerqueSt.Otmar.personal.md) 
+### [St.Otmar.private](/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Hauts-de-France/departments~Hauts-de-France/Hauts-de-France~Nord/communes~Nord/Dunkerque/cities~Dunkerque/St.Otmar.private.md) 
 
-### [St.Otmar.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Hauts-de-France\departments~Hauts-de-France\Hauts-de-France~Nord\communes~Nord\Dunkerque\cities~DunkerqueSt.Otmar.secret.md)
+### [St.Otmar.personal](/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Hauts-de-France/departments~Hauts-de-France/Hauts-de-France~Nord/communes~Nord/Dunkerque/cities~Dunkerque/St.Otmar.personal.md) 
+
+### [St.Otmar.secret](/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Hauts-de-France/departments~Hauts-de-France/Hauts-de-France~Nord/communes~Nord/Dunkerque/cities~Dunkerque/St.Otmar.secret.md)
 

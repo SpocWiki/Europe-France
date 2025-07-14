@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Montigny.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Grand_Est\departments~Grand_Est\Moselle\communes~Moselle\Metz-Ville\cities~Metz-VilleMontigny.public.md) 
+### [Montigny](/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Grand_Est/departments~Grand_Est/Moselle/communes~Moselle/Metz-Ville/cities~Metz-Ville/Montigny.md) 
 
-### [Montigny.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Grand_Est\departments~Grand_Est\Moselle\communes~Moselle\Metz-Ville\cities~Metz-VilleMontigny.internal.md) 
+### [Montigny.public](/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Grand_Est/departments~Grand_Est/Moselle/communes~Moselle/Metz-Ville/cities~Metz-Ville/Montigny.public.md) 
 
-### [Montigny.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Grand_Est\departments~Grand_Est\Moselle\communes~Moselle\Metz-Ville\cities~Metz-VilleMontigny.protect.md) 
+### [Montigny.internal](/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Grand_Est/departments~Grand_Est/Moselle/communes~Moselle/Metz-Ville/cities~Metz-Ville/Montigny.internal.md) 
 
-### [Montigny.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Grand_Est\departments~Grand_Est\Moselle\communes~Moselle\Metz-Ville\cities~Metz-VilleMontigny.private.md) 
+### [Montigny.protect](/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Grand_Est/departments~Grand_Est/Moselle/communes~Moselle/Metz-Ville/cities~Metz-Ville/Montigny.protect.md) 
 
-### [Montigny.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Grand_Est\departments~Grand_Est\Moselle\communes~Moselle\Metz-Ville\cities~Metz-VilleMontigny.personal.md) 
+### [Montigny.private](/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Grand_Est/departments~Grand_Est/Moselle/communes~Moselle/Metz-Ville/cities~Metz-Ville/Montigny.private.md) 
 
-### [Montigny.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Grand_Est\departments~Grand_Est\Moselle\communes~Moselle\Metz-Ville\cities~Metz-VilleMontigny.secret.md)
+### [Montigny.personal](/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Grand_Est/departments~Grand_Est/Moselle/communes~Moselle/Metz-Ville/cities~Metz-Ville/Montigny.personal.md) 
+
+### [Montigny.secret](/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Grand_Est/departments~Grand_Est/Moselle/communes~Moselle/Metz-Ville/cities~Metz-Ville/Montigny.secret.md)
 

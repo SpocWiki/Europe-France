@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Castel_Sarrasin.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~Occitanie\Tarn-et-Garonne\communes~Tarn-et-Garonne\Castelsarrasin\cities~CastelsarrasinCastel_Sarrasin.public.md) 
+### [Castel_Sarrasin](/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Tarn-et-Garonne/communes~Tarn-et-Garonne/Castelsarrasin/cities~Castelsarrasin/Castel_Sarrasin.md) 
 
-### [Castel_Sarrasin.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~Occitanie\Tarn-et-Garonne\communes~Tarn-et-Garonne\Castelsarrasin\cities~CastelsarrasinCastel_Sarrasin.internal.md) 
+### [Castel_Sarrasin.public](/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Tarn-et-Garonne/communes~Tarn-et-Garonne/Castelsarrasin/cities~Castelsarrasin/Castel_Sarrasin.public.md) 
 
-### [Castel_Sarrasin.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~Occitanie\Tarn-et-Garonne\communes~Tarn-et-Garonne\Castelsarrasin\cities~CastelsarrasinCastel_Sarrasin.protect.md) 
+### [Castel_Sarrasin.internal](/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Tarn-et-Garonne/communes~Tarn-et-Garonne/Castelsarrasin/cities~Castelsarrasin/Castel_Sarrasin.internal.md) 
 
-### [Castel_Sarrasin.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~Occitanie\Tarn-et-Garonne\communes~Tarn-et-Garonne\Castelsarrasin\cities~CastelsarrasinCastel_Sarrasin.private.md) 
+### [Castel_Sarrasin.protect](/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Tarn-et-Garonne/communes~Tarn-et-Garonne/Castelsarrasin/cities~Castelsarrasin/Castel_Sarrasin.protect.md) 
 
-### [Castel_Sarrasin.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~Occitanie\Tarn-et-Garonne\communes~Tarn-et-Garonne\Castelsarrasin\cities~CastelsarrasinCastel_Sarrasin.personal.md) 
+### [Castel_Sarrasin.private](/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Tarn-et-Garonne/communes~Tarn-et-Garonne/Castelsarrasin/cities~Castelsarrasin/Castel_Sarrasin.private.md) 
 
-### [Castel_Sarrasin.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~Occitanie\Tarn-et-Garonne\communes~Tarn-et-Garonne\Castelsarrasin\cities~CastelsarrasinCastel_Sarrasin.secret.md)
+### [Castel_Sarrasin.personal](/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Tarn-et-Garonne/communes~Tarn-et-Garonne/Castelsarrasin/cities~Castelsarrasin/Castel_Sarrasin.personal.md) 
+
+### [Castel_Sarrasin.secret](/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Tarn-et-Garonne/communes~Tarn-et-Garonne/Castelsarrasin/cities~Castelsarrasin/Castel_Sarrasin.secret.md)
 

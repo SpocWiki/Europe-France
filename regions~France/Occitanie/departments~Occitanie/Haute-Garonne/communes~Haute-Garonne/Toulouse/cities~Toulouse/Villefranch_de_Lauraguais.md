@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Villefranch_de_Lauraguais.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~Occitanie\Haute-Garonne\communes~Haute-Garonne\Toulouse\cities~ToulouseVillefranch_de_Lauraguais.public.md) 
+### [Villefranch_de_Lauraguais](/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Haute-Garonne/communes~Haute-Garonne/Toulouse/cities~Toulouse/Villefranch_de_Lauraguais.md) 
 
-### [Villefranch_de_Lauraguais.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~Occitanie\Haute-Garonne\communes~Haute-Garonne\Toulouse\cities~ToulouseVillefranch_de_Lauraguais.internal.md) 
+### [Villefranch_de_Lauraguais.public](/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Haute-Garonne/communes~Haute-Garonne/Toulouse/cities~Toulouse/Villefranch_de_Lauraguais.public.md) 
 
-### [Villefranch_de_Lauraguais.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~Occitanie\Haute-Garonne\communes~Haute-Garonne\Toulouse\cities~ToulouseVillefranch_de_Lauraguais.protect.md) 
+### [Villefranch_de_Lauraguais.internal](/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Haute-Garonne/communes~Haute-Garonne/Toulouse/cities~Toulouse/Villefranch_de_Lauraguais.internal.md) 
 
-### [Villefranch_de_Lauraguais.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~Occitanie\Haute-Garonne\communes~Haute-Garonne\Toulouse\cities~ToulouseVillefranch_de_Lauraguais.private.md) 
+### [Villefranch_de_Lauraguais.protect](/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Haute-Garonne/communes~Haute-Garonne/Toulouse/cities~Toulouse/Villefranch_de_Lauraguais.protect.md) 
 
-### [Villefranch_de_Lauraguais.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~Occitanie\Haute-Garonne\communes~Haute-Garonne\Toulouse\cities~ToulouseVillefranch_de_Lauraguais.personal.md) 
+### [Villefranch_de_Lauraguais.private](/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Haute-Garonne/communes~Haute-Garonne/Toulouse/cities~Toulouse/Villefranch_de_Lauraguais.private.md) 
 
-### [Villefranch_de_Lauraguais.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~Occitanie\Haute-Garonne\communes~Haute-Garonne\Toulouse\cities~ToulouseVillefranch_de_Lauraguais.secret.md)
+### [Villefranch_de_Lauraguais.personal](/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Haute-Garonne/communes~Haute-Garonne/Toulouse/cities~Toulouse/Villefranch_de_Lauraguais.personal.md) 
+
+### [Villefranch_de_Lauraguais.secret](/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Haute-Garonne/communes~Haute-Garonne/Toulouse/cities~Toulouse/Villefranch_de_Lauraguais.secret.md)
 

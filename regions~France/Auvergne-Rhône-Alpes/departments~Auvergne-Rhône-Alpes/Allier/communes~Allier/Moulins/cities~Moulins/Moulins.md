@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Moulins.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Auvergne-Rhône-Alpes\departments~Auvergne-Rhône-Alpes\Allier\communes~Allier\Moulins\cities~MoulinsMoulins.public.md) 
+### [Moulins](/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Auvergne-Rhône-Alpes/departments~Auvergne-Rhône-Alpes/Allier/communes~Allier/Moulins/cities~Moulins/Moulins.md) 
 
-### [Moulins.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Auvergne-Rhône-Alpes\departments~Auvergne-Rhône-Alpes\Allier\communes~Allier\Moulins\cities~MoulinsMoulins.internal.md) 
+### [Moulins.public](/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Auvergne-Rhône-Alpes/departments~Auvergne-Rhône-Alpes/Allier/communes~Allier/Moulins/cities~Moulins/Moulins.public.md) 
 
-### [Moulins.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Auvergne-Rhône-Alpes\departments~Auvergne-Rhône-Alpes\Allier\communes~Allier\Moulins\cities~MoulinsMoulins.protect.md) 
+### [Moulins.internal](/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Auvergne-Rhône-Alpes/departments~Auvergne-Rhône-Alpes/Allier/communes~Allier/Moulins/cities~Moulins/Moulins.internal.md) 
 
-### [Moulins.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Auvergne-Rhône-Alpes\departments~Auvergne-Rhône-Alpes\Allier\communes~Allier\Moulins\cities~MoulinsMoulins.private.md) 
+### [Moulins.protect](/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Auvergne-Rhône-Alpes/departments~Auvergne-Rhône-Alpes/Allier/communes~Allier/Moulins/cities~Moulins/Moulins.protect.md) 
 
-### [Moulins.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Auvergne-Rhône-Alpes\departments~Auvergne-Rhône-Alpes\Allier\communes~Allier\Moulins\cities~MoulinsMoulins.personal.md) 
+### [Moulins.private](/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Auvergne-Rhône-Alpes/departments~Auvergne-Rhône-Alpes/Allier/communes~Allier/Moulins/cities~Moulins/Moulins.private.md) 
 
-### [Moulins.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Auvergne-Rhône-Alpes\departments~Auvergne-Rhône-Alpes\Allier\communes~Allier\Moulins\cities~MoulinsMoulins.secret.md)
+### [Moulins.personal](/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Auvergne-Rhône-Alpes/departments~Auvergne-Rhône-Alpes/Allier/communes~Allier/Moulins/cities~Moulins/Moulins.personal.md) 
+
+### [Moulins.secret](/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Auvergne-Rhône-Alpes/departments~Auvergne-Rhône-Alpes/Allier/communes~Allier/Moulins/cities~Moulins/Moulins.secret.md)
 

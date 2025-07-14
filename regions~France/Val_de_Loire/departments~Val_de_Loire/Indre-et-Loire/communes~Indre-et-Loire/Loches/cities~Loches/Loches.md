@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Loches.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Val_de_Loire\departments~Val_de_Loire\Indre-et-Loire\communes~Indre-et-Loire\Loches\cities~LochesLoches.public.md) 
+### [Loches](/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Val_de_Loire/departments~Val_de_Loire/Indre-et-Loire/communes~Indre-et-Loire/Loches/cities~Loches/Loches.md) 
 
-### [Loches.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Val_de_Loire\departments~Val_de_Loire\Indre-et-Loire\communes~Indre-et-Loire\Loches\cities~LochesLoches.internal.md) 
+### [Loches.public](/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Val_de_Loire/departments~Val_de_Loire/Indre-et-Loire/communes~Indre-et-Loire/Loches/cities~Loches/Loches.public.md) 
 
-### [Loches.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Val_de_Loire\departments~Val_de_Loire\Indre-et-Loire\communes~Indre-et-Loire\Loches\cities~LochesLoches.protect.md) 
+### [Loches.internal](/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Val_de_Loire/departments~Val_de_Loire/Indre-et-Loire/communes~Indre-et-Loire/Loches/cities~Loches/Loches.internal.md) 
 
-### [Loches.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Val_de_Loire\departments~Val_de_Loire\Indre-et-Loire\communes~Indre-et-Loire\Loches\cities~LochesLoches.private.md) 
+### [Loches.protect](/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Val_de_Loire/departments~Val_de_Loire/Indre-et-Loire/communes~Indre-et-Loire/Loches/cities~Loches/Loches.protect.md) 
 
-### [Loches.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Val_de_Loire\departments~Val_de_Loire\Indre-et-Loire\communes~Indre-et-Loire\Loches\cities~LochesLoches.personal.md) 
+### [Loches.private](/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Val_de_Loire/departments~Val_de_Loire/Indre-et-Loire/communes~Indre-et-Loire/Loches/cities~Loches/Loches.private.md) 
 
-### [Loches.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Val_de_Loire\departments~Val_de_Loire\Indre-et-Loire\communes~Indre-et-Loire\Loches\cities~LochesLoches.secret.md)
+### [Loches.personal](/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Val_de_Loire/departments~Val_de_Loire/Indre-et-Loire/communes~Indre-et-Loire/Loches/cities~Loches/Loches.personal.md) 
+
+### [Loches.secret](/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Val_de_Loire/departments~Val_de_Loire/Indre-et-Loire/communes~Indre-et-Loire/Loches/cities~Loches/Loches.secret.md)
 

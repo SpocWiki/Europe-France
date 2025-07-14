@@ -50,15 +50,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Cordouan-Lighthouse.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-AquitaineCordouan-Lighthouse.public.md) 
+### [Cordouan-Lighthouse](/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Nouvelle-Aquitaine/Cordouan-Lighthouse.md) 
 
-### [Cordouan-Lighthouse.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-AquitaineCordouan-Lighthouse.internal.md) 
+### [Cordouan-Lighthouse.public](/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Nouvelle-Aquitaine/Cordouan-Lighthouse.public.md) 
 
-### [Cordouan-Lighthouse.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-AquitaineCordouan-Lighthouse.protect.md) 
+### [Cordouan-Lighthouse.internal](/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Nouvelle-Aquitaine/Cordouan-Lighthouse.internal.md) 
 
-### [Cordouan-Lighthouse.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-AquitaineCordouan-Lighthouse.private.md) 
+### [Cordouan-Lighthouse.protect](/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Nouvelle-Aquitaine/Cordouan-Lighthouse.protect.md) 
 
-### [Cordouan-Lighthouse.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-AquitaineCordouan-Lighthouse.personal.md) 
+### [Cordouan-Lighthouse.private](/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Nouvelle-Aquitaine/Cordouan-Lighthouse.private.md) 
 
-### [Cordouan-Lighthouse.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-AquitaineCordouan-Lighthouse.secret.md)
+### [Cordouan-Lighthouse.personal](/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Nouvelle-Aquitaine/Cordouan-Lighthouse.personal.md) 
+
+### [Cordouan-Lighthouse.secret](/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Nouvelle-Aquitaine/Cordouan-Lighthouse.secret.md)
 

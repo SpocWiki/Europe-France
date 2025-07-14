@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Sarrebourg.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Grand_Est\departments~Grand_Est\Moselle\communes~Moselle\Sarrebourg\cities~SarrebourgSarrebourg.public.md) 
+### [Sarrebourg](/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Grand_Est/departments~Grand_Est/Moselle/communes~Moselle/Sarrebourg/cities~Sarrebourg/Sarrebourg.md) 
 
-### [Sarrebourg.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Grand_Est\departments~Grand_Est\Moselle\communes~Moselle\Sarrebourg\cities~SarrebourgSarrebourg.internal.md) 
+### [Sarrebourg.public](/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Grand_Est/departments~Grand_Est/Moselle/communes~Moselle/Sarrebourg/cities~Sarrebourg/Sarrebourg.public.md) 
 
-### [Sarrebourg.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Grand_Est\departments~Grand_Est\Moselle\communes~Moselle\Sarrebourg\cities~SarrebourgSarrebourg.protect.md) 
+### [Sarrebourg.internal](/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Grand_Est/departments~Grand_Est/Moselle/communes~Moselle/Sarrebourg/cities~Sarrebourg/Sarrebourg.internal.md) 
 
-### [Sarrebourg.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Grand_Est\departments~Grand_Est\Moselle\communes~Moselle\Sarrebourg\cities~SarrebourgSarrebourg.private.md) 
+### [Sarrebourg.protect](/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Grand_Est/departments~Grand_Est/Moselle/communes~Moselle/Sarrebourg/cities~Sarrebourg/Sarrebourg.protect.md) 
 
-### [Sarrebourg.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Grand_Est\departments~Grand_Est\Moselle\communes~Moselle\Sarrebourg\cities~SarrebourgSarrebourg.personal.md) 
+### [Sarrebourg.private](/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Grand_Est/departments~Grand_Est/Moselle/communes~Moselle/Sarrebourg/cities~Sarrebourg/Sarrebourg.private.md) 
 
-### [Sarrebourg.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Grand_Est\departments~Grand_Est\Moselle\communes~Moselle\Sarrebourg\cities~SarrebourgSarrebourg.secret.md)
+### [Sarrebourg.personal](/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Grand_Est/departments~Grand_Est/Moselle/communes~Moselle/Sarrebourg/cities~Sarrebourg/Sarrebourg.personal.md) 
+
+### [Sarrebourg.secret](/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Grand_Est/departments~Grand_Est/Moselle/communes~Moselle/Sarrebourg/cities~Sarrebourg/Sarrebourg.secret.md)
 

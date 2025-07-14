@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Rouen.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Normandie\departments~Normandie\Seine-Maritime\communes~Seine-Maritime\Rouen\cities~RouenRouen.public.md) 
+### [Rouen](/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Normandie/departments~Normandie/Seine-Maritime/communes~Seine-Maritime/Rouen/cities~Rouen/Rouen.md) 
 
-### [Rouen.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Normandie\departments~Normandie\Seine-Maritime\communes~Seine-Maritime\Rouen\cities~RouenRouen.internal.md) 
+### [Rouen.public](/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Normandie/departments~Normandie/Seine-Maritime/communes~Seine-Maritime/Rouen/cities~Rouen/Rouen.public.md) 
 
-### [Rouen.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Normandie\departments~Normandie\Seine-Maritime\communes~Seine-Maritime\Rouen\cities~RouenRouen.protect.md) 
+### [Rouen.internal](/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Normandie/departments~Normandie/Seine-Maritime/communes~Seine-Maritime/Rouen/cities~Rouen/Rouen.internal.md) 
 
-### [Rouen.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Normandie\departments~Normandie\Seine-Maritime\communes~Seine-Maritime\Rouen\cities~RouenRouen.private.md) 
+### [Rouen.protect](/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Normandie/departments~Normandie/Seine-Maritime/communes~Seine-Maritime/Rouen/cities~Rouen/Rouen.protect.md) 
 
-### [Rouen.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Normandie\departments~Normandie\Seine-Maritime\communes~Seine-Maritime\Rouen\cities~RouenRouen.personal.md) 
+### [Rouen.private](/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Normandie/departments~Normandie/Seine-Maritime/communes~Seine-Maritime/Rouen/cities~Rouen/Rouen.private.md) 
 
-### [Rouen.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Normandie\departments~Normandie\Seine-Maritime\communes~Seine-Maritime\Rouen\cities~RouenRouen.secret.md)
+### [Rouen.personal](/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Normandie/departments~Normandie/Seine-Maritime/communes~Seine-Maritime/Rouen/cities~Rouen/Rouen.personal.md) 
+
+### [Rouen.secret](/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Normandie/departments~Normandie/Seine-Maritime/communes~Seine-Maritime/Rouen/cities~Rouen/Rouen.secret.md)
 

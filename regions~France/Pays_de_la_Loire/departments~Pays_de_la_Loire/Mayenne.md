@@ -41,15 +41,17 @@ markerFolder: ./Département~Mayenne/
 
 ## Confidential Links & Embeds: 
 
-### [Mayenne.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Pays_de_la_Loire\departments~Pays_de_la_LoireMayenne.public.md) 
+### [Mayenne](/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Pays_de_la_Loire/departments~Pays_de_la_Loire/Mayenne.md) 
 
-### [Mayenne.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Pays_de_la_Loire\departments~Pays_de_la_LoireMayenne.internal.md) 
+### [Mayenne.public](/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Pays_de_la_Loire/departments~Pays_de_la_Loire/Mayenne.public.md) 
 
-### [Mayenne.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Pays_de_la_Loire\departments~Pays_de_la_LoireMayenne.protect.md) 
+### [Mayenne.internal](/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Pays_de_la_Loire/departments~Pays_de_la_Loire/Mayenne.internal.md) 
 
-### [Mayenne.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Pays_de_la_Loire\departments~Pays_de_la_LoireMayenne.private.md) 
+### [Mayenne.protect](/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Pays_de_la_Loire/departments~Pays_de_la_Loire/Mayenne.protect.md) 
 
-### [Mayenne.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Pays_de_la_Loire\departments~Pays_de_la_LoireMayenne.personal.md) 
+### [Mayenne.private](/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Pays_de_la_Loire/departments~Pays_de_la_Loire/Mayenne.private.md) 
 
-### [Mayenne.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Pays_de_la_Loire\departments~Pays_de_la_LoireMayenne.secret.md)
+### [Mayenne.personal](/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Pays_de_la_Loire/departments~Pays_de_la_Loire/Mayenne.personal.md) 
+
+### [Mayenne.secret](/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Pays_de_la_Loire/departments~Pays_de_la_Loire/Mayenne.secret.md)
 

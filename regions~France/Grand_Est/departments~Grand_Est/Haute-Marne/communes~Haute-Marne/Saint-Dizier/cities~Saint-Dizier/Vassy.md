@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Vassy.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Grand_Est\departments~Grand_Est\Haute-Marne\communes~Haute-Marne\Saint-Dizier\cities~Saint-DizierVassy.public.md) 
+### [Vassy](/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Grand_Est/departments~Grand_Est/Haute-Marne/communes~Haute-Marne/Saint-Dizier/cities~Saint-Dizier/Vassy.md) 
 
-### [Vassy.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Grand_Est\departments~Grand_Est\Haute-Marne\communes~Haute-Marne\Saint-Dizier\cities~Saint-DizierVassy.internal.md) 
+### [Vassy.public](/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Grand_Est/departments~Grand_Est/Haute-Marne/communes~Haute-Marne/Saint-Dizier/cities~Saint-Dizier/Vassy.public.md) 
 
-### [Vassy.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Grand_Est\departments~Grand_Est\Haute-Marne\communes~Haute-Marne\Saint-Dizier\cities~Saint-DizierVassy.protect.md) 
+### [Vassy.internal](/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Grand_Est/departments~Grand_Est/Haute-Marne/communes~Haute-Marne/Saint-Dizier/cities~Saint-Dizier/Vassy.internal.md) 
 
-### [Vassy.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Grand_Est\departments~Grand_Est\Haute-Marne\communes~Haute-Marne\Saint-Dizier\cities~Saint-DizierVassy.private.md) 
+### [Vassy.protect](/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Grand_Est/departments~Grand_Est/Haute-Marne/communes~Haute-Marne/Saint-Dizier/cities~Saint-Dizier/Vassy.protect.md) 
 
-### [Vassy.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Grand_Est\departments~Grand_Est\Haute-Marne\communes~Haute-Marne\Saint-Dizier\cities~Saint-DizierVassy.personal.md) 
+### [Vassy.private](/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Grand_Est/departments~Grand_Est/Haute-Marne/communes~Haute-Marne/Saint-Dizier/cities~Saint-Dizier/Vassy.private.md) 
 
-### [Vassy.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Grand_Est\departments~Grand_Est\Haute-Marne\communes~Haute-Marne\Saint-Dizier\cities~Saint-DizierVassy.secret.md)
+### [Vassy.personal](/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Grand_Est/departments~Grand_Est/Haute-Marne/communes~Haute-Marne/Saint-Dizier/cities~Saint-Dizier/Vassy.personal.md) 
+
+### [Vassy.secret](/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Grand_Est/departments~Grand_Est/Haute-Marne/communes~Haute-Marne/Saint-Dizier/cities~Saint-Dizier/Vassy.secret.md)
 

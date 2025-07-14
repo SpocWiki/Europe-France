@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Aiguesmorth.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~Occitanie\Gers\communes~Gers\Mirande\cities~MirandeAiguesmorth.public.md) 
+### [Aiguesmorth](/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Gers/communes~Gers/Mirande/cities~Mirande/Aiguesmorth.md) 
 
-### [Aiguesmorth.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~Occitanie\Gers\communes~Gers\Mirande\cities~MirandeAiguesmorth.internal.md) 
+### [Aiguesmorth.public](/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Gers/communes~Gers/Mirande/cities~Mirande/Aiguesmorth.public.md) 
 
-### [Aiguesmorth.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~Occitanie\Gers\communes~Gers\Mirande\cities~MirandeAiguesmorth.protect.md) 
+### [Aiguesmorth.internal](/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Gers/communes~Gers/Mirande/cities~Mirande/Aiguesmorth.internal.md) 
 
-### [Aiguesmorth.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~Occitanie\Gers\communes~Gers\Mirande\cities~MirandeAiguesmorth.private.md) 
+### [Aiguesmorth.protect](/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Gers/communes~Gers/Mirande/cities~Mirande/Aiguesmorth.protect.md) 
 
-### [Aiguesmorth.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~Occitanie\Gers\communes~Gers\Mirande\cities~MirandeAiguesmorth.personal.md) 
+### [Aiguesmorth.private](/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Gers/communes~Gers/Mirande/cities~Mirande/Aiguesmorth.private.md) 
 
-### [Aiguesmorth.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~Occitanie\Gers\communes~Gers\Mirande\cities~MirandeAiguesmorth.secret.md)
+### [Aiguesmorth.personal](/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Gers/communes~Gers/Mirande/cities~Mirande/Aiguesmorth.personal.md) 
+
+### [Aiguesmorth.secret](/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Gers/communes~Gers/Mirande/cities~Mirande/Aiguesmorth.secret.md)
 

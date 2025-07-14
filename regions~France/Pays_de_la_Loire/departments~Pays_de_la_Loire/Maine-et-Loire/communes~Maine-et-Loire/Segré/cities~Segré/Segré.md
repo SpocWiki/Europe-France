@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Segré.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Pays_de_la_Loire\departments~Pays_de_la_Loire\Maine-et-Loire\communes~Maine-et-Loire\Segré\cities~SegréSegré.public.md) 
+### [Segré](/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Pays_de_la_Loire/departments~Pays_de_la_Loire/Maine-et-Loire/communes~Maine-et-Loire/Segré/cities~Segré/Segré.md) 
 
-### [Segré.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Pays_de_la_Loire\departments~Pays_de_la_Loire\Maine-et-Loire\communes~Maine-et-Loire\Segré\cities~SegréSegré.internal.md) 
+### [Segré.public](/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Pays_de_la_Loire/departments~Pays_de_la_Loire/Maine-et-Loire/communes~Maine-et-Loire/Segré/cities~Segré/Segré.public.md) 
 
-### [Segré.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Pays_de_la_Loire\departments~Pays_de_la_Loire\Maine-et-Loire\communes~Maine-et-Loire\Segré\cities~SegréSegré.protect.md) 
+### [Segré.internal](/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Pays_de_la_Loire/departments~Pays_de_la_Loire/Maine-et-Loire/communes~Maine-et-Loire/Segré/cities~Segré/Segré.internal.md) 
 
-### [Segré.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Pays_de_la_Loire\departments~Pays_de_la_Loire\Maine-et-Loire\communes~Maine-et-Loire\Segré\cities~SegréSegré.private.md) 
+### [Segré.protect](/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Pays_de_la_Loire/departments~Pays_de_la_Loire/Maine-et-Loire/communes~Maine-et-Loire/Segré/cities~Segré/Segré.protect.md) 
 
-### [Segré.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Pays_de_la_Loire\departments~Pays_de_la_Loire\Maine-et-Loire\communes~Maine-et-Loire\Segré\cities~SegréSegré.personal.md) 
+### [Segré.private](/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Pays_de_la_Loire/departments~Pays_de_la_Loire/Maine-et-Loire/communes~Maine-et-Loire/Segré/cities~Segré/Segré.private.md) 
 
-### [Segré.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Pays_de_la_Loire\departments~Pays_de_la_Loire\Maine-et-Loire\communes~Maine-et-Loire\Segré\cities~SegréSegré.secret.md)
+### [Segré.personal](/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Pays_de_la_Loire/departments~Pays_de_la_Loire/Maine-et-Loire/communes~Maine-et-Loire/Segré/cities~Segré/Segré.personal.md) 
+
+### [Segré.secret](/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Pays_de_la_Loire/departments~Pays_de_la_Loire/Maine-et-Loire/communes~Maine-et-Loire/Segré/cities~Segré/Segré.secret.md)
 

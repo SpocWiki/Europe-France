@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Le_Mans.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Pays_de_la_Loire\departments~Pays_de_la_Loire\Sarthe\communes~Sarthe\La_Flèche\cities~LaFlècheLe_Mans.public.md) 
+### [Le_Mans](/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Pays_de_la_Loire/departments~Pays_de_la_Loire/Sarthe/communes~Sarthe/La_Flèche/cities~LaFlèche/Le_Mans.md) 
 
-### [Le_Mans.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Pays_de_la_Loire\departments~Pays_de_la_Loire\Sarthe\communes~Sarthe\La_Flèche\cities~LaFlècheLe_Mans.internal.md) 
+### [Le_Mans.public](/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Pays_de_la_Loire/departments~Pays_de_la_Loire/Sarthe/communes~Sarthe/La_Flèche/cities~LaFlèche/Le_Mans.public.md) 
 
-### [Le_Mans.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Pays_de_la_Loire\departments~Pays_de_la_Loire\Sarthe\communes~Sarthe\La_Flèche\cities~LaFlècheLe_Mans.protect.md) 
+### [Le_Mans.internal](/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Pays_de_la_Loire/departments~Pays_de_la_Loire/Sarthe/communes~Sarthe/La_Flèche/cities~LaFlèche/Le_Mans.internal.md) 
 
-### [Le_Mans.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Pays_de_la_Loire\departments~Pays_de_la_Loire\Sarthe\communes~Sarthe\La_Flèche\cities~LaFlècheLe_Mans.private.md) 
+### [Le_Mans.protect](/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Pays_de_la_Loire/departments~Pays_de_la_Loire/Sarthe/communes~Sarthe/La_Flèche/cities~LaFlèche/Le_Mans.protect.md) 
 
-### [Le_Mans.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Pays_de_la_Loire\departments~Pays_de_la_Loire\Sarthe\communes~Sarthe\La_Flèche\cities~LaFlècheLe_Mans.personal.md) 
+### [Le_Mans.private](/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Pays_de_la_Loire/departments~Pays_de_la_Loire/Sarthe/communes~Sarthe/La_Flèche/cities~LaFlèche/Le_Mans.private.md) 
 
-### [Le_Mans.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Pays_de_la_Loire\departments~Pays_de_la_Loire\Sarthe\communes~Sarthe\La_Flèche\cities~LaFlècheLe_Mans.secret.md)
+### [Le_Mans.personal](/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Pays_de_la_Loire/departments~Pays_de_la_Loire/Sarthe/communes~Sarthe/La_Flèche/cities~LaFlèche/Le_Mans.personal.md) 
+
+### [Le_Mans.secret](/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Pays_de_la_Loire/departments~Pays_de_la_Loire/Sarthe/communes~Sarthe/La_Flèche/cities~LaFlèche/Le_Mans.secret.md)
 

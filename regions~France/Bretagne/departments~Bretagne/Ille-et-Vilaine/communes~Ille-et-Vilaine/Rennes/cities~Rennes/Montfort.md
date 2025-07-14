@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Montfort.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Bretagne\departments~Bretagne\Ille-et-Vilaine\communes~Ille-et-Vilaine\Rennes\cities~RennesMontfort.public.md) 
+### [Montfort](/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Bretagne/departments~Bretagne/Ille-et-Vilaine/communes~Ille-et-Vilaine/Rennes/cities~Rennes/Montfort.md) 
 
-### [Montfort.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Bretagne\departments~Bretagne\Ille-et-Vilaine\communes~Ille-et-Vilaine\Rennes\cities~RennesMontfort.internal.md) 
+### [Montfort.public](/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Bretagne/departments~Bretagne/Ille-et-Vilaine/communes~Ille-et-Vilaine/Rennes/cities~Rennes/Montfort.public.md) 
 
-### [Montfort.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Bretagne\departments~Bretagne\Ille-et-Vilaine\communes~Ille-et-Vilaine\Rennes\cities~RennesMontfort.protect.md) 
+### [Montfort.internal](/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Bretagne/departments~Bretagne/Ille-et-Vilaine/communes~Ille-et-Vilaine/Rennes/cities~Rennes/Montfort.internal.md) 
 
-### [Montfort.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Bretagne\departments~Bretagne\Ille-et-Vilaine\communes~Ille-et-Vilaine\Rennes\cities~RennesMontfort.private.md) 
+### [Montfort.protect](/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Bretagne/departments~Bretagne/Ille-et-Vilaine/communes~Ille-et-Vilaine/Rennes/cities~Rennes/Montfort.protect.md) 
 
-### [Montfort.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Bretagne\departments~Bretagne\Ille-et-Vilaine\communes~Ille-et-Vilaine\Rennes\cities~RennesMontfort.personal.md) 
+### [Montfort.private](/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Bretagne/departments~Bretagne/Ille-et-Vilaine/communes~Ille-et-Vilaine/Rennes/cities~Rennes/Montfort.private.md) 
 
-### [Montfort.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Bretagne\departments~Bretagne\Ille-et-Vilaine\communes~Ille-et-Vilaine\Rennes\cities~RennesMontfort.secret.md)
+### [Montfort.personal](/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Bretagne/departments~Bretagne/Ille-et-Vilaine/communes~Ille-et-Vilaine/Rennes/cities~Rennes/Montfort.personal.md) 
+
+### [Montfort.secret](/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Bretagne/departments~Bretagne/Ille-et-Vilaine/communes~Ille-et-Vilaine/Rennes/cities~Rennes/Montfort.secret.md)
 

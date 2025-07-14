@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Bar_le_Duc.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Grand_Est\departments~Grand_Est\Meuse\communes~Meuse\Bar-le-Duc\cities~Bar-le-DucBar_le_Duc.public.md) 
+### [Bar_le_Duc](/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Grand_Est/departments~Grand_Est/Meuse/communes~Meuse/Bar-le-Duc/cities~Bar-le-Duc/Bar_le_Duc.md) 
 
-### [Bar_le_Duc.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Grand_Est\departments~Grand_Est\Meuse\communes~Meuse\Bar-le-Duc\cities~Bar-le-DucBar_le_Duc.internal.md) 
+### [Bar_le_Duc.public](/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Grand_Est/departments~Grand_Est/Meuse/communes~Meuse/Bar-le-Duc/cities~Bar-le-Duc/Bar_le_Duc.public.md) 
 
-### [Bar_le_Duc.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Grand_Est\departments~Grand_Est\Meuse\communes~Meuse\Bar-le-Duc\cities~Bar-le-DucBar_le_Duc.protect.md) 
+### [Bar_le_Duc.internal](/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Grand_Est/departments~Grand_Est/Meuse/communes~Meuse/Bar-le-Duc/cities~Bar-le-Duc/Bar_le_Duc.internal.md) 
 
-### [Bar_le_Duc.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Grand_Est\departments~Grand_Est\Meuse\communes~Meuse\Bar-le-Duc\cities~Bar-le-DucBar_le_Duc.private.md) 
+### [Bar_le_Duc.protect](/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Grand_Est/departments~Grand_Est/Meuse/communes~Meuse/Bar-le-Duc/cities~Bar-le-Duc/Bar_le_Duc.protect.md) 
 
-### [Bar_le_Duc.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Grand_Est\departments~Grand_Est\Meuse\communes~Meuse\Bar-le-Duc\cities~Bar-le-DucBar_le_Duc.personal.md) 
+### [Bar_le_Duc.private](/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Grand_Est/departments~Grand_Est/Meuse/communes~Meuse/Bar-le-Duc/cities~Bar-le-Duc/Bar_le_Duc.private.md) 
 
-### [Bar_le_Duc.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Grand_Est\departments~Grand_Est\Meuse\communes~Meuse\Bar-le-Duc\cities~Bar-le-DucBar_le_Duc.secret.md)
+### [Bar_le_Duc.personal](/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Grand_Est/departments~Grand_Est/Meuse/communes~Meuse/Bar-le-Duc/cities~Bar-le-Duc/Bar_le_Duc.personal.md) 
+
+### [Bar_le_Duc.secret](/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Grand_Est/departments~Grand_Est/Meuse/communes~Meuse/Bar-le-Duc/cities~Bar-le-Duc/Bar_le_Duc.secret.md)
 

@@ -41,15 +41,17 @@ markerFolder: ./Département~Saône-et-Loire/
 
 ## Confidential Links & Embeds: 
 
-### [Saône-et-Loire.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Bourgogne-Franche-Comté\departments~Bourgogne-Franche-ComtéSaône-et-Loire.public.md) 
+### [Saône-et-Loire](/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Bourgogne-Franche-Comté/departments~Bourgogne-Franche-Comté/Saône-et-Loire.md) 
 
-### [Saône-et-Loire.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Bourgogne-Franche-Comté\departments~Bourgogne-Franche-ComtéSaône-et-Loire.internal.md) 
+### [Saône-et-Loire.public](/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Bourgogne-Franche-Comté/departments~Bourgogne-Franche-Comté/Saône-et-Loire.public.md) 
 
-### [Saône-et-Loire.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Bourgogne-Franche-Comté\departments~Bourgogne-Franche-ComtéSaône-et-Loire.protect.md) 
+### [Saône-et-Loire.internal](/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Bourgogne-Franche-Comté/departments~Bourgogne-Franche-Comté/Saône-et-Loire.internal.md) 
 
-### [Saône-et-Loire.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Bourgogne-Franche-Comté\departments~Bourgogne-Franche-ComtéSaône-et-Loire.private.md) 
+### [Saône-et-Loire.protect](/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Bourgogne-Franche-Comté/departments~Bourgogne-Franche-Comté/Saône-et-Loire.protect.md) 
 
-### [Saône-et-Loire.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Bourgogne-Franche-Comté\departments~Bourgogne-Franche-ComtéSaône-et-Loire.personal.md) 
+### [Saône-et-Loire.private](/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Bourgogne-Franche-Comté/departments~Bourgogne-Franche-Comté/Saône-et-Loire.private.md) 
 
-### [Saône-et-Loire.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Bourgogne-Franche-Comté\departments~Bourgogne-Franche-ComtéSaône-et-Loire.secret.md)
+### [Saône-et-Loire.personal](/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Bourgogne-Franche-Comté/departments~Bourgogne-Franche-Comté/Saône-et-Loire.personal.md) 
+
+### [Saône-et-Loire.secret](/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Bourgogne-Franche-Comté/departments~Bourgogne-Franche-Comté/Saône-et-Loire.secret.md)
 

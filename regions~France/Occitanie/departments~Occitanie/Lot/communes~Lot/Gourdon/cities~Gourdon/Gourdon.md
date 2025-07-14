@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Gourdon.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~Occitanie\Lot\communes~Lot\Gourdon\cities~GourdonGourdon.public.md) 
+### [Gourdon](/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Lot/communes~Lot/Gourdon/cities~Gourdon/Gourdon.md) 
 
-### [Gourdon.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~Occitanie\Lot\communes~Lot\Gourdon\cities~GourdonGourdon.internal.md) 
+### [Gourdon.public](/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Lot/communes~Lot/Gourdon/cities~Gourdon/Gourdon.public.md) 
 
-### [Gourdon.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~Occitanie\Lot\communes~Lot\Gourdon\cities~GourdonGourdon.protect.md) 
+### [Gourdon.internal](/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Lot/communes~Lot/Gourdon/cities~Gourdon/Gourdon.internal.md) 
 
-### [Gourdon.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~Occitanie\Lot\communes~Lot\Gourdon\cities~GourdonGourdon.private.md) 
+### [Gourdon.protect](/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Lot/communes~Lot/Gourdon/cities~Gourdon/Gourdon.protect.md) 
 
-### [Gourdon.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~Occitanie\Lot\communes~Lot\Gourdon\cities~GourdonGourdon.personal.md) 
+### [Gourdon.private](/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Lot/communes~Lot/Gourdon/cities~Gourdon/Gourdon.private.md) 
 
-### [Gourdon.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~Occitanie\Lot\communes~Lot\Gourdon\cities~GourdonGourdon.secret.md)
+### [Gourdon.personal](/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Lot/communes~Lot/Gourdon/cities~Gourdon/Gourdon.personal.md) 
+
+### [Gourdon.secret](/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Lot/communes~Lot/Gourdon/cities~Gourdon/Gourdon.secret.md)
 

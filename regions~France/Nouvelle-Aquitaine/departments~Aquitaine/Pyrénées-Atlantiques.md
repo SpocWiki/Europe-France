@@ -41,15 +41,17 @@ markerFolder: ./Département~Pyrénées-Atlantiques/
 
 ## Confidential Links & Embeds: 
 
-### [Pyrénées-Atlantiques.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~AquitainePyrénées-Atlantiques.public.md) 
+### [Pyrénées-Atlantiques](/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Nouvelle-Aquitaine/departments~Aquitaine/Pyrénées-Atlantiques.md) 
 
-### [Pyrénées-Atlantiques.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~AquitainePyrénées-Atlantiques.internal.md) 
+### [Pyrénées-Atlantiques.public](/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Nouvelle-Aquitaine/departments~Aquitaine/Pyrénées-Atlantiques.public.md) 
 
-### [Pyrénées-Atlantiques.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~AquitainePyrénées-Atlantiques.protect.md) 
+### [Pyrénées-Atlantiques.internal](/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Nouvelle-Aquitaine/departments~Aquitaine/Pyrénées-Atlantiques.internal.md) 
 
-### [Pyrénées-Atlantiques.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~AquitainePyrénées-Atlantiques.private.md) 
+### [Pyrénées-Atlantiques.protect](/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Nouvelle-Aquitaine/departments~Aquitaine/Pyrénées-Atlantiques.protect.md) 
 
-### [Pyrénées-Atlantiques.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~AquitainePyrénées-Atlantiques.personal.md) 
+### [Pyrénées-Atlantiques.private](/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Nouvelle-Aquitaine/departments~Aquitaine/Pyrénées-Atlantiques.private.md) 
 
-### [Pyrénées-Atlantiques.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~AquitainePyrénées-Atlantiques.secret.md)
+### [Pyrénées-Atlantiques.personal](/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Nouvelle-Aquitaine/departments~Aquitaine/Pyrénées-Atlantiques.personal.md) 
+
+### [Pyrénées-Atlantiques.secret](/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Nouvelle-Aquitaine/departments~Aquitaine/Pyrénées-Atlantiques.secret.md)
 

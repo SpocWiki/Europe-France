@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Douai.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Hauts-de-France\departments~Hauts-de-France\Hauts-de-France~Nord\communes~Nord\Douai\cities~DouaiDouai.public.md) 
+### [Douai](/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Hauts-de-France/departments~Hauts-de-France/Hauts-de-France~Nord/communes~Nord/Douai/cities~Douai/Douai.md) 
 
-### [Douai.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Hauts-de-France\departments~Hauts-de-France\Hauts-de-France~Nord\communes~Nord\Douai\cities~DouaiDouai.internal.md) 
+### [Douai.public](/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Hauts-de-France/departments~Hauts-de-France/Hauts-de-France~Nord/communes~Nord/Douai/cities~Douai/Douai.public.md) 
 
-### [Douai.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Hauts-de-France\departments~Hauts-de-France\Hauts-de-France~Nord\communes~Nord\Douai\cities~DouaiDouai.protect.md) 
+### [Douai.internal](/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Hauts-de-France/departments~Hauts-de-France/Hauts-de-France~Nord/communes~Nord/Douai/cities~Douai/Douai.internal.md) 
 
-### [Douai.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Hauts-de-France\departments~Hauts-de-France\Hauts-de-France~Nord\communes~Nord\Douai\cities~DouaiDouai.private.md) 
+### [Douai.protect](/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Hauts-de-France/departments~Hauts-de-France/Hauts-de-France~Nord/communes~Nord/Douai/cities~Douai/Douai.protect.md) 
 
-### [Douai.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Hauts-de-France\departments~Hauts-de-France\Hauts-de-France~Nord\communes~Nord\Douai\cities~DouaiDouai.personal.md) 
+### [Douai.private](/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Hauts-de-France/departments~Hauts-de-France/Hauts-de-France~Nord/communes~Nord/Douai/cities~Douai/Douai.private.md) 
 
-### [Douai.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Hauts-de-France\departments~Hauts-de-France\Hauts-de-France~Nord\communes~Nord\Douai\cities~DouaiDouai.secret.md)
+### [Douai.personal](/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Hauts-de-France/departments~Hauts-de-France/Hauts-de-France~Nord/communes~Nord/Douai/cities~Douai/Douai.personal.md) 
+
+### [Douai.secret](/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Hauts-de-France/departments~Hauts-de-France/Hauts-de-France~Nord/communes~Nord/Douai/cities~Douai/Douai.secret.md)
 

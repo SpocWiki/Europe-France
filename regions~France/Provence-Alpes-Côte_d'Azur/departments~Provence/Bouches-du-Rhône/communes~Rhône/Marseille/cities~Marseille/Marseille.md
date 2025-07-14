@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Marseille.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Provence-Alpes-Côte_d'Azur\departments~Provence\Bouches-du-Rhône\communes~Rhône\Marseille\cities~MarseilleMarseille.public.md) 
+### [Marseille](/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Provence-Alpes-Côte_d'Azur/departments~Provence/Bouches-du-Rhône/communes~Rhône/Marseille/cities~Marseille/Marseille.md) 
 
-### [Marseille.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Provence-Alpes-Côte_d'Azur\departments~Provence\Bouches-du-Rhône\communes~Rhône\Marseille\cities~MarseilleMarseille.internal.md) 
+### [Marseille.public](/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Provence-Alpes-Côte_d'Azur/departments~Provence/Bouches-du-Rhône/communes~Rhône/Marseille/cities~Marseille/Marseille.public.md) 
 
-### [Marseille.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Provence-Alpes-Côte_d'Azur\departments~Provence\Bouches-du-Rhône\communes~Rhône\Marseille\cities~MarseilleMarseille.protect.md) 
+### [Marseille.internal](/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Provence-Alpes-Côte_d'Azur/departments~Provence/Bouches-du-Rhône/communes~Rhône/Marseille/cities~Marseille/Marseille.internal.md) 
 
-### [Marseille.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Provence-Alpes-Côte_d'Azur\departments~Provence\Bouches-du-Rhône\communes~Rhône\Marseille\cities~MarseilleMarseille.private.md) 
+### [Marseille.protect](/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Provence-Alpes-Côte_d'Azur/departments~Provence/Bouches-du-Rhône/communes~Rhône/Marseille/cities~Marseille/Marseille.protect.md) 
 
-### [Marseille.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Provence-Alpes-Côte_d'Azur\departments~Provence\Bouches-du-Rhône\communes~Rhône\Marseille\cities~MarseilleMarseille.personal.md) 
+### [Marseille.private](/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Provence-Alpes-Côte_d'Azur/departments~Provence/Bouches-du-Rhône/communes~Rhône/Marseille/cities~Marseille/Marseille.private.md) 
 
-### [Marseille.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Provence-Alpes-Côte_d'Azur\departments~Provence\Bouches-du-Rhône\communes~Rhône\Marseille\cities~MarseilleMarseille.secret.md)
+### [Marseille.personal](/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Provence-Alpes-Côte_d'Azur/departments~Provence/Bouches-du-Rhône/communes~Rhône/Marseille/cities~Marseille/Marseille.personal.md) 
+
+### [Marseille.secret](/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Provence-Alpes-Côte_d'Azur/departments~Provence/Bouches-du-Rhône/communes~Rhône/Marseille/cities~Marseille/Marseille.secret.md)
 

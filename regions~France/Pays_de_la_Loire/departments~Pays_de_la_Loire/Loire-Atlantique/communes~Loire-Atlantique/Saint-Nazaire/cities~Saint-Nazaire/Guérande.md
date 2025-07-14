@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Guérande.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Pays_de_la_Loire\departments~Pays_de_la_Loire\Loire-Atlantique\communes~Loire-Atlantique\Saint-Nazaire\cities~Saint-NazaireGuérande.public.md) 
+### [Guérande](/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Pays_de_la_Loire/departments~Pays_de_la_Loire/Loire-Atlantique/communes~Loire-Atlantique/Saint-Nazaire/cities~Saint-Nazaire/Guérande.md) 
 
-### [Guérande.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Pays_de_la_Loire\departments~Pays_de_la_Loire\Loire-Atlantique\communes~Loire-Atlantique\Saint-Nazaire\cities~Saint-NazaireGuérande.internal.md) 
+### [Guérande.public](/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Pays_de_la_Loire/departments~Pays_de_la_Loire/Loire-Atlantique/communes~Loire-Atlantique/Saint-Nazaire/cities~Saint-Nazaire/Guérande.public.md) 
 
-### [Guérande.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Pays_de_la_Loire\departments~Pays_de_la_Loire\Loire-Atlantique\communes~Loire-Atlantique\Saint-Nazaire\cities~Saint-NazaireGuérande.protect.md) 
+### [Guérande.internal](/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Pays_de_la_Loire/departments~Pays_de_la_Loire/Loire-Atlantique/communes~Loire-Atlantique/Saint-Nazaire/cities~Saint-Nazaire/Guérande.internal.md) 
 
-### [Guérande.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Pays_de_la_Loire\departments~Pays_de_la_Loire\Loire-Atlantique\communes~Loire-Atlantique\Saint-Nazaire\cities~Saint-NazaireGuérande.private.md) 
+### [Guérande.protect](/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Pays_de_la_Loire/departments~Pays_de_la_Loire/Loire-Atlantique/communes~Loire-Atlantique/Saint-Nazaire/cities~Saint-Nazaire/Guérande.protect.md) 
 
-### [Guérande.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Pays_de_la_Loire\departments~Pays_de_la_Loire\Loire-Atlantique\communes~Loire-Atlantique\Saint-Nazaire\cities~Saint-NazaireGuérande.personal.md) 
+### [Guérande.private](/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Pays_de_la_Loire/departments~Pays_de_la_Loire/Loire-Atlantique/communes~Loire-Atlantique/Saint-Nazaire/cities~Saint-Nazaire/Guérande.private.md) 
 
-### [Guérande.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Pays_de_la_Loire\departments~Pays_de_la_Loire\Loire-Atlantique\communes~Loire-Atlantique\Saint-Nazaire\cities~Saint-NazaireGuérande.secret.md)
+### [Guérande.personal](/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Pays_de_la_Loire/departments~Pays_de_la_Loire/Loire-Atlantique/communes~Loire-Atlantique/Saint-Nazaire/cities~Saint-Nazaire/Guérande.personal.md) 
+
+### [Guérande.secret](/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Pays_de_la_Loire/departments~Pays_de_la_Loire/Loire-Atlantique/communes~Loire-Atlantique/Saint-Nazaire/cities~Saint-Nazaire/Guérande.secret.md)
 

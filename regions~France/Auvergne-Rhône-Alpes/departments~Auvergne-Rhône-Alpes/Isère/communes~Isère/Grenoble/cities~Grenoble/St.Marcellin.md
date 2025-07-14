@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [St.Marcellin.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Auvergne-Rhône-Alpes\departments~Auvergne-Rhône-Alpes\Isère\communes~Isère\Grenoble\cities~GrenobleSt.Marcellin.public.md) 
+### [St.Marcellin](/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Auvergne-Rhône-Alpes/departments~Auvergne-Rhône-Alpes/Isère/communes~Isère/Grenoble/cities~Grenoble/St.Marcellin.md) 
 
-### [St.Marcellin.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Auvergne-Rhône-Alpes\departments~Auvergne-Rhône-Alpes\Isère\communes~Isère\Grenoble\cities~GrenobleSt.Marcellin.internal.md) 
+### [St.Marcellin.public](/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Auvergne-Rhône-Alpes/departments~Auvergne-Rhône-Alpes/Isère/communes~Isère/Grenoble/cities~Grenoble/St.Marcellin.public.md) 
 
-### [St.Marcellin.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Auvergne-Rhône-Alpes\departments~Auvergne-Rhône-Alpes\Isère\communes~Isère\Grenoble\cities~GrenobleSt.Marcellin.protect.md) 
+### [St.Marcellin.internal](/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Auvergne-Rhône-Alpes/departments~Auvergne-Rhône-Alpes/Isère/communes~Isère/Grenoble/cities~Grenoble/St.Marcellin.internal.md) 
 
-### [St.Marcellin.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Auvergne-Rhône-Alpes\departments~Auvergne-Rhône-Alpes\Isère\communes~Isère\Grenoble\cities~GrenobleSt.Marcellin.private.md) 
+### [St.Marcellin.protect](/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Auvergne-Rhône-Alpes/departments~Auvergne-Rhône-Alpes/Isère/communes~Isère/Grenoble/cities~Grenoble/St.Marcellin.protect.md) 
 
-### [St.Marcellin.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Auvergne-Rhône-Alpes\departments~Auvergne-Rhône-Alpes\Isère\communes~Isère\Grenoble\cities~GrenobleSt.Marcellin.personal.md) 
+### [St.Marcellin.private](/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Auvergne-Rhône-Alpes/departments~Auvergne-Rhône-Alpes/Isère/communes~Isère/Grenoble/cities~Grenoble/St.Marcellin.private.md) 
 
-### [St.Marcellin.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Auvergne-Rhône-Alpes\departments~Auvergne-Rhône-Alpes\Isère\communes~Isère\Grenoble\cities~GrenobleSt.Marcellin.secret.md)
+### [St.Marcellin.personal](/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Auvergne-Rhône-Alpes/departments~Auvergne-Rhône-Alpes/Isère/communes~Isère/Grenoble/cities~Grenoble/St.Marcellin.personal.md) 
+
+### [St.Marcellin.secret](/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Auvergne-Rhône-Alpes/departments~Auvergne-Rhône-Alpes/Isère/communes~Isère/Grenoble/cities~Grenoble/St.Marcellin.secret.md)
 

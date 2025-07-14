@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Verdun.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Grand_Est\departments~Grand_Est\Meuse\communes~Meuse\Verdun\cities~VerdunVerdun.public.md) 
+### [Verdun](/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Grand_Est/departments~Grand_Est/Meuse/communes~Meuse/Verdun/cities~Verdun/Verdun.md) 
 
-### [Verdun.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Grand_Est\departments~Grand_Est\Meuse\communes~Meuse\Verdun\cities~VerdunVerdun.internal.md) 
+### [Verdun.public](/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Grand_Est/departments~Grand_Est/Meuse/communes~Meuse/Verdun/cities~Verdun/Verdun.public.md) 
 
-### [Verdun.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Grand_Est\departments~Grand_Est\Meuse\communes~Meuse\Verdun\cities~VerdunVerdun.protect.md) 
+### [Verdun.internal](/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Grand_Est/departments~Grand_Est/Meuse/communes~Meuse/Verdun/cities~Verdun/Verdun.internal.md) 
 
-### [Verdun.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Grand_Est\departments~Grand_Est\Meuse\communes~Meuse\Verdun\cities~VerdunVerdun.private.md) 
+### [Verdun.protect](/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Grand_Est/departments~Grand_Est/Meuse/communes~Meuse/Verdun/cities~Verdun/Verdun.protect.md) 
 
-### [Verdun.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Grand_Est\departments~Grand_Est\Meuse\communes~Meuse\Verdun\cities~VerdunVerdun.personal.md) 
+### [Verdun.private](/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Grand_Est/departments~Grand_Est/Meuse/communes~Meuse/Verdun/cities~Verdun/Verdun.private.md) 
 
-### [Verdun.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Grand_Est\departments~Grand_Est\Meuse\communes~Meuse\Verdun\cities~VerdunVerdun.secret.md)
+### [Verdun.personal](/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Grand_Est/departments~Grand_Est/Meuse/communes~Meuse/Verdun/cities~Verdun/Verdun.personal.md) 
+
+### [Verdun.secret](/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Grand_Est/departments~Grand_Est/Meuse/communes~Meuse/Verdun/cities~Verdun/Verdun.secret.md)
 

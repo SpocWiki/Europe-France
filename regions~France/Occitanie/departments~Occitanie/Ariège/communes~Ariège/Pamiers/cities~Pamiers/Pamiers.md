@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Pamiers.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~Occitanie\Ariège\communes~Ariège\Pamiers\cities~PamiersPamiers.public.md) 
+### [Pamiers](/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Ariège/communes~Ariège/Pamiers/cities~Pamiers/Pamiers.md) 
 
-### [Pamiers.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~Occitanie\Ariège\communes~Ariège\Pamiers\cities~PamiersPamiers.internal.md) 
+### [Pamiers.public](/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Ariège/communes~Ariège/Pamiers/cities~Pamiers/Pamiers.public.md) 
 
-### [Pamiers.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~Occitanie\Ariège\communes~Ariège\Pamiers\cities~PamiersPamiers.protect.md) 
+### [Pamiers.internal](/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Ariège/communes~Ariège/Pamiers/cities~Pamiers/Pamiers.internal.md) 
 
-### [Pamiers.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~Occitanie\Ariège\communes~Ariège\Pamiers\cities~PamiersPamiers.private.md) 
+### [Pamiers.protect](/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Ariège/communes~Ariège/Pamiers/cities~Pamiers/Pamiers.protect.md) 
 
-### [Pamiers.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~Occitanie\Ariège\communes~Ariège\Pamiers\cities~PamiersPamiers.personal.md) 
+### [Pamiers.private](/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Ariège/communes~Ariège/Pamiers/cities~Pamiers/Pamiers.private.md) 
 
-### [Pamiers.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~Occitanie\Ariège\communes~Ariège\Pamiers\cities~PamiersPamiers.secret.md)
+### [Pamiers.personal](/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Ariège/communes~Ariège/Pamiers/cities~Pamiers/Pamiers.personal.md) 
+
+### [Pamiers.secret](/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Ariège/communes~Ariège/Pamiers/cities~Pamiers/Pamiers.secret.md)
 

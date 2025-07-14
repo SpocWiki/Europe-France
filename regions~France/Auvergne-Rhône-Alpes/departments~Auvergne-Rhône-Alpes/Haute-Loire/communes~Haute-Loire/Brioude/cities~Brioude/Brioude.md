@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Brioude.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Auvergne-Rhône-Alpes\departments~Auvergne-Rhône-Alpes\Haute-Loire\communes~Haute-Loire\Brioude\cities~BrioudeBrioude.public.md) 
+### [Brioude](/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Auvergne-Rhône-Alpes/departments~Auvergne-Rhône-Alpes/Haute-Loire/communes~Haute-Loire/Brioude/cities~Brioude/Brioude.md) 
 
-### [Brioude.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Auvergne-Rhône-Alpes\departments~Auvergne-Rhône-Alpes\Haute-Loire\communes~Haute-Loire\Brioude\cities~BrioudeBrioude.internal.md) 
+### [Brioude.public](/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Auvergne-Rhône-Alpes/departments~Auvergne-Rhône-Alpes/Haute-Loire/communes~Haute-Loire/Brioude/cities~Brioude/Brioude.public.md) 
 
-### [Brioude.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Auvergne-Rhône-Alpes\departments~Auvergne-Rhône-Alpes\Haute-Loire\communes~Haute-Loire\Brioude\cities~BrioudeBrioude.protect.md) 
+### [Brioude.internal](/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Auvergne-Rhône-Alpes/departments~Auvergne-Rhône-Alpes/Haute-Loire/communes~Haute-Loire/Brioude/cities~Brioude/Brioude.internal.md) 
 
-### [Brioude.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Auvergne-Rhône-Alpes\departments~Auvergne-Rhône-Alpes\Haute-Loire\communes~Haute-Loire\Brioude\cities~BrioudeBrioude.private.md) 
+### [Brioude.protect](/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Auvergne-Rhône-Alpes/departments~Auvergne-Rhône-Alpes/Haute-Loire/communes~Haute-Loire/Brioude/cities~Brioude/Brioude.protect.md) 
 
-### [Brioude.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Auvergne-Rhône-Alpes\departments~Auvergne-Rhône-Alpes\Haute-Loire\communes~Haute-Loire\Brioude\cities~BrioudeBrioude.personal.md) 
+### [Brioude.private](/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Auvergne-Rhône-Alpes/departments~Auvergne-Rhône-Alpes/Haute-Loire/communes~Haute-Loire/Brioude/cities~Brioude/Brioude.private.md) 
 
-### [Brioude.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Auvergne-Rhône-Alpes\departments~Auvergne-Rhône-Alpes\Haute-Loire\communes~Haute-Loire\Brioude\cities~BrioudeBrioude.secret.md)
+### [Brioude.personal](/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Auvergne-Rhône-Alpes/departments~Auvergne-Rhône-Alpes/Haute-Loire/communes~Haute-Loire/Brioude/cities~Brioude/Brioude.personal.md) 
+
+### [Brioude.secret](/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Auvergne-Rhône-Alpes/departments~Auvergne-Rhône-Alpes/Haute-Loire/communes~Haute-Loire/Brioude/cities~Brioude/Brioude.secret.md)
 

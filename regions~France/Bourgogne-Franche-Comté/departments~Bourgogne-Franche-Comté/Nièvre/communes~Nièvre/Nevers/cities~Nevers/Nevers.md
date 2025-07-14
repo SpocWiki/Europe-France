@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Nevers.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Bourgogne-Franche-Comté\departments~Bourgogne-Franche-Comté\Nièvre\communes~Nièvre\Nevers\cities~NeversNevers.public.md) 
+### [Nevers](/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Bourgogne-Franche-Comté/departments~Bourgogne-Franche-Comté/Nièvre/communes~Nièvre/Nevers/cities~Nevers/Nevers.md) 
 
-### [Nevers.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Bourgogne-Franche-Comté\departments~Bourgogne-Franche-Comté\Nièvre\communes~Nièvre\Nevers\cities~NeversNevers.internal.md) 
+### [Nevers.public](/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Bourgogne-Franche-Comté/departments~Bourgogne-Franche-Comté/Nièvre/communes~Nièvre/Nevers/cities~Nevers/Nevers.public.md) 
 
-### [Nevers.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Bourgogne-Franche-Comté\departments~Bourgogne-Franche-Comté\Nièvre\communes~Nièvre\Nevers\cities~NeversNevers.protect.md) 
+### [Nevers.internal](/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Bourgogne-Franche-Comté/departments~Bourgogne-Franche-Comté/Nièvre/communes~Nièvre/Nevers/cities~Nevers/Nevers.internal.md) 
 
-### [Nevers.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Bourgogne-Franche-Comté\departments~Bourgogne-Franche-Comté\Nièvre\communes~Nièvre\Nevers\cities~NeversNevers.private.md) 
+### [Nevers.protect](/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Bourgogne-Franche-Comté/departments~Bourgogne-Franche-Comté/Nièvre/communes~Nièvre/Nevers/cities~Nevers/Nevers.protect.md) 
 
-### [Nevers.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Bourgogne-Franche-Comté\departments~Bourgogne-Franche-Comté\Nièvre\communes~Nièvre\Nevers\cities~NeversNevers.personal.md) 
+### [Nevers.private](/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Bourgogne-Franche-Comté/departments~Bourgogne-Franche-Comté/Nièvre/communes~Nièvre/Nevers/cities~Nevers/Nevers.private.md) 
 
-### [Nevers.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Bourgogne-Franche-Comté\departments~Bourgogne-Franche-Comté\Nièvre\communes~Nièvre\Nevers\cities~NeversNevers.secret.md)
+### [Nevers.personal](/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Bourgogne-Franche-Comté/departments~Bourgogne-Franche-Comté/Nièvre/communes~Nièvre/Nevers/cities~Nevers/Nevers.personal.md) 
+
+### [Nevers.secret](/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Bourgogne-Franche-Comté/departments~Bourgogne-Franche-Comté/Nièvre/communes~Nièvre/Nevers/cities~Nevers/Nevers.secret.md)
 

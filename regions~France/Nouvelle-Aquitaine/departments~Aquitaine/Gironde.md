@@ -41,15 +41,17 @@ markerFolder: ./Département~Gironde/
 
 ## Confidential Links & Embeds: 
 
-### [Gironde.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~AquitaineGironde.public.md) 
+### [Gironde](/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Nouvelle-Aquitaine/departments~Aquitaine/Gironde.md) 
 
-### [Gironde.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~AquitaineGironde.internal.md) 
+### [Gironde.public](/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Nouvelle-Aquitaine/departments~Aquitaine/Gironde.public.md) 
 
-### [Gironde.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~AquitaineGironde.protect.md) 
+### [Gironde.internal](/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Nouvelle-Aquitaine/departments~Aquitaine/Gironde.internal.md) 
 
-### [Gironde.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~AquitaineGironde.private.md) 
+### [Gironde.protect](/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Nouvelle-Aquitaine/departments~Aquitaine/Gironde.protect.md) 
 
-### [Gironde.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~AquitaineGironde.personal.md) 
+### [Gironde.private](/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Nouvelle-Aquitaine/departments~Aquitaine/Gironde.private.md) 
 
-### [Gironde.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~AquitaineGironde.secret.md)
+### [Gironde.personal](/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Nouvelle-Aquitaine/departments~Aquitaine/Gironde.personal.md) 
+
+### [Gironde.secret](/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Nouvelle-Aquitaine/departments~Aquitaine/Gironde.secret.md)
 

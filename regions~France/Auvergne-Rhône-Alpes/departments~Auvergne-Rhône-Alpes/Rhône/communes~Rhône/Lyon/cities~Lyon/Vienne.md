@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Vienne.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Auvergne-Rhône-Alpes\departments~Auvergne-Rhône-Alpes\Rhône\communes~Rhône\Lyon\cities~LyonVienne.public.md) 
+### [Vienne](/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Auvergne-Rhône-Alpes/departments~Auvergne-Rhône-Alpes/Rhône/communes~Rhône/Lyon/cities~Lyon/Vienne.md) 
 
-### [Vienne.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Auvergne-Rhône-Alpes\departments~Auvergne-Rhône-Alpes\Rhône\communes~Rhône\Lyon\cities~LyonVienne.internal.md) 
+### [Vienne.public](/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Auvergne-Rhône-Alpes/departments~Auvergne-Rhône-Alpes/Rhône/communes~Rhône/Lyon/cities~Lyon/Vienne.public.md) 
 
-### [Vienne.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Auvergne-Rhône-Alpes\departments~Auvergne-Rhône-Alpes\Rhône\communes~Rhône\Lyon\cities~LyonVienne.protect.md) 
+### [Vienne.internal](/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Auvergne-Rhône-Alpes/departments~Auvergne-Rhône-Alpes/Rhône/communes~Rhône/Lyon/cities~Lyon/Vienne.internal.md) 
 
-### [Vienne.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Auvergne-Rhône-Alpes\departments~Auvergne-Rhône-Alpes\Rhône\communes~Rhône\Lyon\cities~LyonVienne.private.md) 
+### [Vienne.protect](/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Auvergne-Rhône-Alpes/departments~Auvergne-Rhône-Alpes/Rhône/communes~Rhône/Lyon/cities~Lyon/Vienne.protect.md) 
 
-### [Vienne.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Auvergne-Rhône-Alpes\departments~Auvergne-Rhône-Alpes\Rhône\communes~Rhône\Lyon\cities~LyonVienne.personal.md) 
+### [Vienne.private](/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Auvergne-Rhône-Alpes/departments~Auvergne-Rhône-Alpes/Rhône/communes~Rhône/Lyon/cities~Lyon/Vienne.private.md) 
 
-### [Vienne.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Auvergne-Rhône-Alpes\departments~Auvergne-Rhône-Alpes\Rhône\communes~Rhône\Lyon\cities~LyonVienne.secret.md)
+### [Vienne.personal](/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Auvergne-Rhône-Alpes/departments~Auvergne-Rhône-Alpes/Rhône/communes~Rhône/Lyon/cities~Lyon/Vienne.personal.md) 
+
+### [Vienne.secret](/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Auvergne-Rhône-Alpes/departments~Auvergne-Rhône-Alpes/Rhône/communes~Rhône/Lyon/cities~Lyon/Vienne.secret.md)
 

@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Metzgeral.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Grand_Est\departments~Grand_Est\Haut-Rhin\communes~Haut-Rhin\Colmar\cities~ColmarMetzgeral.public.md) 
+### [Metzgeral](/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Grand_Est/departments~Grand_Est/Haut-Rhin/communes~Haut-Rhin/Colmar/cities~Colmar/Metzgeral.md) 
 
-### [Metzgeral.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Grand_Est\departments~Grand_Est\Haut-Rhin\communes~Haut-Rhin\Colmar\cities~ColmarMetzgeral.internal.md) 
+### [Metzgeral.public](/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Grand_Est/departments~Grand_Est/Haut-Rhin/communes~Haut-Rhin/Colmar/cities~Colmar/Metzgeral.public.md) 
 
-### [Metzgeral.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Grand_Est\departments~Grand_Est\Haut-Rhin\communes~Haut-Rhin\Colmar\cities~ColmarMetzgeral.protect.md) 
+### [Metzgeral.internal](/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Grand_Est/departments~Grand_Est/Haut-Rhin/communes~Haut-Rhin/Colmar/cities~Colmar/Metzgeral.internal.md) 
 
-### [Metzgeral.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Grand_Est\departments~Grand_Est\Haut-Rhin\communes~Haut-Rhin\Colmar\cities~ColmarMetzgeral.private.md) 
+### [Metzgeral.protect](/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Grand_Est/departments~Grand_Est/Haut-Rhin/communes~Haut-Rhin/Colmar/cities~Colmar/Metzgeral.protect.md) 
 
-### [Metzgeral.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Grand_Est\departments~Grand_Est\Haut-Rhin\communes~Haut-Rhin\Colmar\cities~ColmarMetzgeral.personal.md) 
+### [Metzgeral.private](/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Grand_Est/departments~Grand_Est/Haut-Rhin/communes~Haut-Rhin/Colmar/cities~Colmar/Metzgeral.private.md) 
 
-### [Metzgeral.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Grand_Est\departments~Grand_Est\Haut-Rhin\communes~Haut-Rhin\Colmar\cities~ColmarMetzgeral.secret.md)
+### [Metzgeral.personal](/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Grand_Est/departments~Grand_Est/Haut-Rhin/communes~Haut-Rhin/Colmar/cities~Colmar/Metzgeral.personal.md) 
+
+### [Metzgeral.secret](/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Grand_Est/departments~Grand_Est/Haut-Rhin/communes~Haut-Rhin/Colmar/cities~Colmar/Metzgeral.secret.md)
 

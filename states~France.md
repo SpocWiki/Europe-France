@@ -31,18 +31,19 @@ noteOnly: true
 ```
 
 
-
 ## Confidential Links & Embeds: 
 
-### [states~France.public](/_public/\Earth\Continent\Europe\Europe~West\Francestates~France.public.md) 
+### [states~France](/_Standards/Earth/Continent/Europe/Europe~West/France/states~France.md) 
 
-### [states~France.internal](/_internal/\Earth\Continent\Europe\Europe~West\Francestates~France.internal.md) 
+### [states~France.public](/_public/Earth/Continent/Europe/Europe~West/France/states~France.public.md) 
 
-### [states~France.protect](/_protect/\Earth\Continent\Europe\Europe~West\Francestates~France.protect.md) 
+### [states~France.internal](/_internal/Earth/Continent/Europe/Europe~West/France/states~France.internal.md) 
 
-### [states~France.private](/_private/\Earth\Continent\Europe\Europe~West\Francestates~France.private.md) 
+### [states~France.protect](/_protect/Earth/Continent/Europe/Europe~West/France/states~France.protect.md) 
 
-### [states~France.personal](/_personal/\Earth\Continent\Europe\Europe~West\Francestates~France.personal.md) 
+### [states~France.private](/_private/Earth/Continent/Europe/Europe~West/France/states~France.private.md) 
 
-### [states~France.secret](/_secret/\Earth\Continent\Europe\Europe~West\Francestates~France.secret.md)
+### [states~France.personal](/_personal/Earth/Continent/Europe/Europe~West/France/states~France.personal.md) 
+
+### [states~France.secret](/_secret/Earth/Continent/Europe/Europe~West/France/states~France.secret.md)
 

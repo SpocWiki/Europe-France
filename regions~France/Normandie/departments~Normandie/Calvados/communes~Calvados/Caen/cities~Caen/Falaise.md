@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Falaise.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Normandie\departments~Normandie\Calvados\communes~Calvados\Caen\cities~CaenFalaise.public.md) 
+### [Falaise](/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Normandie/departments~Normandie/Calvados/communes~Calvados/Caen/cities~Caen/Falaise.md) 
 
-### [Falaise.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Normandie\departments~Normandie\Calvados\communes~Calvados\Caen\cities~CaenFalaise.internal.md) 
+### [Falaise.public](/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Normandie/departments~Normandie/Calvados/communes~Calvados/Caen/cities~Caen/Falaise.public.md) 
 
-### [Falaise.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Normandie\departments~Normandie\Calvados\communes~Calvados\Caen\cities~CaenFalaise.protect.md) 
+### [Falaise.internal](/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Normandie/departments~Normandie/Calvados/communes~Calvados/Caen/cities~Caen/Falaise.internal.md) 
 
-### [Falaise.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Normandie\departments~Normandie\Calvados\communes~Calvados\Caen\cities~CaenFalaise.private.md) 
+### [Falaise.protect](/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Normandie/departments~Normandie/Calvados/communes~Calvados/Caen/cities~Caen/Falaise.protect.md) 
 
-### [Falaise.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Normandie\departments~Normandie\Calvados\communes~Calvados\Caen\cities~CaenFalaise.personal.md) 
+### [Falaise.private](/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Normandie/departments~Normandie/Calvados/communes~Calvados/Caen/cities~Caen/Falaise.private.md) 
 
-### [Falaise.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Normandie\departments~Normandie\Calvados\communes~Calvados\Caen\cities~CaenFalaise.secret.md)
+### [Falaise.personal](/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Normandie/departments~Normandie/Calvados/communes~Calvados/Caen/cities~Caen/Falaise.personal.md) 
+
+### [Falaise.secret](/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Normandie/departments~Normandie/Calvados/communes~Calvados/Caen/cities~Caen/Falaise.secret.md)
 

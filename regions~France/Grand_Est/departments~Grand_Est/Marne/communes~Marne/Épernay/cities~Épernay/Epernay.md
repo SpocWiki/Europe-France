@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Epernay.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Grand_Est\departments~Grand_Est\Marne\communes~Marne\Épernay\cities~ÉpernayEpernay.public.md) 
+### [Epernay](/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Grand_Est/departments~Grand_Est/Marne/communes~Marne/Épernay/cities~Épernay/Epernay.md) 
 
-### [Epernay.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Grand_Est\departments~Grand_Est\Marne\communes~Marne\Épernay\cities~ÉpernayEpernay.internal.md) 
+### [Epernay.public](/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Grand_Est/departments~Grand_Est/Marne/communes~Marne/Épernay/cities~Épernay/Epernay.public.md) 
 
-### [Epernay.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Grand_Est\departments~Grand_Est\Marne\communes~Marne\Épernay\cities~ÉpernayEpernay.protect.md) 
+### [Epernay.internal](/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Grand_Est/departments~Grand_Est/Marne/communes~Marne/Épernay/cities~Épernay/Epernay.internal.md) 
 
-### [Epernay.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Grand_Est\departments~Grand_Est\Marne\communes~Marne\Épernay\cities~ÉpernayEpernay.private.md) 
+### [Epernay.protect](/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Grand_Est/departments~Grand_Est/Marne/communes~Marne/Épernay/cities~Épernay/Epernay.protect.md) 
 
-### [Epernay.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Grand_Est\departments~Grand_Est\Marne\communes~Marne\Épernay\cities~ÉpernayEpernay.personal.md) 
+### [Epernay.private](/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Grand_Est/departments~Grand_Est/Marne/communes~Marne/Épernay/cities~Épernay/Epernay.private.md) 
 
-### [Epernay.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Grand_Est\departments~Grand_Est\Marne\communes~Marne\Épernay\cities~ÉpernayEpernay.secret.md)
+### [Epernay.personal](/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Grand_Est/departments~Grand_Est/Marne/communes~Marne/Épernay/cities~Épernay/Epernay.personal.md) 
+
+### [Epernay.secret](/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Grand_Est/departments~Grand_Est/Marne/communes~Marne/Épernay/cities~Épernay/Epernay.secret.md)
 

@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Bazas.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~Aquitaine\Gironde\communes~Gironde\Langon\cities~LangonBazas.public.md) 
+### [Bazas](/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Nouvelle-Aquitaine/departments~Aquitaine/Gironde/communes~Gironde/Langon/cities~Langon/Bazas.md) 
 
-### [Bazas.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~Aquitaine\Gironde\communes~Gironde\Langon\cities~LangonBazas.internal.md) 
+### [Bazas.public](/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Nouvelle-Aquitaine/departments~Aquitaine/Gironde/communes~Gironde/Langon/cities~Langon/Bazas.public.md) 
 
-### [Bazas.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~Aquitaine\Gironde\communes~Gironde\Langon\cities~LangonBazas.protect.md) 
+### [Bazas.internal](/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Nouvelle-Aquitaine/departments~Aquitaine/Gironde/communes~Gironde/Langon/cities~Langon/Bazas.internal.md) 
 
-### [Bazas.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~Aquitaine\Gironde\communes~Gironde\Langon\cities~LangonBazas.private.md) 
+### [Bazas.protect](/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Nouvelle-Aquitaine/departments~Aquitaine/Gironde/communes~Gironde/Langon/cities~Langon/Bazas.protect.md) 
 
-### [Bazas.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~Aquitaine\Gironde\communes~Gironde\Langon\cities~LangonBazas.personal.md) 
+### [Bazas.private](/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Nouvelle-Aquitaine/departments~Aquitaine/Gironde/communes~Gironde/Langon/cities~Langon/Bazas.private.md) 
 
-### [Bazas.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~Aquitaine\Gironde\communes~Gironde\Langon\cities~LangonBazas.secret.md)
+### [Bazas.personal](/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Nouvelle-Aquitaine/departments~Aquitaine/Gironde/communes~Gironde/Langon/cities~Langon/Bazas.personal.md) 
+
+### [Bazas.secret](/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Nouvelle-Aquitaine/departments~Aquitaine/Gironde/communes~Gironde/Langon/cities~Langon/Bazas.secret.md)
 

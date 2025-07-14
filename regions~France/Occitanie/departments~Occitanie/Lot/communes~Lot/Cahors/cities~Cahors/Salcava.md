@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Salcava.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~Occitanie\Lot\communes~Lot\Cahors\cities~CahorsSalcava.public.md) 
+### [Salcava](/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Lot/communes~Lot/Cahors/cities~Cahors/Salcava.md) 
 
-### [Salcava.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~Occitanie\Lot\communes~Lot\Cahors\cities~CahorsSalcava.internal.md) 
+### [Salcava.public](/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Lot/communes~Lot/Cahors/cities~Cahors/Salcava.public.md) 
 
-### [Salcava.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~Occitanie\Lot\communes~Lot\Cahors\cities~CahorsSalcava.protect.md) 
+### [Salcava.internal](/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Lot/communes~Lot/Cahors/cities~Cahors/Salcava.internal.md) 
 
-### [Salcava.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~Occitanie\Lot\communes~Lot\Cahors\cities~CahorsSalcava.private.md) 
+### [Salcava.protect](/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Lot/communes~Lot/Cahors/cities~Cahors/Salcava.protect.md) 
 
-### [Salcava.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~Occitanie\Lot\communes~Lot\Cahors\cities~CahorsSalcava.personal.md) 
+### [Salcava.private](/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Lot/communes~Lot/Cahors/cities~Cahors/Salcava.private.md) 
 
-### [Salcava.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~Occitanie\Lot\communes~Lot\Cahors\cities~CahorsSalcava.secret.md)
+### [Salcava.personal](/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Lot/communes~Lot/Cahors/cities~Cahors/Salcava.personal.md) 
+
+### [Salcava.secret](/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Lot/communes~Lot/Cahors/cities~Cahors/Salcava.secret.md)
 

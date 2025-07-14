@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [St.Affrique.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~Occitanie\Aveyron\communes~Aveyron\Millau\cities~MillauSt.Affrique.public.md) 
+### [St.Affrique](/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Aveyron/communes~Aveyron/Millau/cities~Millau/St.Affrique.md) 
 
-### [St.Affrique.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~Occitanie\Aveyron\communes~Aveyron\Millau\cities~MillauSt.Affrique.internal.md) 
+### [St.Affrique.public](/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Aveyron/communes~Aveyron/Millau/cities~Millau/St.Affrique.public.md) 
 
-### [St.Affrique.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~Occitanie\Aveyron\communes~Aveyron\Millau\cities~MillauSt.Affrique.protect.md) 
+### [St.Affrique.internal](/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Aveyron/communes~Aveyron/Millau/cities~Millau/St.Affrique.internal.md) 
 
-### [St.Affrique.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~Occitanie\Aveyron\communes~Aveyron\Millau\cities~MillauSt.Affrique.private.md) 
+### [St.Affrique.protect](/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Aveyron/communes~Aveyron/Millau/cities~Millau/St.Affrique.protect.md) 
 
-### [St.Affrique.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~Occitanie\Aveyron\communes~Aveyron\Millau\cities~MillauSt.Affrique.personal.md) 
+### [St.Affrique.private](/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Aveyron/communes~Aveyron/Millau/cities~Millau/St.Affrique.private.md) 
 
-### [St.Affrique.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~Occitanie\Aveyron\communes~Aveyron\Millau\cities~MillauSt.Affrique.secret.md)
+### [St.Affrique.personal](/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Aveyron/communes~Aveyron/Millau/cities~Millau/St.Affrique.personal.md) 
+
+### [St.Affrique.secret](/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Aveyron/communes~Aveyron/Millau/cities~Millau/St.Affrique.secret.md)
 

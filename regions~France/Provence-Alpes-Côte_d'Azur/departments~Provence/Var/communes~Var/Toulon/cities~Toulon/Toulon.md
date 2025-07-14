@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Toulon.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Provence-Alpes-Côte_d'Azur\departments~Provence\Var\communes~Var\Toulon\cities~ToulonToulon.public.md) 
+### [Toulon](/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Provence-Alpes-Côte_d'Azur/departments~Provence/Var/communes~Var/Toulon/cities~Toulon/Toulon.md) 
 
-### [Toulon.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Provence-Alpes-Côte_d'Azur\departments~Provence\Var\communes~Var\Toulon\cities~ToulonToulon.internal.md) 
+### [Toulon.public](/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Provence-Alpes-Côte_d'Azur/departments~Provence/Var/communes~Var/Toulon/cities~Toulon/Toulon.public.md) 
 
-### [Toulon.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Provence-Alpes-Côte_d'Azur\departments~Provence\Var\communes~Var\Toulon\cities~ToulonToulon.protect.md) 
+### [Toulon.internal](/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Provence-Alpes-Côte_d'Azur/departments~Provence/Var/communes~Var/Toulon/cities~Toulon/Toulon.internal.md) 
 
-### [Toulon.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Provence-Alpes-Côte_d'Azur\departments~Provence\Var\communes~Var\Toulon\cities~ToulonToulon.private.md) 
+### [Toulon.protect](/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Provence-Alpes-Côte_d'Azur/departments~Provence/Var/communes~Var/Toulon/cities~Toulon/Toulon.protect.md) 
 
-### [Toulon.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Provence-Alpes-Côte_d'Azur\departments~Provence\Var\communes~Var\Toulon\cities~ToulonToulon.personal.md) 
+### [Toulon.private](/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Provence-Alpes-Côte_d'Azur/departments~Provence/Var/communes~Var/Toulon/cities~Toulon/Toulon.private.md) 
 
-### [Toulon.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Provence-Alpes-Côte_d'Azur\departments~Provence\Var\communes~Var\Toulon\cities~ToulonToulon.secret.md)
+### [Toulon.personal](/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Provence-Alpes-Côte_d'Azur/departments~Provence/Var/communes~Var/Toulon/cities~Toulon/Toulon.personal.md) 
+
+### [Toulon.secret](/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Provence-Alpes-Côte_d'Azur/departments~Provence/Var/communes~Var/Toulon/cities~Toulon/Toulon.secret.md)
 

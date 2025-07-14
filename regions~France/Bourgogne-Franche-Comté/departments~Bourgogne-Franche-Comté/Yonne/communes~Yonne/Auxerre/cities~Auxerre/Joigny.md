@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Joigny.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Bourgogne-Franche-Comté\departments~Bourgogne-Franche-Comté\Yonne\communes~Yonne\Auxerre\cities~AuxerreJoigny.public.md) 
+### [Joigny](/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Bourgogne-Franche-Comté/departments~Bourgogne-Franche-Comté/Yonne/communes~Yonne/Auxerre/cities~Auxerre/Joigny.md) 
 
-### [Joigny.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Bourgogne-Franche-Comté\departments~Bourgogne-Franche-Comté\Yonne\communes~Yonne\Auxerre\cities~AuxerreJoigny.internal.md) 
+### [Joigny.public](/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Bourgogne-Franche-Comté/departments~Bourgogne-Franche-Comté/Yonne/communes~Yonne/Auxerre/cities~Auxerre/Joigny.public.md) 
 
-### [Joigny.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Bourgogne-Franche-Comté\departments~Bourgogne-Franche-Comté\Yonne\communes~Yonne\Auxerre\cities~AuxerreJoigny.protect.md) 
+### [Joigny.internal](/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Bourgogne-Franche-Comté/departments~Bourgogne-Franche-Comté/Yonne/communes~Yonne/Auxerre/cities~Auxerre/Joigny.internal.md) 
 
-### [Joigny.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Bourgogne-Franche-Comté\departments~Bourgogne-Franche-Comté\Yonne\communes~Yonne\Auxerre\cities~AuxerreJoigny.private.md) 
+### [Joigny.protect](/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Bourgogne-Franche-Comté/departments~Bourgogne-Franche-Comté/Yonne/communes~Yonne/Auxerre/cities~Auxerre/Joigny.protect.md) 
 
-### [Joigny.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Bourgogne-Franche-Comté\departments~Bourgogne-Franche-Comté\Yonne\communes~Yonne\Auxerre\cities~AuxerreJoigny.personal.md) 
+### [Joigny.private](/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Bourgogne-Franche-Comté/departments~Bourgogne-Franche-Comté/Yonne/communes~Yonne/Auxerre/cities~Auxerre/Joigny.private.md) 
 
-### [Joigny.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Bourgogne-Franche-Comté\departments~Bourgogne-Franche-Comté\Yonne\communes~Yonne\Auxerre\cities~AuxerreJoigny.secret.md)
+### [Joigny.personal](/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Bourgogne-Franche-Comté/departments~Bourgogne-Franche-Comté/Yonne/communes~Yonne/Auxerre/cities~Auxerre/Joigny.personal.md) 
+
+### [Joigny.secret](/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Bourgogne-Franche-Comté/departments~Bourgogne-Franche-Comté/Yonne/communes~Yonne/Auxerre/cities~Auxerre/Joigny.secret.md)
 

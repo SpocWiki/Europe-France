@@ -41,15 +41,17 @@ markerFolder: ./Département~Tarn/
 
 ## Confidential Links & Embeds: 
 
-### [Tarn.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~OccitanieTarn.public.md) 
+### [Tarn](/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Tarn.md) 
 
-### [Tarn.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~OccitanieTarn.internal.md) 
+### [Tarn.public](/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Tarn.public.md) 
 
-### [Tarn.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~OccitanieTarn.protect.md) 
+### [Tarn.internal](/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Tarn.internal.md) 
 
-### [Tarn.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~OccitanieTarn.private.md) 
+### [Tarn.protect](/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Tarn.protect.md) 
 
-### [Tarn.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~OccitanieTarn.personal.md) 
+### [Tarn.private](/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Tarn.private.md) 
 
-### [Tarn.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~OccitanieTarn.secret.md)
+### [Tarn.personal](/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Tarn.personal.md) 
+
+### [Tarn.secret](/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Tarn.secret.md)
 

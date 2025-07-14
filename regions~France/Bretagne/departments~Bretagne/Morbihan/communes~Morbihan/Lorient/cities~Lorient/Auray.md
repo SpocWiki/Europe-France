@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Auray.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Bretagne\departments~Bretagne\Morbihan\communes~Morbihan\Lorient\cities~LorientAuray.public.md) 
+### [Auray](/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Bretagne/departments~Bretagne/Morbihan/communes~Morbihan/Lorient/cities~Lorient/Auray.md) 
 
-### [Auray.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Bretagne\departments~Bretagne\Morbihan\communes~Morbihan\Lorient\cities~LorientAuray.internal.md) 
+### [Auray.public](/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Bretagne/departments~Bretagne/Morbihan/communes~Morbihan/Lorient/cities~Lorient/Auray.public.md) 
 
-### [Auray.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Bretagne\departments~Bretagne\Morbihan\communes~Morbihan\Lorient\cities~LorientAuray.protect.md) 
+### [Auray.internal](/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Bretagne/departments~Bretagne/Morbihan/communes~Morbihan/Lorient/cities~Lorient/Auray.internal.md) 
 
-### [Auray.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Bretagne\departments~Bretagne\Morbihan\communes~Morbihan\Lorient\cities~LorientAuray.private.md) 
+### [Auray.protect](/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Bretagne/departments~Bretagne/Morbihan/communes~Morbihan/Lorient/cities~Lorient/Auray.protect.md) 
 
-### [Auray.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Bretagne\departments~Bretagne\Morbihan\communes~Morbihan\Lorient\cities~LorientAuray.personal.md) 
+### [Auray.private](/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Bretagne/departments~Bretagne/Morbihan/communes~Morbihan/Lorient/cities~Lorient/Auray.private.md) 
 
-### [Auray.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Bretagne\departments~Bretagne\Morbihan\communes~Morbihan\Lorient\cities~LorientAuray.secret.md)
+### [Auray.personal](/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Bretagne/departments~Bretagne/Morbihan/communes~Morbihan/Lorient/cities~Lorient/Auray.personal.md) 
+
+### [Auray.secret](/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Bretagne/departments~Bretagne/Morbihan/communes~Morbihan/Lorient/cities~Lorient/Auray.secret.md)
 

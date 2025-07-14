@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Doullens.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Hauts-de-France\departments~Hauts-de-France\Somme\communes~Somme\Amiens\cities~AmiensDoullens.public.md) 
+### [Doullens](/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Hauts-de-France/departments~Hauts-de-France/Somme/communes~Somme/Amiens/cities~Amiens/Doullens.md) 
 
-### [Doullens.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Hauts-de-France\departments~Hauts-de-France\Somme\communes~Somme\Amiens\cities~AmiensDoullens.internal.md) 
+### [Doullens.public](/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Hauts-de-France/departments~Hauts-de-France/Somme/communes~Somme/Amiens/cities~Amiens/Doullens.public.md) 
 
-### [Doullens.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Hauts-de-France\departments~Hauts-de-France\Somme\communes~Somme\Amiens\cities~AmiensDoullens.protect.md) 
+### [Doullens.internal](/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Hauts-de-France/departments~Hauts-de-France/Somme/communes~Somme/Amiens/cities~Amiens/Doullens.internal.md) 
 
-### [Doullens.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Hauts-de-France\departments~Hauts-de-France\Somme\communes~Somme\Amiens\cities~AmiensDoullens.private.md) 
+### [Doullens.protect](/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Hauts-de-France/departments~Hauts-de-France/Somme/communes~Somme/Amiens/cities~Amiens/Doullens.protect.md) 
 
-### [Doullens.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Hauts-de-France\departments~Hauts-de-France\Somme\communes~Somme\Amiens\cities~AmiensDoullens.personal.md) 
+### [Doullens.private](/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Hauts-de-France/departments~Hauts-de-France/Somme/communes~Somme/Amiens/cities~Amiens/Doullens.private.md) 
 
-### [Doullens.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Hauts-de-France\departments~Hauts-de-France\Somme\communes~Somme\Amiens\cities~AmiensDoullens.secret.md)
+### [Doullens.personal](/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Hauts-de-France/departments~Hauts-de-France/Somme/communes~Somme/Amiens/cities~Amiens/Doullens.personal.md) 
+
+### [Doullens.secret](/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Hauts-de-France/departments~Hauts-de-France/Somme/communes~Somme/Amiens/cities~Amiens/Doullens.secret.md)
 

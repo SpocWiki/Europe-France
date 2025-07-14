@@ -41,15 +41,17 @@ markerFolder: ./Département~Aveyron/
 
 ## Confidential Links & Embeds: 
 
-### [Aveyron.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~OccitanieAveyron.public.md) 
+### [Aveyron](/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Aveyron.md) 
 
-### [Aveyron.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~OccitanieAveyron.internal.md) 
+### [Aveyron.public](/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Aveyron.public.md) 
 
-### [Aveyron.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~OccitanieAveyron.protect.md) 
+### [Aveyron.internal](/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Aveyron.internal.md) 
 
-### [Aveyron.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~OccitanieAveyron.private.md) 
+### [Aveyron.protect](/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Aveyron.protect.md) 
 
-### [Aveyron.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~OccitanieAveyron.personal.md) 
+### [Aveyron.private](/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Aveyron.private.md) 
 
-### [Aveyron.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~OccitanieAveyron.secret.md)
+### [Aveyron.personal](/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Aveyron.personal.md) 
+
+### [Aveyron.secret](/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Aveyron.secret.md)
 

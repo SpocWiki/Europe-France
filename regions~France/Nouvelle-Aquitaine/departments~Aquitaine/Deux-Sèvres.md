@@ -41,15 +41,17 @@ markerFolder: ./Département~Deux-Sèvres/
 
 ## Confidential Links & Embeds: 
 
-### [Deux-Sèvres.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~AquitaineDeux-Sèvres.public.md) 
+### [Deux-Sèvres](/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Nouvelle-Aquitaine/departments~Aquitaine/Deux-Sèvres.md) 
 
-### [Deux-Sèvres.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~AquitaineDeux-Sèvres.internal.md) 
+### [Deux-Sèvres.public](/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Nouvelle-Aquitaine/departments~Aquitaine/Deux-Sèvres.public.md) 
 
-### [Deux-Sèvres.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~AquitaineDeux-Sèvres.protect.md) 
+### [Deux-Sèvres.internal](/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Nouvelle-Aquitaine/departments~Aquitaine/Deux-Sèvres.internal.md) 
 
-### [Deux-Sèvres.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~AquitaineDeux-Sèvres.private.md) 
+### [Deux-Sèvres.protect](/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Nouvelle-Aquitaine/departments~Aquitaine/Deux-Sèvres.protect.md) 
 
-### [Deux-Sèvres.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~AquitaineDeux-Sèvres.personal.md) 
+### [Deux-Sèvres.private](/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Nouvelle-Aquitaine/departments~Aquitaine/Deux-Sèvres.private.md) 
 
-### [Deux-Sèvres.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~AquitaineDeux-Sèvres.secret.md)
+### [Deux-Sèvres.personal](/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Nouvelle-Aquitaine/departments~Aquitaine/Deux-Sèvres.personal.md) 
+
+### [Deux-Sèvres.secret](/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Nouvelle-Aquitaine/departments~Aquitaine/Deux-Sèvres.secret.md)
 

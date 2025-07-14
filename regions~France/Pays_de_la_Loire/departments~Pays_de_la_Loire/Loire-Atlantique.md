@@ -41,15 +41,17 @@ markerFolder: ./Département~Loire-Atlantique/
 
 ## Confidential Links & Embeds: 
 
-### [Loire-Atlantique.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Pays_de_la_Loire\departments~Pays_de_la_LoireLoire-Atlantique.public.md) 
+### [Loire-Atlantique](/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Pays_de_la_Loire/departments~Pays_de_la_Loire/Loire-Atlantique.md) 
 
-### [Loire-Atlantique.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Pays_de_la_Loire\departments~Pays_de_la_LoireLoire-Atlantique.internal.md) 
+### [Loire-Atlantique.public](/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Pays_de_la_Loire/departments~Pays_de_la_Loire/Loire-Atlantique.public.md) 
 
-### [Loire-Atlantique.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Pays_de_la_Loire\departments~Pays_de_la_LoireLoire-Atlantique.protect.md) 
+### [Loire-Atlantique.internal](/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Pays_de_la_Loire/departments~Pays_de_la_Loire/Loire-Atlantique.internal.md) 
 
-### [Loire-Atlantique.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Pays_de_la_Loire\departments~Pays_de_la_LoireLoire-Atlantique.private.md) 
+### [Loire-Atlantique.protect](/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Pays_de_la_Loire/departments~Pays_de_la_Loire/Loire-Atlantique.protect.md) 
 
-### [Loire-Atlantique.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Pays_de_la_Loire\departments~Pays_de_la_LoireLoire-Atlantique.personal.md) 
+### [Loire-Atlantique.private](/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Pays_de_la_Loire/departments~Pays_de_la_Loire/Loire-Atlantique.private.md) 
 
-### [Loire-Atlantique.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Pays_de_la_Loire\departments~Pays_de_la_LoireLoire-Atlantique.secret.md)
+### [Loire-Atlantique.personal](/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Pays_de_la_Loire/departments~Pays_de_la_Loire/Loire-Atlantique.personal.md) 
+
+### [Loire-Atlantique.secret](/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Pays_de_la_Loire/departments~Pays_de_la_Loire/Loire-Atlantique.secret.md)
 

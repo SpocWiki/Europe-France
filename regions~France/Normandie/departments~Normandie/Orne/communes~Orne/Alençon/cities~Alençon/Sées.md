@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Sées.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Normandie\departments~Normandie\Orne\communes~Orne\Alençon\cities~AlençonSées.public.md) 
+### [Sées](/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Normandie/departments~Normandie/Orne/communes~Orne/Alençon/cities~Alençon/Sées.md) 
 
-### [Sées.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Normandie\departments~Normandie\Orne\communes~Orne\Alençon\cities~AlençonSées.internal.md) 
+### [Sées.public](/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Normandie/departments~Normandie/Orne/communes~Orne/Alençon/cities~Alençon/Sées.public.md) 
 
-### [Sées.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Normandie\departments~Normandie\Orne\communes~Orne\Alençon\cities~AlençonSées.protect.md) 
+### [Sées.internal](/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Normandie/departments~Normandie/Orne/communes~Orne/Alençon/cities~Alençon/Sées.internal.md) 
 
-### [Sées.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Normandie\departments~Normandie\Orne\communes~Orne\Alençon\cities~AlençonSées.private.md) 
+### [Sées.protect](/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Normandie/departments~Normandie/Orne/communes~Orne/Alençon/cities~Alençon/Sées.protect.md) 
 
-### [Sées.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Normandie\departments~Normandie\Orne\communes~Orne\Alençon\cities~AlençonSées.personal.md) 
+### [Sées.private](/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Normandie/departments~Normandie/Orne/communes~Orne/Alençon/cities~Alençon/Sées.private.md) 
 
-### [Sées.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Normandie\departments~Normandie\Orne\communes~Orne\Alençon\cities~AlençonSées.secret.md)
+### [Sées.personal](/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Normandie/departments~Normandie/Orne/communes~Orne/Alençon/cities~Alençon/Sées.personal.md) 
+
+### [Sées.secret](/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Normandie/departments~Normandie/Orne/communes~Orne/Alençon/cities~Alençon/Sées.secret.md)
 

@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Oucesant.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Bretagne\departments~Bretagne\Finistère\communes~FinistèreOucesant.public.md) 
+### [Oucesant](/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Bretagne/departments~Bretagne/Finistère/communes~Finistère/Oucesant.md) 
 
-### [Oucesant.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Bretagne\departments~Bretagne\Finistère\communes~FinistèreOucesant.internal.md) 
+### [Oucesant.public](/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Bretagne/departments~Bretagne/Finistère/communes~Finistère/Oucesant.public.md) 
 
-### [Oucesant.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Bretagne\departments~Bretagne\Finistère\communes~FinistèreOucesant.protect.md) 
+### [Oucesant.internal](/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Bretagne/departments~Bretagne/Finistère/communes~Finistère/Oucesant.internal.md) 
 
-### [Oucesant.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Bretagne\departments~Bretagne\Finistère\communes~FinistèreOucesant.private.md) 
+### [Oucesant.protect](/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Bretagne/departments~Bretagne/Finistère/communes~Finistère/Oucesant.protect.md) 
 
-### [Oucesant.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Bretagne\departments~Bretagne\Finistère\communes~FinistèreOucesant.personal.md) 
+### [Oucesant.private](/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Bretagne/departments~Bretagne/Finistère/communes~Finistère/Oucesant.private.md) 
 
-### [Oucesant.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Bretagne\departments~Bretagne\Finistère\communes~FinistèreOucesant.secret.md)
+### [Oucesant.personal](/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Bretagne/departments~Bretagne/Finistère/communes~Finistère/Oucesant.personal.md) 
+
+### [Oucesant.secret](/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Bretagne/departments~Bretagne/Finistère/communes~Finistère/Oucesant.secret.md)
 

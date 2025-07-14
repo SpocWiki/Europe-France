@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Barbezicux.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~Aquitaine\Charente\communes~Charente\Cognac\cities~CognacBarbezicux.public.md) 
+### [Barbezicux](/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Nouvelle-Aquitaine/departments~Aquitaine/Charente/communes~Charente/Cognac/cities~Cognac/Barbezicux.md) 
 
-### [Barbezicux.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~Aquitaine\Charente\communes~Charente\Cognac\cities~CognacBarbezicux.internal.md) 
+### [Barbezicux.public](/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Nouvelle-Aquitaine/departments~Aquitaine/Charente/communes~Charente/Cognac/cities~Cognac/Barbezicux.public.md) 
 
-### [Barbezicux.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~Aquitaine\Charente\communes~Charente\Cognac\cities~CognacBarbezicux.protect.md) 
+### [Barbezicux.internal](/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Nouvelle-Aquitaine/departments~Aquitaine/Charente/communes~Charente/Cognac/cities~Cognac/Barbezicux.internal.md) 
 
-### [Barbezicux.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~Aquitaine\Charente\communes~Charente\Cognac\cities~CognacBarbezicux.private.md) 
+### [Barbezicux.protect](/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Nouvelle-Aquitaine/departments~Aquitaine/Charente/communes~Charente/Cognac/cities~Cognac/Barbezicux.protect.md) 
 
-### [Barbezicux.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~Aquitaine\Charente\communes~Charente\Cognac\cities~CognacBarbezicux.personal.md) 
+### [Barbezicux.private](/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Nouvelle-Aquitaine/departments~Aquitaine/Charente/communes~Charente/Cognac/cities~Cognac/Barbezicux.private.md) 
 
-### [Barbezicux.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~Aquitaine\Charente\communes~Charente\Cognac\cities~CognacBarbezicux.secret.md)
+### [Barbezicux.personal](/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Nouvelle-Aquitaine/departments~Aquitaine/Charente/communes~Charente/Cognac/cities~Cognac/Barbezicux.personal.md) 
+
+### [Barbezicux.secret](/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Nouvelle-Aquitaine/departments~Aquitaine/Charente/communes~Charente/Cognac/cities~Cognac/Barbezicux.secret.md)
 

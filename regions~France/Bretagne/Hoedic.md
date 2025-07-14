@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Hoedic.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\BretagneHoedic.public.md) 
+### [Hoedic](/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Bretagne/Hoedic.md) 
 
-### [Hoedic.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\BretagneHoedic.internal.md) 
+### [Hoedic.public](/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Bretagne/Hoedic.public.md) 
 
-### [Hoedic.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\BretagneHoedic.protect.md) 
+### [Hoedic.internal](/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Bretagne/Hoedic.internal.md) 
 
-### [Hoedic.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\BretagneHoedic.private.md) 
+### [Hoedic.protect](/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Bretagne/Hoedic.protect.md) 
 
-### [Hoedic.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\BretagneHoedic.personal.md) 
+### [Hoedic.private](/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Bretagne/Hoedic.private.md) 
 
-### [Hoedic.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\BretagneHoedic.secret.md)
+### [Hoedic.personal](/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Bretagne/Hoedic.personal.md) 
+
+### [Hoedic.secret](/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Bretagne/Hoedic.secret.md)
 

@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Montbrison.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Auvergne-Rhône-Alpes\departments~Auvergne-Rhône-Alpes\Loire\communes~Loire\Montbrison\cities~MontbrisonMontbrison.public.md) 
+### [Montbrison](/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Auvergne-Rhône-Alpes/departments~Auvergne-Rhône-Alpes/Loire/communes~Loire/Montbrison/cities~Montbrison/Montbrison.md) 
 
-### [Montbrison.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Auvergne-Rhône-Alpes\departments~Auvergne-Rhône-Alpes\Loire\communes~Loire\Montbrison\cities~MontbrisonMontbrison.internal.md) 
+### [Montbrison.public](/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Auvergne-Rhône-Alpes/departments~Auvergne-Rhône-Alpes/Loire/communes~Loire/Montbrison/cities~Montbrison/Montbrison.public.md) 
 
-### [Montbrison.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Auvergne-Rhône-Alpes\departments~Auvergne-Rhône-Alpes\Loire\communes~Loire\Montbrison\cities~MontbrisonMontbrison.protect.md) 
+### [Montbrison.internal](/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Auvergne-Rhône-Alpes/departments~Auvergne-Rhône-Alpes/Loire/communes~Loire/Montbrison/cities~Montbrison/Montbrison.internal.md) 
 
-### [Montbrison.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Auvergne-Rhône-Alpes\departments~Auvergne-Rhône-Alpes\Loire\communes~Loire\Montbrison\cities~MontbrisonMontbrison.private.md) 
+### [Montbrison.protect](/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Auvergne-Rhône-Alpes/departments~Auvergne-Rhône-Alpes/Loire/communes~Loire/Montbrison/cities~Montbrison/Montbrison.protect.md) 
 
-### [Montbrison.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Auvergne-Rhône-Alpes\departments~Auvergne-Rhône-Alpes\Loire\communes~Loire\Montbrison\cities~MontbrisonMontbrison.personal.md) 
+### [Montbrison.private](/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Auvergne-Rhône-Alpes/departments~Auvergne-Rhône-Alpes/Loire/communes~Loire/Montbrison/cities~Montbrison/Montbrison.private.md) 
 
-### [Montbrison.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Auvergne-Rhône-Alpes\departments~Auvergne-Rhône-Alpes\Loire\communes~Loire\Montbrison\cities~MontbrisonMontbrison.secret.md)
+### [Montbrison.personal](/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Auvergne-Rhône-Alpes/departments~Auvergne-Rhône-Alpes/Loire/communes~Loire/Montbrison/cities~Montbrison/Montbrison.personal.md) 
+
+### [Montbrison.secret](/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Auvergne-Rhône-Alpes/departments~Auvergne-Rhône-Alpes/Loire/communes~Loire/Montbrison/cities~Montbrison/Montbrison.secret.md)
 

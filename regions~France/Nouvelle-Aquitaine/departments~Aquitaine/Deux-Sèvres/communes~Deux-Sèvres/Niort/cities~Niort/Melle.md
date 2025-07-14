@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Melle.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~Aquitaine\Deux-Sèvres\communes~Deux-Sèvres\Niort\cities~NiortMelle.public.md) 
+### [Melle](/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Nouvelle-Aquitaine/departments~Aquitaine/Deux-Sèvres/communes~Deux-Sèvres/Niort/cities~Niort/Melle.md) 
 
-### [Melle.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~Aquitaine\Deux-Sèvres\communes~Deux-Sèvres\Niort\cities~NiortMelle.internal.md) 
+### [Melle.public](/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Nouvelle-Aquitaine/departments~Aquitaine/Deux-Sèvres/communes~Deux-Sèvres/Niort/cities~Niort/Melle.public.md) 
 
-### [Melle.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~Aquitaine\Deux-Sèvres\communes~Deux-Sèvres\Niort\cities~NiortMelle.protect.md) 
+### [Melle.internal](/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Nouvelle-Aquitaine/departments~Aquitaine/Deux-Sèvres/communes~Deux-Sèvres/Niort/cities~Niort/Melle.internal.md) 
 
-### [Melle.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~Aquitaine\Deux-Sèvres\communes~Deux-Sèvres\Niort\cities~NiortMelle.private.md) 
+### [Melle.protect](/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Nouvelle-Aquitaine/departments~Aquitaine/Deux-Sèvres/communes~Deux-Sèvres/Niort/cities~Niort/Melle.protect.md) 
 
-### [Melle.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~Aquitaine\Deux-Sèvres\communes~Deux-Sèvres\Niort\cities~NiortMelle.personal.md) 
+### [Melle.private](/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Nouvelle-Aquitaine/departments~Aquitaine/Deux-Sèvres/communes~Deux-Sèvres/Niort/cities~Niort/Melle.private.md) 
 
-### [Melle.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~Aquitaine\Deux-Sèvres\communes~Deux-Sèvres\Niort\cities~NiortMelle.secret.md)
+### [Melle.personal](/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Nouvelle-Aquitaine/departments~Aquitaine/Deux-Sèvres/communes~Deux-Sèvres/Niort/cities~Niort/Melle.personal.md) 
+
+### [Melle.secret](/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Nouvelle-Aquitaine/departments~Aquitaine/Deux-Sèvres/communes~Deux-Sèvres/Niort/cities~Niort/Melle.secret.md)
 

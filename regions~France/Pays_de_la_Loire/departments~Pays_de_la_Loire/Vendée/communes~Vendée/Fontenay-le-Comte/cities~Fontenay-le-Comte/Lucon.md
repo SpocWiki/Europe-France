@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Lucon.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Pays_de_la_Loire\departments~Pays_de_la_Loire\Vendée\communes~Vendée\Fontenay-le-Comte\cities~Fontenay-le-ComteLucon.public.md) 
+### [Lucon](/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Pays_de_la_Loire/departments~Pays_de_la_Loire/Vendée/communes~Vendée/Fontenay-le-Comte/cities~Fontenay-le-Comte/Lucon.md) 
 
-### [Lucon.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Pays_de_la_Loire\departments~Pays_de_la_Loire\Vendée\communes~Vendée\Fontenay-le-Comte\cities~Fontenay-le-ComteLucon.internal.md) 
+### [Lucon.public](/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Pays_de_la_Loire/departments~Pays_de_la_Loire/Vendée/communes~Vendée/Fontenay-le-Comte/cities~Fontenay-le-Comte/Lucon.public.md) 
 
-### [Lucon.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Pays_de_la_Loire\departments~Pays_de_la_Loire\Vendée\communes~Vendée\Fontenay-le-Comte\cities~Fontenay-le-ComteLucon.protect.md) 
+### [Lucon.internal](/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Pays_de_la_Loire/departments~Pays_de_la_Loire/Vendée/communes~Vendée/Fontenay-le-Comte/cities~Fontenay-le-Comte/Lucon.internal.md) 
 
-### [Lucon.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Pays_de_la_Loire\departments~Pays_de_la_Loire\Vendée\communes~Vendée\Fontenay-le-Comte\cities~Fontenay-le-ComteLucon.private.md) 
+### [Lucon.protect](/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Pays_de_la_Loire/departments~Pays_de_la_Loire/Vendée/communes~Vendée/Fontenay-le-Comte/cities~Fontenay-le-Comte/Lucon.protect.md) 
 
-### [Lucon.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Pays_de_la_Loire\departments~Pays_de_la_Loire\Vendée\communes~Vendée\Fontenay-le-Comte\cities~Fontenay-le-ComteLucon.personal.md) 
+### [Lucon.private](/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Pays_de_la_Loire/departments~Pays_de_la_Loire/Vendée/communes~Vendée/Fontenay-le-Comte/cities~Fontenay-le-Comte/Lucon.private.md) 
 
-### [Lucon.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Pays_de_la_Loire\departments~Pays_de_la_Loire\Vendée\communes~Vendée\Fontenay-le-Comte\cities~Fontenay-le-ComteLucon.secret.md)
+### [Lucon.personal](/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Pays_de_la_Loire/departments~Pays_de_la_Loire/Vendée/communes~Vendée/Fontenay-le-Comte/cities~Fontenay-le-Comte/Lucon.personal.md) 
+
+### [Lucon.secret](/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Pays_de_la_Loire/departments~Pays_de_la_Loire/Vendée/communes~Vendée/Fontenay-le-Comte/cities~Fontenay-le-Comte/Lucon.secret.md)
 

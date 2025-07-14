@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Chatres.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Grand_Est\departments~Grand_Est\Aube\communes~Aube\Nogent-sur-Seine\cities~Nogent-sur-SeineChatres.public.md) 
+### [Chatres](/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Grand_Est/departments~Grand_Est/Aube/communes~Aube/Nogent-sur-Seine/cities~Nogent-sur-Seine/Chatres.md) 
 
-### [Chatres.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Grand_Est\departments~Grand_Est\Aube\communes~Aube\Nogent-sur-Seine\cities~Nogent-sur-SeineChatres.internal.md) 
+### [Chatres.public](/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Grand_Est/departments~Grand_Est/Aube/communes~Aube/Nogent-sur-Seine/cities~Nogent-sur-Seine/Chatres.public.md) 
 
-### [Chatres.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Grand_Est\departments~Grand_Est\Aube\communes~Aube\Nogent-sur-Seine\cities~Nogent-sur-SeineChatres.protect.md) 
+### [Chatres.internal](/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Grand_Est/departments~Grand_Est/Aube/communes~Aube/Nogent-sur-Seine/cities~Nogent-sur-Seine/Chatres.internal.md) 
 
-### [Chatres.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Grand_Est\departments~Grand_Est\Aube\communes~Aube\Nogent-sur-Seine\cities~Nogent-sur-SeineChatres.private.md) 
+### [Chatres.protect](/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Grand_Est/departments~Grand_Est/Aube/communes~Aube/Nogent-sur-Seine/cities~Nogent-sur-Seine/Chatres.protect.md) 
 
-### [Chatres.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Grand_Est\departments~Grand_Est\Aube\communes~Aube\Nogent-sur-Seine\cities~Nogent-sur-SeineChatres.personal.md) 
+### [Chatres.private](/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Grand_Est/departments~Grand_Est/Aube/communes~Aube/Nogent-sur-Seine/cities~Nogent-sur-Seine/Chatres.private.md) 
 
-### [Chatres.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Grand_Est\departments~Grand_Est\Aube\communes~Aube\Nogent-sur-Seine\cities~Nogent-sur-SeineChatres.secret.md)
+### [Chatres.personal](/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Grand_Est/departments~Grand_Est/Aube/communes~Aube/Nogent-sur-Seine/cities~Nogent-sur-Seine/Chatres.personal.md) 
+
+### [Chatres.secret](/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Grand_Est/departments~Grand_Est/Aube/communes~Aube/Nogent-sur-Seine/cities~Nogent-sur-Seine/Chatres.secret.md)
 

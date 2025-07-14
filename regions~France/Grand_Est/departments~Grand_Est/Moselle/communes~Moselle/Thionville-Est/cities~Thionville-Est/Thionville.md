@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Thionville.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Grand_Est\departments~Grand_Est\Moselle\communes~Moselle\Thionville-Est\cities~Thionville-EstThionville.public.md) 
+### [Thionville](/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Grand_Est/departments~Grand_Est/Moselle/communes~Moselle/Thionville-Est/cities~Thionville-Est/Thionville.md) 
 
-### [Thionville.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Grand_Est\departments~Grand_Est\Moselle\communes~Moselle\Thionville-Est\cities~Thionville-EstThionville.internal.md) 
+### [Thionville.public](/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Grand_Est/departments~Grand_Est/Moselle/communes~Moselle/Thionville-Est/cities~Thionville-Est/Thionville.public.md) 
 
-### [Thionville.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Grand_Est\departments~Grand_Est\Moselle\communes~Moselle\Thionville-Est\cities~Thionville-EstThionville.protect.md) 
+### [Thionville.internal](/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Grand_Est/departments~Grand_Est/Moselle/communes~Moselle/Thionville-Est/cities~Thionville-Est/Thionville.internal.md) 
 
-### [Thionville.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Grand_Est\departments~Grand_Est\Moselle\communes~Moselle\Thionville-Est\cities~Thionville-EstThionville.private.md) 
+### [Thionville.protect](/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Grand_Est/departments~Grand_Est/Moselle/communes~Moselle/Thionville-Est/cities~Thionville-Est/Thionville.protect.md) 
 
-### [Thionville.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Grand_Est\departments~Grand_Est\Moselle\communes~Moselle\Thionville-Est\cities~Thionville-EstThionville.personal.md) 
+### [Thionville.private](/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Grand_Est/departments~Grand_Est/Moselle/communes~Moselle/Thionville-Est/cities~Thionville-Est/Thionville.private.md) 
 
-### [Thionville.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Grand_Est\departments~Grand_Est\Moselle\communes~Moselle\Thionville-Est\cities~Thionville-EstThionville.secret.md)
+### [Thionville.personal](/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Grand_Est/departments~Grand_Est/Moselle/communes~Moselle/Thionville-Est/cities~Thionville-Est/Thionville.personal.md) 
+
+### [Thionville.secret](/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Grand_Est/departments~Grand_Est/Moselle/communes~Moselle/Thionville-Est/cities~Thionville-Est/Thionville.secret.md)
 

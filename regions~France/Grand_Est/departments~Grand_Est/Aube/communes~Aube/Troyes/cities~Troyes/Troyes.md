@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Troyes.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Grand_Est\departments~Grand_Est\Aube\communes~Aube\Troyes\cities~TroyesTroyes.public.md) 
+### [Troyes](/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Grand_Est/departments~Grand_Est/Aube/communes~Aube/Troyes/cities~Troyes/Troyes.md) 
 
-### [Troyes.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Grand_Est\departments~Grand_Est\Aube\communes~Aube\Troyes\cities~TroyesTroyes.internal.md) 
+### [Troyes.public](/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Grand_Est/departments~Grand_Est/Aube/communes~Aube/Troyes/cities~Troyes/Troyes.public.md) 
 
-### [Troyes.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Grand_Est\departments~Grand_Est\Aube\communes~Aube\Troyes\cities~TroyesTroyes.protect.md) 
+### [Troyes.internal](/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Grand_Est/departments~Grand_Est/Aube/communes~Aube/Troyes/cities~Troyes/Troyes.internal.md) 
 
-### [Troyes.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Grand_Est\departments~Grand_Est\Aube\communes~Aube\Troyes\cities~TroyesTroyes.private.md) 
+### [Troyes.protect](/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Grand_Est/departments~Grand_Est/Aube/communes~Aube/Troyes/cities~Troyes/Troyes.protect.md) 
 
-### [Troyes.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Grand_Est\departments~Grand_Est\Aube\communes~Aube\Troyes\cities~TroyesTroyes.personal.md) 
+### [Troyes.private](/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Grand_Est/departments~Grand_Est/Aube/communes~Aube/Troyes/cities~Troyes/Troyes.private.md) 
 
-### [Troyes.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Grand_Est\departments~Grand_Est\Aube\communes~Aube\Troyes\cities~TroyesTroyes.secret.md)
+### [Troyes.personal](/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Grand_Est/departments~Grand_Est/Aube/communes~Aube/Troyes/cities~Troyes/Troyes.personal.md) 
+
+### [Troyes.secret](/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Grand_Est/departments~Grand_Est/Aube/communes~Aube/Troyes/cities~Troyes/Troyes.secret.md)
 

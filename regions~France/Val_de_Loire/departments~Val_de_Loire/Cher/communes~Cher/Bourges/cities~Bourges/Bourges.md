@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Bourges.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Val_de_Loire\departments~Val_de_Loire\Cher\communes~Cher\Bourges\cities~BourgesBourges.public.md) 
+### [Bourges](/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Val_de_Loire/departments~Val_de_Loire/Cher/communes~Cher/Bourges/cities~Bourges/Bourges.md) 
 
-### [Bourges.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Val_de_Loire\departments~Val_de_Loire\Cher\communes~Cher\Bourges\cities~BourgesBourges.internal.md) 
+### [Bourges.public](/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Val_de_Loire/departments~Val_de_Loire/Cher/communes~Cher/Bourges/cities~Bourges/Bourges.public.md) 
 
-### [Bourges.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Val_de_Loire\departments~Val_de_Loire\Cher\communes~Cher\Bourges\cities~BourgesBourges.protect.md) 
+### [Bourges.internal](/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Val_de_Loire/departments~Val_de_Loire/Cher/communes~Cher/Bourges/cities~Bourges/Bourges.internal.md) 
 
-### [Bourges.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Val_de_Loire\departments~Val_de_Loire\Cher\communes~Cher\Bourges\cities~BourgesBourges.private.md) 
+### [Bourges.protect](/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Val_de_Loire/departments~Val_de_Loire/Cher/communes~Cher/Bourges/cities~Bourges/Bourges.protect.md) 
 
-### [Bourges.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Val_de_Loire\departments~Val_de_Loire\Cher\communes~Cher\Bourges\cities~BourgesBourges.personal.md) 
+### [Bourges.private](/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Val_de_Loire/departments~Val_de_Loire/Cher/communes~Cher/Bourges/cities~Bourges/Bourges.private.md) 
 
-### [Bourges.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Val_de_Loire\departments~Val_de_Loire\Cher\communes~Cher\Bourges\cities~BourgesBourges.secret.md)
+### [Bourges.personal](/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Val_de_Loire/departments~Val_de_Loire/Cher/communes~Cher/Bourges/cities~Bourges/Bourges.personal.md) 
+
+### [Bourges.secret](/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Val_de_Loire/departments~Val_de_Loire/Cher/communes~Cher/Bourges/cities~Bourges/Bourges.secret.md)
 

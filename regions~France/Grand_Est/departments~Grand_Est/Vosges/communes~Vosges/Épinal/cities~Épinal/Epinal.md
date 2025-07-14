@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Epinal.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Grand_Est\departments~Grand_Est\Vosges\communes~Vosges\Épinal\cities~ÉpinalEpinal.public.md) 
+### [Epinal](/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Grand_Est/departments~Grand_Est/Vosges/communes~Vosges/Épinal/cities~Épinal/Epinal.md) 
 
-### [Epinal.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Grand_Est\departments~Grand_Est\Vosges\communes~Vosges\Épinal\cities~ÉpinalEpinal.internal.md) 
+### [Epinal.public](/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Grand_Est/departments~Grand_Est/Vosges/communes~Vosges/Épinal/cities~Épinal/Epinal.public.md) 
 
-### [Epinal.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Grand_Est\departments~Grand_Est\Vosges\communes~Vosges\Épinal\cities~ÉpinalEpinal.protect.md) 
+### [Epinal.internal](/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Grand_Est/departments~Grand_Est/Vosges/communes~Vosges/Épinal/cities~Épinal/Epinal.internal.md) 
 
-### [Epinal.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Grand_Est\departments~Grand_Est\Vosges\communes~Vosges\Épinal\cities~ÉpinalEpinal.private.md) 
+### [Epinal.protect](/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Grand_Est/departments~Grand_Est/Vosges/communes~Vosges/Épinal/cities~Épinal/Epinal.protect.md) 
 
-### [Epinal.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Grand_Est\departments~Grand_Est\Vosges\communes~Vosges\Épinal\cities~ÉpinalEpinal.personal.md) 
+### [Epinal.private](/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Grand_Est/departments~Grand_Est/Vosges/communes~Vosges/Épinal/cities~Épinal/Epinal.private.md) 
 
-### [Epinal.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Grand_Est\departments~Grand_Est\Vosges\communes~Vosges\Épinal\cities~ÉpinalEpinal.secret.md)
+### [Epinal.personal](/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Grand_Est/departments~Grand_Est/Vosges/communes~Vosges/Épinal/cities~Épinal/Epinal.personal.md) 
+
+### [Epinal.secret](/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Grand_Est/departments~Grand_Est/Vosges/communes~Vosges/Épinal/cities~Épinal/Epinal.secret.md)
 

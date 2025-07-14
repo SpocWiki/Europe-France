@@ -41,15 +41,17 @@ markerFolder: ./Département~Dordogne/
 
 ## Confidential Links & Embeds: 
 
-### [Dordogne.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~AquitaineDordogne.public.md) 
+### [Dordogne](/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Nouvelle-Aquitaine/departments~Aquitaine/Dordogne.md) 
 
-### [Dordogne.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~AquitaineDordogne.internal.md) 
+### [Dordogne.public](/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Nouvelle-Aquitaine/departments~Aquitaine/Dordogne.public.md) 
 
-### [Dordogne.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~AquitaineDordogne.protect.md) 
+### [Dordogne.internal](/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Nouvelle-Aquitaine/departments~Aquitaine/Dordogne.internal.md) 
 
-### [Dordogne.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~AquitaineDordogne.private.md) 
+### [Dordogne.protect](/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Nouvelle-Aquitaine/departments~Aquitaine/Dordogne.protect.md) 
 
-### [Dordogne.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~AquitaineDordogne.personal.md) 
+### [Dordogne.private](/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Nouvelle-Aquitaine/departments~Aquitaine/Dordogne.private.md) 
 
-### [Dordogne.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~AquitaineDordogne.secret.md)
+### [Dordogne.personal](/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Nouvelle-Aquitaine/departments~Aquitaine/Dordogne.personal.md) 
+
+### [Dordogne.secret](/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Nouvelle-Aquitaine/departments~Aquitaine/Dordogne.secret.md)
 

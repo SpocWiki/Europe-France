@@ -40,15 +40,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Strasbourg~Elsass.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Grand_Est\departments~Grand_Est\Bas-Rhin\communes~Bas-Rhin\Strasbourg-Ville\cities~Strasbourg-VilleStrasbourg~Elsass.public.md) 
+### [Strasbourg~Elsass](/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Grand_Est/departments~Grand_Est/Bas-Rhin/communes~Bas-Rhin/Strasbourg-Ville/cities~Strasbourg-Ville/Strasbourg~Elsass.md) 
 
-### [Strasbourg~Elsass.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Grand_Est\departments~Grand_Est\Bas-Rhin\communes~Bas-Rhin\Strasbourg-Ville\cities~Strasbourg-VilleStrasbourg~Elsass.internal.md) 
+### [Strasbourg~Elsass.public](/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Grand_Est/departments~Grand_Est/Bas-Rhin/communes~Bas-Rhin/Strasbourg-Ville/cities~Strasbourg-Ville/Strasbourg~Elsass.public.md) 
 
-### [Strasbourg~Elsass.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Grand_Est\departments~Grand_Est\Bas-Rhin\communes~Bas-Rhin\Strasbourg-Ville\cities~Strasbourg-VilleStrasbourg~Elsass.protect.md) 
+### [Strasbourg~Elsass.internal](/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Grand_Est/departments~Grand_Est/Bas-Rhin/communes~Bas-Rhin/Strasbourg-Ville/cities~Strasbourg-Ville/Strasbourg~Elsass.internal.md) 
 
-### [Strasbourg~Elsass.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Grand_Est\departments~Grand_Est\Bas-Rhin\communes~Bas-Rhin\Strasbourg-Ville\cities~Strasbourg-VilleStrasbourg~Elsass.private.md) 
+### [Strasbourg~Elsass.protect](/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Grand_Est/departments~Grand_Est/Bas-Rhin/communes~Bas-Rhin/Strasbourg-Ville/cities~Strasbourg-Ville/Strasbourg~Elsass.protect.md) 
 
-### [Strasbourg~Elsass.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Grand_Est\departments~Grand_Est\Bas-Rhin\communes~Bas-Rhin\Strasbourg-Ville\cities~Strasbourg-VilleStrasbourg~Elsass.personal.md) 
+### [Strasbourg~Elsass.private](/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Grand_Est/departments~Grand_Est/Bas-Rhin/communes~Bas-Rhin/Strasbourg-Ville/cities~Strasbourg-Ville/Strasbourg~Elsass.private.md) 
 
-### [Strasbourg~Elsass.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Grand_Est\departments~Grand_Est\Bas-Rhin\communes~Bas-Rhin\Strasbourg-Ville\cities~Strasbourg-VilleStrasbourg~Elsass.secret.md)
+### [Strasbourg~Elsass.personal](/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Grand_Est/departments~Grand_Est/Bas-Rhin/communes~Bas-Rhin/Strasbourg-Ville/cities~Strasbourg-Ville/Strasbourg~Elsass.personal.md) 
+
+### [Strasbourg~Elsass.secret](/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Grand_Est/departments~Grand_Est/Bas-Rhin/communes~Bas-Rhin/Strasbourg-Ville/cities~Strasbourg-Ville/Strasbourg~Elsass.secret.md)
 

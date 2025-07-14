@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Pontarlier.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Bourgogne-Franche-Comté\departments~Bourgogne-Franche-Comté\Doubs\communes~Doubs\Pontarlier\cities~PontarlierPontarlier.public.md) 
+### [Pontarlier](/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Bourgogne-Franche-Comté/departments~Bourgogne-Franche-Comté/Doubs/communes~Doubs/Pontarlier/cities~Pontarlier/Pontarlier.md) 
 
-### [Pontarlier.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Bourgogne-Franche-Comté\departments~Bourgogne-Franche-Comté\Doubs\communes~Doubs\Pontarlier\cities~PontarlierPontarlier.internal.md) 
+### [Pontarlier.public](/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Bourgogne-Franche-Comté/departments~Bourgogne-Franche-Comté/Doubs/communes~Doubs/Pontarlier/cities~Pontarlier/Pontarlier.public.md) 
 
-### [Pontarlier.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Bourgogne-Franche-Comté\departments~Bourgogne-Franche-Comté\Doubs\communes~Doubs\Pontarlier\cities~PontarlierPontarlier.protect.md) 
+### [Pontarlier.internal](/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Bourgogne-Franche-Comté/departments~Bourgogne-Franche-Comté/Doubs/communes~Doubs/Pontarlier/cities~Pontarlier/Pontarlier.internal.md) 
 
-### [Pontarlier.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Bourgogne-Franche-Comté\departments~Bourgogne-Franche-Comté\Doubs\communes~Doubs\Pontarlier\cities~PontarlierPontarlier.private.md) 
+### [Pontarlier.protect](/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Bourgogne-Franche-Comté/departments~Bourgogne-Franche-Comté/Doubs/communes~Doubs/Pontarlier/cities~Pontarlier/Pontarlier.protect.md) 
 
-### [Pontarlier.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Bourgogne-Franche-Comté\departments~Bourgogne-Franche-Comté\Doubs\communes~Doubs\Pontarlier\cities~PontarlierPontarlier.personal.md) 
+### [Pontarlier.private](/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Bourgogne-Franche-Comté/departments~Bourgogne-Franche-Comté/Doubs/communes~Doubs/Pontarlier/cities~Pontarlier/Pontarlier.private.md) 
 
-### [Pontarlier.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Bourgogne-Franche-Comté\departments~Bourgogne-Franche-Comté\Doubs\communes~Doubs\Pontarlier\cities~PontarlierPontarlier.secret.md)
+### [Pontarlier.personal](/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Bourgogne-Franche-Comté/departments~Bourgogne-Franche-Comté/Doubs/communes~Doubs/Pontarlier/cities~Pontarlier/Pontarlier.personal.md) 
+
+### [Pontarlier.secret](/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Bourgogne-Franche-Comté/departments~Bourgogne-Franche-Comté/Doubs/communes~Doubs/Pontarlier/cities~Pontarlier/Pontarlier.secret.md)
 

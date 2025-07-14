@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [St.Amand-Montrond.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Val_de_Loire\departments~Val_de_Loire\Cher\communes~Cher\Saint-Amand-Montrond\cities~Saint-Amand-MontrondSt.Amand-Montrond.public.md) 
+### [St.Amand-Montrond](/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Val_de_Loire/departments~Val_de_Loire/Cher/communes~Cher/Saint-Amand-Montrond/cities~Saint-Amand-Montrond/St.Amand-Montrond.md) 
 
-### [St.Amand-Montrond.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Val_de_Loire\departments~Val_de_Loire\Cher\communes~Cher\Saint-Amand-Montrond\cities~Saint-Amand-MontrondSt.Amand-Montrond.internal.md) 
+### [St.Amand-Montrond.public](/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Val_de_Loire/departments~Val_de_Loire/Cher/communes~Cher/Saint-Amand-Montrond/cities~Saint-Amand-Montrond/St.Amand-Montrond.public.md) 
 
-### [St.Amand-Montrond.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Val_de_Loire\departments~Val_de_Loire\Cher\communes~Cher\Saint-Amand-Montrond\cities~Saint-Amand-MontrondSt.Amand-Montrond.protect.md) 
+### [St.Amand-Montrond.internal](/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Val_de_Loire/departments~Val_de_Loire/Cher/communes~Cher/Saint-Amand-Montrond/cities~Saint-Amand-Montrond/St.Amand-Montrond.internal.md) 
 
-### [St.Amand-Montrond.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Val_de_Loire\departments~Val_de_Loire\Cher\communes~Cher\Saint-Amand-Montrond\cities~Saint-Amand-MontrondSt.Amand-Montrond.private.md) 
+### [St.Amand-Montrond.protect](/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Val_de_Loire/departments~Val_de_Loire/Cher/communes~Cher/Saint-Amand-Montrond/cities~Saint-Amand-Montrond/St.Amand-Montrond.protect.md) 
 
-### [St.Amand-Montrond.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Val_de_Loire\departments~Val_de_Loire\Cher\communes~Cher\Saint-Amand-Montrond\cities~Saint-Amand-MontrondSt.Amand-Montrond.personal.md) 
+### [St.Amand-Montrond.private](/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Val_de_Loire/departments~Val_de_Loire/Cher/communes~Cher/Saint-Amand-Montrond/cities~Saint-Amand-Montrond/St.Amand-Montrond.private.md) 
 
-### [St.Amand-Montrond.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Val_de_Loire\departments~Val_de_Loire\Cher\communes~Cher\Saint-Amand-Montrond\cities~Saint-Amand-MontrondSt.Amand-Montrond.secret.md)
+### [St.Amand-Montrond.personal](/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Val_de_Loire/departments~Val_de_Loire/Cher/communes~Cher/Saint-Amand-Montrond/cities~Saint-Amand-Montrond/St.Amand-Montrond.personal.md) 
+
+### [St.Amand-Montrond.secret](/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Val_de_Loire/departments~Val_de_Loire/Cher/communes~Cher/Saint-Amand-Montrond/cities~Saint-Amand-Montrond/St.Amand-Montrond.secret.md)
 

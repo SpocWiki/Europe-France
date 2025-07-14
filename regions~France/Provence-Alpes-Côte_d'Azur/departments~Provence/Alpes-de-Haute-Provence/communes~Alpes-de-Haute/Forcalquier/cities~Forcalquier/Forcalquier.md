@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Forcalquier.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Provence-Alpes-Côte_d'Azur\departments~Provence\Alpes-de-Haute-Provence\communes~Alpes-de-Haute\Forcalquier\cities~ForcalquierForcalquier.public.md) 
+### [Forcalquier](/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Provence-Alpes-Côte_d'Azur/departments~Provence/Alpes-de-Haute-Provence/communes~Alpes-de-Haute/Forcalquier/cities~Forcalquier/Forcalquier.md) 
 
-### [Forcalquier.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Provence-Alpes-Côte_d'Azur\departments~Provence\Alpes-de-Haute-Provence\communes~Alpes-de-Haute\Forcalquier\cities~ForcalquierForcalquier.internal.md) 
+### [Forcalquier.public](/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Provence-Alpes-Côte_d'Azur/departments~Provence/Alpes-de-Haute-Provence/communes~Alpes-de-Haute/Forcalquier/cities~Forcalquier/Forcalquier.public.md) 
 
-### [Forcalquier.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Provence-Alpes-Côte_d'Azur\departments~Provence\Alpes-de-Haute-Provence\communes~Alpes-de-Haute\Forcalquier\cities~ForcalquierForcalquier.protect.md) 
+### [Forcalquier.internal](/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Provence-Alpes-Côte_d'Azur/departments~Provence/Alpes-de-Haute-Provence/communes~Alpes-de-Haute/Forcalquier/cities~Forcalquier/Forcalquier.internal.md) 
 
-### [Forcalquier.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Provence-Alpes-Côte_d'Azur\departments~Provence\Alpes-de-Haute-Provence\communes~Alpes-de-Haute\Forcalquier\cities~ForcalquierForcalquier.private.md) 
+### [Forcalquier.protect](/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Provence-Alpes-Côte_d'Azur/departments~Provence/Alpes-de-Haute-Provence/communes~Alpes-de-Haute/Forcalquier/cities~Forcalquier/Forcalquier.protect.md) 
 
-### [Forcalquier.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Provence-Alpes-Côte_d'Azur\departments~Provence\Alpes-de-Haute-Provence\communes~Alpes-de-Haute\Forcalquier\cities~ForcalquierForcalquier.personal.md) 
+### [Forcalquier.private](/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Provence-Alpes-Côte_d'Azur/departments~Provence/Alpes-de-Haute-Provence/communes~Alpes-de-Haute/Forcalquier/cities~Forcalquier/Forcalquier.private.md) 
 
-### [Forcalquier.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Provence-Alpes-Côte_d'Azur\departments~Provence\Alpes-de-Haute-Provence\communes~Alpes-de-Haute\Forcalquier\cities~ForcalquierForcalquier.secret.md)
+### [Forcalquier.personal](/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Provence-Alpes-Côte_d'Azur/departments~Provence/Alpes-de-Haute-Provence/communes~Alpes-de-Haute/Forcalquier/cities~Forcalquier/Forcalquier.personal.md) 
+
+### [Forcalquier.secret](/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Provence-Alpes-Côte_d'Azur/departments~Provence/Alpes-de-Haute-Provence/communes~Alpes-de-Haute/Forcalquier/cities~Forcalquier/Forcalquier.secret.md)
 

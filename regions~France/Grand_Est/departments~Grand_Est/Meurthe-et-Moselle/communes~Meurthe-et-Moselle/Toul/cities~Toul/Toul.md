@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Toul.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Grand_Est\departments~Grand_Est\Meurthe-et-Moselle\communes~Meurthe-et-Moselle\Toul\cities~ToulToul.public.md) 
+### [Toul](/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Grand_Est/departments~Grand_Est/Meurthe-et-Moselle/communes~Meurthe-et-Moselle/Toul/cities~Toul/Toul.md) 
 
-### [Toul.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Grand_Est\departments~Grand_Est\Meurthe-et-Moselle\communes~Meurthe-et-Moselle\Toul\cities~ToulToul.internal.md) 
+### [Toul.public](/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Grand_Est/departments~Grand_Est/Meurthe-et-Moselle/communes~Meurthe-et-Moselle/Toul/cities~Toul/Toul.public.md) 
 
-### [Toul.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Grand_Est\departments~Grand_Est\Meurthe-et-Moselle\communes~Meurthe-et-Moselle\Toul\cities~ToulToul.protect.md) 
+### [Toul.internal](/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Grand_Est/departments~Grand_Est/Meurthe-et-Moselle/communes~Meurthe-et-Moselle/Toul/cities~Toul/Toul.internal.md) 
 
-### [Toul.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Grand_Est\departments~Grand_Est\Meurthe-et-Moselle\communes~Meurthe-et-Moselle\Toul\cities~ToulToul.private.md) 
+### [Toul.protect](/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Grand_Est/departments~Grand_Est/Meurthe-et-Moselle/communes~Meurthe-et-Moselle/Toul/cities~Toul/Toul.protect.md) 
 
-### [Toul.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Grand_Est\departments~Grand_Est\Meurthe-et-Moselle\communes~Meurthe-et-Moselle\Toul\cities~ToulToul.personal.md) 
+### [Toul.private](/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Grand_Est/departments~Grand_Est/Meurthe-et-Moselle/communes~Meurthe-et-Moselle/Toul/cities~Toul/Toul.private.md) 
 
-### [Toul.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Grand_Est\departments~Grand_Est\Meurthe-et-Moselle\communes~Meurthe-et-Moselle\Toul\cities~ToulToul.secret.md)
+### [Toul.personal](/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Grand_Est/departments~Grand_Est/Meurthe-et-Moselle/communes~Meurthe-et-Moselle/Toul/cities~Toul/Toul.personal.md) 
+
+### [Toul.secret](/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Grand_Est/departments~Grand_Est/Meurthe-et-Moselle/communes~Meurthe-et-Moselle/Toul/cities~Toul/Toul.secret.md)
 

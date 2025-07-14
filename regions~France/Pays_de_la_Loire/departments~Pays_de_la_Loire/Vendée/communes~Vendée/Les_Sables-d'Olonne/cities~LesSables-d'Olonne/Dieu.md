@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Dieu.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Pays_de_la_Loire\departments~Pays_de_la_Loire\Vendée\communes~Vendée\Les_Sables-d'Olonne\cities~LesSables-d'OlonneDieu.public.md) 
+### [Dieu](/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Pays_de_la_Loire/departments~Pays_de_la_Loire/Vendée/communes~Vendée/Les_Sables-d'Olonne/cities~LesSables-d'Olonne/Dieu.md) 
 
-### [Dieu.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Pays_de_la_Loire\departments~Pays_de_la_Loire\Vendée\communes~Vendée\Les_Sables-d'Olonne\cities~LesSables-d'OlonneDieu.internal.md) 
+### [Dieu.public](/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Pays_de_la_Loire/departments~Pays_de_la_Loire/Vendée/communes~Vendée/Les_Sables-d'Olonne/cities~LesSables-d'Olonne/Dieu.public.md) 
 
-### [Dieu.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Pays_de_la_Loire\departments~Pays_de_la_Loire\Vendée\communes~Vendée\Les_Sables-d'Olonne\cities~LesSables-d'OlonneDieu.protect.md) 
+### [Dieu.internal](/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Pays_de_la_Loire/departments~Pays_de_la_Loire/Vendée/communes~Vendée/Les_Sables-d'Olonne/cities~LesSables-d'Olonne/Dieu.internal.md) 
 
-### [Dieu.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Pays_de_la_Loire\departments~Pays_de_la_Loire\Vendée\communes~Vendée\Les_Sables-d'Olonne\cities~LesSables-d'OlonneDieu.private.md) 
+### [Dieu.protect](/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Pays_de_la_Loire/departments~Pays_de_la_Loire/Vendée/communes~Vendée/Les_Sables-d'Olonne/cities~LesSables-d'Olonne/Dieu.protect.md) 
 
-### [Dieu.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Pays_de_la_Loire\departments~Pays_de_la_Loire\Vendée\communes~Vendée\Les_Sables-d'Olonne\cities~LesSables-d'OlonneDieu.personal.md) 
+### [Dieu.private](/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Pays_de_la_Loire/departments~Pays_de_la_Loire/Vendée/communes~Vendée/Les_Sables-d'Olonne/cities~LesSables-d'Olonne/Dieu.private.md) 
 
-### [Dieu.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Pays_de_la_Loire\departments~Pays_de_la_Loire\Vendée\communes~Vendée\Les_Sables-d'Olonne\cities~LesSables-d'OlonneDieu.secret.md)
+### [Dieu.personal](/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Pays_de_la_Loire/departments~Pays_de_la_Loire/Vendée/communes~Vendée/Les_Sables-d'Olonne/cities~LesSables-d'Olonne/Dieu.personal.md) 
+
+### [Dieu.secret](/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Pays_de_la_Loire/departments~Pays_de_la_Loire/Vendée/communes~Vendée/Les_Sables-d'Olonne/cities~LesSables-d'Olonne/Dieu.secret.md)
 

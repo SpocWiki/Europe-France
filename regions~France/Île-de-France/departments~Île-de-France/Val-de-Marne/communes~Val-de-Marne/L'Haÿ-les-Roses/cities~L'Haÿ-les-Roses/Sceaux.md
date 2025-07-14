@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Sceaux.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Île-de-France\departments~Île-de-France\Val-de-Marne\communes~Val-de-Marne\L'Haÿ-les-Roses\cities~L'Haÿ-les-RosesSceaux.public.md) 
+### [Sceaux](/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Île-de-France/departments~Île-de-France/Val-de-Marne/communes~Val-de-Marne/L'Haÿ-les-Roses/cities~L'Haÿ-les-Roses/Sceaux.md) 
 
-### [Sceaux.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Île-de-France\departments~Île-de-France\Val-de-Marne\communes~Val-de-Marne\L'Haÿ-les-Roses\cities~L'Haÿ-les-RosesSceaux.internal.md) 
+### [Sceaux.public](/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Île-de-France/departments~Île-de-France/Val-de-Marne/communes~Val-de-Marne/L'Haÿ-les-Roses/cities~L'Haÿ-les-Roses/Sceaux.public.md) 
 
-### [Sceaux.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Île-de-France\departments~Île-de-France\Val-de-Marne\communes~Val-de-Marne\L'Haÿ-les-Roses\cities~L'Haÿ-les-RosesSceaux.protect.md) 
+### [Sceaux.internal](/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Île-de-France/departments~Île-de-France/Val-de-Marne/communes~Val-de-Marne/L'Haÿ-les-Roses/cities~L'Haÿ-les-Roses/Sceaux.internal.md) 
 
-### [Sceaux.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Île-de-France\departments~Île-de-France\Val-de-Marne\communes~Val-de-Marne\L'Haÿ-les-Roses\cities~L'Haÿ-les-RosesSceaux.private.md) 
+### [Sceaux.protect](/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Île-de-France/departments~Île-de-France/Val-de-Marne/communes~Val-de-Marne/L'Haÿ-les-Roses/cities~L'Haÿ-les-Roses/Sceaux.protect.md) 
 
-### [Sceaux.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Île-de-France\departments~Île-de-France\Val-de-Marne\communes~Val-de-Marne\L'Haÿ-les-Roses\cities~L'Haÿ-les-RosesSceaux.personal.md) 
+### [Sceaux.private](/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Île-de-France/departments~Île-de-France/Val-de-Marne/communes~Val-de-Marne/L'Haÿ-les-Roses/cities~L'Haÿ-les-Roses/Sceaux.private.md) 
 
-### [Sceaux.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Île-de-France\departments~Île-de-France\Val-de-Marne\communes~Val-de-Marne\L'Haÿ-les-Roses\cities~L'Haÿ-les-RosesSceaux.secret.md)
+### [Sceaux.personal](/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Île-de-France/departments~Île-de-France/Val-de-Marne/communes~Val-de-Marne/L'Haÿ-les-Roses/cities~L'Haÿ-les-Roses/Sceaux.personal.md) 
+
+### [Sceaux.secret](/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Île-de-France/departments~Île-de-France/Val-de-Marne/communes~Val-de-Marne/L'Haÿ-les-Roses/cities~L'Haÿ-les-Roses/Sceaux.secret.md)
 

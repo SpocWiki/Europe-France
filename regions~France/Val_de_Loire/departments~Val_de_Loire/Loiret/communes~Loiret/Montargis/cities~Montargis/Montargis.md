@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Montargis.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Val_de_Loire\departments~Val_de_Loire\Loiret\communes~Loiret\Montargis\cities~MontargisMontargis.public.md) 
+### [Montargis](/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Val_de_Loire/departments~Val_de_Loire/Loiret/communes~Loiret/Montargis/cities~Montargis/Montargis.md) 
 
-### [Montargis.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Val_de_Loire\departments~Val_de_Loire\Loiret\communes~Loiret\Montargis\cities~MontargisMontargis.internal.md) 
+### [Montargis.public](/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Val_de_Loire/departments~Val_de_Loire/Loiret/communes~Loiret/Montargis/cities~Montargis/Montargis.public.md) 
 
-### [Montargis.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Val_de_Loire\departments~Val_de_Loire\Loiret\communes~Loiret\Montargis\cities~MontargisMontargis.protect.md) 
+### [Montargis.internal](/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Val_de_Loire/departments~Val_de_Loire/Loiret/communes~Loiret/Montargis/cities~Montargis/Montargis.internal.md) 
 
-### [Montargis.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Val_de_Loire\departments~Val_de_Loire\Loiret\communes~Loiret\Montargis\cities~MontargisMontargis.private.md) 
+### [Montargis.protect](/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Val_de_Loire/departments~Val_de_Loire/Loiret/communes~Loiret/Montargis/cities~Montargis/Montargis.protect.md) 
 
-### [Montargis.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Val_de_Loire\departments~Val_de_Loire\Loiret\communes~Loiret\Montargis\cities~MontargisMontargis.personal.md) 
+### [Montargis.private](/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Val_de_Loire/departments~Val_de_Loire/Loiret/communes~Loiret/Montargis/cities~Montargis/Montargis.private.md) 
 
-### [Montargis.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Val_de_Loire\departments~Val_de_Loire\Loiret\communes~Loiret\Montargis\cities~MontargisMontargis.secret.md)
+### [Montargis.personal](/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Val_de_Loire/departments~Val_de_Loire/Loiret/communes~Loiret/Montargis/cities~Montargis/Montargis.personal.md) 
+
+### [Montargis.secret](/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Val_de_Loire/departments~Val_de_Loire/Loiret/communes~Loiret/Montargis/cities~Montargis/Montargis.secret.md)
 

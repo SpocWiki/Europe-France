@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Forbach.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Grand_Est\departments~Grand_Est\Moselle\communes~Moselle\Forbach\cities~ForbachForbach.public.md) 
+### [Forbach](/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Grand_Est/departments~Grand_Est/Moselle/communes~Moselle/Forbach/cities~Forbach/Forbach.md) 
 
-### [Forbach.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Grand_Est\departments~Grand_Est\Moselle\communes~Moselle\Forbach\cities~ForbachForbach.internal.md) 
+### [Forbach.public](/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Grand_Est/departments~Grand_Est/Moselle/communes~Moselle/Forbach/cities~Forbach/Forbach.public.md) 
 
-### [Forbach.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Grand_Est\departments~Grand_Est\Moselle\communes~Moselle\Forbach\cities~ForbachForbach.protect.md) 
+### [Forbach.internal](/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Grand_Est/departments~Grand_Est/Moselle/communes~Moselle/Forbach/cities~Forbach/Forbach.internal.md) 
 
-### [Forbach.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Grand_Est\departments~Grand_Est\Moselle\communes~Moselle\Forbach\cities~ForbachForbach.private.md) 
+### [Forbach.protect](/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Grand_Est/departments~Grand_Est/Moselle/communes~Moselle/Forbach/cities~Forbach/Forbach.protect.md) 
 
-### [Forbach.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Grand_Est\departments~Grand_Est\Moselle\communes~Moselle\Forbach\cities~ForbachForbach.personal.md) 
+### [Forbach.private](/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Grand_Est/departments~Grand_Est/Moselle/communes~Moselle/Forbach/cities~Forbach/Forbach.private.md) 
 
-### [Forbach.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Grand_Est\departments~Grand_Est\Moselle\communes~Moselle\Forbach\cities~ForbachForbach.secret.md)
+### [Forbach.personal](/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Grand_Est/departments~Grand_Est/Moselle/communes~Moselle/Forbach/cities~Forbach/Forbach.personal.md) 
+
+### [Forbach.secret](/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Grand_Est/departments~Grand_Est/Moselle/communes~Moselle/Forbach/cities~Forbach/Forbach.secret.md)
 

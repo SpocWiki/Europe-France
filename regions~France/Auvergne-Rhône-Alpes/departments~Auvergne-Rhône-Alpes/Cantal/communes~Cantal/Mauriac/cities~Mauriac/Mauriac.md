@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Mauriac.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Auvergne-Rhône-Alpes\departments~Auvergne-Rhône-Alpes\Cantal\communes~Cantal\Mauriac\cities~MauriacMauriac.public.md) 
+### [Mauriac](/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Auvergne-Rhône-Alpes/departments~Auvergne-Rhône-Alpes/Cantal/communes~Cantal/Mauriac/cities~Mauriac/Mauriac.md) 
 
-### [Mauriac.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Auvergne-Rhône-Alpes\departments~Auvergne-Rhône-Alpes\Cantal\communes~Cantal\Mauriac\cities~MauriacMauriac.internal.md) 
+### [Mauriac.public](/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Auvergne-Rhône-Alpes/departments~Auvergne-Rhône-Alpes/Cantal/communes~Cantal/Mauriac/cities~Mauriac/Mauriac.public.md) 
 
-### [Mauriac.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Auvergne-Rhône-Alpes\departments~Auvergne-Rhône-Alpes\Cantal\communes~Cantal\Mauriac\cities~MauriacMauriac.protect.md) 
+### [Mauriac.internal](/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Auvergne-Rhône-Alpes/departments~Auvergne-Rhône-Alpes/Cantal/communes~Cantal/Mauriac/cities~Mauriac/Mauriac.internal.md) 
 
-### [Mauriac.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Auvergne-Rhône-Alpes\departments~Auvergne-Rhône-Alpes\Cantal\communes~Cantal\Mauriac\cities~MauriacMauriac.private.md) 
+### [Mauriac.protect](/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Auvergne-Rhône-Alpes/departments~Auvergne-Rhône-Alpes/Cantal/communes~Cantal/Mauriac/cities~Mauriac/Mauriac.protect.md) 
 
-### [Mauriac.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Auvergne-Rhône-Alpes\departments~Auvergne-Rhône-Alpes\Cantal\communes~Cantal\Mauriac\cities~MauriacMauriac.personal.md) 
+### [Mauriac.private](/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Auvergne-Rhône-Alpes/departments~Auvergne-Rhône-Alpes/Cantal/communes~Cantal/Mauriac/cities~Mauriac/Mauriac.private.md) 
 
-### [Mauriac.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Auvergne-Rhône-Alpes\departments~Auvergne-Rhône-Alpes\Cantal\communes~Cantal\Mauriac\cities~MauriacMauriac.secret.md)
+### [Mauriac.personal](/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Auvergne-Rhône-Alpes/departments~Auvergne-Rhône-Alpes/Cantal/communes~Cantal/Mauriac/cities~Mauriac/Mauriac.personal.md) 
+
+### [Mauriac.secret](/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Auvergne-Rhône-Alpes/departments~Auvergne-Rhône-Alpes/Cantal/communes~Cantal/Mauriac/cities~Mauriac/Mauriac.secret.md)
 

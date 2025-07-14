@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Yeu.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Pays_de_la_Loire\departments~Pays_de_la_Loire\Vendée\communes~Vendée\Les_Sables-d'Olonne\cities~LesSables-d'OlonneYeu.public.md) 
+### [Yeu](/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Pays_de_la_Loire/departments~Pays_de_la_Loire/Vendée/communes~Vendée/Les_Sables-d'Olonne/cities~LesSables-d'Olonne/Yeu.md) 
 
-### [Yeu.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Pays_de_la_Loire\departments~Pays_de_la_Loire\Vendée\communes~Vendée\Les_Sables-d'Olonne\cities~LesSables-d'OlonneYeu.internal.md) 
+### [Yeu.public](/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Pays_de_la_Loire/departments~Pays_de_la_Loire/Vendée/communes~Vendée/Les_Sables-d'Olonne/cities~LesSables-d'Olonne/Yeu.public.md) 
 
-### [Yeu.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Pays_de_la_Loire\departments~Pays_de_la_Loire\Vendée\communes~Vendée\Les_Sables-d'Olonne\cities~LesSables-d'OlonneYeu.protect.md) 
+### [Yeu.internal](/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Pays_de_la_Loire/departments~Pays_de_la_Loire/Vendée/communes~Vendée/Les_Sables-d'Olonne/cities~LesSables-d'Olonne/Yeu.internal.md) 
 
-### [Yeu.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Pays_de_la_Loire\departments~Pays_de_la_Loire\Vendée\communes~Vendée\Les_Sables-d'Olonne\cities~LesSables-d'OlonneYeu.private.md) 
+### [Yeu.protect](/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Pays_de_la_Loire/departments~Pays_de_la_Loire/Vendée/communes~Vendée/Les_Sables-d'Olonne/cities~LesSables-d'Olonne/Yeu.protect.md) 
 
-### [Yeu.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Pays_de_la_Loire\departments~Pays_de_la_Loire\Vendée\communes~Vendée\Les_Sables-d'Olonne\cities~LesSables-d'OlonneYeu.personal.md) 
+### [Yeu.private](/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Pays_de_la_Loire/departments~Pays_de_la_Loire/Vendée/communes~Vendée/Les_Sables-d'Olonne/cities~LesSables-d'Olonne/Yeu.private.md) 
 
-### [Yeu.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Pays_de_la_Loire\departments~Pays_de_la_Loire\Vendée\communes~Vendée\Les_Sables-d'Olonne\cities~LesSables-d'OlonneYeu.secret.md)
+### [Yeu.personal](/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Pays_de_la_Loire/departments~Pays_de_la_Loire/Vendée/communes~Vendée/Les_Sables-d'Olonne/cities~LesSables-d'Olonne/Yeu.personal.md) 
+
+### [Yeu.secret](/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Pays_de_la_Loire/departments~Pays_de_la_Loire/Vendée/communes~Vendée/Les_Sables-d'Olonne/cities~LesSables-d'Olonne/Yeu.secret.md)
 

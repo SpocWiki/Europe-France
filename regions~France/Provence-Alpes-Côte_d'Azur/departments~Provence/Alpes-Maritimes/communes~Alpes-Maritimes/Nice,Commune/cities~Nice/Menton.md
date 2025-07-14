@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Menton.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Provence-Alpes-Côte_d'Azur\departments~Provence\Alpes-Maritimes\communes~Alpes-Maritimes\Nice,Commune\cities~NiceMenton.public.md) 
+### [Menton](/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Provence-Alpes-Côte_d'Azur/departments~Provence/Alpes-Maritimes/communes~Alpes-Maritimes/Nice,Commune/cities~Nice/Menton.md) 
 
-### [Menton.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Provence-Alpes-Côte_d'Azur\departments~Provence\Alpes-Maritimes\communes~Alpes-Maritimes\Nice,Commune\cities~NiceMenton.internal.md) 
+### [Menton.public](/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Provence-Alpes-Côte_d'Azur/departments~Provence/Alpes-Maritimes/communes~Alpes-Maritimes/Nice,Commune/cities~Nice/Menton.public.md) 
 
-### [Menton.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Provence-Alpes-Côte_d'Azur\departments~Provence\Alpes-Maritimes\communes~Alpes-Maritimes\Nice,Commune\cities~NiceMenton.protect.md) 
+### [Menton.internal](/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Provence-Alpes-Côte_d'Azur/departments~Provence/Alpes-Maritimes/communes~Alpes-Maritimes/Nice,Commune/cities~Nice/Menton.internal.md) 
 
-### [Menton.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Provence-Alpes-Côte_d'Azur\departments~Provence\Alpes-Maritimes\communes~Alpes-Maritimes\Nice,Commune\cities~NiceMenton.private.md) 
+### [Menton.protect](/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Provence-Alpes-Côte_d'Azur/departments~Provence/Alpes-Maritimes/communes~Alpes-Maritimes/Nice,Commune/cities~Nice/Menton.protect.md) 
 
-### [Menton.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Provence-Alpes-Côte_d'Azur\departments~Provence\Alpes-Maritimes\communes~Alpes-Maritimes\Nice,Commune\cities~NiceMenton.personal.md) 
+### [Menton.private](/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Provence-Alpes-Côte_d'Azur/departments~Provence/Alpes-Maritimes/communes~Alpes-Maritimes/Nice,Commune/cities~Nice/Menton.private.md) 
 
-### [Menton.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Provence-Alpes-Côte_d'Azur\departments~Provence\Alpes-Maritimes\communes~Alpes-Maritimes\Nice,Commune\cities~NiceMenton.secret.md)
+### [Menton.personal](/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Provence-Alpes-Côte_d'Azur/departments~Provence/Alpes-Maritimes/communes~Alpes-Maritimes/Nice,Commune/cities~Nice/Menton.personal.md) 
+
+### [Menton.secret](/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Provence-Alpes-Côte_d'Azur/departments~Provence/Alpes-Maritimes/communes~Alpes-Maritimes/Nice,Commune/cities~Nice/Menton.secret.md)
 

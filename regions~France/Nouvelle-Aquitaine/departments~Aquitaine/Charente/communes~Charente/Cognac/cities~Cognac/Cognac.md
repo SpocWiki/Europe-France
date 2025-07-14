@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Cognac.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~Aquitaine\Charente\communes~Charente\Cognac\cities~CognacCognac.public.md) 
+### [Cognac](/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Nouvelle-Aquitaine/departments~Aquitaine/Charente/communes~Charente/Cognac/cities~Cognac/Cognac.md) 
 
-### [Cognac.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~Aquitaine\Charente\communes~Charente\Cognac\cities~CognacCognac.internal.md) 
+### [Cognac.public](/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Nouvelle-Aquitaine/departments~Aquitaine/Charente/communes~Charente/Cognac/cities~Cognac/Cognac.public.md) 
 
-### [Cognac.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~Aquitaine\Charente\communes~Charente\Cognac\cities~CognacCognac.protect.md) 
+### [Cognac.internal](/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Nouvelle-Aquitaine/departments~Aquitaine/Charente/communes~Charente/Cognac/cities~Cognac/Cognac.internal.md) 
 
-### [Cognac.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~Aquitaine\Charente\communes~Charente\Cognac\cities~CognacCognac.private.md) 
+### [Cognac.protect](/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Nouvelle-Aquitaine/departments~Aquitaine/Charente/communes~Charente/Cognac/cities~Cognac/Cognac.protect.md) 
 
-### [Cognac.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~Aquitaine\Charente\communes~Charente\Cognac\cities~CognacCognac.personal.md) 
+### [Cognac.private](/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Nouvelle-Aquitaine/departments~Aquitaine/Charente/communes~Charente/Cognac/cities~Cognac/Cognac.private.md) 
 
-### [Cognac.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~Aquitaine\Charente\communes~Charente\Cognac\cities~CognacCognac.secret.md)
+### [Cognac.personal](/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Nouvelle-Aquitaine/departments~Aquitaine/Charente/communes~Charente/Cognac/cities~Cognac/Cognac.personal.md) 
+
+### [Cognac.secret](/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Nouvelle-Aquitaine/departments~Aquitaine/Charente/communes~Charente/Cognac/cities~Cognac/Cognac.secret.md)
 

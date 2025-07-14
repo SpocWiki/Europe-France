@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Poitiers.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~Aquitaine\Vienne\communes~Vienne\Poitiers\cities~PoitiersPoitiers.public.md) 
+### [Poitiers](/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Nouvelle-Aquitaine/departments~Aquitaine/Vienne/communes~Vienne/Poitiers/cities~Poitiers/Poitiers.md) 
 
-### [Poitiers.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~Aquitaine\Vienne\communes~Vienne\Poitiers\cities~PoitiersPoitiers.internal.md) 
+### [Poitiers.public](/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Nouvelle-Aquitaine/departments~Aquitaine/Vienne/communes~Vienne/Poitiers/cities~Poitiers/Poitiers.public.md) 
 
-### [Poitiers.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~Aquitaine\Vienne\communes~Vienne\Poitiers\cities~PoitiersPoitiers.protect.md) 
+### [Poitiers.internal](/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Nouvelle-Aquitaine/departments~Aquitaine/Vienne/communes~Vienne/Poitiers/cities~Poitiers/Poitiers.internal.md) 
 
-### [Poitiers.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~Aquitaine\Vienne\communes~Vienne\Poitiers\cities~PoitiersPoitiers.private.md) 
+### [Poitiers.protect](/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Nouvelle-Aquitaine/departments~Aquitaine/Vienne/communes~Vienne/Poitiers/cities~Poitiers/Poitiers.protect.md) 
 
-### [Poitiers.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~Aquitaine\Vienne\communes~Vienne\Poitiers\cities~PoitiersPoitiers.personal.md) 
+### [Poitiers.private](/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Nouvelle-Aquitaine/departments~Aquitaine/Vienne/communes~Vienne/Poitiers/cities~Poitiers/Poitiers.private.md) 
 
-### [Poitiers.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~Aquitaine\Vienne\communes~Vienne\Poitiers\cities~PoitiersPoitiers.secret.md)
+### [Poitiers.personal](/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Nouvelle-Aquitaine/departments~Aquitaine/Vienne/communes~Vienne/Poitiers/cities~Poitiers/Poitiers.personal.md) 
+
+### [Poitiers.secret](/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Nouvelle-Aquitaine/departments~Aquitaine/Vienne/communes~Vienne/Poitiers/cities~Poitiers/Poitiers.secret.md)
 

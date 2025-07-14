@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [St.Sever.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~Aquitaine\Landes\communes~Landes\Mont-de-Marsan\cities~Mont-de-MarsanSt.Sever.public.md) 
+### [St.Sever](/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Nouvelle-Aquitaine/departments~Aquitaine/Landes/communes~Landes/Mont-de-Marsan/cities~Mont-de-Marsan/St.Sever.md) 
 
-### [St.Sever.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~Aquitaine\Landes\communes~Landes\Mont-de-Marsan\cities~Mont-de-MarsanSt.Sever.internal.md) 
+### [St.Sever.public](/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Nouvelle-Aquitaine/departments~Aquitaine/Landes/communes~Landes/Mont-de-Marsan/cities~Mont-de-Marsan/St.Sever.public.md) 
 
-### [St.Sever.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~Aquitaine\Landes\communes~Landes\Mont-de-Marsan\cities~Mont-de-MarsanSt.Sever.protect.md) 
+### [St.Sever.internal](/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Nouvelle-Aquitaine/departments~Aquitaine/Landes/communes~Landes/Mont-de-Marsan/cities~Mont-de-Marsan/St.Sever.internal.md) 
 
-### [St.Sever.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~Aquitaine\Landes\communes~Landes\Mont-de-Marsan\cities~Mont-de-MarsanSt.Sever.private.md) 
+### [St.Sever.protect](/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Nouvelle-Aquitaine/departments~Aquitaine/Landes/communes~Landes/Mont-de-Marsan/cities~Mont-de-Marsan/St.Sever.protect.md) 
 
-### [St.Sever.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~Aquitaine\Landes\communes~Landes\Mont-de-Marsan\cities~Mont-de-MarsanSt.Sever.personal.md) 
+### [St.Sever.private](/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Nouvelle-Aquitaine/departments~Aquitaine/Landes/communes~Landes/Mont-de-Marsan/cities~Mont-de-Marsan/St.Sever.private.md) 
 
-### [St.Sever.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~Aquitaine\Landes\communes~Landes\Mont-de-Marsan\cities~Mont-de-MarsanSt.Sever.secret.md)
+### [St.Sever.personal](/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Nouvelle-Aquitaine/departments~Aquitaine/Landes/communes~Landes/Mont-de-Marsan/cities~Mont-de-Marsan/St.Sever.personal.md) 
+
+### [St.Sever.secret](/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Nouvelle-Aquitaine/departments~Aquitaine/Landes/communes~Landes/Mont-de-Marsan/cities~Mont-de-Marsan/St.Sever.secret.md)
 

@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Avignon.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Provence-Alpes-Côte_d'Azur\departments~Provence\Vaucluse\communes~Vaucluse\Avignon\cities~AvignonAvignon.public.md) 
+### [Avignon](/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Provence-Alpes-Côte_d'Azur/departments~Provence/Vaucluse/communes~Vaucluse/Avignon/cities~Avignon/Avignon.md) 
 
-### [Avignon.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Provence-Alpes-Côte_d'Azur\departments~Provence\Vaucluse\communes~Vaucluse\Avignon\cities~AvignonAvignon.internal.md) 
+### [Avignon.public](/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Provence-Alpes-Côte_d'Azur/departments~Provence/Vaucluse/communes~Vaucluse/Avignon/cities~Avignon/Avignon.public.md) 
 
-### [Avignon.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Provence-Alpes-Côte_d'Azur\departments~Provence\Vaucluse\communes~Vaucluse\Avignon\cities~AvignonAvignon.protect.md) 
+### [Avignon.internal](/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Provence-Alpes-Côte_d'Azur/departments~Provence/Vaucluse/communes~Vaucluse/Avignon/cities~Avignon/Avignon.internal.md) 
 
-### [Avignon.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Provence-Alpes-Côte_d'Azur\departments~Provence\Vaucluse\communes~Vaucluse\Avignon\cities~AvignonAvignon.private.md) 
+### [Avignon.protect](/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Provence-Alpes-Côte_d'Azur/departments~Provence/Vaucluse/communes~Vaucluse/Avignon/cities~Avignon/Avignon.protect.md) 
 
-### [Avignon.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Provence-Alpes-Côte_d'Azur\departments~Provence\Vaucluse\communes~Vaucluse\Avignon\cities~AvignonAvignon.personal.md) 
+### [Avignon.private](/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Provence-Alpes-Côte_d'Azur/departments~Provence/Vaucluse/communes~Vaucluse/Avignon/cities~Avignon/Avignon.private.md) 
 
-### [Avignon.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Provence-Alpes-Côte_d'Azur\departments~Provence\Vaucluse\communes~Vaucluse\Avignon\cities~AvignonAvignon.secret.md)
+### [Avignon.personal](/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Provence-Alpes-Côte_d'Azur/departments~Provence/Vaucluse/communes~Vaucluse/Avignon/cities~Avignon/Avignon.personal.md) 
+
+### [Avignon.secret](/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Provence-Alpes-Côte_d'Azur/departments~Provence/Vaucluse/communes~Vaucluse/Avignon/cities~Avignon/Avignon.secret.md)
 

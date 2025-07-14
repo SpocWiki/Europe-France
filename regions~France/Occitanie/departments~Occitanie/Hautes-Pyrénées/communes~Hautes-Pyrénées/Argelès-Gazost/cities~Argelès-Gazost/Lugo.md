@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Lugo.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~Occitanie\Hautes-Pyrénées\communes~Hautes-Pyrénées\Argelès-Gazost\cities~Argelès-GazostLugo.public.md) 
+### [Lugo](/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Hautes-Pyrénées/communes~Hautes-Pyrénées/Argelès-Gazost/cities~Argelès-Gazost/Lugo.md) 
 
-### [Lugo.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~Occitanie\Hautes-Pyrénées\communes~Hautes-Pyrénées\Argelès-Gazost\cities~Argelès-GazostLugo.internal.md) 
+### [Lugo.public](/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Hautes-Pyrénées/communes~Hautes-Pyrénées/Argelès-Gazost/cities~Argelès-Gazost/Lugo.public.md) 
 
-### [Lugo.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~Occitanie\Hautes-Pyrénées\communes~Hautes-Pyrénées\Argelès-Gazost\cities~Argelès-GazostLugo.protect.md) 
+### [Lugo.internal](/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Hautes-Pyrénées/communes~Hautes-Pyrénées/Argelès-Gazost/cities~Argelès-Gazost/Lugo.internal.md) 
 
-### [Lugo.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~Occitanie\Hautes-Pyrénées\communes~Hautes-Pyrénées\Argelès-Gazost\cities~Argelès-GazostLugo.private.md) 
+### [Lugo.protect](/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Hautes-Pyrénées/communes~Hautes-Pyrénées/Argelès-Gazost/cities~Argelès-Gazost/Lugo.protect.md) 
 
-### [Lugo.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~Occitanie\Hautes-Pyrénées\communes~Hautes-Pyrénées\Argelès-Gazost\cities~Argelès-GazostLugo.personal.md) 
+### [Lugo.private](/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Hautes-Pyrénées/communes~Hautes-Pyrénées/Argelès-Gazost/cities~Argelès-Gazost/Lugo.private.md) 
 
-### [Lugo.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~Occitanie\Hautes-Pyrénées\communes~Hautes-Pyrénées\Argelès-Gazost\cities~Argelès-GazostLugo.secret.md)
+### [Lugo.personal](/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Hautes-Pyrénées/communes~Hautes-Pyrénées/Argelès-Gazost/cities~Argelès-Gazost/Lugo.personal.md) 
+
+### [Lugo.secret](/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Hautes-Pyrénées/communes~Hautes-Pyrénées/Argelès-Gazost/cities~Argelès-Gazost/Lugo.secret.md)
 

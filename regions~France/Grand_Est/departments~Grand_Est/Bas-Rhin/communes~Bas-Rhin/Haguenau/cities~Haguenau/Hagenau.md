@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Hagenau.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Grand_Est\departments~Grand_Est\Bas-Rhin\communes~Bas-Rhin\Haguenau\cities~HaguenauHagenau.public.md) 
+### [Hagenau](/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Grand_Est/departments~Grand_Est/Bas-Rhin/communes~Bas-Rhin/Haguenau/cities~Haguenau/Hagenau.md) 
 
-### [Hagenau.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Grand_Est\departments~Grand_Est\Bas-Rhin\communes~Bas-Rhin\Haguenau\cities~HaguenauHagenau.internal.md) 
+### [Hagenau.public](/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Grand_Est/departments~Grand_Est/Bas-Rhin/communes~Bas-Rhin/Haguenau/cities~Haguenau/Hagenau.public.md) 
 
-### [Hagenau.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Grand_Est\departments~Grand_Est\Bas-Rhin\communes~Bas-Rhin\Haguenau\cities~HaguenauHagenau.protect.md) 
+### [Hagenau.internal](/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Grand_Est/departments~Grand_Est/Bas-Rhin/communes~Bas-Rhin/Haguenau/cities~Haguenau/Hagenau.internal.md) 
 
-### [Hagenau.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Grand_Est\departments~Grand_Est\Bas-Rhin\communes~Bas-Rhin\Haguenau\cities~HaguenauHagenau.private.md) 
+### [Hagenau.protect](/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Grand_Est/departments~Grand_Est/Bas-Rhin/communes~Bas-Rhin/Haguenau/cities~Haguenau/Hagenau.protect.md) 
 
-### [Hagenau.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Grand_Est\departments~Grand_Est\Bas-Rhin\communes~Bas-Rhin\Haguenau\cities~HaguenauHagenau.personal.md) 
+### [Hagenau.private](/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Grand_Est/departments~Grand_Est/Bas-Rhin/communes~Bas-Rhin/Haguenau/cities~Haguenau/Hagenau.private.md) 
 
-### [Hagenau.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Grand_Est\departments~Grand_Est\Bas-Rhin\communes~Bas-Rhin\Haguenau\cities~HaguenauHagenau.secret.md)
+### [Hagenau.personal](/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Grand_Est/departments~Grand_Est/Bas-Rhin/communes~Bas-Rhin/Haguenau/cities~Haguenau/Hagenau.personal.md) 
+
+### [Hagenau.secret](/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Grand_Est/departments~Grand_Est/Bas-Rhin/communes~Bas-Rhin/Haguenau/cities~Haguenau/Hagenau.secret.md)
 

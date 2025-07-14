@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Caen.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Normandie\departments~Normandie\Calvados\communes~Calvados\Caen\cities~CaenCaen.public.md) 
+### [Caen](/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Normandie/departments~Normandie/Calvados/communes~Calvados/Caen/cities~Caen/Caen.md) 
 
-### [Caen.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Normandie\departments~Normandie\Calvados\communes~Calvados\Caen\cities~CaenCaen.internal.md) 
+### [Caen.public](/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Normandie/departments~Normandie/Calvados/communes~Calvados/Caen/cities~Caen/Caen.public.md) 
 
-### [Caen.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Normandie\departments~Normandie\Calvados\communes~Calvados\Caen\cities~CaenCaen.protect.md) 
+### [Caen.internal](/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Normandie/departments~Normandie/Calvados/communes~Calvados/Caen/cities~Caen/Caen.internal.md) 
 
-### [Caen.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Normandie\departments~Normandie\Calvados\communes~Calvados\Caen\cities~CaenCaen.private.md) 
+### [Caen.protect](/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Normandie/departments~Normandie/Calvados/communes~Calvados/Caen/cities~Caen/Caen.protect.md) 
 
-### [Caen.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Normandie\departments~Normandie\Calvados\communes~Calvados\Caen\cities~CaenCaen.personal.md) 
+### [Caen.private](/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Normandie/departments~Normandie/Calvados/communes~Calvados/Caen/cities~Caen/Caen.private.md) 
 
-### [Caen.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Normandie\departments~Normandie\Calvados\communes~Calvados\Caen\cities~CaenCaen.secret.md)
+### [Caen.personal](/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Normandie/departments~Normandie/Calvados/communes~Calvados/Caen/cities~Caen/Caen.personal.md) 
+
+### [Caen.secret](/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Normandie/departments~Normandie/Calvados/communes~Calvados/Caen/cities~Caen/Caen.secret.md)
 

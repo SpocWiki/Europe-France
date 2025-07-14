@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [St.Valery~Picardie.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Hauts-de-France\departments~Hauts-de-France\Somme\communes~Somme\Abbeville\cities~AbbevilleSt.Valery~Picardie.public.md) 
+### [St.Valery~Picardie](/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Hauts-de-France/departments~Hauts-de-France/Somme/communes~Somme/Abbeville/cities~Abbeville/St.Valery~Picardie.md) 
 
-### [St.Valery~Picardie.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Hauts-de-France\departments~Hauts-de-France\Somme\communes~Somme\Abbeville\cities~AbbevilleSt.Valery~Picardie.internal.md) 
+### [St.Valery~Picardie.public](/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Hauts-de-France/departments~Hauts-de-France/Somme/communes~Somme/Abbeville/cities~Abbeville/St.Valery~Picardie.public.md) 
 
-### [St.Valery~Picardie.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Hauts-de-France\departments~Hauts-de-France\Somme\communes~Somme\Abbeville\cities~AbbevilleSt.Valery~Picardie.protect.md) 
+### [St.Valery~Picardie.internal](/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Hauts-de-France/departments~Hauts-de-France/Somme/communes~Somme/Abbeville/cities~Abbeville/St.Valery~Picardie.internal.md) 
 
-### [St.Valery~Picardie.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Hauts-de-France\departments~Hauts-de-France\Somme\communes~Somme\Abbeville\cities~AbbevilleSt.Valery~Picardie.private.md) 
+### [St.Valery~Picardie.protect](/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Hauts-de-France/departments~Hauts-de-France/Somme/communes~Somme/Abbeville/cities~Abbeville/St.Valery~Picardie.protect.md) 
 
-### [St.Valery~Picardie.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Hauts-de-France\departments~Hauts-de-France\Somme\communes~Somme\Abbeville\cities~AbbevilleSt.Valery~Picardie.personal.md) 
+### [St.Valery~Picardie.private](/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Hauts-de-France/departments~Hauts-de-France/Somme/communes~Somme/Abbeville/cities~Abbeville/St.Valery~Picardie.private.md) 
 
-### [St.Valery~Picardie.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Hauts-de-France\departments~Hauts-de-France\Somme\communes~Somme\Abbeville\cities~AbbevilleSt.Valery~Picardie.secret.md)
+### [St.Valery~Picardie.personal](/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Hauts-de-France/departments~Hauts-de-France/Somme/communes~Somme/Abbeville/cities~Abbeville/St.Valery~Picardie.personal.md) 
+
+### [St.Valery~Picardie.secret](/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Hauts-de-France/departments~Hauts-de-France/Somme/communes~Somme/Abbeville/cities~Abbeville/St.Valery~Picardie.secret.md)
 

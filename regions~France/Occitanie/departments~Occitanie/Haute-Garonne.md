@@ -41,15 +41,17 @@ markerFolder: ./Département~Haute-Garonne/
 
 ## Confidential Links & Embeds: 
 
-### [Haute-Garonne.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~OccitanieHaute-Garonne.public.md) 
+### [Haute-Garonne](/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Haute-Garonne.md) 
 
-### [Haute-Garonne.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~OccitanieHaute-Garonne.internal.md) 
+### [Haute-Garonne.public](/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Haute-Garonne.public.md) 
 
-### [Haute-Garonne.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~OccitanieHaute-Garonne.protect.md) 
+### [Haute-Garonne.internal](/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Haute-Garonne.internal.md) 
 
-### [Haute-Garonne.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~OccitanieHaute-Garonne.private.md) 
+### [Haute-Garonne.protect](/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Haute-Garonne.protect.md) 
 
-### [Haute-Garonne.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~OccitanieHaute-Garonne.personal.md) 
+### [Haute-Garonne.private](/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Haute-Garonne.private.md) 
 
-### [Haute-Garonne.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~OccitanieHaute-Garonne.secret.md)
+### [Haute-Garonne.personal](/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Haute-Garonne.personal.md) 
+
+### [Haute-Garonne.secret](/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Haute-Garonne.secret.md)
 

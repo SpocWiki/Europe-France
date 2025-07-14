@@ -41,15 +41,17 @@ markerFolder: ./Département~Haute-Savoie/
 
 ## Confidential Links & Embeds: 
 
-### [Haute-Savoie.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Auvergne-Rhône-Alpes\departments~Auvergne-Rhône-AlpesHaute-Savoie.public.md) 
+### [Haute-Savoie](/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Auvergne-Rhône-Alpes/departments~Auvergne-Rhône-Alpes/Haute-Savoie.md) 
 
-### [Haute-Savoie.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Auvergne-Rhône-Alpes\departments~Auvergne-Rhône-AlpesHaute-Savoie.internal.md) 
+### [Haute-Savoie.public](/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Auvergne-Rhône-Alpes/departments~Auvergne-Rhône-Alpes/Haute-Savoie.public.md) 
 
-### [Haute-Savoie.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Auvergne-Rhône-Alpes\departments~Auvergne-Rhône-AlpesHaute-Savoie.protect.md) 
+### [Haute-Savoie.internal](/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Auvergne-Rhône-Alpes/departments~Auvergne-Rhône-Alpes/Haute-Savoie.internal.md) 
 
-### [Haute-Savoie.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Auvergne-Rhône-Alpes\departments~Auvergne-Rhône-AlpesHaute-Savoie.private.md) 
+### [Haute-Savoie.protect](/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Auvergne-Rhône-Alpes/departments~Auvergne-Rhône-Alpes/Haute-Savoie.protect.md) 
 
-### [Haute-Savoie.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Auvergne-Rhône-Alpes\departments~Auvergne-Rhône-AlpesHaute-Savoie.personal.md) 
+### [Haute-Savoie.private](/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Auvergne-Rhône-Alpes/departments~Auvergne-Rhône-Alpes/Haute-Savoie.private.md) 
 
-### [Haute-Savoie.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Auvergne-Rhône-Alpes\departments~Auvergne-Rhône-AlpesHaute-Savoie.secret.md)
+### [Haute-Savoie.personal](/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Auvergne-Rhône-Alpes/departments~Auvergne-Rhône-Alpes/Haute-Savoie.personal.md) 
+
+### [Haute-Savoie.secret](/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Auvergne-Rhône-Alpes/departments~Auvergne-Rhône-Alpes/Haute-Savoie.secret.md)
 

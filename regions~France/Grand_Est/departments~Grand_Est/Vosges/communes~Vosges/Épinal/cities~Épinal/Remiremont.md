@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Remiremont.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Grand_Est\departments~Grand_Est\Vosges\communes~Vosges\Épinal\cities~ÉpinalRemiremont.public.md) 
+### [Remiremont](/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Grand_Est/departments~Grand_Est/Vosges/communes~Vosges/Épinal/cities~Épinal/Remiremont.md) 
 
-### [Remiremont.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Grand_Est\departments~Grand_Est\Vosges\communes~Vosges\Épinal\cities~ÉpinalRemiremont.internal.md) 
+### [Remiremont.public](/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Grand_Est/departments~Grand_Est/Vosges/communes~Vosges/Épinal/cities~Épinal/Remiremont.public.md) 
 
-### [Remiremont.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Grand_Est\departments~Grand_Est\Vosges\communes~Vosges\Épinal\cities~ÉpinalRemiremont.protect.md) 
+### [Remiremont.internal](/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Grand_Est/departments~Grand_Est/Vosges/communes~Vosges/Épinal/cities~Épinal/Remiremont.internal.md) 
 
-### [Remiremont.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Grand_Est\departments~Grand_Est\Vosges\communes~Vosges\Épinal\cities~ÉpinalRemiremont.private.md) 
+### [Remiremont.protect](/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Grand_Est/departments~Grand_Est/Vosges/communes~Vosges/Épinal/cities~Épinal/Remiremont.protect.md) 
 
-### [Remiremont.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Grand_Est\departments~Grand_Est\Vosges\communes~Vosges\Épinal\cities~ÉpinalRemiremont.personal.md) 
+### [Remiremont.private](/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Grand_Est/departments~Grand_Est/Vosges/communes~Vosges/Épinal/cities~Épinal/Remiremont.private.md) 
 
-### [Remiremont.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Grand_Est\departments~Grand_Est\Vosges\communes~Vosges\Épinal\cities~ÉpinalRemiremont.secret.md)
+### [Remiremont.personal](/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Grand_Est/departments~Grand_Est/Vosges/communes~Vosges/Épinal/cities~Épinal/Remiremont.personal.md) 
+
+### [Remiremont.secret](/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Grand_Est/departments~Grand_Est/Vosges/communes~Vosges/Épinal/cities~Épinal/Remiremont.secret.md)
 

@@ -41,15 +41,17 @@ markerFolder: ./Département~Côte-d'Or/
 
 ## Confidential Links & Embeds: 
 
-### [Côte-d'Or.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Bourgogne-Franche-Comté\departments~Bourgogne-Franche-ComtéCôte-d'Or.public.md) 
+### [Côte-d'Or](/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Bourgogne-Franche-Comté/departments~Bourgogne-Franche-Comté/Côte-d'Or.md) 
 
-### [Côte-d'Or.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Bourgogne-Franche-Comté\departments~Bourgogne-Franche-ComtéCôte-d'Or.internal.md) 
+### [Côte-d'Or.public](/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Bourgogne-Franche-Comté/departments~Bourgogne-Franche-Comté/Côte-d'Or.public.md) 
 
-### [Côte-d'Or.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Bourgogne-Franche-Comté\departments~Bourgogne-Franche-ComtéCôte-d'Or.protect.md) 
+### [Côte-d'Or.internal](/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Bourgogne-Franche-Comté/departments~Bourgogne-Franche-Comté/Côte-d'Or.internal.md) 
 
-### [Côte-d'Or.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Bourgogne-Franche-Comté\departments~Bourgogne-Franche-ComtéCôte-d'Or.private.md) 
+### [Côte-d'Or.protect](/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Bourgogne-Franche-Comté/departments~Bourgogne-Franche-Comté/Côte-d'Or.protect.md) 
 
-### [Côte-d'Or.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Bourgogne-Franche-Comté\departments~Bourgogne-Franche-ComtéCôte-d'Or.personal.md) 
+### [Côte-d'Or.private](/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Bourgogne-Franche-Comté/departments~Bourgogne-Franche-Comté/Côte-d'Or.private.md) 
 
-### [Côte-d'Or.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Bourgogne-Franche-Comté\departments~Bourgogne-Franche-ComtéCôte-d'Or.secret.md)
+### [Côte-d'Or.personal](/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Bourgogne-Franche-Comté/departments~Bourgogne-Franche-Comté/Côte-d'Or.personal.md) 
+
+### [Côte-d'Or.secret](/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Bourgogne-Franche-Comté/departments~Bourgogne-Franche-Comté/Côte-d'Or.secret.md)
 

@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Lavaur.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~Occitanie\Tarn\communes~Tarn\Castres\cities~CastresLavaur.public.md) 
+### [Lavaur](/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Tarn/communes~Tarn/Castres/cities~Castres/Lavaur.md) 
 
-### [Lavaur.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~Occitanie\Tarn\communes~Tarn\Castres\cities~CastresLavaur.internal.md) 
+### [Lavaur.public](/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Tarn/communes~Tarn/Castres/cities~Castres/Lavaur.public.md) 
 
-### [Lavaur.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~Occitanie\Tarn\communes~Tarn\Castres\cities~CastresLavaur.protect.md) 
+### [Lavaur.internal](/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Tarn/communes~Tarn/Castres/cities~Castres/Lavaur.internal.md) 
 
-### [Lavaur.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~Occitanie\Tarn\communes~Tarn\Castres\cities~CastresLavaur.private.md) 
+### [Lavaur.protect](/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Tarn/communes~Tarn/Castres/cities~Castres/Lavaur.protect.md) 
 
-### [Lavaur.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~Occitanie\Tarn\communes~Tarn\Castres\cities~CastresLavaur.personal.md) 
+### [Lavaur.private](/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Tarn/communes~Tarn/Castres/cities~Castres/Lavaur.private.md) 
 
-### [Lavaur.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~Occitanie\Tarn\communes~Tarn\Castres\cities~CastresLavaur.secret.md)
+### [Lavaur.personal](/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Tarn/communes~Tarn/Castres/cities~Castres/Lavaur.personal.md) 
+
+### [Lavaur.secret](/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Tarn/communes~Tarn/Castres/cities~Castres/Lavaur.secret.md)
 

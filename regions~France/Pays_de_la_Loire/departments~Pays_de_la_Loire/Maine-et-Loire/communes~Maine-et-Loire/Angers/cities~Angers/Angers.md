@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Angers.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Pays_de_la_Loire\departments~Pays_de_la_Loire\Maine-et-Loire\communes~Maine-et-Loire\Angers\cities~AngersAngers.public.md) 
+### [Angers](/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Pays_de_la_Loire/departments~Pays_de_la_Loire/Maine-et-Loire/communes~Maine-et-Loire/Angers/cities~Angers/Angers.md) 
 
-### [Angers.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Pays_de_la_Loire\departments~Pays_de_la_Loire\Maine-et-Loire\communes~Maine-et-Loire\Angers\cities~AngersAngers.internal.md) 
+### [Angers.public](/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Pays_de_la_Loire/departments~Pays_de_la_Loire/Maine-et-Loire/communes~Maine-et-Loire/Angers/cities~Angers/Angers.public.md) 
 
-### [Angers.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Pays_de_la_Loire\departments~Pays_de_la_Loire\Maine-et-Loire\communes~Maine-et-Loire\Angers\cities~AngersAngers.protect.md) 
+### [Angers.internal](/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Pays_de_la_Loire/departments~Pays_de_la_Loire/Maine-et-Loire/communes~Maine-et-Loire/Angers/cities~Angers/Angers.internal.md) 
 
-### [Angers.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Pays_de_la_Loire\departments~Pays_de_la_Loire\Maine-et-Loire\communes~Maine-et-Loire\Angers\cities~AngersAngers.private.md) 
+### [Angers.protect](/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Pays_de_la_Loire/departments~Pays_de_la_Loire/Maine-et-Loire/communes~Maine-et-Loire/Angers/cities~Angers/Angers.protect.md) 
 
-### [Angers.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Pays_de_la_Loire\departments~Pays_de_la_Loire\Maine-et-Loire\communes~Maine-et-Loire\Angers\cities~AngersAngers.personal.md) 
+### [Angers.private](/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Pays_de_la_Loire/departments~Pays_de_la_Loire/Maine-et-Loire/communes~Maine-et-Loire/Angers/cities~Angers/Angers.private.md) 
 
-### [Angers.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Pays_de_la_Loire\departments~Pays_de_la_Loire\Maine-et-Loire\communes~Maine-et-Loire\Angers\cities~AngersAngers.secret.md)
+### [Angers.personal](/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Pays_de_la_Loire/departments~Pays_de_la_Loire/Maine-et-Loire/communes~Maine-et-Loire/Angers/cities~Angers/Angers.personal.md) 
+
+### [Angers.secret](/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Pays_de_la_Loire/departments~Pays_de_la_Loire/Maine-et-Loire/communes~Maine-et-Loire/Angers/cities~Angers/Angers.secret.md)
 

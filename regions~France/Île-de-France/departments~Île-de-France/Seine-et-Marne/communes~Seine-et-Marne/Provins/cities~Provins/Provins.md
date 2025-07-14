@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Provins.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Île-de-France\departments~Île-de-France\Seine-et-Marne\communes~Seine-et-Marne\Provins\cities~ProvinsProvins.public.md) 
+### [Provins](/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Île-de-France/departments~Île-de-France/Seine-et-Marne/communes~Seine-et-Marne/Provins/cities~Provins/Provins.md) 
 
-### [Provins.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Île-de-France\departments~Île-de-France\Seine-et-Marne\communes~Seine-et-Marne\Provins\cities~ProvinsProvins.internal.md) 
+### [Provins.public](/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Île-de-France/departments~Île-de-France/Seine-et-Marne/communes~Seine-et-Marne/Provins/cities~Provins/Provins.public.md) 
 
-### [Provins.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Île-de-France\departments~Île-de-France\Seine-et-Marne\communes~Seine-et-Marne\Provins\cities~ProvinsProvins.protect.md) 
+### [Provins.internal](/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Île-de-France/departments~Île-de-France/Seine-et-Marne/communes~Seine-et-Marne/Provins/cities~Provins/Provins.internal.md) 
 
-### [Provins.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Île-de-France\departments~Île-de-France\Seine-et-Marne\communes~Seine-et-Marne\Provins\cities~ProvinsProvins.private.md) 
+### [Provins.protect](/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Île-de-France/departments~Île-de-France/Seine-et-Marne/communes~Seine-et-Marne/Provins/cities~Provins/Provins.protect.md) 
 
-### [Provins.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Île-de-France\departments~Île-de-France\Seine-et-Marne\communes~Seine-et-Marne\Provins\cities~ProvinsProvins.personal.md) 
+### [Provins.private](/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Île-de-France/departments~Île-de-France/Seine-et-Marne/communes~Seine-et-Marne/Provins/cities~Provins/Provins.private.md) 
 
-### [Provins.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Île-de-France\departments~Île-de-France\Seine-et-Marne\communes~Seine-et-Marne\Provins\cities~ProvinsProvins.secret.md)
+### [Provins.personal](/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Île-de-France/departments~Île-de-France/Seine-et-Marne/communes~Seine-et-Marne/Provins/cities~Provins/Provins.personal.md) 
+
+### [Provins.secret](/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Île-de-France/departments~Île-de-France/Seine-et-Marne/communes~Seine-et-Marne/Provins/cities~Provins/Provins.secret.md)
 

@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Carcasonne.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~Occitanie\Aude\communes~Aude\Carcassonne\cities~CarcassonneCarcasonne.public.md) 
+### [Carcasonne](/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Aude/communes~Aude/Carcassonne/cities~Carcassonne/Carcasonne.md) 
 
-### [Carcasonne.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~Occitanie\Aude\communes~Aude\Carcassonne\cities~CarcassonneCarcasonne.internal.md) 
+### [Carcasonne.public](/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Aude/communes~Aude/Carcassonne/cities~Carcassonne/Carcasonne.public.md) 
 
-### [Carcasonne.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~Occitanie\Aude\communes~Aude\Carcassonne\cities~CarcassonneCarcasonne.protect.md) 
+### [Carcasonne.internal](/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Aude/communes~Aude/Carcassonne/cities~Carcassonne/Carcasonne.internal.md) 
 
-### [Carcasonne.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~Occitanie\Aude\communes~Aude\Carcassonne\cities~CarcassonneCarcasonne.private.md) 
+### [Carcasonne.protect](/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Aude/communes~Aude/Carcassonne/cities~Carcassonne/Carcasonne.protect.md) 
 
-### [Carcasonne.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~Occitanie\Aude\communes~Aude\Carcassonne\cities~CarcassonneCarcasonne.personal.md) 
+### [Carcasonne.private](/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Aude/communes~Aude/Carcassonne/cities~Carcassonne/Carcasonne.private.md) 
 
-### [Carcasonne.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~Occitanie\Aude\communes~Aude\Carcassonne\cities~CarcassonneCarcasonne.secret.md)
+### [Carcasonne.personal](/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Aude/communes~Aude/Carcassonne/cities~Carcassonne/Carcasonne.personal.md) 
+
+### [Carcasonne.secret](/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Aude/communes~Aude/Carcassonne/cities~Carcassonne/Carcasonne.secret.md)
 

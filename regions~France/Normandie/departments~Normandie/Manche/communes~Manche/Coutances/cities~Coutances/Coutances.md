@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Coutances.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Normandie\departments~Normandie\Manche\communes~Manche\Coutances\cities~CoutancesCoutances.public.md) 
+### [Coutances](/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Normandie/departments~Normandie/Manche/communes~Manche/Coutances/cities~Coutances/Coutances.md) 
 
-### [Coutances.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Normandie\departments~Normandie\Manche\communes~Manche\Coutances\cities~CoutancesCoutances.internal.md) 
+### [Coutances.public](/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Normandie/departments~Normandie/Manche/communes~Manche/Coutances/cities~Coutances/Coutances.public.md) 
 
-### [Coutances.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Normandie\departments~Normandie\Manche\communes~Manche\Coutances\cities~CoutancesCoutances.protect.md) 
+### [Coutances.internal](/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Normandie/departments~Normandie/Manche/communes~Manche/Coutances/cities~Coutances/Coutances.internal.md) 
 
-### [Coutances.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Normandie\departments~Normandie\Manche\communes~Manche\Coutances\cities~CoutancesCoutances.private.md) 
+### [Coutances.protect](/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Normandie/departments~Normandie/Manche/communes~Manche/Coutances/cities~Coutances/Coutances.protect.md) 
 
-### [Coutances.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Normandie\departments~Normandie\Manche\communes~Manche\Coutances\cities~CoutancesCoutances.personal.md) 
+### [Coutances.private](/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Normandie/departments~Normandie/Manche/communes~Manche/Coutances/cities~Coutances/Coutances.private.md) 
 
-### [Coutances.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Normandie\departments~Normandie\Manche\communes~Manche\Coutances\cities~CoutancesCoutances.secret.md)
+### [Coutances.personal](/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Normandie/departments~Normandie/Manche/communes~Manche/Coutances/cities~Coutances/Coutances.personal.md) 
+
+### [Coutances.secret](/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Normandie/departments~Normandie/Manche/communes~Manche/Coutances/cities~Coutances/Coutances.secret.md)
 

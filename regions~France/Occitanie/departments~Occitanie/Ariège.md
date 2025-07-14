@@ -41,15 +41,17 @@ markerFolder: ./Département~Ariège/
 
 ## Confidential Links & Embeds: 
 
-### [Ariège.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~OccitanieAriège.public.md) 
+### [Ariège](/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Ariège.md) 
 
-### [Ariège.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~OccitanieAriège.internal.md) 
+### [Ariège.public](/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Ariège.public.md) 
 
-### [Ariège.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~OccitanieAriège.protect.md) 
+### [Ariège.internal](/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Ariège.internal.md) 
 
-### [Ariège.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~OccitanieAriège.private.md) 
+### [Ariège.protect](/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Ariège.protect.md) 
 
-### [Ariège.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~OccitanieAriège.personal.md) 
+### [Ariège.private](/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Ariège.private.md) 
 
-### [Ariège.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~OccitanieAriège.secret.md)
+### [Ariège.personal](/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Ariège.personal.md) 
+
+### [Ariège.secret](/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Ariège.secret.md)
 

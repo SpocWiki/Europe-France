@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Compiégne.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Hauts-de-France\departments~Hauts-de-France\Oise\communes~Oise\Compiègne\cities~CompiègneCompiégne.public.md) 
+### [Compiégne](/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Hauts-de-France/departments~Hauts-de-France/Oise/communes~Oise/Compiègne/cities~Compiègne/Compiégne.md) 
 
-### [Compiégne.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Hauts-de-France\departments~Hauts-de-France\Oise\communes~Oise\Compiègne\cities~CompiègneCompiégne.internal.md) 
+### [Compiégne.public](/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Hauts-de-France/departments~Hauts-de-France/Oise/communes~Oise/Compiègne/cities~Compiègne/Compiégne.public.md) 
 
-### [Compiégne.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Hauts-de-France\departments~Hauts-de-France\Oise\communes~Oise\Compiègne\cities~CompiègneCompiégne.protect.md) 
+### [Compiégne.internal](/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Hauts-de-France/departments~Hauts-de-France/Oise/communes~Oise/Compiègne/cities~Compiègne/Compiégne.internal.md) 
 
-### [Compiégne.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Hauts-de-France\departments~Hauts-de-France\Oise\communes~Oise\Compiègne\cities~CompiègneCompiégne.private.md) 
+### [Compiégne.protect](/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Hauts-de-France/departments~Hauts-de-France/Oise/communes~Oise/Compiègne/cities~Compiègne/Compiégne.protect.md) 
 
-### [Compiégne.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Hauts-de-France\departments~Hauts-de-France\Oise\communes~Oise\Compiègne\cities~CompiègneCompiégne.personal.md) 
+### [Compiégne.private](/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Hauts-de-France/departments~Hauts-de-France/Oise/communes~Oise/Compiègne/cities~Compiègne/Compiégne.private.md) 
 
-### [Compiégne.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Hauts-de-France\departments~Hauts-de-France\Oise\communes~Oise\Compiègne\cities~CompiègneCompiégne.secret.md)
+### [Compiégne.personal](/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Hauts-de-France/departments~Hauts-de-France/Oise/communes~Oise/Compiègne/cities~Compiègne/Compiégne.personal.md) 
+
+### [Compiégne.secret](/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Hauts-de-France/departments~Hauts-de-France/Oise/communes~Oise/Compiègne/cities~Compiègne/Compiégne.secret.md)
 

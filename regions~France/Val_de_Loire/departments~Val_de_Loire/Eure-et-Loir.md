@@ -41,15 +41,17 @@ markerFolder: ./Département~Eure-et-Loir/
 
 ## Confidential Links & Embeds: 
 
-### [Eure-et-Loir.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Val_de_Loire\departments~Val_de_LoireEure-et-Loir.public.md) 
+### [Eure-et-Loir](/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Val_de_Loire/departments~Val_de_Loire/Eure-et-Loir.md) 
 
-### [Eure-et-Loir.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Val_de_Loire\departments~Val_de_LoireEure-et-Loir.internal.md) 
+### [Eure-et-Loir.public](/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Val_de_Loire/departments~Val_de_Loire/Eure-et-Loir.public.md) 
 
-### [Eure-et-Loir.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Val_de_Loire\departments~Val_de_LoireEure-et-Loir.protect.md) 
+### [Eure-et-Loir.internal](/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Val_de_Loire/departments~Val_de_Loire/Eure-et-Loir.internal.md) 
 
-### [Eure-et-Loir.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Val_de_Loire\departments~Val_de_LoireEure-et-Loir.private.md) 
+### [Eure-et-Loir.protect](/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Val_de_Loire/departments~Val_de_Loire/Eure-et-Loir.protect.md) 
 
-### [Eure-et-Loir.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Val_de_Loire\departments~Val_de_LoireEure-et-Loir.personal.md) 
+### [Eure-et-Loir.private](/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Val_de_Loire/departments~Val_de_Loire/Eure-et-Loir.private.md) 
 
-### [Eure-et-Loir.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Val_de_Loire\departments~Val_de_LoireEure-et-Loir.secret.md)
+### [Eure-et-Loir.personal](/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Val_de_Loire/departments~Val_de_Loire/Eure-et-Loir.personal.md) 
+
+### [Eure-et-Loir.secret](/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Val_de_Loire/departments~Val_de_Loire/Eure-et-Loir.secret.md)
 

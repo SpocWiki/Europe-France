@@ -41,15 +41,17 @@ markerFolder: ./Vienne/
 
 ## Confidential Links & Embeds: 
 
-### [Vienne.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~Aquitaine\Deux-SèvresVienne.public.md) 
+### [Vienne](/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Nouvelle-Aquitaine/departments~Aquitaine/Deux-Sèvres/Vienne.md) 
 
-### [Vienne.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~Aquitaine\Deux-SèvresVienne.internal.md) 
+### [Vienne.public](/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Nouvelle-Aquitaine/departments~Aquitaine/Deux-Sèvres/Vienne.public.md) 
 
-### [Vienne.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~Aquitaine\Deux-SèvresVienne.protect.md) 
+### [Vienne.internal](/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Nouvelle-Aquitaine/departments~Aquitaine/Deux-Sèvres/Vienne.internal.md) 
 
-### [Vienne.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~Aquitaine\Deux-SèvresVienne.private.md) 
+### [Vienne.protect](/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Nouvelle-Aquitaine/departments~Aquitaine/Deux-Sèvres/Vienne.protect.md) 
 
-### [Vienne.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~Aquitaine\Deux-SèvresVienne.personal.md) 
+### [Vienne.private](/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Nouvelle-Aquitaine/departments~Aquitaine/Deux-Sèvres/Vienne.private.md) 
 
-### [Vienne.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~Aquitaine\Deux-SèvresVienne.secret.md)
+### [Vienne.personal](/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Nouvelle-Aquitaine/departments~Aquitaine/Deux-Sèvres/Vienne.personal.md) 
+
+### [Vienne.secret](/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Nouvelle-Aquitaine/departments~Aquitaine/Deux-Sèvres/Vienne.secret.md)
 

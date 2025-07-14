@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Neuilly_Sur_Seine.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Île-de-France\departments~Île-de-France\Hauts-de-Seine\communes~Hauts-de-Seine\Nanterre\cities~NanterreNeuilly_Sur_Seine.public.md) 
+### [Neuilly_Sur_Seine](/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Île-de-France/departments~Île-de-France/Hauts-de-Seine/communes~Hauts-de-Seine/Nanterre/cities~Nanterre/Neuilly_Sur_Seine.md) 
 
-### [Neuilly_Sur_Seine.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Île-de-France\departments~Île-de-France\Hauts-de-Seine\communes~Hauts-de-Seine\Nanterre\cities~NanterreNeuilly_Sur_Seine.internal.md) 
+### [Neuilly_Sur_Seine.public](/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Île-de-France/departments~Île-de-France/Hauts-de-Seine/communes~Hauts-de-Seine/Nanterre/cities~Nanterre/Neuilly_Sur_Seine.public.md) 
 
-### [Neuilly_Sur_Seine.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Île-de-France\departments~Île-de-France\Hauts-de-Seine\communes~Hauts-de-Seine\Nanterre\cities~NanterreNeuilly_Sur_Seine.protect.md) 
+### [Neuilly_Sur_Seine.internal](/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Île-de-France/departments~Île-de-France/Hauts-de-Seine/communes~Hauts-de-Seine/Nanterre/cities~Nanterre/Neuilly_Sur_Seine.internal.md) 
 
-### [Neuilly_Sur_Seine.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Île-de-France\departments~Île-de-France\Hauts-de-Seine\communes~Hauts-de-Seine\Nanterre\cities~NanterreNeuilly_Sur_Seine.private.md) 
+### [Neuilly_Sur_Seine.protect](/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Île-de-France/departments~Île-de-France/Hauts-de-Seine/communes~Hauts-de-Seine/Nanterre/cities~Nanterre/Neuilly_Sur_Seine.protect.md) 
 
-### [Neuilly_Sur_Seine.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Île-de-France\departments~Île-de-France\Hauts-de-Seine\communes~Hauts-de-Seine\Nanterre\cities~NanterreNeuilly_Sur_Seine.personal.md) 
+### [Neuilly_Sur_Seine.private](/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Île-de-France/departments~Île-de-France/Hauts-de-Seine/communes~Hauts-de-Seine/Nanterre/cities~Nanterre/Neuilly_Sur_Seine.private.md) 
 
-### [Neuilly_Sur_Seine.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Île-de-France\departments~Île-de-France\Hauts-de-Seine\communes~Hauts-de-Seine\Nanterre\cities~NanterreNeuilly_Sur_Seine.secret.md)
+### [Neuilly_Sur_Seine.personal](/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Île-de-France/departments~Île-de-France/Hauts-de-Seine/communes~Hauts-de-Seine/Nanterre/cities~Nanterre/Neuilly_Sur_Seine.personal.md) 
+
+### [Neuilly_Sur_Seine.secret](/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Île-de-France/departments~Île-de-France/Hauts-de-Seine/communes~Hauts-de-Seine/Nanterre/cities~Nanterre/Neuilly_Sur_Seine.secret.md)
 

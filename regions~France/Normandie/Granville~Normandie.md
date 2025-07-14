@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Granville~Normandie.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\NormandieGranville~Normandie.public.md) 
+### [Granville~Normandie](/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Normandie/Granville~Normandie.md) 
 
-### [Granville~Normandie.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\NormandieGranville~Normandie.internal.md) 
+### [Granville~Normandie.public](/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Normandie/Granville~Normandie.public.md) 
 
-### [Granville~Normandie.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\NormandieGranville~Normandie.protect.md) 
+### [Granville~Normandie.internal](/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Normandie/Granville~Normandie.internal.md) 
 
-### [Granville~Normandie.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\NormandieGranville~Normandie.private.md) 
+### [Granville~Normandie.protect](/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Normandie/Granville~Normandie.protect.md) 
 
-### [Granville~Normandie.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\NormandieGranville~Normandie.personal.md) 
+### [Granville~Normandie.private](/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Normandie/Granville~Normandie.private.md) 
 
-### [Granville~Normandie.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\NormandieGranville~Normandie.secret.md)
+### [Granville~Normandie.personal](/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Normandie/Granville~Normandie.personal.md) 
+
+### [Granville~Normandie.secret](/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Normandie/Granville~Normandie.secret.md)
 

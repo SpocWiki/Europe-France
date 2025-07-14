@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [La_Rochelle.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~Aquitaine\Deux-Sèvres\communes~Deux-Sèvres\Niort\cities~NiortLa_Rochelle.public.md) 
+### [La_Rochelle](/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Nouvelle-Aquitaine/departments~Aquitaine/Deux-Sèvres/communes~Deux-Sèvres/Niort/cities~Niort/La_Rochelle.md) 
 
-### [La_Rochelle.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~Aquitaine\Deux-Sèvres\communes~Deux-Sèvres\Niort\cities~NiortLa_Rochelle.internal.md) 
+### [La_Rochelle.public](/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Nouvelle-Aquitaine/departments~Aquitaine/Deux-Sèvres/communes~Deux-Sèvres/Niort/cities~Niort/La_Rochelle.public.md) 
 
-### [La_Rochelle.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~Aquitaine\Deux-Sèvres\communes~Deux-Sèvres\Niort\cities~NiortLa_Rochelle.protect.md) 
+### [La_Rochelle.internal](/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Nouvelle-Aquitaine/departments~Aquitaine/Deux-Sèvres/communes~Deux-Sèvres/Niort/cities~Niort/La_Rochelle.internal.md) 
 
-### [La_Rochelle.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~Aquitaine\Deux-Sèvres\communes~Deux-Sèvres\Niort\cities~NiortLa_Rochelle.private.md) 
+### [La_Rochelle.protect](/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Nouvelle-Aquitaine/departments~Aquitaine/Deux-Sèvres/communes~Deux-Sèvres/Niort/cities~Niort/La_Rochelle.protect.md) 
 
-### [La_Rochelle.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~Aquitaine\Deux-Sèvres\communes~Deux-Sèvres\Niort\cities~NiortLa_Rochelle.personal.md) 
+### [La_Rochelle.private](/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Nouvelle-Aquitaine/departments~Aquitaine/Deux-Sèvres/communes~Deux-Sèvres/Niort/cities~Niort/La_Rochelle.private.md) 
 
-### [La_Rochelle.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~Aquitaine\Deux-Sèvres\communes~Deux-Sèvres\Niort\cities~NiortLa_Rochelle.secret.md)
+### [La_Rochelle.personal](/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Nouvelle-Aquitaine/departments~Aquitaine/Deux-Sèvres/communes~Deux-Sèvres/Niort/cities~Niort/La_Rochelle.personal.md) 
+
+### [La_Rochelle.secret](/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Nouvelle-Aquitaine/departments~Aquitaine/Deux-Sèvres/communes~Deux-Sèvres/Niort/cities~Niort/La_Rochelle.secret.md)
 

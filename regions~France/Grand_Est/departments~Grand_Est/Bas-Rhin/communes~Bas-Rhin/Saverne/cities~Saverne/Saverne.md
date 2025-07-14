@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Saverne.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Grand_Est\departments~Grand_Est\Bas-Rhin\communes~Bas-Rhin\Saverne\cities~SaverneSaverne.public.md) 
+### [Saverne](/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Grand_Est/departments~Grand_Est/Bas-Rhin/communes~Bas-Rhin/Saverne/cities~Saverne/Saverne.md) 
 
-### [Saverne.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Grand_Est\departments~Grand_Est\Bas-Rhin\communes~Bas-Rhin\Saverne\cities~SaverneSaverne.internal.md) 
+### [Saverne.public](/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Grand_Est/departments~Grand_Est/Bas-Rhin/communes~Bas-Rhin/Saverne/cities~Saverne/Saverne.public.md) 
 
-### [Saverne.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Grand_Est\departments~Grand_Est\Bas-Rhin\communes~Bas-Rhin\Saverne\cities~SaverneSaverne.protect.md) 
+### [Saverne.internal](/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Grand_Est/departments~Grand_Est/Bas-Rhin/communes~Bas-Rhin/Saverne/cities~Saverne/Saverne.internal.md) 
 
-### [Saverne.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Grand_Est\departments~Grand_Est\Bas-Rhin\communes~Bas-Rhin\Saverne\cities~SaverneSaverne.private.md) 
+### [Saverne.protect](/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Grand_Est/departments~Grand_Est/Bas-Rhin/communes~Bas-Rhin/Saverne/cities~Saverne/Saverne.protect.md) 
 
-### [Saverne.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Grand_Est\departments~Grand_Est\Bas-Rhin\communes~Bas-Rhin\Saverne\cities~SaverneSaverne.personal.md) 
+### [Saverne.private](/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Grand_Est/departments~Grand_Est/Bas-Rhin/communes~Bas-Rhin/Saverne/cities~Saverne/Saverne.private.md) 
 
-### [Saverne.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Grand_Est\departments~Grand_Est\Bas-Rhin\communes~Bas-Rhin\Saverne\cities~SaverneSaverne.secret.md)
+### [Saverne.personal](/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Grand_Est/departments~Grand_Est/Bas-Rhin/communes~Bas-Rhin/Saverne/cities~Saverne/Saverne.personal.md) 
+
+### [Saverne.secret](/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Grand_Est/departments~Grand_Est/Bas-Rhin/communes~Bas-Rhin/Saverne/cities~Saverne/Saverne.secret.md)
 

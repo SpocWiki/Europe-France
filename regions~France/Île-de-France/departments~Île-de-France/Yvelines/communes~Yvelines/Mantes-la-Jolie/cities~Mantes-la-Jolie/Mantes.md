@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Mantes.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Île-de-France\departments~Île-de-France\Yvelines\communes~Yvelines\Mantes-la-Jolie\cities~Mantes-la-JolieMantes.public.md) 
+### [Mantes](/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Île-de-France/departments~Île-de-France/Yvelines/communes~Yvelines/Mantes-la-Jolie/cities~Mantes-la-Jolie/Mantes.md) 
 
-### [Mantes.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Île-de-France\departments~Île-de-France\Yvelines\communes~Yvelines\Mantes-la-Jolie\cities~Mantes-la-JolieMantes.internal.md) 
+### [Mantes.public](/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Île-de-France/departments~Île-de-France/Yvelines/communes~Yvelines/Mantes-la-Jolie/cities~Mantes-la-Jolie/Mantes.public.md) 
 
-### [Mantes.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Île-de-France\departments~Île-de-France\Yvelines\communes~Yvelines\Mantes-la-Jolie\cities~Mantes-la-JolieMantes.protect.md) 
+### [Mantes.internal](/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Île-de-France/departments~Île-de-France/Yvelines/communes~Yvelines/Mantes-la-Jolie/cities~Mantes-la-Jolie/Mantes.internal.md) 
 
-### [Mantes.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Île-de-France\departments~Île-de-France\Yvelines\communes~Yvelines\Mantes-la-Jolie\cities~Mantes-la-JolieMantes.private.md) 
+### [Mantes.protect](/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Île-de-France/departments~Île-de-France/Yvelines/communes~Yvelines/Mantes-la-Jolie/cities~Mantes-la-Jolie/Mantes.protect.md) 
 
-### [Mantes.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Île-de-France\departments~Île-de-France\Yvelines\communes~Yvelines\Mantes-la-Jolie\cities~Mantes-la-JolieMantes.personal.md) 
+### [Mantes.private](/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Île-de-France/departments~Île-de-France/Yvelines/communes~Yvelines/Mantes-la-Jolie/cities~Mantes-la-Jolie/Mantes.private.md) 
 
-### [Mantes.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Île-de-France\departments~Île-de-France\Yvelines\communes~Yvelines\Mantes-la-Jolie\cities~Mantes-la-JolieMantes.secret.md)
+### [Mantes.personal](/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Île-de-France/departments~Île-de-France/Yvelines/communes~Yvelines/Mantes-la-Jolie/cities~Mantes-la-Jolie/Mantes.personal.md) 
+
+### [Mantes.secret](/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Île-de-France/departments~Île-de-France/Yvelines/communes~Yvelines/Mantes-la-Jolie/cities~Mantes-la-Jolie/Mantes.secret.md)
 

@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Angoulème.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~Aquitaine\Charente\communes~Charente\Angoulême\cities~AngoulêmeAngoulème.public.md) 
+### [Angoulème](/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Nouvelle-Aquitaine/departments~Aquitaine/Charente/communes~Charente/Angoulême/cities~Angoulême/Angoulème.md) 
 
-### [Angoulème.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~Aquitaine\Charente\communes~Charente\Angoulême\cities~AngoulêmeAngoulème.internal.md) 
+### [Angoulème.public](/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Nouvelle-Aquitaine/departments~Aquitaine/Charente/communes~Charente/Angoulême/cities~Angoulême/Angoulème.public.md) 
 
-### [Angoulème.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~Aquitaine\Charente\communes~Charente\Angoulême\cities~AngoulêmeAngoulème.protect.md) 
+### [Angoulème.internal](/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Nouvelle-Aquitaine/departments~Aquitaine/Charente/communes~Charente/Angoulême/cities~Angoulême/Angoulème.internal.md) 
 
-### [Angoulème.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~Aquitaine\Charente\communes~Charente\Angoulême\cities~AngoulêmeAngoulème.private.md) 
+### [Angoulème.protect](/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Nouvelle-Aquitaine/departments~Aquitaine/Charente/communes~Charente/Angoulême/cities~Angoulême/Angoulème.protect.md) 
 
-### [Angoulème.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~Aquitaine\Charente\communes~Charente\Angoulême\cities~AngoulêmeAngoulème.personal.md) 
+### [Angoulème.private](/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Nouvelle-Aquitaine/departments~Aquitaine/Charente/communes~Charente/Angoulême/cities~Angoulême/Angoulème.private.md) 
 
-### [Angoulème.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~Aquitaine\Charente\communes~Charente\Angoulême\cities~AngoulêmeAngoulème.secret.md)
+### [Angoulème.personal](/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Nouvelle-Aquitaine/departments~Aquitaine/Charente/communes~Charente/Angoulême/cities~Angoulême/Angoulème.personal.md) 
+
+### [Angoulème.secret](/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Nouvelle-Aquitaine/departments~Aquitaine/Charente/communes~Charente/Angoulême/cities~Angoulême/Angoulème.secret.md)
 

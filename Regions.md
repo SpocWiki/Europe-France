@@ -42,18 +42,19 @@ noteOnly: true
 ```
 
 
-
 ## Confidential Links & Embeds: 
 
-### [Regions.public](/_public/\Earth\Continent\Europe\Europe~West\FranceRegions.public.md) 
+### [Regions](/_Standards/Earth/Continent/Europe/Europe~West/France/Regions.md) 
 
-### [Regions.internal](/_internal/\Earth\Continent\Europe\Europe~West\FranceRegions.internal.md) 
+### [Regions.public](/_public/Earth/Continent/Europe/Europe~West/France/Regions.public.md) 
 
-### [Regions.protect](/_protect/\Earth\Continent\Europe\Europe~West\FranceRegions.protect.md) 
+### [Regions.internal](/_internal/Earth/Continent/Europe/Europe~West/France/Regions.internal.md) 
 
-### [Regions.private](/_private/\Earth\Continent\Europe\Europe~West\FranceRegions.private.md) 
+### [Regions.protect](/_protect/Earth/Continent/Europe/Europe~West/France/Regions.protect.md) 
 
-### [Regions.personal](/_personal/\Earth\Continent\Europe\Europe~West\FranceRegions.personal.md) 
+### [Regions.private](/_private/Earth/Continent/Europe/Europe~West/France/Regions.private.md) 
 
-### [Regions.secret](/_secret/\Earth\Continent\Europe\Europe~West\FranceRegions.secret.md)
+### [Regions.personal](/_personal/Earth/Continent/Europe/Europe~West/France/Regions.personal.md) 
+
+### [Regions.secret](/_secret/Earth/Continent/Europe/Europe~West/France/Regions.secret.md)
 

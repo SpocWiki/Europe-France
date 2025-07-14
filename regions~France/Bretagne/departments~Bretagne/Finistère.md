@@ -41,15 +41,17 @@ markerFolder: ./Département~Finistère/
 
 ## Confidential Links & Embeds: 
 
-### [Finistère.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Bretagne\departments~BretagneFinistère.public.md) 
+### [Finistère](/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Bretagne/departments~Bretagne/Finistère.md) 
 
-### [Finistère.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Bretagne\departments~BretagneFinistère.internal.md) 
+### [Finistère.public](/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Bretagne/departments~Bretagne/Finistère.public.md) 
 
-### [Finistère.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Bretagne\departments~BretagneFinistère.protect.md) 
+### [Finistère.internal](/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Bretagne/departments~Bretagne/Finistère.internal.md) 
 
-### [Finistère.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Bretagne\departments~BretagneFinistère.private.md) 
+### [Finistère.protect](/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Bretagne/departments~Bretagne/Finistère.protect.md) 
 
-### [Finistère.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Bretagne\departments~BretagneFinistère.personal.md) 
+### [Finistère.private](/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Bretagne/departments~Bretagne/Finistère.private.md) 
 
-### [Finistère.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Bretagne\departments~BretagneFinistère.secret.md)
+### [Finistère.personal](/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Bretagne/departments~Bretagne/Finistère.personal.md) 
+
+### [Finistère.secret](/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Bretagne/departments~Bretagne/Finistère.secret.md)
 

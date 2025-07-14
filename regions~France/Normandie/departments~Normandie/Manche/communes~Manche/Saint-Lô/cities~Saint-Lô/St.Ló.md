@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [St.Ló.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Normandie\departments~Normandie\Manche\communes~Manche\Saint-Lô\cities~Saint-LôSt.Ló.public.md) 
+### [St.Ló](/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Normandie/departments~Normandie/Manche/communes~Manche/Saint-Lô/cities~Saint-Lô/St.Ló.md) 
 
-### [St.Ló.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Normandie\departments~Normandie\Manche\communes~Manche\Saint-Lô\cities~Saint-LôSt.Ló.internal.md) 
+### [St.Ló.public](/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Normandie/departments~Normandie/Manche/communes~Manche/Saint-Lô/cities~Saint-Lô/St.Ló.public.md) 
 
-### [St.Ló.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Normandie\departments~Normandie\Manche\communes~Manche\Saint-Lô\cities~Saint-LôSt.Ló.protect.md) 
+### [St.Ló.internal](/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Normandie/departments~Normandie/Manche/communes~Manche/Saint-Lô/cities~Saint-Lô/St.Ló.internal.md) 
 
-### [St.Ló.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Normandie\departments~Normandie\Manche\communes~Manche\Saint-Lô\cities~Saint-LôSt.Ló.private.md) 
+### [St.Ló.protect](/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Normandie/departments~Normandie/Manche/communes~Manche/Saint-Lô/cities~Saint-Lô/St.Ló.protect.md) 
 
-### [St.Ló.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Normandie\departments~Normandie\Manche\communes~Manche\Saint-Lô\cities~Saint-LôSt.Ló.personal.md) 
+### [St.Ló.private](/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Normandie/departments~Normandie/Manche/communes~Manche/Saint-Lô/cities~Saint-Lô/St.Ló.private.md) 
 
-### [St.Ló.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Normandie\departments~Normandie\Manche\communes~Manche\Saint-Lô\cities~Saint-LôSt.Ló.secret.md)
+### [St.Ló.personal](/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Normandie/departments~Normandie/Manche/communes~Manche/Saint-Lô/cities~Saint-Lô/St.Ló.personal.md) 
+
+### [St.Ló.secret](/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Normandie/departments~Normandie/Manche/communes~Manche/Saint-Lô/cities~Saint-Lô/St.Ló.secret.md)
 

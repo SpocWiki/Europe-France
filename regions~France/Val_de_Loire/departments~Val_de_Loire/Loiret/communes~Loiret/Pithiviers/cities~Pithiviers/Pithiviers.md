@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Pithiviers.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Val_de_Loire\departments~Val_de_Loire\Loiret\communes~Loiret\Pithiviers\cities~PithiviersPithiviers.public.md) 
+### [Pithiviers](/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Val_de_Loire/departments~Val_de_Loire/Loiret/communes~Loiret/Pithiviers/cities~Pithiviers/Pithiviers.md) 
 
-### [Pithiviers.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Val_de_Loire\departments~Val_de_Loire\Loiret\communes~Loiret\Pithiviers\cities~PithiviersPithiviers.internal.md) 
+### [Pithiviers.public](/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Val_de_Loire/departments~Val_de_Loire/Loiret/communes~Loiret/Pithiviers/cities~Pithiviers/Pithiviers.public.md) 
 
-### [Pithiviers.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Val_de_Loire\departments~Val_de_Loire\Loiret\communes~Loiret\Pithiviers\cities~PithiviersPithiviers.protect.md) 
+### [Pithiviers.internal](/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Val_de_Loire/departments~Val_de_Loire/Loiret/communes~Loiret/Pithiviers/cities~Pithiviers/Pithiviers.internal.md) 
 
-### [Pithiviers.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Val_de_Loire\departments~Val_de_Loire\Loiret\communes~Loiret\Pithiviers\cities~PithiviersPithiviers.private.md) 
+### [Pithiviers.protect](/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Val_de_Loire/departments~Val_de_Loire/Loiret/communes~Loiret/Pithiviers/cities~Pithiviers/Pithiviers.protect.md) 
 
-### [Pithiviers.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Val_de_Loire\departments~Val_de_Loire\Loiret\communes~Loiret\Pithiviers\cities~PithiviersPithiviers.personal.md) 
+### [Pithiviers.private](/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Val_de_Loire/departments~Val_de_Loire/Loiret/communes~Loiret/Pithiviers/cities~Pithiviers/Pithiviers.private.md) 
 
-### [Pithiviers.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Val_de_Loire\departments~Val_de_Loire\Loiret\communes~Loiret\Pithiviers\cities~PithiviersPithiviers.secret.md)
+### [Pithiviers.personal](/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Val_de_Loire/departments~Val_de_Loire/Loiret/communes~Loiret/Pithiviers/cities~Pithiviers/Pithiviers.personal.md) 
+
+### [Pithiviers.secret](/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Val_de_Loire/departments~Val_de_Loire/Loiret/communes~Loiret/Pithiviers/cities~Pithiviers/Pithiviers.secret.md)
 

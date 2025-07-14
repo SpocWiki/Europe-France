@@ -41,15 +41,17 @@ markerFolder: ./Département~Orne/
 
 ## Confidential Links & Embeds: 
 
-### [Orne.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Normandie\departments~NormandieOrne.public.md) 
+### [Orne](/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Normandie/departments~Normandie/Orne.md) 
 
-### [Orne.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Normandie\departments~NormandieOrne.internal.md) 
+### [Orne.public](/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Normandie/departments~Normandie/Orne.public.md) 
 
-### [Orne.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Normandie\departments~NormandieOrne.protect.md) 
+### [Orne.internal](/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Normandie/departments~Normandie/Orne.internal.md) 
 
-### [Orne.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Normandie\departments~NormandieOrne.private.md) 
+### [Orne.protect](/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Normandie/departments~Normandie/Orne.protect.md) 
 
-### [Orne.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Normandie\departments~NormandieOrne.personal.md) 
+### [Orne.private](/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Normandie/departments~Normandie/Orne.private.md) 
 
-### [Orne.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Normandie\departments~NormandieOrne.secret.md)
+### [Orne.personal](/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Normandie/departments~Normandie/Orne.personal.md) 
+
+### [Orne.secret](/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Normandie/departments~Normandie/Orne.secret.md)
 

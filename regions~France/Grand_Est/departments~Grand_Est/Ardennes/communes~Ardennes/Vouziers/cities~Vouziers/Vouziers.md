@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Vouziers.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Grand_Est\departments~Grand_Est\Ardennes\communes~Ardennes\Vouziers\cities~VouziersVouziers.public.md) 
+### [Vouziers](/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Grand_Est/departments~Grand_Est/Ardennes/communes~Ardennes/Vouziers/cities~Vouziers/Vouziers.md) 
 
-### [Vouziers.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Grand_Est\departments~Grand_Est\Ardennes\communes~Ardennes\Vouziers\cities~VouziersVouziers.internal.md) 
+### [Vouziers.public](/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Grand_Est/departments~Grand_Est/Ardennes/communes~Ardennes/Vouziers/cities~Vouziers/Vouziers.public.md) 
 
-### [Vouziers.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Grand_Est\departments~Grand_Est\Ardennes\communes~Ardennes\Vouziers\cities~VouziersVouziers.protect.md) 
+### [Vouziers.internal](/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Grand_Est/departments~Grand_Est/Ardennes/communes~Ardennes/Vouziers/cities~Vouziers/Vouziers.internal.md) 
 
-### [Vouziers.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Grand_Est\departments~Grand_Est\Ardennes\communes~Ardennes\Vouziers\cities~VouziersVouziers.private.md) 
+### [Vouziers.protect](/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Grand_Est/departments~Grand_Est/Ardennes/communes~Ardennes/Vouziers/cities~Vouziers/Vouziers.protect.md) 
 
-### [Vouziers.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Grand_Est\departments~Grand_Est\Ardennes\communes~Ardennes\Vouziers\cities~VouziersVouziers.personal.md) 
+### [Vouziers.private](/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Grand_Est/departments~Grand_Est/Ardennes/communes~Ardennes/Vouziers/cities~Vouziers/Vouziers.private.md) 
 
-### [Vouziers.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Grand_Est\departments~Grand_Est\Ardennes\communes~Ardennes\Vouziers\cities~VouziersVouziers.secret.md)
+### [Vouziers.personal](/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Grand_Est/departments~Grand_Est/Ardennes/communes~Ardennes/Vouziers/cities~Vouziers/Vouziers.personal.md) 
+
+### [Vouziers.secret](/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Grand_Est/departments~Grand_Est/Ardennes/communes~Ardennes/Vouziers/cities~Vouziers/Vouziers.secret.md)
 

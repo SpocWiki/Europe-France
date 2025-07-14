@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Castelnaudary.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~Occitanie\Aude\communes~Aude\Carcassonne\cities~CarcassonneCastelnaudary.public.md) 
+### [Castelnaudary](/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Aude/communes~Aude/Carcassonne/cities~Carcassonne/Castelnaudary.md) 
 
-### [Castelnaudary.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~Occitanie\Aude\communes~Aude\Carcassonne\cities~CarcassonneCastelnaudary.internal.md) 
+### [Castelnaudary.public](/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Aude/communes~Aude/Carcassonne/cities~Carcassonne/Castelnaudary.public.md) 
 
-### [Castelnaudary.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~Occitanie\Aude\communes~Aude\Carcassonne\cities~CarcassonneCastelnaudary.protect.md) 
+### [Castelnaudary.internal](/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Aude/communes~Aude/Carcassonne/cities~Carcassonne/Castelnaudary.internal.md) 
 
-### [Castelnaudary.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~Occitanie\Aude\communes~Aude\Carcassonne\cities~CarcassonneCastelnaudary.private.md) 
+### [Castelnaudary.protect](/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Aude/communes~Aude/Carcassonne/cities~Carcassonne/Castelnaudary.protect.md) 
 
-### [Castelnaudary.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~Occitanie\Aude\communes~Aude\Carcassonne\cities~CarcassonneCastelnaudary.personal.md) 
+### [Castelnaudary.private](/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Aude/communes~Aude/Carcassonne/cities~Carcassonne/Castelnaudary.private.md) 
 
-### [Castelnaudary.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~Occitanie\Aude\communes~Aude\Carcassonne\cities~CarcassonneCastelnaudary.secret.md)
+### [Castelnaudary.personal](/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Aude/communes~Aude/Carcassonne/cities~Carcassonne/Castelnaudary.personal.md) 
+
+### [Castelnaudary.secret](/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Aude/communes~Aude/Carcassonne/cities~Carcassonne/Castelnaudary.secret.md)
 

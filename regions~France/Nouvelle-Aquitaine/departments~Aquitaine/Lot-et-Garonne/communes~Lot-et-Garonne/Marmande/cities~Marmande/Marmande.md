@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Marmande.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~Aquitaine\Lot-et-Garonne\communes~Lot-et-Garonne\Marmande\cities~MarmandeMarmande.public.md) 
+### [Marmande](/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Nouvelle-Aquitaine/departments~Aquitaine/Lot-et-Garonne/communes~Lot-et-Garonne/Marmande/cities~Marmande/Marmande.md) 
 
-### [Marmande.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~Aquitaine\Lot-et-Garonne\communes~Lot-et-Garonne\Marmande\cities~MarmandeMarmande.internal.md) 
+### [Marmande.public](/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Nouvelle-Aquitaine/departments~Aquitaine/Lot-et-Garonne/communes~Lot-et-Garonne/Marmande/cities~Marmande/Marmande.public.md) 
 
-### [Marmande.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~Aquitaine\Lot-et-Garonne\communes~Lot-et-Garonne\Marmande\cities~MarmandeMarmande.protect.md) 
+### [Marmande.internal](/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Nouvelle-Aquitaine/departments~Aquitaine/Lot-et-Garonne/communes~Lot-et-Garonne/Marmande/cities~Marmande/Marmande.internal.md) 
 
-### [Marmande.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~Aquitaine\Lot-et-Garonne\communes~Lot-et-Garonne\Marmande\cities~MarmandeMarmande.private.md) 
+### [Marmande.protect](/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Nouvelle-Aquitaine/departments~Aquitaine/Lot-et-Garonne/communes~Lot-et-Garonne/Marmande/cities~Marmande/Marmande.protect.md) 
 
-### [Marmande.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~Aquitaine\Lot-et-Garonne\communes~Lot-et-Garonne\Marmande\cities~MarmandeMarmande.personal.md) 
+### [Marmande.private](/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Nouvelle-Aquitaine/departments~Aquitaine/Lot-et-Garonne/communes~Lot-et-Garonne/Marmande/cities~Marmande/Marmande.private.md) 
 
-### [Marmande.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~Aquitaine\Lot-et-Garonne\communes~Lot-et-Garonne\Marmande\cities~MarmandeMarmande.secret.md)
+### [Marmande.personal](/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Nouvelle-Aquitaine/departments~Aquitaine/Lot-et-Garonne/communes~Lot-et-Garonne/Marmande/cities~Marmande/Marmande.personal.md) 
+
+### [Marmande.secret](/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Nouvelle-Aquitaine/departments~Aquitaine/Lot-et-Garonne/communes~Lot-et-Garonne/Marmande/cities~Marmande/Marmande.secret.md)
 

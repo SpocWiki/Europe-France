@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Mortagne.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Val_de_Loire\departments~Val_de_Loire\Eure-et-Loir\communes~Eure-et-Loir\Chartres\cities~ChartresMortagne.public.md) 
+### [Mortagne](/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Val_de_Loire/departments~Val_de_Loire/Eure-et-Loir/communes~Eure-et-Loir/Chartres/cities~Chartres/Mortagne.md) 
 
-### [Mortagne.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Val_de_Loire\departments~Val_de_Loire\Eure-et-Loir\communes~Eure-et-Loir\Chartres\cities~ChartresMortagne.internal.md) 
+### [Mortagne.public](/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Val_de_Loire/departments~Val_de_Loire/Eure-et-Loir/communes~Eure-et-Loir/Chartres/cities~Chartres/Mortagne.public.md) 
 
-### [Mortagne.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Val_de_Loire\departments~Val_de_Loire\Eure-et-Loir\communes~Eure-et-Loir\Chartres\cities~ChartresMortagne.protect.md) 
+### [Mortagne.internal](/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Val_de_Loire/departments~Val_de_Loire/Eure-et-Loir/communes~Eure-et-Loir/Chartres/cities~Chartres/Mortagne.internal.md) 
 
-### [Mortagne.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Val_de_Loire\departments~Val_de_Loire\Eure-et-Loir\communes~Eure-et-Loir\Chartres\cities~ChartresMortagne.private.md) 
+### [Mortagne.protect](/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Val_de_Loire/departments~Val_de_Loire/Eure-et-Loir/communes~Eure-et-Loir/Chartres/cities~Chartres/Mortagne.protect.md) 
 
-### [Mortagne.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Val_de_Loire\departments~Val_de_Loire\Eure-et-Loir\communes~Eure-et-Loir\Chartres\cities~ChartresMortagne.personal.md) 
+### [Mortagne.private](/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Val_de_Loire/departments~Val_de_Loire/Eure-et-Loir/communes~Eure-et-Loir/Chartres/cities~Chartres/Mortagne.private.md) 
 
-### [Mortagne.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Val_de_Loire\departments~Val_de_Loire\Eure-et-Loir\communes~Eure-et-Loir\Chartres\cities~ChartresMortagne.secret.md)
+### [Mortagne.personal](/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Val_de_Loire/departments~Val_de_Loire/Eure-et-Loir/communes~Eure-et-Loir/Chartres/cities~Chartres/Mortagne.personal.md) 
+
+### [Mortagne.secret](/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Val_de_Loire/departments~Val_de_Loire/Eure-et-Loir/communes~Eure-et-Loir/Chartres/cities~Chartres/Mortagne.secret.md)
 

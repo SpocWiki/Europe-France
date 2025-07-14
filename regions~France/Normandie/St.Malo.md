@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [St.Malo.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\NormandieSt.Malo.public.md) 
+### [St.Malo](/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Normandie/St.Malo.md) 
 
-### [St.Malo.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\NormandieSt.Malo.internal.md) 
+### [St.Malo.public](/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Normandie/St.Malo.public.md) 
 
-### [St.Malo.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\NormandieSt.Malo.protect.md) 
+### [St.Malo.internal](/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Normandie/St.Malo.internal.md) 
 
-### [St.Malo.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\NormandieSt.Malo.private.md) 
+### [St.Malo.protect](/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Normandie/St.Malo.protect.md) 
 
-### [St.Malo.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\NormandieSt.Malo.personal.md) 
+### [St.Malo.private](/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Normandie/St.Malo.private.md) 
 
-### [St.Malo.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\NormandieSt.Malo.secret.md)
+### [St.Malo.personal](/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Normandie/St.Malo.personal.md) 
+
+### [St.Malo.secret](/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Normandie/St.Malo.secret.md)
 

@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Lons_Le_Saulnier.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Bourgogne-Franche-Comté\departments~Bourgogne-Franche-Comté\Jura\communes~Jura\Lons-le-Saunier\cities~Lons-le-SaunierLons_Le_Saulnier.public.md) 
+### [Lons_Le_Saulnier](/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Bourgogne-Franche-Comté/departments~Bourgogne-Franche-Comté/Jura/communes~Jura/Lons-le-Saunier/cities~Lons-le-Saunier/Lons_Le_Saulnier.md) 
 
-### [Lons_Le_Saulnier.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Bourgogne-Franche-Comté\departments~Bourgogne-Franche-Comté\Jura\communes~Jura\Lons-le-Saunier\cities~Lons-le-SaunierLons_Le_Saulnier.internal.md) 
+### [Lons_Le_Saulnier.public](/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Bourgogne-Franche-Comté/departments~Bourgogne-Franche-Comté/Jura/communes~Jura/Lons-le-Saunier/cities~Lons-le-Saunier/Lons_Le_Saulnier.public.md) 
 
-### [Lons_Le_Saulnier.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Bourgogne-Franche-Comté\departments~Bourgogne-Franche-Comté\Jura\communes~Jura\Lons-le-Saunier\cities~Lons-le-SaunierLons_Le_Saulnier.protect.md) 
+### [Lons_Le_Saulnier.internal](/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Bourgogne-Franche-Comté/departments~Bourgogne-Franche-Comté/Jura/communes~Jura/Lons-le-Saunier/cities~Lons-le-Saunier/Lons_Le_Saulnier.internal.md) 
 
-### [Lons_Le_Saulnier.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Bourgogne-Franche-Comté\departments~Bourgogne-Franche-Comté\Jura\communes~Jura\Lons-le-Saunier\cities~Lons-le-SaunierLons_Le_Saulnier.private.md) 
+### [Lons_Le_Saulnier.protect](/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Bourgogne-Franche-Comté/departments~Bourgogne-Franche-Comté/Jura/communes~Jura/Lons-le-Saunier/cities~Lons-le-Saunier/Lons_Le_Saulnier.protect.md) 
 
-### [Lons_Le_Saulnier.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Bourgogne-Franche-Comté\departments~Bourgogne-Franche-Comté\Jura\communes~Jura\Lons-le-Saunier\cities~Lons-le-SaunierLons_Le_Saulnier.personal.md) 
+### [Lons_Le_Saulnier.private](/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Bourgogne-Franche-Comté/departments~Bourgogne-Franche-Comté/Jura/communes~Jura/Lons-le-Saunier/cities~Lons-le-Saunier/Lons_Le_Saulnier.private.md) 
 
-### [Lons_Le_Saulnier.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Bourgogne-Franche-Comté\departments~Bourgogne-Franche-Comté\Jura\communes~Jura\Lons-le-Saunier\cities~Lons-le-SaunierLons_Le_Saulnier.secret.md)
+### [Lons_Le_Saulnier.personal](/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Bourgogne-Franche-Comté/departments~Bourgogne-Franche-Comté/Jura/communes~Jura/Lons-le-Saunier/cities~Lons-le-Saunier/Lons_Le_Saulnier.personal.md) 
+
+### [Lons_Le_Saulnier.secret](/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Bourgogne-Franche-Comté/departments~Bourgogne-Franche-Comté/Jura/communes~Jura/Lons-le-Saunier/cities~Lons-le-Saunier/Lons_Le_Saulnier.secret.md)
 

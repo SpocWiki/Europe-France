@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Liboune.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~Aquitaine\Gironde\communes~Gironde\Libourne\cities~LibourneLiboune.public.md) 
+### [Liboune](/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Nouvelle-Aquitaine/departments~Aquitaine/Gironde/communes~Gironde/Libourne/cities~Libourne/Liboune.md) 
 
-### [Liboune.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~Aquitaine\Gironde\communes~Gironde\Libourne\cities~LibourneLiboune.internal.md) 
+### [Liboune.public](/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Nouvelle-Aquitaine/departments~Aquitaine/Gironde/communes~Gironde/Libourne/cities~Libourne/Liboune.public.md) 
 
-### [Liboune.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~Aquitaine\Gironde\communes~Gironde\Libourne\cities~LibourneLiboune.protect.md) 
+### [Liboune.internal](/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Nouvelle-Aquitaine/departments~Aquitaine/Gironde/communes~Gironde/Libourne/cities~Libourne/Liboune.internal.md) 
 
-### [Liboune.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~Aquitaine\Gironde\communes~Gironde\Libourne\cities~LibourneLiboune.private.md) 
+### [Liboune.protect](/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Nouvelle-Aquitaine/departments~Aquitaine/Gironde/communes~Gironde/Libourne/cities~Libourne/Liboune.protect.md) 
 
-### [Liboune.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~Aquitaine\Gironde\communes~Gironde\Libourne\cities~LibourneLiboune.personal.md) 
+### [Liboune.private](/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Nouvelle-Aquitaine/departments~Aquitaine/Gironde/communes~Gironde/Libourne/cities~Libourne/Liboune.private.md) 
 
-### [Liboune.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~Aquitaine\Gironde\communes~Gironde\Libourne\cities~LibourneLiboune.secret.md)
+### [Liboune.personal](/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Nouvelle-Aquitaine/departments~Aquitaine/Gironde/communes~Gironde/Libourne/cities~Libourne/Liboune.personal.md) 
+
+### [Liboune.secret](/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Nouvelle-Aquitaine/departments~Aquitaine/Gironde/communes~Gironde/Libourne/cities~Libourne/Liboune.secret.md)
 

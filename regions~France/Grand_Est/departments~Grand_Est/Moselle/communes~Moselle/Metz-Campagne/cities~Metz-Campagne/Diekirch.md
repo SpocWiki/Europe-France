@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Diekirch.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Grand_Est\departments~Grand_Est\Moselle\communes~Moselle\Metz-Campagne\cities~Metz-CampagneDiekirch.public.md) 
+### [Diekirch](/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Grand_Est/departments~Grand_Est/Moselle/communes~Moselle/Metz-Campagne/cities~Metz-Campagne/Diekirch.md) 
 
-### [Diekirch.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Grand_Est\departments~Grand_Est\Moselle\communes~Moselle\Metz-Campagne\cities~Metz-CampagneDiekirch.internal.md) 
+### [Diekirch.public](/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Grand_Est/departments~Grand_Est/Moselle/communes~Moselle/Metz-Campagne/cities~Metz-Campagne/Diekirch.public.md) 
 
-### [Diekirch.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Grand_Est\departments~Grand_Est\Moselle\communes~Moselle\Metz-Campagne\cities~Metz-CampagneDiekirch.protect.md) 
+### [Diekirch.internal](/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Grand_Est/departments~Grand_Est/Moselle/communes~Moselle/Metz-Campagne/cities~Metz-Campagne/Diekirch.internal.md) 
 
-### [Diekirch.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Grand_Est\departments~Grand_Est\Moselle\communes~Moselle\Metz-Campagne\cities~Metz-CampagneDiekirch.private.md) 
+### [Diekirch.protect](/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Grand_Est/departments~Grand_Est/Moselle/communes~Moselle/Metz-Campagne/cities~Metz-Campagne/Diekirch.protect.md) 
 
-### [Diekirch.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Grand_Est\departments~Grand_Est\Moselle\communes~Moselle\Metz-Campagne\cities~Metz-CampagneDiekirch.personal.md) 
+### [Diekirch.private](/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Grand_Est/departments~Grand_Est/Moselle/communes~Moselle/Metz-Campagne/cities~Metz-Campagne/Diekirch.private.md) 
 
-### [Diekirch.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Grand_Est\departments~Grand_Est\Moselle\communes~Moselle\Metz-Campagne\cities~Metz-CampagneDiekirch.secret.md)
+### [Diekirch.personal](/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Grand_Est/departments~Grand_Est/Moselle/communes~Moselle/Metz-Campagne/cities~Metz-Campagne/Diekirch.personal.md) 
+
+### [Diekirch.secret](/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Grand_Est/departments~Grand_Est/Moselle/communes~Moselle/Metz-Campagne/cities~Metz-Campagne/Diekirch.secret.md)
 

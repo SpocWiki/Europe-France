@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Le_Mesnil.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Normandie\departments~Normandie\Calvados\communes~Calvados\Vire\cities~VireLe_Mesnil.public.md) 
+### [Le_Mesnil](/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Normandie/departments~Normandie/Calvados/communes~Calvados/Vire/cities~Vire/Le_Mesnil.md) 
 
-### [Le_Mesnil.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Normandie\departments~Normandie\Calvados\communes~Calvados\Vire\cities~VireLe_Mesnil.internal.md) 
+### [Le_Mesnil.public](/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Normandie/departments~Normandie/Calvados/communes~Calvados/Vire/cities~Vire/Le_Mesnil.public.md) 
 
-### [Le_Mesnil.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Normandie\departments~Normandie\Calvados\communes~Calvados\Vire\cities~VireLe_Mesnil.protect.md) 
+### [Le_Mesnil.internal](/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Normandie/departments~Normandie/Calvados/communes~Calvados/Vire/cities~Vire/Le_Mesnil.internal.md) 
 
-### [Le_Mesnil.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Normandie\departments~Normandie\Calvados\communes~Calvados\Vire\cities~VireLe_Mesnil.private.md) 
+### [Le_Mesnil.protect](/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Normandie/departments~Normandie/Calvados/communes~Calvados/Vire/cities~Vire/Le_Mesnil.protect.md) 
 
-### [Le_Mesnil.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Normandie\departments~Normandie\Calvados\communes~Calvados\Vire\cities~VireLe_Mesnil.personal.md) 
+### [Le_Mesnil.private](/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Normandie/departments~Normandie/Calvados/communes~Calvados/Vire/cities~Vire/Le_Mesnil.private.md) 
 
-### [Le_Mesnil.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Normandie\departments~Normandie\Calvados\communes~Calvados\Vire\cities~VireLe_Mesnil.secret.md)
+### [Le_Mesnil.personal](/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Normandie/departments~Normandie/Calvados/communes~Calvados/Vire/cities~Vire/Le_Mesnil.personal.md) 
+
+### [Le_Mesnil.secret](/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Normandie/departments~Normandie/Calvados/communes~Calvados/Vire/cities~Vire/Le_Mesnil.secret.md)
 

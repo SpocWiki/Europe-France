@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Pont-Audemer.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Normandie\departments~Normandie\Calvados\communes~CalvadosPont-Audemer.public.md) 
+### [Pont-Audemer](/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Normandie/departments~Normandie/Calvados/communes~Calvados/Pont-Audemer.md) 
 
-### [Pont-Audemer.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Normandie\departments~Normandie\Calvados\communes~CalvadosPont-Audemer.internal.md) 
+### [Pont-Audemer.public](/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Normandie/departments~Normandie/Calvados/communes~Calvados/Pont-Audemer.public.md) 
 
-### [Pont-Audemer.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Normandie\departments~Normandie\Calvados\communes~CalvadosPont-Audemer.protect.md) 
+### [Pont-Audemer.internal](/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Normandie/departments~Normandie/Calvados/communes~Calvados/Pont-Audemer.internal.md) 
 
-### [Pont-Audemer.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Normandie\departments~Normandie\Calvados\communes~CalvadosPont-Audemer.private.md) 
+### [Pont-Audemer.protect](/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Normandie/departments~Normandie/Calvados/communes~Calvados/Pont-Audemer.protect.md) 
 
-### [Pont-Audemer.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Normandie\departments~Normandie\Calvados\communes~CalvadosPont-Audemer.personal.md) 
+### [Pont-Audemer.private](/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Normandie/departments~Normandie/Calvados/communes~Calvados/Pont-Audemer.private.md) 
 
-### [Pont-Audemer.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Normandie\departments~Normandie\Calvados\communes~CalvadosPont-Audemer.secret.md)
+### [Pont-Audemer.personal](/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Normandie/departments~Normandie/Calvados/communes~Calvados/Pont-Audemer.personal.md) 
+
+### [Pont-Audemer.secret](/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Normandie/departments~Normandie/Calvados/communes~Calvados/Pont-Audemer.secret.md)
 

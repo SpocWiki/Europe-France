@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Montreuil.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Hauts-de-France\departments~Hauts-de-France\Pas-de-Calais\communes~Pas-de-Calais\Montreuil\cities~MontreuilMontreuil.public.md) 
+### [Montreuil](/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Hauts-de-France/departments~Hauts-de-France/Pas-de-Calais/communes~Pas-de-Calais/Montreuil/cities~Montreuil/Montreuil.md) 
 
-### [Montreuil.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Hauts-de-France\departments~Hauts-de-France\Pas-de-Calais\communes~Pas-de-Calais\Montreuil\cities~MontreuilMontreuil.internal.md) 
+### [Montreuil.public](/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Hauts-de-France/departments~Hauts-de-France/Pas-de-Calais/communes~Pas-de-Calais/Montreuil/cities~Montreuil/Montreuil.public.md) 
 
-### [Montreuil.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Hauts-de-France\departments~Hauts-de-France\Pas-de-Calais\communes~Pas-de-Calais\Montreuil\cities~MontreuilMontreuil.protect.md) 
+### [Montreuil.internal](/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Hauts-de-France/departments~Hauts-de-France/Pas-de-Calais/communes~Pas-de-Calais/Montreuil/cities~Montreuil/Montreuil.internal.md) 
 
-### [Montreuil.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Hauts-de-France\departments~Hauts-de-France\Pas-de-Calais\communes~Pas-de-Calais\Montreuil\cities~MontreuilMontreuil.private.md) 
+### [Montreuil.protect](/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Hauts-de-France/departments~Hauts-de-France/Pas-de-Calais/communes~Pas-de-Calais/Montreuil/cities~Montreuil/Montreuil.protect.md) 
 
-### [Montreuil.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Hauts-de-France\departments~Hauts-de-France\Pas-de-Calais\communes~Pas-de-Calais\Montreuil\cities~MontreuilMontreuil.personal.md) 
+### [Montreuil.private](/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Hauts-de-France/departments~Hauts-de-France/Pas-de-Calais/communes~Pas-de-Calais/Montreuil/cities~Montreuil/Montreuil.private.md) 
 
-### [Montreuil.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Hauts-de-France\departments~Hauts-de-France\Pas-de-Calais\communes~Pas-de-Calais\Montreuil\cities~MontreuilMontreuil.secret.md)
+### [Montreuil.personal](/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Hauts-de-France/departments~Hauts-de-France/Pas-de-Calais/communes~Pas-de-Calais/Montreuil/cities~Montreuil/Montreuil.personal.md) 
+
+### [Montreuil.secret](/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Hauts-de-France/departments~Hauts-de-France/Pas-de-Calais/communes~Pas-de-Calais/Montreuil/cities~Montreuil/Montreuil.secret.md)
 

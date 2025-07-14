@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Blois.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Val_de_Loire\departments~Val_de_Loire\Loir-et-Cher\communes~Loir-et-Cher\Blois\cities~BloisBlois.public.md) 
+### [Blois](/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Val_de_Loire/departments~Val_de_Loire/Loir-et-Cher/communes~Loir-et-Cher/Blois/cities~Blois/Blois.md) 
 
-### [Blois.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Val_de_Loire\departments~Val_de_Loire\Loir-et-Cher\communes~Loir-et-Cher\Blois\cities~BloisBlois.internal.md) 
+### [Blois.public](/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Val_de_Loire/departments~Val_de_Loire/Loir-et-Cher/communes~Loir-et-Cher/Blois/cities~Blois/Blois.public.md) 
 
-### [Blois.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Val_de_Loire\departments~Val_de_Loire\Loir-et-Cher\communes~Loir-et-Cher\Blois\cities~BloisBlois.protect.md) 
+### [Blois.internal](/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Val_de_Loire/departments~Val_de_Loire/Loir-et-Cher/communes~Loir-et-Cher/Blois/cities~Blois/Blois.internal.md) 
 
-### [Blois.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Val_de_Loire\departments~Val_de_Loire\Loir-et-Cher\communes~Loir-et-Cher\Blois\cities~BloisBlois.private.md) 
+### [Blois.protect](/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Val_de_Loire/departments~Val_de_Loire/Loir-et-Cher/communes~Loir-et-Cher/Blois/cities~Blois/Blois.protect.md) 
 
-### [Blois.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Val_de_Loire\departments~Val_de_Loire\Loir-et-Cher\communes~Loir-et-Cher\Blois\cities~BloisBlois.personal.md) 
+### [Blois.private](/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Val_de_Loire/departments~Val_de_Loire/Loir-et-Cher/communes~Loir-et-Cher/Blois/cities~Blois/Blois.private.md) 
 
-### [Blois.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Val_de_Loire\departments~Val_de_Loire\Loir-et-Cher\communes~Loir-et-Cher\Blois\cities~BloisBlois.secret.md)
+### [Blois.personal](/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Val_de_Loire/departments~Val_de_Loire/Loir-et-Cher/communes~Loir-et-Cher/Blois/cities~Blois/Blois.personal.md) 
+
+### [Blois.secret](/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Val_de_Loire/departments~Val_de_Loire/Loir-et-Cher/communes~Loir-et-Cher/Blois/cities~Blois/Blois.secret.md)
 

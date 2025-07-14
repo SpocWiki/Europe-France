@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Sarlat.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~Aquitaine\Dordogne\communes~Dordogne\Sarlat-la-Canéda\cities~Sarlat-la-CanédaSarlat.public.md) 
+### [Sarlat](/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Nouvelle-Aquitaine/departments~Aquitaine/Dordogne/communes~Dordogne/Sarlat-la-Canéda/cities~Sarlat-la-Canéda/Sarlat.md) 
 
-### [Sarlat.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~Aquitaine\Dordogne\communes~Dordogne\Sarlat-la-Canéda\cities~Sarlat-la-CanédaSarlat.internal.md) 
+### [Sarlat.public](/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Nouvelle-Aquitaine/departments~Aquitaine/Dordogne/communes~Dordogne/Sarlat-la-Canéda/cities~Sarlat-la-Canéda/Sarlat.public.md) 
 
-### [Sarlat.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~Aquitaine\Dordogne\communes~Dordogne\Sarlat-la-Canéda\cities~Sarlat-la-CanédaSarlat.protect.md) 
+### [Sarlat.internal](/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Nouvelle-Aquitaine/departments~Aquitaine/Dordogne/communes~Dordogne/Sarlat-la-Canéda/cities~Sarlat-la-Canéda/Sarlat.internal.md) 
 
-### [Sarlat.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~Aquitaine\Dordogne\communes~Dordogne\Sarlat-la-Canéda\cities~Sarlat-la-CanédaSarlat.private.md) 
+### [Sarlat.protect](/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Nouvelle-Aquitaine/departments~Aquitaine/Dordogne/communes~Dordogne/Sarlat-la-Canéda/cities~Sarlat-la-Canéda/Sarlat.protect.md) 
 
-### [Sarlat.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~Aquitaine\Dordogne\communes~Dordogne\Sarlat-la-Canéda\cities~Sarlat-la-CanédaSarlat.personal.md) 
+### [Sarlat.private](/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Nouvelle-Aquitaine/departments~Aquitaine/Dordogne/communes~Dordogne/Sarlat-la-Canéda/cities~Sarlat-la-Canéda/Sarlat.private.md) 
 
-### [Sarlat.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~Aquitaine\Dordogne\communes~Dordogne\Sarlat-la-Canéda\cities~Sarlat-la-CanédaSarlat.secret.md)
+### [Sarlat.personal](/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Nouvelle-Aquitaine/departments~Aquitaine/Dordogne/communes~Dordogne/Sarlat-la-Canéda/cities~Sarlat-la-Canéda/Sarlat.personal.md) 
+
+### [Sarlat.secret](/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Nouvelle-Aquitaine/departments~Aquitaine/Dordogne/communes~Dordogne/Sarlat-la-Canéda/cities~Sarlat-la-Canéda/Sarlat.secret.md)
 

@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Mirande.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~Occitanie\Gers\communes~Gers\Mirande\cities~MirandeMirande.public.md) 
+### [Mirande](/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Gers/communes~Gers/Mirande/cities~Mirande/Mirande.md) 
 
-### [Mirande.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~Occitanie\Gers\communes~Gers\Mirande\cities~MirandeMirande.internal.md) 
+### [Mirande.public](/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Gers/communes~Gers/Mirande/cities~Mirande/Mirande.public.md) 
 
-### [Mirande.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~Occitanie\Gers\communes~Gers\Mirande\cities~MirandeMirande.protect.md) 
+### [Mirande.internal](/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Gers/communes~Gers/Mirande/cities~Mirande/Mirande.internal.md) 
 
-### [Mirande.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~Occitanie\Gers\communes~Gers\Mirande\cities~MirandeMirande.private.md) 
+### [Mirande.protect](/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Gers/communes~Gers/Mirande/cities~Mirande/Mirande.protect.md) 
 
-### [Mirande.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~Occitanie\Gers\communes~Gers\Mirande\cities~MirandeMirande.personal.md) 
+### [Mirande.private](/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Gers/communes~Gers/Mirande/cities~Mirande/Mirande.private.md) 
 
-### [Mirande.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~Occitanie\Gers\communes~Gers\Mirande\cities~MirandeMirande.secret.md)
+### [Mirande.personal](/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Gers/communes~Gers/Mirande/cities~Mirande/Mirande.personal.md) 
+
+### [Mirande.secret](/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Gers/communes~Gers/Mirande/cities~Mirande/Mirande.secret.md)
 

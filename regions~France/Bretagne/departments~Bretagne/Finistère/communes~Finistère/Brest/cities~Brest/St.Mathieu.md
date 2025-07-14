@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [St.Mathieu.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Bretagne\departments~Bretagne\Finistère\communes~Finistère\Brest\cities~BrestSt.Mathieu.public.md) 
+### [St.Mathieu](/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Bretagne/departments~Bretagne/Finistère/communes~Finistère/Brest/cities~Brest/St.Mathieu.md) 
 
-### [St.Mathieu.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Bretagne\departments~Bretagne\Finistère\communes~Finistère\Brest\cities~BrestSt.Mathieu.internal.md) 
+### [St.Mathieu.public](/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Bretagne/departments~Bretagne/Finistère/communes~Finistère/Brest/cities~Brest/St.Mathieu.public.md) 
 
-### [St.Mathieu.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Bretagne\departments~Bretagne\Finistère\communes~Finistère\Brest\cities~BrestSt.Mathieu.protect.md) 
+### [St.Mathieu.internal](/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Bretagne/departments~Bretagne/Finistère/communes~Finistère/Brest/cities~Brest/St.Mathieu.internal.md) 
 
-### [St.Mathieu.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Bretagne\departments~Bretagne\Finistère\communes~Finistère\Brest\cities~BrestSt.Mathieu.private.md) 
+### [St.Mathieu.protect](/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Bretagne/departments~Bretagne/Finistère/communes~Finistère/Brest/cities~Brest/St.Mathieu.protect.md) 
 
-### [St.Mathieu.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Bretagne\departments~Bretagne\Finistère\communes~Finistère\Brest\cities~BrestSt.Mathieu.personal.md) 
+### [St.Mathieu.private](/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Bretagne/departments~Bretagne/Finistère/communes~Finistère/Brest/cities~Brest/St.Mathieu.private.md) 
 
-### [St.Mathieu.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Bretagne\departments~Bretagne\Finistère\communes~Finistère\Brest\cities~BrestSt.Mathieu.secret.md)
+### [St.Mathieu.personal](/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Bretagne/departments~Bretagne/Finistère/communes~Finistère/Brest/cities~Brest/St.Mathieu.personal.md) 
+
+### [St.Mathieu.secret](/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Bretagne/departments~Bretagne/Finistère/communes~Finistère/Brest/cities~Brest/St.Mathieu.secret.md)
 

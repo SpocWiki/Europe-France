@@ -41,15 +41,17 @@ markerFolder: ./Département~Meurhe-et-Moselle/
 
 ## Confidential Links & Embeds: 
 
-### [Meurthe-et-Moselle.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Grand_Est\departments~Grand_EstMeurthe-et-Moselle.public.md) 
+### [Meurthe-et-Moselle](/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Grand_Est/departments~Grand_Est/Meurthe-et-Moselle.md) 
 
-### [Meurthe-et-Moselle.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Grand_Est\departments~Grand_EstMeurthe-et-Moselle.internal.md) 
+### [Meurthe-et-Moselle.public](/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Grand_Est/departments~Grand_Est/Meurthe-et-Moselle.public.md) 
 
-### [Meurthe-et-Moselle.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Grand_Est\departments~Grand_EstMeurthe-et-Moselle.protect.md) 
+### [Meurthe-et-Moselle.internal](/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Grand_Est/departments~Grand_Est/Meurthe-et-Moselle.internal.md) 
 
-### [Meurthe-et-Moselle.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Grand_Est\departments~Grand_EstMeurthe-et-Moselle.private.md) 
+### [Meurthe-et-Moselle.protect](/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Grand_Est/departments~Grand_Est/Meurthe-et-Moselle.protect.md) 
 
-### [Meurthe-et-Moselle.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Grand_Est\departments~Grand_EstMeurthe-et-Moselle.personal.md) 
+### [Meurthe-et-Moselle.private](/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Grand_Est/departments~Grand_Est/Meurthe-et-Moselle.private.md) 
 
-### [Meurthe-et-Moselle.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Grand_Est\departments~Grand_EstMeurthe-et-Moselle.secret.md)
+### [Meurthe-et-Moselle.personal](/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Grand_Est/departments~Grand_Est/Meurthe-et-Moselle.personal.md) 
+
+### [Meurthe-et-Moselle.secret](/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Grand_Est/departments~Grand_Est/Meurthe-et-Moselle.secret.md)
 

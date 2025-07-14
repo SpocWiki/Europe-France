@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Commercy.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Grand_Est\departments~Grand_Est\Meuse\communes~Meuse\Commercy\cities~CommercyCommercy.public.md) 
+### [Commercy](/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Grand_Est/departments~Grand_Est/Meuse/communes~Meuse/Commercy/cities~Commercy/Commercy.md) 
 
-### [Commercy.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Grand_Est\departments~Grand_Est\Meuse\communes~Meuse\Commercy\cities~CommercyCommercy.internal.md) 
+### [Commercy.public](/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Grand_Est/departments~Grand_Est/Meuse/communes~Meuse/Commercy/cities~Commercy/Commercy.public.md) 
 
-### [Commercy.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Grand_Est\departments~Grand_Est\Meuse\communes~Meuse\Commercy\cities~CommercyCommercy.protect.md) 
+### [Commercy.internal](/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Grand_Est/departments~Grand_Est/Meuse/communes~Meuse/Commercy/cities~Commercy/Commercy.internal.md) 
 
-### [Commercy.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Grand_Est\departments~Grand_Est\Meuse\communes~Meuse\Commercy\cities~CommercyCommercy.private.md) 
+### [Commercy.protect](/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Grand_Est/departments~Grand_Est/Meuse/communes~Meuse/Commercy/cities~Commercy/Commercy.protect.md) 
 
-### [Commercy.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Grand_Est\departments~Grand_Est\Meuse\communes~Meuse\Commercy\cities~CommercyCommercy.personal.md) 
+### [Commercy.private](/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Grand_Est/departments~Grand_Est/Meuse/communes~Meuse/Commercy/cities~Commercy/Commercy.private.md) 
 
-### [Commercy.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Grand_Est\departments~Grand_Est\Meuse\communes~Meuse\Commercy\cities~CommercyCommercy.secret.md)
+### [Commercy.personal](/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Grand_Est/departments~Grand_Est/Meuse/communes~Meuse/Commercy/cities~Commercy/Commercy.personal.md) 
+
+### [Commercy.secret](/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Grand_Est/departments~Grand_Est/Meuse/communes~Meuse/Commercy/cities~Commercy/Commercy.secret.md)
 

@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [St.Germain_en_Laye.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Île-de-France\departments~Île-de-France\Yvelines\communes~Yvelines\Saint-Germain-en-Laye\cities~Saint-Germain-en-LayeSt.Germain_en_Laye.public.md) 
+### [St.Germain_en_Laye](/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Île-de-France/departments~Île-de-France/Yvelines/communes~Yvelines/Saint-Germain-en-Laye/cities~Saint-Germain-en-Laye/St.Germain_en_Laye.md) 
 
-### [St.Germain_en_Laye.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Île-de-France\departments~Île-de-France\Yvelines\communes~Yvelines\Saint-Germain-en-Laye\cities~Saint-Germain-en-LayeSt.Germain_en_Laye.internal.md) 
+### [St.Germain_en_Laye.public](/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Île-de-France/departments~Île-de-France/Yvelines/communes~Yvelines/Saint-Germain-en-Laye/cities~Saint-Germain-en-Laye/St.Germain_en_Laye.public.md) 
 
-### [St.Germain_en_Laye.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Île-de-France\departments~Île-de-France\Yvelines\communes~Yvelines\Saint-Germain-en-Laye\cities~Saint-Germain-en-LayeSt.Germain_en_Laye.protect.md) 
+### [St.Germain_en_Laye.internal](/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Île-de-France/departments~Île-de-France/Yvelines/communes~Yvelines/Saint-Germain-en-Laye/cities~Saint-Germain-en-Laye/St.Germain_en_Laye.internal.md) 
 
-### [St.Germain_en_Laye.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Île-de-France\departments~Île-de-France\Yvelines\communes~Yvelines\Saint-Germain-en-Laye\cities~Saint-Germain-en-LayeSt.Germain_en_Laye.private.md) 
+### [St.Germain_en_Laye.protect](/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Île-de-France/departments~Île-de-France/Yvelines/communes~Yvelines/Saint-Germain-en-Laye/cities~Saint-Germain-en-Laye/St.Germain_en_Laye.protect.md) 
 
-### [St.Germain_en_Laye.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Île-de-France\departments~Île-de-France\Yvelines\communes~Yvelines\Saint-Germain-en-Laye\cities~Saint-Germain-en-LayeSt.Germain_en_Laye.personal.md) 
+### [St.Germain_en_Laye.private](/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Île-de-France/departments~Île-de-France/Yvelines/communes~Yvelines/Saint-Germain-en-Laye/cities~Saint-Germain-en-Laye/St.Germain_en_Laye.private.md) 
 
-### [St.Germain_en_Laye.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Île-de-France\departments~Île-de-France\Yvelines\communes~Yvelines\Saint-Germain-en-Laye\cities~Saint-Germain-en-LayeSt.Germain_en_Laye.secret.md)
+### [St.Germain_en_Laye.personal](/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Île-de-France/departments~Île-de-France/Yvelines/communes~Yvelines/Saint-Germain-en-Laye/cities~Saint-Germain-en-Laye/St.Germain_en_Laye.personal.md) 
+
+### [St.Germain_en_Laye.secret](/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Île-de-France/departments~Île-de-France/Yvelines/communes~Yvelines/Saint-Germain-en-Laye/cities~Saint-Germain-en-Laye/St.Germain_en_Laye.secret.md)
 

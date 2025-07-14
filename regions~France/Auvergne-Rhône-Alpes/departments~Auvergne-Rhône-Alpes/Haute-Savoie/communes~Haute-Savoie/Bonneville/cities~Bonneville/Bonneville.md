@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Bonneville.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Auvergne-Rhône-Alpes\departments~Auvergne-Rhône-Alpes\Haute-Savoie\communes~Haute-Savoie\Bonneville\cities~BonnevilleBonneville.public.md) 
+### [Bonneville](/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Auvergne-Rhône-Alpes/departments~Auvergne-Rhône-Alpes/Haute-Savoie/communes~Haute-Savoie/Bonneville/cities~Bonneville/Bonneville.md) 
 
-### [Bonneville.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Auvergne-Rhône-Alpes\departments~Auvergne-Rhône-Alpes\Haute-Savoie\communes~Haute-Savoie\Bonneville\cities~BonnevilleBonneville.internal.md) 
+### [Bonneville.public](/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Auvergne-Rhône-Alpes/departments~Auvergne-Rhône-Alpes/Haute-Savoie/communes~Haute-Savoie/Bonneville/cities~Bonneville/Bonneville.public.md) 
 
-### [Bonneville.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Auvergne-Rhône-Alpes\departments~Auvergne-Rhône-Alpes\Haute-Savoie\communes~Haute-Savoie\Bonneville\cities~BonnevilleBonneville.protect.md) 
+### [Bonneville.internal](/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Auvergne-Rhône-Alpes/departments~Auvergne-Rhône-Alpes/Haute-Savoie/communes~Haute-Savoie/Bonneville/cities~Bonneville/Bonneville.internal.md) 
 
-### [Bonneville.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Auvergne-Rhône-Alpes\departments~Auvergne-Rhône-Alpes\Haute-Savoie\communes~Haute-Savoie\Bonneville\cities~BonnevilleBonneville.private.md) 
+### [Bonneville.protect](/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Auvergne-Rhône-Alpes/departments~Auvergne-Rhône-Alpes/Haute-Savoie/communes~Haute-Savoie/Bonneville/cities~Bonneville/Bonneville.protect.md) 
 
-### [Bonneville.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Auvergne-Rhône-Alpes\departments~Auvergne-Rhône-Alpes\Haute-Savoie\communes~Haute-Savoie\Bonneville\cities~BonnevilleBonneville.personal.md) 
+### [Bonneville.private](/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Auvergne-Rhône-Alpes/departments~Auvergne-Rhône-Alpes/Haute-Savoie/communes~Haute-Savoie/Bonneville/cities~Bonneville/Bonneville.private.md) 
 
-### [Bonneville.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Auvergne-Rhône-Alpes\departments~Auvergne-Rhône-Alpes\Haute-Savoie\communes~Haute-Savoie\Bonneville\cities~BonnevilleBonneville.secret.md)
+### [Bonneville.personal](/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Auvergne-Rhône-Alpes/departments~Auvergne-Rhône-Alpes/Haute-Savoie/communes~Haute-Savoie/Bonneville/cities~Bonneville/Bonneville.personal.md) 
+
+### [Bonneville.secret](/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Auvergne-Rhône-Alpes/departments~Auvergne-Rhône-Alpes/Haute-Savoie/communes~Haute-Savoie/Bonneville/cities~Bonneville/Bonneville.secret.md)
 

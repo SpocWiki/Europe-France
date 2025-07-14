@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [St.Quentin.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Hauts-de-France\departments~Hauts-de-France\Aisne\communes~Aisne\Saint-Quentin\cities~Saint-QuentinSt.Quentin.public.md) 
+### [St.Quentin](/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Hauts-de-France/departments~Hauts-de-France/Aisne/communes~Aisne/Saint-Quentin/cities~Saint-Quentin/St.Quentin.md) 
 
-### [St.Quentin.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Hauts-de-France\departments~Hauts-de-France\Aisne\communes~Aisne\Saint-Quentin\cities~Saint-QuentinSt.Quentin.internal.md) 
+### [St.Quentin.public](/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Hauts-de-France/departments~Hauts-de-France/Aisne/communes~Aisne/Saint-Quentin/cities~Saint-Quentin/St.Quentin.public.md) 
 
-### [St.Quentin.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Hauts-de-France\departments~Hauts-de-France\Aisne\communes~Aisne\Saint-Quentin\cities~Saint-QuentinSt.Quentin.protect.md) 
+### [St.Quentin.internal](/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Hauts-de-France/departments~Hauts-de-France/Aisne/communes~Aisne/Saint-Quentin/cities~Saint-Quentin/St.Quentin.internal.md) 
 
-### [St.Quentin.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Hauts-de-France\departments~Hauts-de-France\Aisne\communes~Aisne\Saint-Quentin\cities~Saint-QuentinSt.Quentin.private.md) 
+### [St.Quentin.protect](/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Hauts-de-France/departments~Hauts-de-France/Aisne/communes~Aisne/Saint-Quentin/cities~Saint-Quentin/St.Quentin.protect.md) 
 
-### [St.Quentin.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Hauts-de-France\departments~Hauts-de-France\Aisne\communes~Aisne\Saint-Quentin\cities~Saint-QuentinSt.Quentin.personal.md) 
+### [St.Quentin.private](/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Hauts-de-France/departments~Hauts-de-France/Aisne/communes~Aisne/Saint-Quentin/cities~Saint-Quentin/St.Quentin.private.md) 
 
-### [St.Quentin.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Hauts-de-France\departments~Hauts-de-France\Aisne\communes~Aisne\Saint-Quentin\cities~Saint-QuentinSt.Quentin.secret.md)
+### [St.Quentin.personal](/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Hauts-de-France/departments~Hauts-de-France/Aisne/communes~Aisne/Saint-Quentin/cities~Saint-Quentin/St.Quentin.personal.md) 
+
+### [St.Quentin.secret](/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Hauts-de-France/departments~Hauts-de-France/Aisne/communes~Aisne/Saint-Quentin/cities~Saint-Quentin/St.Quentin.secret.md)
 

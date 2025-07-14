@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Nontron.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~Aquitaine\Dordogne\communes~Dordogne\Nontron\cities~NontronNontron.public.md) 
+### [Nontron](/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Nouvelle-Aquitaine/departments~Aquitaine/Dordogne/communes~Dordogne/Nontron/cities~Nontron/Nontron.md) 
 
-### [Nontron.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~Aquitaine\Dordogne\communes~Dordogne\Nontron\cities~NontronNontron.internal.md) 
+### [Nontron.public](/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Nouvelle-Aquitaine/departments~Aquitaine/Dordogne/communes~Dordogne/Nontron/cities~Nontron/Nontron.public.md) 
 
-### [Nontron.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~Aquitaine\Dordogne\communes~Dordogne\Nontron\cities~NontronNontron.protect.md) 
+### [Nontron.internal](/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Nouvelle-Aquitaine/departments~Aquitaine/Dordogne/communes~Dordogne/Nontron/cities~Nontron/Nontron.internal.md) 
 
-### [Nontron.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~Aquitaine\Dordogne\communes~Dordogne\Nontron\cities~NontronNontron.private.md) 
+### [Nontron.protect](/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Nouvelle-Aquitaine/departments~Aquitaine/Dordogne/communes~Dordogne/Nontron/cities~Nontron/Nontron.protect.md) 
 
-### [Nontron.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~Aquitaine\Dordogne\communes~Dordogne\Nontron\cities~NontronNontron.personal.md) 
+### [Nontron.private](/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Nouvelle-Aquitaine/departments~Aquitaine/Dordogne/communes~Dordogne/Nontron/cities~Nontron/Nontron.private.md) 
 
-### [Nontron.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~Aquitaine\Dordogne\communes~Dordogne\Nontron\cities~NontronNontron.secret.md)
+### [Nontron.personal](/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Nouvelle-Aquitaine/departments~Aquitaine/Dordogne/communes~Dordogne/Nontron/cities~Nontron/Nontron.personal.md) 
+
+### [Nontron.secret](/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Nouvelle-Aquitaine/departments~Aquitaine/Dordogne/communes~Dordogne/Nontron/cities~Nontron/Nontron.secret.md)
 

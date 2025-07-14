@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Pontivy.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Bretagne\departments~Bretagne\Morbihan\communes~Morbihan\Pontivy\cities~PontivyPontivy.public.md) 
+### [Pontivy](/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Bretagne/departments~Bretagne/Morbihan/communes~Morbihan/Pontivy/cities~Pontivy/Pontivy.md) 
 
-### [Pontivy.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Bretagne\departments~Bretagne\Morbihan\communes~Morbihan\Pontivy\cities~PontivyPontivy.internal.md) 
+### [Pontivy.public](/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Bretagne/departments~Bretagne/Morbihan/communes~Morbihan/Pontivy/cities~Pontivy/Pontivy.public.md) 
 
-### [Pontivy.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Bretagne\departments~Bretagne\Morbihan\communes~Morbihan\Pontivy\cities~PontivyPontivy.protect.md) 
+### [Pontivy.internal](/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Bretagne/departments~Bretagne/Morbihan/communes~Morbihan/Pontivy/cities~Pontivy/Pontivy.internal.md) 
 
-### [Pontivy.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Bretagne\departments~Bretagne\Morbihan\communes~Morbihan\Pontivy\cities~PontivyPontivy.private.md) 
+### [Pontivy.protect](/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Bretagne/departments~Bretagne/Morbihan/communes~Morbihan/Pontivy/cities~Pontivy/Pontivy.protect.md) 
 
-### [Pontivy.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Bretagne\departments~Bretagne\Morbihan\communes~Morbihan\Pontivy\cities~PontivyPontivy.personal.md) 
+### [Pontivy.private](/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Bretagne/departments~Bretagne/Morbihan/communes~Morbihan/Pontivy/cities~Pontivy/Pontivy.private.md) 
 
-### [Pontivy.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Bretagne\departments~Bretagne\Morbihan\communes~Morbihan\Pontivy\cities~PontivyPontivy.secret.md)
+### [Pontivy.personal](/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Bretagne/departments~Bretagne/Morbihan/communes~Morbihan/Pontivy/cities~Pontivy/Pontivy.personal.md) 
+
+### [Pontivy.secret](/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Bretagne/departments~Bretagne/Morbihan/communes~Morbihan/Pontivy/cities~Pontivy/Pontivy.secret.md)
 

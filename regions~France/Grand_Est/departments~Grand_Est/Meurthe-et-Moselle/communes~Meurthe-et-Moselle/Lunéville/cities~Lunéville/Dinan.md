@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Dinan.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Grand_Est\departments~Grand_Est\Meurthe-et-Moselle\communes~Meurthe-et-Moselle\Lunéville\cities~LunévilleDinan.public.md) 
+### [Dinan](/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Grand_Est/departments~Grand_Est/Meurthe-et-Moselle/communes~Meurthe-et-Moselle/Lunéville/cities~Lunéville/Dinan.md) 
 
-### [Dinan.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Grand_Est\departments~Grand_Est\Meurthe-et-Moselle\communes~Meurthe-et-Moselle\Lunéville\cities~LunévilleDinan.internal.md) 
+### [Dinan.public](/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Grand_Est/departments~Grand_Est/Meurthe-et-Moselle/communes~Meurthe-et-Moselle/Lunéville/cities~Lunéville/Dinan.public.md) 
 
-### [Dinan.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Grand_Est\departments~Grand_Est\Meurthe-et-Moselle\communes~Meurthe-et-Moselle\Lunéville\cities~LunévilleDinan.protect.md) 
+### [Dinan.internal](/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Grand_Est/departments~Grand_Est/Meurthe-et-Moselle/communes~Meurthe-et-Moselle/Lunéville/cities~Lunéville/Dinan.internal.md) 
 
-### [Dinan.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Grand_Est\departments~Grand_Est\Meurthe-et-Moselle\communes~Meurthe-et-Moselle\Lunéville\cities~LunévilleDinan.private.md) 
+### [Dinan.protect](/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Grand_Est/departments~Grand_Est/Meurthe-et-Moselle/communes~Meurthe-et-Moselle/Lunéville/cities~Lunéville/Dinan.protect.md) 
 
-### [Dinan.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Grand_Est\departments~Grand_Est\Meurthe-et-Moselle\communes~Meurthe-et-Moselle\Lunéville\cities~LunévilleDinan.personal.md) 
+### [Dinan.private](/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Grand_Est/departments~Grand_Est/Meurthe-et-Moselle/communes~Meurthe-et-Moselle/Lunéville/cities~Lunéville/Dinan.private.md) 
 
-### [Dinan.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Grand_Est\departments~Grand_Est\Meurthe-et-Moselle\communes~Meurthe-et-Moselle\Lunéville\cities~LunévilleDinan.secret.md)
+### [Dinan.personal](/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Grand_Est/departments~Grand_Est/Meurthe-et-Moselle/communes~Meurthe-et-Moselle/Lunéville/cities~Lunéville/Dinan.personal.md) 
+
+### [Dinan.secret](/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Grand_Est/departments~Grand_Est/Meurthe-et-Moselle/communes~Meurthe-et-Moselle/Lunéville/cities~Lunéville/Dinan.secret.md)
 

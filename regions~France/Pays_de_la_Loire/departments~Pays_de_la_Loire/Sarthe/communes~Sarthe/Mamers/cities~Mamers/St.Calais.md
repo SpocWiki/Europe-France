@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [St.Calais.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Pays_de_la_Loire\departments~Pays_de_la_Loire\Sarthe\communes~Sarthe\Mamers\cities~MamersSt.Calais.public.md) 
+### [St.Calais](/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Pays_de_la_Loire/departments~Pays_de_la_Loire/Sarthe/communes~Sarthe/Mamers/cities~Mamers/St.Calais.md) 
 
-### [St.Calais.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Pays_de_la_Loire\departments~Pays_de_la_Loire\Sarthe\communes~Sarthe\Mamers\cities~MamersSt.Calais.internal.md) 
+### [St.Calais.public](/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Pays_de_la_Loire/departments~Pays_de_la_Loire/Sarthe/communes~Sarthe/Mamers/cities~Mamers/St.Calais.public.md) 
 
-### [St.Calais.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Pays_de_la_Loire\departments~Pays_de_la_Loire\Sarthe\communes~Sarthe\Mamers\cities~MamersSt.Calais.protect.md) 
+### [St.Calais.internal](/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Pays_de_la_Loire/departments~Pays_de_la_Loire/Sarthe/communes~Sarthe/Mamers/cities~Mamers/St.Calais.internal.md) 
 
-### [St.Calais.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Pays_de_la_Loire\departments~Pays_de_la_Loire\Sarthe\communes~Sarthe\Mamers\cities~MamersSt.Calais.private.md) 
+### [St.Calais.protect](/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Pays_de_la_Loire/departments~Pays_de_la_Loire/Sarthe/communes~Sarthe/Mamers/cities~Mamers/St.Calais.protect.md) 
 
-### [St.Calais.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Pays_de_la_Loire\departments~Pays_de_la_Loire\Sarthe\communes~Sarthe\Mamers\cities~MamersSt.Calais.personal.md) 
+### [St.Calais.private](/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Pays_de_la_Loire/departments~Pays_de_la_Loire/Sarthe/communes~Sarthe/Mamers/cities~Mamers/St.Calais.private.md) 
 
-### [St.Calais.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Pays_de_la_Loire\departments~Pays_de_la_Loire\Sarthe\communes~Sarthe\Mamers\cities~MamersSt.Calais.secret.md)
+### [St.Calais.personal](/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Pays_de_la_Loire/departments~Pays_de_la_Loire/Sarthe/communes~Sarthe/Mamers/cities~Mamers/St.Calais.personal.md) 
+
+### [St.Calais.secret](/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Pays_de_la_Loire/departments~Pays_de_la_Loire/Sarthe/communes~Sarthe/Mamers/cities~Mamers/St.Calais.secret.md)
 

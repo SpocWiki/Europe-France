@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Uzés.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~Occitanie\Gard\communes~Gard\Nîmes\cities~NîmesUzés.public.md) 
+### [Uzés](/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Gard/communes~Gard/Nîmes/cities~Nîmes/Uzés.md) 
 
-### [Uzés.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~Occitanie\Gard\communes~Gard\Nîmes\cities~NîmesUzés.internal.md) 
+### [Uzés.public](/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Gard/communes~Gard/Nîmes/cities~Nîmes/Uzés.public.md) 
 
-### [Uzés.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~Occitanie\Gard\communes~Gard\Nîmes\cities~NîmesUzés.protect.md) 
+### [Uzés.internal](/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Gard/communes~Gard/Nîmes/cities~Nîmes/Uzés.internal.md) 
 
-### [Uzés.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~Occitanie\Gard\communes~Gard\Nîmes\cities~NîmesUzés.private.md) 
+### [Uzés.protect](/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Gard/communes~Gard/Nîmes/cities~Nîmes/Uzés.protect.md) 
 
-### [Uzés.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~Occitanie\Gard\communes~Gard\Nîmes\cities~NîmesUzés.personal.md) 
+### [Uzés.private](/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Gard/communes~Gard/Nîmes/cities~Nîmes/Uzés.private.md) 
 
-### [Uzés.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~Occitanie\Gard\communes~Gard\Nîmes\cities~NîmesUzés.secret.md)
+### [Uzés.personal](/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Gard/communes~Gard/Nîmes/cities~Nîmes/Uzés.personal.md) 
+
+### [Uzés.secret](/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Gard/communes~Gard/Nîmes/cities~Nîmes/Uzés.secret.md)
 

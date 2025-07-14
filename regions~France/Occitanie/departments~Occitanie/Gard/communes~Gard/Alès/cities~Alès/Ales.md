@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Ales.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~Occitanie\Gard\communes~Gard\Alès\cities~AlèsAles.public.md) 
+### [Ales](/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Gard/communes~Gard/Alès/cities~Alès/Ales.md) 
 
-### [Ales.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~Occitanie\Gard\communes~Gard\Alès\cities~AlèsAles.internal.md) 
+### [Ales.public](/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Gard/communes~Gard/Alès/cities~Alès/Ales.public.md) 
 
-### [Ales.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~Occitanie\Gard\communes~Gard\Alès\cities~AlèsAles.protect.md) 
+### [Ales.internal](/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Gard/communes~Gard/Alès/cities~Alès/Ales.internal.md) 
 
-### [Ales.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~Occitanie\Gard\communes~Gard\Alès\cities~AlèsAles.private.md) 
+### [Ales.protect](/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Gard/communes~Gard/Alès/cities~Alès/Ales.protect.md) 
 
-### [Ales.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~Occitanie\Gard\communes~Gard\Alès\cities~AlèsAles.personal.md) 
+### [Ales.private](/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Gard/communes~Gard/Alès/cities~Alès/Ales.private.md) 
 
-### [Ales.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~Occitanie\Gard\communes~Gard\Alès\cities~AlèsAles.secret.md)
+### [Ales.personal](/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Gard/communes~Gard/Alès/cities~Alès/Ales.personal.md) 
+
+### [Ales.secret](/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Gard/communes~Gard/Alès/cities~Alès/Ales.secret.md)
 

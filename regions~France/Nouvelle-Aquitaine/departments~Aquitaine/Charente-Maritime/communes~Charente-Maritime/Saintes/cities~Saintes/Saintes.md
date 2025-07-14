@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Saintes.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~Aquitaine\Charente-Maritime\communes~Charente-Maritime\Saintes\cities~SaintesSaintes.public.md) 
+### [Saintes](/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Nouvelle-Aquitaine/departments~Aquitaine/Charente-Maritime/communes~Charente-Maritime/Saintes/cities~Saintes/Saintes.md) 
 
-### [Saintes.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~Aquitaine\Charente-Maritime\communes~Charente-Maritime\Saintes\cities~SaintesSaintes.internal.md) 
+### [Saintes.public](/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Nouvelle-Aquitaine/departments~Aquitaine/Charente-Maritime/communes~Charente-Maritime/Saintes/cities~Saintes/Saintes.public.md) 
 
-### [Saintes.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~Aquitaine\Charente-Maritime\communes~Charente-Maritime\Saintes\cities~SaintesSaintes.protect.md) 
+### [Saintes.internal](/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Nouvelle-Aquitaine/departments~Aquitaine/Charente-Maritime/communes~Charente-Maritime/Saintes/cities~Saintes/Saintes.internal.md) 
 
-### [Saintes.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~Aquitaine\Charente-Maritime\communes~Charente-Maritime\Saintes\cities~SaintesSaintes.private.md) 
+### [Saintes.protect](/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Nouvelle-Aquitaine/departments~Aquitaine/Charente-Maritime/communes~Charente-Maritime/Saintes/cities~Saintes/Saintes.protect.md) 
 
-### [Saintes.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~Aquitaine\Charente-Maritime\communes~Charente-Maritime\Saintes\cities~SaintesSaintes.personal.md) 
+### [Saintes.private](/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Nouvelle-Aquitaine/departments~Aquitaine/Charente-Maritime/communes~Charente-Maritime/Saintes/cities~Saintes/Saintes.private.md) 
 
-### [Saintes.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~Aquitaine\Charente-Maritime\communes~Charente-Maritime\Saintes\cities~SaintesSaintes.secret.md)
+### [Saintes.personal](/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Nouvelle-Aquitaine/departments~Aquitaine/Charente-Maritime/communes~Charente-Maritime/Saintes/cities~Saintes/Saintes.personal.md) 
+
+### [Saintes.secret](/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Nouvelle-Aquitaine/departments~Aquitaine/Charente-Maritime/communes~Charente-Maritime/Saintes/cities~Saintes/Saintes.secret.md)
 

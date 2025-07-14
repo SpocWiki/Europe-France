@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Chartres.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Val_de_Loire\departments~Val_de_Loire\Eure-et-Loir\communes~Eure-et-Loir\Chartres\cities~ChartresChartres.public.md) 
+### [Chartres](/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Val_de_Loire/departments~Val_de_Loire/Eure-et-Loir/communes~Eure-et-Loir/Chartres/cities~Chartres/Chartres.md) 
 
-### [Chartres.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Val_de_Loire\departments~Val_de_Loire\Eure-et-Loir\communes~Eure-et-Loir\Chartres\cities~ChartresChartres.internal.md) 
+### [Chartres.public](/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Val_de_Loire/departments~Val_de_Loire/Eure-et-Loir/communes~Eure-et-Loir/Chartres/cities~Chartres/Chartres.public.md) 
 
-### [Chartres.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Val_de_Loire\departments~Val_de_Loire\Eure-et-Loir\communes~Eure-et-Loir\Chartres\cities~ChartresChartres.protect.md) 
+### [Chartres.internal](/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Val_de_Loire/departments~Val_de_Loire/Eure-et-Loir/communes~Eure-et-Loir/Chartres/cities~Chartres/Chartres.internal.md) 
 
-### [Chartres.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Val_de_Loire\departments~Val_de_Loire\Eure-et-Loir\communes~Eure-et-Loir\Chartres\cities~ChartresChartres.private.md) 
+### [Chartres.protect](/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Val_de_Loire/departments~Val_de_Loire/Eure-et-Loir/communes~Eure-et-Loir/Chartres/cities~Chartres/Chartres.protect.md) 
 
-### [Chartres.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Val_de_Loire\departments~Val_de_Loire\Eure-et-Loir\communes~Eure-et-Loir\Chartres\cities~ChartresChartres.personal.md) 
+### [Chartres.private](/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Val_de_Loire/departments~Val_de_Loire/Eure-et-Loir/communes~Eure-et-Loir/Chartres/cities~Chartres/Chartres.private.md) 
 
-### [Chartres.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Val_de_Loire\departments~Val_de_Loire\Eure-et-Loir\communes~Eure-et-Loir\Chartres\cities~ChartresChartres.secret.md)
+### [Chartres.personal](/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Val_de_Loire/departments~Val_de_Loire/Eure-et-Loir/communes~Eure-et-Loir/Chartres/cities~Chartres/Chartres.personal.md) 
+
+### [Chartres.secret](/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Val_de_Loire/departments~Val_de_Loire/Eure-et-Loir/communes~Eure-et-Loir/Chartres/cities~Chartres/Chartres.secret.md)
 

@@ -277,15 +277,17 @@ Capital :: [[Paris]]
 
 ## Confidential Links & Embeds: 
 
-### [ReadMe.public](/_public/\Earth\Continent\Europe\Europe~West\FranceReadMe.public.md) 
+### [ReadMe](/_Standards/Earth/Continent/Europe/Europe~West/France/ReadMe.md) 
 
-### [ReadMe.internal](/_internal/\Earth\Continent\Europe\Europe~West\FranceReadMe.internal.md) 
+### [ReadMe.public](/_public/Earth/Continent/Europe/Europe~West/France/ReadMe.public.md) 
 
-### [ReadMe.protect](/_protect/\Earth\Continent\Europe\Europe~West\FranceReadMe.protect.md) 
+### [ReadMe.internal](/_internal/Earth/Continent/Europe/Europe~West/France/ReadMe.internal.md) 
 
-### [ReadMe.private](/_private/\Earth\Continent\Europe\Europe~West\FranceReadMe.private.md) 
+### [ReadMe.protect](/_protect/Earth/Continent/Europe/Europe~West/France/ReadMe.protect.md) 
 
-### [ReadMe.personal](/_personal/\Earth\Continent\Europe\Europe~West\FranceReadMe.personal.md) 
+### [ReadMe.private](/_private/Earth/Continent/Europe/Europe~West/France/ReadMe.private.md) 
 
-### [ReadMe.secret](/_secret/\Earth\Continent\Europe\Europe~West\FranceReadMe.secret.md)
+### [ReadMe.personal](/_personal/Earth/Continent/Europe/Europe~West/France/ReadMe.personal.md) 
+
+### [ReadMe.secret](/_secret/Earth/Continent/Europe/Europe~West/France/ReadMe.secret.md)
 

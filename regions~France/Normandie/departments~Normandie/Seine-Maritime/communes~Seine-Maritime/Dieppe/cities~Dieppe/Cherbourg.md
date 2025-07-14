@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Cherbourg.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Normandie\departments~Normandie\Seine-Maritime\communes~Seine-Maritime\Dieppe\cities~DieppeCherbourg.public.md) 
+### [Cherbourg](/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Normandie/departments~Normandie/Seine-Maritime/communes~Seine-Maritime/Dieppe/cities~Dieppe/Cherbourg.md) 
 
-### [Cherbourg.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Normandie\departments~Normandie\Seine-Maritime\communes~Seine-Maritime\Dieppe\cities~DieppeCherbourg.internal.md) 
+### [Cherbourg.public](/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Normandie/departments~Normandie/Seine-Maritime/communes~Seine-Maritime/Dieppe/cities~Dieppe/Cherbourg.public.md) 
 
-### [Cherbourg.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Normandie\departments~Normandie\Seine-Maritime\communes~Seine-Maritime\Dieppe\cities~DieppeCherbourg.protect.md) 
+### [Cherbourg.internal](/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Normandie/departments~Normandie/Seine-Maritime/communes~Seine-Maritime/Dieppe/cities~Dieppe/Cherbourg.internal.md) 
 
-### [Cherbourg.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Normandie\departments~Normandie\Seine-Maritime\communes~Seine-Maritime\Dieppe\cities~DieppeCherbourg.private.md) 
+### [Cherbourg.protect](/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Normandie/departments~Normandie/Seine-Maritime/communes~Seine-Maritime/Dieppe/cities~Dieppe/Cherbourg.protect.md) 
 
-### [Cherbourg.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Normandie\departments~Normandie\Seine-Maritime\communes~Seine-Maritime\Dieppe\cities~DieppeCherbourg.personal.md) 
+### [Cherbourg.private](/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Normandie/departments~Normandie/Seine-Maritime/communes~Seine-Maritime/Dieppe/cities~Dieppe/Cherbourg.private.md) 
 
-### [Cherbourg.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Normandie\departments~Normandie\Seine-Maritime\communes~Seine-Maritime\Dieppe\cities~DieppeCherbourg.secret.md)
+### [Cherbourg.personal](/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Normandie/departments~Normandie/Seine-Maritime/communes~Seine-Maritime/Dieppe/cities~Dieppe/Cherbourg.personal.md) 
+
+### [Cherbourg.secret](/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Normandie/departments~Normandie/Seine-Maritime/communes~Seine-Maritime/Dieppe/cities~Dieppe/Cherbourg.secret.md)
 

@@ -41,15 +41,17 @@ markerFolder: ./Département~Haute-Saône/
 
 ## Confidential Links & Embeds: 
 
-### [Haute-Saône.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Bourgogne-Franche-Comté\departments~Bourgogne-Franche-ComtéHaute-Saône.public.md) 
+### [Haute-Saône](/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Bourgogne-Franche-Comté/departments~Bourgogne-Franche-Comté/Haute-Saône.md) 
 
-### [Haute-Saône.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Bourgogne-Franche-Comté\departments~Bourgogne-Franche-ComtéHaute-Saône.internal.md) 
+### [Haute-Saône.public](/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Bourgogne-Franche-Comté/departments~Bourgogne-Franche-Comté/Haute-Saône.public.md) 
 
-### [Haute-Saône.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Bourgogne-Franche-Comté\departments~Bourgogne-Franche-ComtéHaute-Saône.protect.md) 
+### [Haute-Saône.internal](/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Bourgogne-Franche-Comté/departments~Bourgogne-Franche-Comté/Haute-Saône.internal.md) 
 
-### [Haute-Saône.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Bourgogne-Franche-Comté\departments~Bourgogne-Franche-ComtéHaute-Saône.private.md) 
+### [Haute-Saône.protect](/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Bourgogne-Franche-Comté/departments~Bourgogne-Franche-Comté/Haute-Saône.protect.md) 
 
-### [Haute-Saône.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Bourgogne-Franche-Comté\departments~Bourgogne-Franche-ComtéHaute-Saône.personal.md) 
+### [Haute-Saône.private](/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Bourgogne-Franche-Comté/departments~Bourgogne-Franche-Comté/Haute-Saône.private.md) 
 
-### [Haute-Saône.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Bourgogne-Franche-Comté\departments~Bourgogne-Franche-ComtéHaute-Saône.secret.md)
+### [Haute-Saône.personal](/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Bourgogne-Franche-Comté/departments~Bourgogne-Franche-Comté/Haute-Saône.personal.md) 
+
+### [Haute-Saône.secret](/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Bourgogne-Franche-Comté/departments~Bourgogne-Franche-Comté/Haute-Saône.secret.md)
 

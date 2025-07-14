@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Fréjus.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Provence-Alpes-Côte_d'Azur\departments~Provence\Var\communes~Var\Draguignan\cities~DraguignanFréjus.public.md) 
+### [Fréjus](/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Provence-Alpes-Côte_d'Azur/departments~Provence/Var/communes~Var/Draguignan/cities~Draguignan/Fréjus.md) 
 
-### [Fréjus.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Provence-Alpes-Côte_d'Azur\departments~Provence\Var\communes~Var\Draguignan\cities~DraguignanFréjus.internal.md) 
+### [Fréjus.public](/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Provence-Alpes-Côte_d'Azur/departments~Provence/Var/communes~Var/Draguignan/cities~Draguignan/Fréjus.public.md) 
 
-### [Fréjus.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Provence-Alpes-Côte_d'Azur\departments~Provence\Var\communes~Var\Draguignan\cities~DraguignanFréjus.protect.md) 
+### [Fréjus.internal](/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Provence-Alpes-Côte_d'Azur/departments~Provence/Var/communes~Var/Draguignan/cities~Draguignan/Fréjus.internal.md) 
 
-### [Fréjus.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Provence-Alpes-Côte_d'Azur\departments~Provence\Var\communes~Var\Draguignan\cities~DraguignanFréjus.private.md) 
+### [Fréjus.protect](/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Provence-Alpes-Côte_d'Azur/departments~Provence/Var/communes~Var/Draguignan/cities~Draguignan/Fréjus.protect.md) 
 
-### [Fréjus.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Provence-Alpes-Côte_d'Azur\departments~Provence\Var\communes~Var\Draguignan\cities~DraguignanFréjus.personal.md) 
+### [Fréjus.private](/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Provence-Alpes-Côte_d'Azur/departments~Provence/Var/communes~Var/Draguignan/cities~Draguignan/Fréjus.private.md) 
 
-### [Fréjus.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Provence-Alpes-Côte_d'Azur\departments~Provence\Var\communes~Var\Draguignan\cities~DraguignanFréjus.secret.md)
+### [Fréjus.personal](/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Provence-Alpes-Côte_d'Azur/departments~Provence/Var/communes~Var/Draguignan/cities~Draguignan/Fréjus.personal.md) 
+
+### [Fréjus.secret](/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Provence-Alpes-Côte_d'Azur/departments~Provence/Var/communes~Var/Draguignan/cities~Draguignan/Fréjus.secret.md)
 

@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Besancon.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Bourgogne-Franche-Comté\departments~Bourgogne-Franche-Comté\Doubs\communes~Doubs\Besançon\cities~BesançonBesancon.public.md) 
+### [Besancon](/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Bourgogne-Franche-Comté/departments~Bourgogne-Franche-Comté/Doubs/communes~Doubs/Besançon/cities~Besançon/Besancon.md) 
 
-### [Besancon.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Bourgogne-Franche-Comté\departments~Bourgogne-Franche-Comté\Doubs\communes~Doubs\Besançon\cities~BesançonBesancon.internal.md) 
+### [Besancon.public](/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Bourgogne-Franche-Comté/departments~Bourgogne-Franche-Comté/Doubs/communes~Doubs/Besançon/cities~Besançon/Besancon.public.md) 
 
-### [Besancon.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Bourgogne-Franche-Comté\departments~Bourgogne-Franche-Comté\Doubs\communes~Doubs\Besançon\cities~BesançonBesancon.protect.md) 
+### [Besancon.internal](/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Bourgogne-Franche-Comté/departments~Bourgogne-Franche-Comté/Doubs/communes~Doubs/Besançon/cities~Besançon/Besancon.internal.md) 
 
-### [Besancon.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Bourgogne-Franche-Comté\departments~Bourgogne-Franche-Comté\Doubs\communes~Doubs\Besançon\cities~BesançonBesancon.private.md) 
+### [Besancon.protect](/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Bourgogne-Franche-Comté/departments~Bourgogne-Franche-Comté/Doubs/communes~Doubs/Besançon/cities~Besançon/Besancon.protect.md) 
 
-### [Besancon.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Bourgogne-Franche-Comté\departments~Bourgogne-Franche-Comté\Doubs\communes~Doubs\Besançon\cities~BesançonBesancon.personal.md) 
+### [Besancon.private](/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Bourgogne-Franche-Comté/departments~Bourgogne-Franche-Comté/Doubs/communes~Doubs/Besançon/cities~Besançon/Besancon.private.md) 
 
-### [Besancon.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Bourgogne-Franche-Comté\departments~Bourgogne-Franche-Comté\Doubs\communes~Doubs\Besançon\cities~BesançonBesancon.secret.md)
+### [Besancon.personal](/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Bourgogne-Franche-Comté/departments~Bourgogne-Franche-Comté/Doubs/communes~Doubs/Besançon/cities~Besançon/Besancon.personal.md) 
+
+### [Besancon.secret](/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Bourgogne-Franche-Comté/departments~Bourgogne-Franche-Comté/Doubs/communes~Doubs/Besançon/cities~Besançon/Besancon.secret.md)
 

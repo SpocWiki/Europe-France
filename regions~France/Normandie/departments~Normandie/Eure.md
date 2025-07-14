@@ -41,15 +41,17 @@ markerFolder: ./Département~Eure/
 
 ## Confidential Links & Embeds: 
 
-### [Eure.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Normandie\departments~NormandieEure.public.md) 
+### [Eure](/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Normandie/departments~Normandie/Eure.md) 
 
-### [Eure.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Normandie\departments~NormandieEure.internal.md) 
+### [Eure.public](/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Normandie/departments~Normandie/Eure.public.md) 
 
-### [Eure.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Normandie\departments~NormandieEure.protect.md) 
+### [Eure.internal](/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Normandie/departments~Normandie/Eure.internal.md) 
 
-### [Eure.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Normandie\departments~NormandieEure.private.md) 
+### [Eure.protect](/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Normandie/departments~Normandie/Eure.protect.md) 
 
-### [Eure.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Normandie\departments~NormandieEure.personal.md) 
+### [Eure.private](/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Normandie/departments~Normandie/Eure.private.md) 
 
-### [Eure.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Normandie\departments~NormandieEure.secret.md)
+### [Eure.personal](/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Normandie/departments~Normandie/Eure.personal.md) 
+
+### [Eure.secret](/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Normandie/departments~Normandie/Eure.secret.md)
 

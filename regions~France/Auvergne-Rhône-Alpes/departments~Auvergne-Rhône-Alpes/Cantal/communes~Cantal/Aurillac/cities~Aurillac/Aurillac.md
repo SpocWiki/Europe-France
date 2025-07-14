@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Aurillac.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Auvergne-Rhône-Alpes\departments~Auvergne-Rhône-Alpes\Cantal\communes~Cantal\Aurillac\cities~AurillacAurillac.public.md) 
+### [Aurillac](/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Auvergne-Rhône-Alpes/departments~Auvergne-Rhône-Alpes/Cantal/communes~Cantal/Aurillac/cities~Aurillac/Aurillac.md) 
 
-### [Aurillac.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Auvergne-Rhône-Alpes\departments~Auvergne-Rhône-Alpes\Cantal\communes~Cantal\Aurillac\cities~AurillacAurillac.internal.md) 
+### [Aurillac.public](/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Auvergne-Rhône-Alpes/departments~Auvergne-Rhône-Alpes/Cantal/communes~Cantal/Aurillac/cities~Aurillac/Aurillac.public.md) 
 
-### [Aurillac.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Auvergne-Rhône-Alpes\departments~Auvergne-Rhône-Alpes\Cantal\communes~Cantal\Aurillac\cities~AurillacAurillac.protect.md) 
+### [Aurillac.internal](/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Auvergne-Rhône-Alpes/departments~Auvergne-Rhône-Alpes/Cantal/communes~Cantal/Aurillac/cities~Aurillac/Aurillac.internal.md) 
 
-### [Aurillac.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Auvergne-Rhône-Alpes\departments~Auvergne-Rhône-Alpes\Cantal\communes~Cantal\Aurillac\cities~AurillacAurillac.private.md) 
+### [Aurillac.protect](/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Auvergne-Rhône-Alpes/departments~Auvergne-Rhône-Alpes/Cantal/communes~Cantal/Aurillac/cities~Aurillac/Aurillac.protect.md) 
 
-### [Aurillac.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Auvergne-Rhône-Alpes\departments~Auvergne-Rhône-Alpes\Cantal\communes~Cantal\Aurillac\cities~AurillacAurillac.personal.md) 
+### [Aurillac.private](/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Auvergne-Rhône-Alpes/departments~Auvergne-Rhône-Alpes/Cantal/communes~Cantal/Aurillac/cities~Aurillac/Aurillac.private.md) 
 
-### [Aurillac.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Auvergne-Rhône-Alpes\departments~Auvergne-Rhône-Alpes\Cantal\communes~Cantal\Aurillac\cities~AurillacAurillac.secret.md)
+### [Aurillac.personal](/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Auvergne-Rhône-Alpes/departments~Auvergne-Rhône-Alpes/Cantal/communes~Cantal/Aurillac/cities~Aurillac/Aurillac.personal.md) 
+
+### [Aurillac.secret](/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Auvergne-Rhône-Alpes/departments~Auvergne-Rhône-Alpes/Cantal/communes~Cantal/Aurillac/cities~Aurillac/Aurillac.secret.md)
 

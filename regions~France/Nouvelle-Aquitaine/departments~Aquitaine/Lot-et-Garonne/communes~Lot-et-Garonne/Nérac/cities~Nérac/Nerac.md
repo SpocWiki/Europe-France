@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Nerac.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~Aquitaine\Lot-et-Garonne\communes~Lot-et-Garonne\Nérac\cities~NéracNerac.public.md) 
+### [Nerac](/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Nouvelle-Aquitaine/departments~Aquitaine/Lot-et-Garonne/communes~Lot-et-Garonne/Nérac/cities~Nérac/Nerac.md) 
 
-### [Nerac.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~Aquitaine\Lot-et-Garonne\communes~Lot-et-Garonne\Nérac\cities~NéracNerac.internal.md) 
+### [Nerac.public](/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Nouvelle-Aquitaine/departments~Aquitaine/Lot-et-Garonne/communes~Lot-et-Garonne/Nérac/cities~Nérac/Nerac.public.md) 
 
-### [Nerac.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~Aquitaine\Lot-et-Garonne\communes~Lot-et-Garonne\Nérac\cities~NéracNerac.protect.md) 
+### [Nerac.internal](/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Nouvelle-Aquitaine/departments~Aquitaine/Lot-et-Garonne/communes~Lot-et-Garonne/Nérac/cities~Nérac/Nerac.internal.md) 
 
-### [Nerac.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~Aquitaine\Lot-et-Garonne\communes~Lot-et-Garonne\Nérac\cities~NéracNerac.private.md) 
+### [Nerac.protect](/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Nouvelle-Aquitaine/departments~Aquitaine/Lot-et-Garonne/communes~Lot-et-Garonne/Nérac/cities~Nérac/Nerac.protect.md) 
 
-### [Nerac.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~Aquitaine\Lot-et-Garonne\communes~Lot-et-Garonne\Nérac\cities~NéracNerac.personal.md) 
+### [Nerac.private](/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Nouvelle-Aquitaine/departments~Aquitaine/Lot-et-Garonne/communes~Lot-et-Garonne/Nérac/cities~Nérac/Nerac.private.md) 
 
-### [Nerac.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~Aquitaine\Lot-et-Garonne\communes~Lot-et-Garonne\Nérac\cities~NéracNerac.secret.md)
+### [Nerac.personal](/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Nouvelle-Aquitaine/departments~Aquitaine/Lot-et-Garonne/communes~Lot-et-Garonne/Nérac/cities~Nérac/Nerac.personal.md) 
+
+### [Nerac.secret](/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Nouvelle-Aquitaine/departments~Aquitaine/Lot-et-Garonne/communes~Lot-et-Garonne/Nérac/cities~Nérac/Nerac.secret.md)
 

@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Digne.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Provence-Alpes-Côte_d'Azur\departments~Provence\Alpes-de-Haute-Provence\communes~Alpes-de-Haute\Digne-les-Bains\cities~Digne-les-BainsDigne.public.md) 
+### [Digne](/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Provence-Alpes-Côte_d'Azur/departments~Provence/Alpes-de-Haute-Provence/communes~Alpes-de-Haute/Digne-les-Bains/cities~Digne-les-Bains/Digne.md) 
 
-### [Digne.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Provence-Alpes-Côte_d'Azur\departments~Provence\Alpes-de-Haute-Provence\communes~Alpes-de-Haute\Digne-les-Bains\cities~Digne-les-BainsDigne.internal.md) 
+### [Digne.public](/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Provence-Alpes-Côte_d'Azur/departments~Provence/Alpes-de-Haute-Provence/communes~Alpes-de-Haute/Digne-les-Bains/cities~Digne-les-Bains/Digne.public.md) 
 
-### [Digne.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Provence-Alpes-Côte_d'Azur\departments~Provence\Alpes-de-Haute-Provence\communes~Alpes-de-Haute\Digne-les-Bains\cities~Digne-les-BainsDigne.protect.md) 
+### [Digne.internal](/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Provence-Alpes-Côte_d'Azur/departments~Provence/Alpes-de-Haute-Provence/communes~Alpes-de-Haute/Digne-les-Bains/cities~Digne-les-Bains/Digne.internal.md) 
 
-### [Digne.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Provence-Alpes-Côte_d'Azur\departments~Provence\Alpes-de-Haute-Provence\communes~Alpes-de-Haute\Digne-les-Bains\cities~Digne-les-BainsDigne.private.md) 
+### [Digne.protect](/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Provence-Alpes-Côte_d'Azur/departments~Provence/Alpes-de-Haute-Provence/communes~Alpes-de-Haute/Digne-les-Bains/cities~Digne-les-Bains/Digne.protect.md) 
 
-### [Digne.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Provence-Alpes-Côte_d'Azur\departments~Provence\Alpes-de-Haute-Provence\communes~Alpes-de-Haute\Digne-les-Bains\cities~Digne-les-BainsDigne.personal.md) 
+### [Digne.private](/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Provence-Alpes-Côte_d'Azur/departments~Provence/Alpes-de-Haute-Provence/communes~Alpes-de-Haute/Digne-les-Bains/cities~Digne-les-Bains/Digne.private.md) 
 
-### [Digne.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Provence-Alpes-Côte_d'Azur\departments~Provence\Alpes-de-Haute-Provence\communes~Alpes-de-Haute\Digne-les-Bains\cities~Digne-les-BainsDigne.secret.md)
+### [Digne.personal](/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Provence-Alpes-Côte_d'Azur/departments~Provence/Alpes-de-Haute-Provence/communes~Alpes-de-Haute/Digne-les-Bains/cities~Digne-les-Bains/Digne.personal.md) 
+
+### [Digne.secret](/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Provence-Alpes-Côte_d'Azur/departments~Provence/Alpes-de-Haute-Provence/communes~Alpes-de-Haute/Digne-les-Bains/cities~Digne-les-Bains/Digne.secret.md)
 

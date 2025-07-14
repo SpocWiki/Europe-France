@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Yvetot.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Normandie\departments~Normandie\Seine-Maritime\communes~Seine-Maritime\Rouen\cities~RouenYvetot.public.md) 
+### [Yvetot](/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Normandie/departments~Normandie/Seine-Maritime/communes~Seine-Maritime/Rouen/cities~Rouen/Yvetot.md) 
 
-### [Yvetot.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Normandie\departments~Normandie\Seine-Maritime\communes~Seine-Maritime\Rouen\cities~RouenYvetot.internal.md) 
+### [Yvetot.public](/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Normandie/departments~Normandie/Seine-Maritime/communes~Seine-Maritime/Rouen/cities~Rouen/Yvetot.public.md) 
 
-### [Yvetot.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Normandie\departments~Normandie\Seine-Maritime\communes~Seine-Maritime\Rouen\cities~RouenYvetot.protect.md) 
+### [Yvetot.internal](/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Normandie/departments~Normandie/Seine-Maritime/communes~Seine-Maritime/Rouen/cities~Rouen/Yvetot.internal.md) 
 
-### [Yvetot.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Normandie\departments~Normandie\Seine-Maritime\communes~Seine-Maritime\Rouen\cities~RouenYvetot.private.md) 
+### [Yvetot.protect](/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Normandie/departments~Normandie/Seine-Maritime/communes~Seine-Maritime/Rouen/cities~Rouen/Yvetot.protect.md) 
 
-### [Yvetot.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Normandie\departments~Normandie\Seine-Maritime\communes~Seine-Maritime\Rouen\cities~RouenYvetot.personal.md) 
+### [Yvetot.private](/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Normandie/departments~Normandie/Seine-Maritime/communes~Seine-Maritime/Rouen/cities~Rouen/Yvetot.private.md) 
 
-### [Yvetot.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Normandie\departments~Normandie\Seine-Maritime\communes~Seine-Maritime\Rouen\cities~RouenYvetot.secret.md)
+### [Yvetot.personal](/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Normandie/departments~Normandie/Seine-Maritime/communes~Seine-Maritime/Rouen/cities~Rouen/Yvetot.personal.md) 
+
+### [Yvetot.secret](/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Normandie/departments~Normandie/Seine-Maritime/communes~Seine-Maritime/Rouen/cities~Rouen/Yvetot.secret.md)
 

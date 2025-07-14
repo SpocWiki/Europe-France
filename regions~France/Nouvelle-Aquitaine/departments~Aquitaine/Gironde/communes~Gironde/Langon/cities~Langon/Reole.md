@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Reole.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~Aquitaine\Gironde\communes~Gironde\Langon\cities~LangonReole.public.md) 
+### [Reole](/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Nouvelle-Aquitaine/departments~Aquitaine/Gironde/communes~Gironde/Langon/cities~Langon/Reole.md) 
 
-### [Reole.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~Aquitaine\Gironde\communes~Gironde\Langon\cities~LangonReole.internal.md) 
+### [Reole.public](/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Nouvelle-Aquitaine/departments~Aquitaine/Gironde/communes~Gironde/Langon/cities~Langon/Reole.public.md) 
 
-### [Reole.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~Aquitaine\Gironde\communes~Gironde\Langon\cities~LangonReole.protect.md) 
+### [Reole.internal](/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Nouvelle-Aquitaine/departments~Aquitaine/Gironde/communes~Gironde/Langon/cities~Langon/Reole.internal.md) 
 
-### [Reole.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~Aquitaine\Gironde\communes~Gironde\Langon\cities~LangonReole.private.md) 
+### [Reole.protect](/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Nouvelle-Aquitaine/departments~Aquitaine/Gironde/communes~Gironde/Langon/cities~Langon/Reole.protect.md) 
 
-### [Reole.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~Aquitaine\Gironde\communes~Gironde\Langon\cities~LangonReole.personal.md) 
+### [Reole.private](/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Nouvelle-Aquitaine/departments~Aquitaine/Gironde/communes~Gironde/Langon/cities~Langon/Reole.private.md) 
 
-### [Reole.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~Aquitaine\Gironde\communes~Gironde\Langon\cities~LangonReole.secret.md)
+### [Reole.personal](/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Nouvelle-Aquitaine/departments~Aquitaine/Gironde/communes~Gironde/Langon/cities~Langon/Reole.personal.md) 
+
+### [Reole.secret](/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Nouvelle-Aquitaine/departments~Aquitaine/Gironde/communes~Gironde/Langon/cities~Langon/Reole.secret.md)
 

@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Bernay.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Normandie\departments~Normandie\Eure\communes~Eure\Bernay\cities~BernayBernay.public.md) 
+### [Bernay](/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Normandie/departments~Normandie/Eure/communes~Eure/Bernay/cities~Bernay/Bernay.md) 
 
-### [Bernay.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Normandie\departments~Normandie\Eure\communes~Eure\Bernay\cities~BernayBernay.internal.md) 
+### [Bernay.public](/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Normandie/departments~Normandie/Eure/communes~Eure/Bernay/cities~Bernay/Bernay.public.md) 
 
-### [Bernay.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Normandie\departments~Normandie\Eure\communes~Eure\Bernay\cities~BernayBernay.protect.md) 
+### [Bernay.internal](/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Normandie/departments~Normandie/Eure/communes~Eure/Bernay/cities~Bernay/Bernay.internal.md) 
 
-### [Bernay.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Normandie\departments~Normandie\Eure\communes~Eure\Bernay\cities~BernayBernay.private.md) 
+### [Bernay.protect](/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Normandie/departments~Normandie/Eure/communes~Eure/Bernay/cities~Bernay/Bernay.protect.md) 
 
-### [Bernay.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Normandie\departments~Normandie\Eure\communes~Eure\Bernay\cities~BernayBernay.personal.md) 
+### [Bernay.private](/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Normandie/departments~Normandie/Eure/communes~Eure/Bernay/cities~Bernay/Bernay.private.md) 
 
-### [Bernay.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Normandie\departments~Normandie\Eure\communes~Eure\Bernay\cities~BernayBernay.secret.md)
+### [Bernay.personal](/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Normandie/departments~Normandie/Eure/communes~Eure/Bernay/cities~Bernay/Bernay.personal.md) 
+
+### [Bernay.secret](/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Normandie/departments~Normandie/Eure/communes~Eure/Bernay/cities~Bernay/Bernay.secret.md)
 

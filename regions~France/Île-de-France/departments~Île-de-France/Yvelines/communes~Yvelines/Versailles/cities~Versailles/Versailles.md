@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Versailles.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Île-de-France\departments~Île-de-France\Yvelines\communes~Yvelines\Versailles\cities~VersaillesVersailles.public.md) 
+### [Versailles](/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Île-de-France/departments~Île-de-France/Yvelines/communes~Yvelines/Versailles/cities~Versailles/Versailles.md) 
 
-### [Versailles.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Île-de-France\departments~Île-de-France\Yvelines\communes~Yvelines\Versailles\cities~VersaillesVersailles.internal.md) 
+### [Versailles.public](/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Île-de-France/departments~Île-de-France/Yvelines/communes~Yvelines/Versailles/cities~Versailles/Versailles.public.md) 
 
-### [Versailles.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Île-de-France\departments~Île-de-France\Yvelines\communes~Yvelines\Versailles\cities~VersaillesVersailles.protect.md) 
+### [Versailles.internal](/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Île-de-France/departments~Île-de-France/Yvelines/communes~Yvelines/Versailles/cities~Versailles/Versailles.internal.md) 
 
-### [Versailles.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Île-de-France\departments~Île-de-France\Yvelines\communes~Yvelines\Versailles\cities~VersaillesVersailles.private.md) 
+### [Versailles.protect](/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Île-de-France/departments~Île-de-France/Yvelines/communes~Yvelines/Versailles/cities~Versailles/Versailles.protect.md) 
 
-### [Versailles.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Île-de-France\departments~Île-de-France\Yvelines\communes~Yvelines\Versailles\cities~VersaillesVersailles.personal.md) 
+### [Versailles.private](/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Île-de-France/departments~Île-de-France/Yvelines/communes~Yvelines/Versailles/cities~Versailles/Versailles.private.md) 
 
-### [Versailles.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Île-de-France\departments~Île-de-France\Yvelines\communes~Yvelines\Versailles\cities~VersaillesVersailles.secret.md)
+### [Versailles.personal](/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Île-de-France/departments~Île-de-France/Yvelines/communes~Yvelines/Versailles/cities~Versailles/Versailles.personal.md) 
+
+### [Versailles.secret](/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Île-de-France/departments~Île-de-France/Yvelines/communes~Yvelines/Versailles/cities~Versailles/Versailles.secret.md)
 

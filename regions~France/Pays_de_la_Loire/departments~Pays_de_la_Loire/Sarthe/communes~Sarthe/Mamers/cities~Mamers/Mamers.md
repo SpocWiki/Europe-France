@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Mamers.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Pays_de_la_Loire\departments~Pays_de_la_Loire\Sarthe\communes~Sarthe\Mamers\cities~MamersMamers.public.md) 
+### [Mamers](/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Pays_de_la_Loire/departments~Pays_de_la_Loire/Sarthe/communes~Sarthe/Mamers/cities~Mamers/Mamers.md) 
 
-### [Mamers.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Pays_de_la_Loire\departments~Pays_de_la_Loire\Sarthe\communes~Sarthe\Mamers\cities~MamersMamers.internal.md) 
+### [Mamers.public](/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Pays_de_la_Loire/departments~Pays_de_la_Loire/Sarthe/communes~Sarthe/Mamers/cities~Mamers/Mamers.public.md) 
 
-### [Mamers.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Pays_de_la_Loire\departments~Pays_de_la_Loire\Sarthe\communes~Sarthe\Mamers\cities~MamersMamers.protect.md) 
+### [Mamers.internal](/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Pays_de_la_Loire/departments~Pays_de_la_Loire/Sarthe/communes~Sarthe/Mamers/cities~Mamers/Mamers.internal.md) 
 
-### [Mamers.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Pays_de_la_Loire\departments~Pays_de_la_Loire\Sarthe\communes~Sarthe\Mamers\cities~MamersMamers.private.md) 
+### [Mamers.protect](/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Pays_de_la_Loire/departments~Pays_de_la_Loire/Sarthe/communes~Sarthe/Mamers/cities~Mamers/Mamers.protect.md) 
 
-### [Mamers.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Pays_de_la_Loire\departments~Pays_de_la_Loire\Sarthe\communes~Sarthe\Mamers\cities~MamersMamers.personal.md) 
+### [Mamers.private](/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Pays_de_la_Loire/departments~Pays_de_la_Loire/Sarthe/communes~Sarthe/Mamers/cities~Mamers/Mamers.private.md) 
 
-### [Mamers.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Pays_de_la_Loire\departments~Pays_de_la_Loire\Sarthe\communes~Sarthe\Mamers\cities~MamersMamers.secret.md)
+### [Mamers.personal](/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Pays_de_la_Loire/departments~Pays_de_la_Loire/Sarthe/communes~Sarthe/Mamers/cities~Mamers/Mamers.personal.md) 
+
+### [Mamers.secret](/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Pays_de_la_Loire/departments~Pays_de_la_Loire/Sarthe/communes~Sarthe/Mamers/cities~Mamers/Mamers.secret.md)
 

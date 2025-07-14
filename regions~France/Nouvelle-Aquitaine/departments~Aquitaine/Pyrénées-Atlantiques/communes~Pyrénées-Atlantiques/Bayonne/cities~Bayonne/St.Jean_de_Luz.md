@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [St.Jean_de_Luz.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~Aquitaine\Pyrénées-Atlantiques\communes~Pyrénées-Atlantiques\Bayonne\cities~BayonneSt.Jean_de_Luz.public.md) 
+### [St.Jean_de_Luz](/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Nouvelle-Aquitaine/departments~Aquitaine/Pyrénées-Atlantiques/communes~Pyrénées-Atlantiques/Bayonne/cities~Bayonne/St.Jean_de_Luz.md) 
 
-### [St.Jean_de_Luz.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~Aquitaine\Pyrénées-Atlantiques\communes~Pyrénées-Atlantiques\Bayonne\cities~BayonneSt.Jean_de_Luz.internal.md) 
+### [St.Jean_de_Luz.public](/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Nouvelle-Aquitaine/departments~Aquitaine/Pyrénées-Atlantiques/communes~Pyrénées-Atlantiques/Bayonne/cities~Bayonne/St.Jean_de_Luz.public.md) 
 
-### [St.Jean_de_Luz.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~Aquitaine\Pyrénées-Atlantiques\communes~Pyrénées-Atlantiques\Bayonne\cities~BayonneSt.Jean_de_Luz.protect.md) 
+### [St.Jean_de_Luz.internal](/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Nouvelle-Aquitaine/departments~Aquitaine/Pyrénées-Atlantiques/communes~Pyrénées-Atlantiques/Bayonne/cities~Bayonne/St.Jean_de_Luz.internal.md) 
 
-### [St.Jean_de_Luz.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~Aquitaine\Pyrénées-Atlantiques\communes~Pyrénées-Atlantiques\Bayonne\cities~BayonneSt.Jean_de_Luz.private.md) 
+### [St.Jean_de_Luz.protect](/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Nouvelle-Aquitaine/departments~Aquitaine/Pyrénées-Atlantiques/communes~Pyrénées-Atlantiques/Bayonne/cities~Bayonne/St.Jean_de_Luz.protect.md) 
 
-### [St.Jean_de_Luz.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~Aquitaine\Pyrénées-Atlantiques\communes~Pyrénées-Atlantiques\Bayonne\cities~BayonneSt.Jean_de_Luz.personal.md) 
+### [St.Jean_de_Luz.private](/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Nouvelle-Aquitaine/departments~Aquitaine/Pyrénées-Atlantiques/communes~Pyrénées-Atlantiques/Bayonne/cities~Bayonne/St.Jean_de_Luz.private.md) 
 
-### [St.Jean_de_Luz.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~Aquitaine\Pyrénées-Atlantiques\communes~Pyrénées-Atlantiques\Bayonne\cities~BayonneSt.Jean_de_Luz.secret.md)
+### [St.Jean_de_Luz.personal](/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Nouvelle-Aquitaine/departments~Aquitaine/Pyrénées-Atlantiques/communes~Pyrénées-Atlantiques/Bayonne/cities~Bayonne/St.Jean_de_Luz.personal.md) 
+
+### [St.Jean_de_Luz.secret](/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Nouvelle-Aquitaine/departments~Aquitaine/Pyrénées-Atlantiques/communes~Pyrénées-Atlantiques/Bayonne/cities~Bayonne/St.Jean_de_Luz.secret.md)
 

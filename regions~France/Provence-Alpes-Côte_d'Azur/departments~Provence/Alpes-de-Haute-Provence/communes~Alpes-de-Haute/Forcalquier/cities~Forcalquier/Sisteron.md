@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Sisteron.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Provence-Alpes-Côte_d'Azur\departments~Provence\Alpes-de-Haute-Provence\communes~Alpes-de-Haute\Forcalquier\cities~ForcalquierSisteron.public.md) 
+### [Sisteron](/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Provence-Alpes-Côte_d'Azur/departments~Provence/Alpes-de-Haute-Provence/communes~Alpes-de-Haute/Forcalquier/cities~Forcalquier/Sisteron.md) 
 
-### [Sisteron.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Provence-Alpes-Côte_d'Azur\departments~Provence\Alpes-de-Haute-Provence\communes~Alpes-de-Haute\Forcalquier\cities~ForcalquierSisteron.internal.md) 
+### [Sisteron.public](/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Provence-Alpes-Côte_d'Azur/departments~Provence/Alpes-de-Haute-Provence/communes~Alpes-de-Haute/Forcalquier/cities~Forcalquier/Sisteron.public.md) 
 
-### [Sisteron.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Provence-Alpes-Côte_d'Azur\departments~Provence\Alpes-de-Haute-Provence\communes~Alpes-de-Haute\Forcalquier\cities~ForcalquierSisteron.protect.md) 
+### [Sisteron.internal](/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Provence-Alpes-Côte_d'Azur/departments~Provence/Alpes-de-Haute-Provence/communes~Alpes-de-Haute/Forcalquier/cities~Forcalquier/Sisteron.internal.md) 
 
-### [Sisteron.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Provence-Alpes-Côte_d'Azur\departments~Provence\Alpes-de-Haute-Provence\communes~Alpes-de-Haute\Forcalquier\cities~ForcalquierSisteron.private.md) 
+### [Sisteron.protect](/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Provence-Alpes-Côte_d'Azur/departments~Provence/Alpes-de-Haute-Provence/communes~Alpes-de-Haute/Forcalquier/cities~Forcalquier/Sisteron.protect.md) 
 
-### [Sisteron.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Provence-Alpes-Côte_d'Azur\departments~Provence\Alpes-de-Haute-Provence\communes~Alpes-de-Haute\Forcalquier\cities~ForcalquierSisteron.personal.md) 
+### [Sisteron.private](/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Provence-Alpes-Côte_d'Azur/departments~Provence/Alpes-de-Haute-Provence/communes~Alpes-de-Haute/Forcalquier/cities~Forcalquier/Sisteron.private.md) 
 
-### [Sisteron.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Provence-Alpes-Côte_d'Azur\departments~Provence\Alpes-de-Haute-Provence\communes~Alpes-de-Haute\Forcalquier\cities~ForcalquierSisteron.secret.md)
+### [Sisteron.personal](/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Provence-Alpes-Côte_d'Azur/departments~Provence/Alpes-de-Haute-Provence/communes~Alpes-de-Haute/Forcalquier/cities~Forcalquier/Sisteron.personal.md) 
+
+### [Sisteron.secret](/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Provence-Alpes-Côte_d'Azur/departments~Provence/Alpes-de-Haute-Provence/communes~Alpes-de-Haute/Forcalquier/cities~Forcalquier/Sisteron.secret.md)
 

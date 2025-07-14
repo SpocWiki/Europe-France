@@ -41,15 +41,17 @@ markerFolder: ./Département~Ille-et-Vilaine/
 
 ## Confidential Links & Embeds: 
 
-### [Ille-et-Vilaine.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Bretagne\departments~BretagneIlle-et-Vilaine.public.md) 
+### [Ille-et-Vilaine](/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Bretagne/departments~Bretagne/Ille-et-Vilaine.md) 
 
-### [Ille-et-Vilaine.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Bretagne\departments~BretagneIlle-et-Vilaine.internal.md) 
+### [Ille-et-Vilaine.public](/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Bretagne/departments~Bretagne/Ille-et-Vilaine.public.md) 
 
-### [Ille-et-Vilaine.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Bretagne\departments~BretagneIlle-et-Vilaine.protect.md) 
+### [Ille-et-Vilaine.internal](/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Bretagne/departments~Bretagne/Ille-et-Vilaine.internal.md) 
 
-### [Ille-et-Vilaine.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Bretagne\departments~BretagneIlle-et-Vilaine.private.md) 
+### [Ille-et-Vilaine.protect](/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Bretagne/departments~Bretagne/Ille-et-Vilaine.protect.md) 
 
-### [Ille-et-Vilaine.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Bretagne\departments~BretagneIlle-et-Vilaine.personal.md) 
+### [Ille-et-Vilaine.private](/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Bretagne/departments~Bretagne/Ille-et-Vilaine.private.md) 
 
-### [Ille-et-Vilaine.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Bretagne\departments~BretagneIlle-et-Vilaine.secret.md)
+### [Ille-et-Vilaine.personal](/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Bretagne/departments~Bretagne/Ille-et-Vilaine.personal.md) 
+
+### [Ille-et-Vilaine.secret](/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Bretagne/departments~Bretagne/Ille-et-Vilaine.secret.md)
 

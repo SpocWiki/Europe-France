@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Lourdes.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~Occitanie\Hautes-Pyrénées\communes~Hautes-Pyrénées\Argelès-Gazost\cities~Argelès-GazostLourdes.public.md) 
+### [Lourdes](/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Hautes-Pyrénées/communes~Hautes-Pyrénées/Argelès-Gazost/cities~Argelès-Gazost/Lourdes.md) 
 
-### [Lourdes.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~Occitanie\Hautes-Pyrénées\communes~Hautes-Pyrénées\Argelès-Gazost\cities~Argelès-GazostLourdes.internal.md) 
+### [Lourdes.public](/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Hautes-Pyrénées/communes~Hautes-Pyrénées/Argelès-Gazost/cities~Argelès-Gazost/Lourdes.public.md) 
 
-### [Lourdes.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~Occitanie\Hautes-Pyrénées\communes~Hautes-Pyrénées\Argelès-Gazost\cities~Argelès-GazostLourdes.protect.md) 
+### [Lourdes.internal](/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Hautes-Pyrénées/communes~Hautes-Pyrénées/Argelès-Gazost/cities~Argelès-Gazost/Lourdes.internal.md) 
 
-### [Lourdes.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~Occitanie\Hautes-Pyrénées\communes~Hautes-Pyrénées\Argelès-Gazost\cities~Argelès-GazostLourdes.private.md) 
+### [Lourdes.protect](/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Hautes-Pyrénées/communes~Hautes-Pyrénées/Argelès-Gazost/cities~Argelès-Gazost/Lourdes.protect.md) 
 
-### [Lourdes.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~Occitanie\Hautes-Pyrénées\communes~Hautes-Pyrénées\Argelès-Gazost\cities~Argelès-GazostLourdes.personal.md) 
+### [Lourdes.private](/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Hautes-Pyrénées/communes~Hautes-Pyrénées/Argelès-Gazost/cities~Argelès-Gazost/Lourdes.private.md) 
 
-### [Lourdes.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~Occitanie\Hautes-Pyrénées\communes~Hautes-Pyrénées\Argelès-Gazost\cities~Argelès-GazostLourdes.secret.md)
+### [Lourdes.personal](/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Hautes-Pyrénées/communes~Hautes-Pyrénées/Argelès-Gazost/cities~Argelès-Gazost/Lourdes.personal.md) 
+
+### [Lourdes.secret](/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Hautes-Pyrénées/communes~Hautes-Pyrénées/Argelès-Gazost/cities~Argelès-Gazost/Lourdes.secret.md)
 

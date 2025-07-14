@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Chinon.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Val_de_Loire\departments~Val_de_Loire\Indre-et-Loire\communes~Indre-et-Loire\Chinon\cities~ChinonChinon.public.md) 
+### [Chinon](/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Val_de_Loire/departments~Val_de_Loire/Indre-et-Loire/communes~Indre-et-Loire/Chinon/cities~Chinon/Chinon.md) 
 
-### [Chinon.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Val_de_Loire\departments~Val_de_Loire\Indre-et-Loire\communes~Indre-et-Loire\Chinon\cities~ChinonChinon.internal.md) 
+### [Chinon.public](/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Val_de_Loire/departments~Val_de_Loire/Indre-et-Loire/communes~Indre-et-Loire/Chinon/cities~Chinon/Chinon.public.md) 
 
-### [Chinon.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Val_de_Loire\departments~Val_de_Loire\Indre-et-Loire\communes~Indre-et-Loire\Chinon\cities~ChinonChinon.protect.md) 
+### [Chinon.internal](/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Val_de_Loire/departments~Val_de_Loire/Indre-et-Loire/communes~Indre-et-Loire/Chinon/cities~Chinon/Chinon.internal.md) 
 
-### [Chinon.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Val_de_Loire\departments~Val_de_Loire\Indre-et-Loire\communes~Indre-et-Loire\Chinon\cities~ChinonChinon.private.md) 
+### [Chinon.protect](/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Val_de_Loire/departments~Val_de_Loire/Indre-et-Loire/communes~Indre-et-Loire/Chinon/cities~Chinon/Chinon.protect.md) 
 
-### [Chinon.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Val_de_Loire\departments~Val_de_Loire\Indre-et-Loire\communes~Indre-et-Loire\Chinon\cities~ChinonChinon.personal.md) 
+### [Chinon.private](/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Val_de_Loire/departments~Val_de_Loire/Indre-et-Loire/communes~Indre-et-Loire/Chinon/cities~Chinon/Chinon.private.md) 
 
-### [Chinon.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Val_de_Loire\departments~Val_de_Loire\Indre-et-Loire\communes~Indre-et-Loire\Chinon\cities~ChinonChinon.secret.md)
+### [Chinon.personal](/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Val_de_Loire/departments~Val_de_Loire/Indre-et-Loire/communes~Indre-et-Loire/Chinon/cities~Chinon/Chinon.personal.md) 
+
+### [Chinon.secret](/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Val_de_Loire/departments~Val_de_Loire/Indre-et-Loire/communes~Indre-et-Loire/Chinon/cities~Chinon/Chinon.secret.md)
 

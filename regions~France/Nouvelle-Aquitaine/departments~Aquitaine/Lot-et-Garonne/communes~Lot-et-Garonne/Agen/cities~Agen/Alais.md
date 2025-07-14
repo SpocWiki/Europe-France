@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Alais.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~Aquitaine\Lot-et-Garonne\communes~Lot-et-Garonne\Agen\cities~AgenAlais.public.md) 
+### [Alais](/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Nouvelle-Aquitaine/departments~Aquitaine/Lot-et-Garonne/communes~Lot-et-Garonne/Agen/cities~Agen/Alais.md) 
 
-### [Alais.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~Aquitaine\Lot-et-Garonne\communes~Lot-et-Garonne\Agen\cities~AgenAlais.internal.md) 
+### [Alais.public](/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Nouvelle-Aquitaine/departments~Aquitaine/Lot-et-Garonne/communes~Lot-et-Garonne/Agen/cities~Agen/Alais.public.md) 
 
-### [Alais.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~Aquitaine\Lot-et-Garonne\communes~Lot-et-Garonne\Agen\cities~AgenAlais.protect.md) 
+### [Alais.internal](/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Nouvelle-Aquitaine/departments~Aquitaine/Lot-et-Garonne/communes~Lot-et-Garonne/Agen/cities~Agen/Alais.internal.md) 
 
-### [Alais.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~Aquitaine\Lot-et-Garonne\communes~Lot-et-Garonne\Agen\cities~AgenAlais.private.md) 
+### [Alais.protect](/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Nouvelle-Aquitaine/departments~Aquitaine/Lot-et-Garonne/communes~Lot-et-Garonne/Agen/cities~Agen/Alais.protect.md) 
 
-### [Alais.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~Aquitaine\Lot-et-Garonne\communes~Lot-et-Garonne\Agen\cities~AgenAlais.personal.md) 
+### [Alais.private](/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Nouvelle-Aquitaine/departments~Aquitaine/Lot-et-Garonne/communes~Lot-et-Garonne/Agen/cities~Agen/Alais.private.md) 
 
-### [Alais.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~Aquitaine\Lot-et-Garonne\communes~Lot-et-Garonne\Agen\cities~AgenAlais.secret.md)
+### [Alais.personal](/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Nouvelle-Aquitaine/departments~Aquitaine/Lot-et-Garonne/communes~Lot-et-Garonne/Agen/cities~Agen/Alais.personal.md) 
+
+### [Alais.secret](/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Nouvelle-Aquitaine/departments~Aquitaine/Lot-et-Garonne/communes~Lot-et-Garonne/Agen/cities~Agen/Alais.secret.md)
 

@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Schlettstadt.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Grand_Est\departments~Grand_Est\Bas-Rhin\communes~Bas-Rhin\Sélestat-Erstein\cities~Sélestat-ErsteinSchlettstadt.public.md) 
+### [Schlettstadt](/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Grand_Est/departments~Grand_Est/Bas-Rhin/communes~Bas-Rhin/Sélestat-Erstein/cities~Sélestat-Erstein/Schlettstadt.md) 
 
-### [Schlettstadt.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Grand_Est\departments~Grand_Est\Bas-Rhin\communes~Bas-Rhin\Sélestat-Erstein\cities~Sélestat-ErsteinSchlettstadt.internal.md) 
+### [Schlettstadt.public](/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Grand_Est/departments~Grand_Est/Bas-Rhin/communes~Bas-Rhin/Sélestat-Erstein/cities~Sélestat-Erstein/Schlettstadt.public.md) 
 
-### [Schlettstadt.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Grand_Est\departments~Grand_Est\Bas-Rhin\communes~Bas-Rhin\Sélestat-Erstein\cities~Sélestat-ErsteinSchlettstadt.protect.md) 
+### [Schlettstadt.internal](/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Grand_Est/departments~Grand_Est/Bas-Rhin/communes~Bas-Rhin/Sélestat-Erstein/cities~Sélestat-Erstein/Schlettstadt.internal.md) 
 
-### [Schlettstadt.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Grand_Est\departments~Grand_Est\Bas-Rhin\communes~Bas-Rhin\Sélestat-Erstein\cities~Sélestat-ErsteinSchlettstadt.private.md) 
+### [Schlettstadt.protect](/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Grand_Est/departments~Grand_Est/Bas-Rhin/communes~Bas-Rhin/Sélestat-Erstein/cities~Sélestat-Erstein/Schlettstadt.protect.md) 
 
-### [Schlettstadt.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Grand_Est\departments~Grand_Est\Bas-Rhin\communes~Bas-Rhin\Sélestat-Erstein\cities~Sélestat-ErsteinSchlettstadt.personal.md) 
+### [Schlettstadt.private](/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Grand_Est/departments~Grand_Est/Bas-Rhin/communes~Bas-Rhin/Sélestat-Erstein/cities~Sélestat-Erstein/Schlettstadt.private.md) 
 
-### [Schlettstadt.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Grand_Est\departments~Grand_Est\Bas-Rhin\communes~Bas-Rhin\Sélestat-Erstein\cities~Sélestat-ErsteinSchlettstadt.secret.md)
+### [Schlettstadt.personal](/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Grand_Est/departments~Grand_Est/Bas-Rhin/communes~Bas-Rhin/Sélestat-Erstein/cities~Sélestat-Erstein/Schlettstadt.personal.md) 
+
+### [Schlettstadt.secret](/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Grand_Est/departments~Grand_Est/Bas-Rhin/communes~Bas-Rhin/Sélestat-Erstein/cities~Sélestat-Erstein/Schlettstadt.secret.md)
 

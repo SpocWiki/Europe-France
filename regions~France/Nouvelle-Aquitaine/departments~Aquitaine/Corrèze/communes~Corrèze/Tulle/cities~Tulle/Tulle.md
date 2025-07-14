@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Tulle.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~Aquitaine\Corrèze\communes~Corrèze\Tulle\cities~TulleTulle.public.md) 
+### [Tulle](/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Nouvelle-Aquitaine/departments~Aquitaine/Corrèze/communes~Corrèze/Tulle/cities~Tulle/Tulle.md) 
 
-### [Tulle.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~Aquitaine\Corrèze\communes~Corrèze\Tulle\cities~TulleTulle.internal.md) 
+### [Tulle.public](/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Nouvelle-Aquitaine/departments~Aquitaine/Corrèze/communes~Corrèze/Tulle/cities~Tulle/Tulle.public.md) 
 
-### [Tulle.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~Aquitaine\Corrèze\communes~Corrèze\Tulle\cities~TulleTulle.protect.md) 
+### [Tulle.internal](/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Nouvelle-Aquitaine/departments~Aquitaine/Corrèze/communes~Corrèze/Tulle/cities~Tulle/Tulle.internal.md) 
 
-### [Tulle.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~Aquitaine\Corrèze\communes~Corrèze\Tulle\cities~TulleTulle.private.md) 
+### [Tulle.protect](/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Nouvelle-Aquitaine/departments~Aquitaine/Corrèze/communes~Corrèze/Tulle/cities~Tulle/Tulle.protect.md) 
 
-### [Tulle.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~Aquitaine\Corrèze\communes~Corrèze\Tulle\cities~TulleTulle.personal.md) 
+### [Tulle.private](/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Nouvelle-Aquitaine/departments~Aquitaine/Corrèze/communes~Corrèze/Tulle/cities~Tulle/Tulle.private.md) 
 
-### [Tulle.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~Aquitaine\Corrèze\communes~Corrèze\Tulle\cities~TulleTulle.secret.md)
+### [Tulle.personal](/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Nouvelle-Aquitaine/departments~Aquitaine/Corrèze/communes~Corrèze/Tulle/cities~Tulle/Tulle.personal.md) 
+
+### [Tulle.secret](/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Nouvelle-Aquitaine/departments~Aquitaine/Corrèze/communes~Corrèze/Tulle/cities~Tulle/Tulle.secret.md)
 

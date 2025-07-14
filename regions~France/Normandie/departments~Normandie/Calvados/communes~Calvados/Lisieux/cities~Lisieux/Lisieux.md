@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Lisieux.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Normandie\departments~Normandie\Calvados\communes~Calvados\Lisieux\cities~LisieuxLisieux.public.md) 
+### [Lisieux](/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Normandie/departments~Normandie/Calvados/communes~Calvados/Lisieux/cities~Lisieux/Lisieux.md) 
 
-### [Lisieux.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Normandie\departments~Normandie\Calvados\communes~Calvados\Lisieux\cities~LisieuxLisieux.internal.md) 
+### [Lisieux.public](/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Normandie/departments~Normandie/Calvados/communes~Calvados/Lisieux/cities~Lisieux/Lisieux.public.md) 
 
-### [Lisieux.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Normandie\departments~Normandie\Calvados\communes~Calvados\Lisieux\cities~LisieuxLisieux.protect.md) 
+### [Lisieux.internal](/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Normandie/departments~Normandie/Calvados/communes~Calvados/Lisieux/cities~Lisieux/Lisieux.internal.md) 
 
-### [Lisieux.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Normandie\departments~Normandie\Calvados\communes~Calvados\Lisieux\cities~LisieuxLisieux.private.md) 
+### [Lisieux.protect](/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Normandie/departments~Normandie/Calvados/communes~Calvados/Lisieux/cities~Lisieux/Lisieux.protect.md) 
 
-### [Lisieux.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Normandie\departments~Normandie\Calvados\communes~Calvados\Lisieux\cities~LisieuxLisieux.personal.md) 
+### [Lisieux.private](/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Normandie/departments~Normandie/Calvados/communes~Calvados/Lisieux/cities~Lisieux/Lisieux.private.md) 
 
-### [Lisieux.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Normandie\departments~Normandie\Calvados\communes~Calvados\Lisieux\cities~LisieuxLisieux.secret.md)
+### [Lisieux.personal](/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Normandie/departments~Normandie/Calvados/communes~Calvados/Lisieux/cities~Lisieux/Lisieux.personal.md) 
+
+### [Lisieux.secret](/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Normandie/departments~Normandie/Calvados/communes~Calvados/Lisieux/cities~Lisieux/Lisieux.secret.md)
 

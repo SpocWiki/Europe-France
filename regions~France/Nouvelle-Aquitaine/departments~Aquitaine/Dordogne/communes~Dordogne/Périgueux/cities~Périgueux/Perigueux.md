@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Perigueux.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~Aquitaine\Dordogne\communes~Dordogne\Périgueux\cities~PérigueuxPerigueux.public.md) 
+### [Perigueux](/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Nouvelle-Aquitaine/departments~Aquitaine/Dordogne/communes~Dordogne/Périgueux/cities~Périgueux/Perigueux.md) 
 
-### [Perigueux.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~Aquitaine\Dordogne\communes~Dordogne\Périgueux\cities~PérigueuxPerigueux.internal.md) 
+### [Perigueux.public](/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Nouvelle-Aquitaine/departments~Aquitaine/Dordogne/communes~Dordogne/Périgueux/cities~Périgueux/Perigueux.public.md) 
 
-### [Perigueux.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~Aquitaine\Dordogne\communes~Dordogne\Périgueux\cities~PérigueuxPerigueux.protect.md) 
+### [Perigueux.internal](/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Nouvelle-Aquitaine/departments~Aquitaine/Dordogne/communes~Dordogne/Périgueux/cities~Périgueux/Perigueux.internal.md) 
 
-### [Perigueux.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~Aquitaine\Dordogne\communes~Dordogne\Périgueux\cities~PérigueuxPerigueux.private.md) 
+### [Perigueux.protect](/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Nouvelle-Aquitaine/departments~Aquitaine/Dordogne/communes~Dordogne/Périgueux/cities~Périgueux/Perigueux.protect.md) 
 
-### [Perigueux.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~Aquitaine\Dordogne\communes~Dordogne\Périgueux\cities~PérigueuxPerigueux.personal.md) 
+### [Perigueux.private](/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Nouvelle-Aquitaine/departments~Aquitaine/Dordogne/communes~Dordogne/Périgueux/cities~Périgueux/Perigueux.private.md) 
 
-### [Perigueux.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~Aquitaine\Dordogne\communes~Dordogne\Périgueux\cities~PérigueuxPerigueux.secret.md)
+### [Perigueux.personal](/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Nouvelle-Aquitaine/departments~Aquitaine/Dordogne/communes~Dordogne/Périgueux/cities~Périgueux/Perigueux.personal.md) 
+
+### [Perigueux.secret](/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Nouvelle-Aquitaine/departments~Aquitaine/Dordogne/communes~Dordogne/Périgueux/cities~Périgueux/Perigueux.secret.md)
 

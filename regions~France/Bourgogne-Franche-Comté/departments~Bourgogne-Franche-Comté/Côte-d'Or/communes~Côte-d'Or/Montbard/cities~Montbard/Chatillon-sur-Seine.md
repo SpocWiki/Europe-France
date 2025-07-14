@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Chatillon-sur-Seine.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Bourgogne-Franche-Comté\departments~Bourgogne-Franche-Comté\Côte-d'Or\communes~Côte-d'Or\Montbard\cities~MontbardChatillon-sur-Seine.public.md) 
+### [Chatillon-sur-Seine](/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Bourgogne-Franche-Comté/departments~Bourgogne-Franche-Comté/Côte-d'Or/communes~Côte-d'Or/Montbard/cities~Montbard/Chatillon-sur-Seine.md) 
 
-### [Chatillon-sur-Seine.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Bourgogne-Franche-Comté\departments~Bourgogne-Franche-Comté\Côte-d'Or\communes~Côte-d'Or\Montbard\cities~MontbardChatillon-sur-Seine.internal.md) 
+### [Chatillon-sur-Seine.public](/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Bourgogne-Franche-Comté/departments~Bourgogne-Franche-Comté/Côte-d'Or/communes~Côte-d'Or/Montbard/cities~Montbard/Chatillon-sur-Seine.public.md) 
 
-### [Chatillon-sur-Seine.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Bourgogne-Franche-Comté\departments~Bourgogne-Franche-Comté\Côte-d'Or\communes~Côte-d'Or\Montbard\cities~MontbardChatillon-sur-Seine.protect.md) 
+### [Chatillon-sur-Seine.internal](/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Bourgogne-Franche-Comté/departments~Bourgogne-Franche-Comté/Côte-d'Or/communes~Côte-d'Or/Montbard/cities~Montbard/Chatillon-sur-Seine.internal.md) 
 
-### [Chatillon-sur-Seine.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Bourgogne-Franche-Comté\departments~Bourgogne-Franche-Comté\Côte-d'Or\communes~Côte-d'Or\Montbard\cities~MontbardChatillon-sur-Seine.private.md) 
+### [Chatillon-sur-Seine.protect](/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Bourgogne-Franche-Comté/departments~Bourgogne-Franche-Comté/Côte-d'Or/communes~Côte-d'Or/Montbard/cities~Montbard/Chatillon-sur-Seine.protect.md) 
 
-### [Chatillon-sur-Seine.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Bourgogne-Franche-Comté\departments~Bourgogne-Franche-Comté\Côte-d'Or\communes~Côte-d'Or\Montbard\cities~MontbardChatillon-sur-Seine.personal.md) 
+### [Chatillon-sur-Seine.private](/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Bourgogne-Franche-Comté/departments~Bourgogne-Franche-Comté/Côte-d'Or/communes~Côte-d'Or/Montbard/cities~Montbard/Chatillon-sur-Seine.private.md) 
 
-### [Chatillon-sur-Seine.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Bourgogne-Franche-Comté\departments~Bourgogne-Franche-Comté\Côte-d'Or\communes~Côte-d'Or\Montbard\cities~MontbardChatillon-sur-Seine.secret.md)
+### [Chatillon-sur-Seine.personal](/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Bourgogne-Franche-Comté/departments~Bourgogne-Franche-Comté/Côte-d'Or/communes~Côte-d'Or/Montbard/cities~Montbard/Chatillon-sur-Seine.personal.md) 
+
+### [Chatillon-sur-Seine.secret](/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Bourgogne-Franche-Comté/departments~Bourgogne-Franche-Comté/Côte-d'Or/communes~Côte-d'Or/Montbard/cities~Montbard/Chatillon-sur-Seine.secret.md)
 

@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Montélimar.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Auvergne-Rhône-Alpes\departments~Auvergne-Rhône-Alpes\Drôme\communes~Drôme\Nyons\cities~NyonsMontélimar.public.md) 
+### [Montélimar](/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Auvergne-Rhône-Alpes/departments~Auvergne-Rhône-Alpes/Drôme/communes~Drôme/Nyons/cities~Nyons/Montélimar.md) 
 
-### [Montélimar.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Auvergne-Rhône-Alpes\departments~Auvergne-Rhône-Alpes\Drôme\communes~Drôme\Nyons\cities~NyonsMontélimar.internal.md) 
+### [Montélimar.public](/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Auvergne-Rhône-Alpes/departments~Auvergne-Rhône-Alpes/Drôme/communes~Drôme/Nyons/cities~Nyons/Montélimar.public.md) 
 
-### [Montélimar.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Auvergne-Rhône-Alpes\departments~Auvergne-Rhône-Alpes\Drôme\communes~Drôme\Nyons\cities~NyonsMontélimar.protect.md) 
+### [Montélimar.internal](/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Auvergne-Rhône-Alpes/departments~Auvergne-Rhône-Alpes/Drôme/communes~Drôme/Nyons/cities~Nyons/Montélimar.internal.md) 
 
-### [Montélimar.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Auvergne-Rhône-Alpes\departments~Auvergne-Rhône-Alpes\Drôme\communes~Drôme\Nyons\cities~NyonsMontélimar.private.md) 
+### [Montélimar.protect](/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Auvergne-Rhône-Alpes/departments~Auvergne-Rhône-Alpes/Drôme/communes~Drôme/Nyons/cities~Nyons/Montélimar.protect.md) 
 
-### [Montélimar.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Auvergne-Rhône-Alpes\departments~Auvergne-Rhône-Alpes\Drôme\communes~Drôme\Nyons\cities~NyonsMontélimar.personal.md) 
+### [Montélimar.private](/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Auvergne-Rhône-Alpes/departments~Auvergne-Rhône-Alpes/Drôme/communes~Drôme/Nyons/cities~Nyons/Montélimar.private.md) 
 
-### [Montélimar.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Auvergne-Rhône-Alpes\departments~Auvergne-Rhône-Alpes\Drôme\communes~Drôme\Nyons\cities~NyonsMontélimar.secret.md)
+### [Montélimar.personal](/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Auvergne-Rhône-Alpes/departments~Auvergne-Rhône-Alpes/Drôme/communes~Drôme/Nyons/cities~Nyons/Montélimar.personal.md) 
+
+### [Montélimar.secret](/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Auvergne-Rhône-Alpes/departments~Auvergne-Rhône-Alpes/Drôme/communes~Drôme/Nyons/cities~Nyons/Montélimar.secret.md)
 

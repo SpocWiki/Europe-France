@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Sens.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Bourgogne-Franche-Comté\departments~Bourgogne-Franche-Comté\Yonne\communes~Yonne\Sens\cities~SensSens.public.md) 
+### [Sens](/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Bourgogne-Franche-Comté/departments~Bourgogne-Franche-Comté/Yonne/communes~Yonne/Sens/cities~Sens/Sens.md) 
 
-### [Sens.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Bourgogne-Franche-Comté\departments~Bourgogne-Franche-Comté\Yonne\communes~Yonne\Sens\cities~SensSens.internal.md) 
+### [Sens.public](/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Bourgogne-Franche-Comté/departments~Bourgogne-Franche-Comté/Yonne/communes~Yonne/Sens/cities~Sens/Sens.public.md) 
 
-### [Sens.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Bourgogne-Franche-Comté\departments~Bourgogne-Franche-Comté\Yonne\communes~Yonne\Sens\cities~SensSens.protect.md) 
+### [Sens.internal](/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Bourgogne-Franche-Comté/departments~Bourgogne-Franche-Comté/Yonne/communes~Yonne/Sens/cities~Sens/Sens.internal.md) 
 
-### [Sens.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Bourgogne-Franche-Comté\departments~Bourgogne-Franche-Comté\Yonne\communes~Yonne\Sens\cities~SensSens.private.md) 
+### [Sens.protect](/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Bourgogne-Franche-Comté/departments~Bourgogne-Franche-Comté/Yonne/communes~Yonne/Sens/cities~Sens/Sens.protect.md) 
 
-### [Sens.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Bourgogne-Franche-Comté\departments~Bourgogne-Franche-Comté\Yonne\communes~Yonne\Sens\cities~SensSens.personal.md) 
+### [Sens.private](/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Bourgogne-Franche-Comté/departments~Bourgogne-Franche-Comté/Yonne/communes~Yonne/Sens/cities~Sens/Sens.private.md) 
 
-### [Sens.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Bourgogne-Franche-Comté\departments~Bourgogne-Franche-Comté\Yonne\communes~Yonne\Sens\cities~SensSens.secret.md)
+### [Sens.personal](/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Bourgogne-Franche-Comté/departments~Bourgogne-Franche-Comté/Yonne/communes~Yonne/Sens/cities~Sens/Sens.personal.md) 
+
+### [Sens.secret](/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Bourgogne-Franche-Comté/departments~Bourgogne-Franche-Comté/Yonne/communes~Yonne/Sens/cities~Sens/Sens.secret.md)
 

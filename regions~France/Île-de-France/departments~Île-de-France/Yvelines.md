@@ -41,15 +41,17 @@ markerFolder: ./Département~Yvelines/
 
 ## Confidential Links & Embeds: 
 
-### [Yvelines.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Île-de-France\departments~Île-de-FranceYvelines.public.md) 
+### [Yvelines](/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Île-de-France/departments~Île-de-France/Yvelines.md) 
 
-### [Yvelines.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Île-de-France\departments~Île-de-FranceYvelines.internal.md) 
+### [Yvelines.public](/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Île-de-France/departments~Île-de-France/Yvelines.public.md) 
 
-### [Yvelines.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Île-de-France\departments~Île-de-FranceYvelines.protect.md) 
+### [Yvelines.internal](/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Île-de-France/departments~Île-de-France/Yvelines.internal.md) 
 
-### [Yvelines.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Île-de-France\departments~Île-de-FranceYvelines.private.md) 
+### [Yvelines.protect](/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Île-de-France/departments~Île-de-France/Yvelines.protect.md) 
 
-### [Yvelines.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Île-de-France\departments~Île-de-FranceYvelines.personal.md) 
+### [Yvelines.private](/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Île-de-France/departments~Île-de-France/Yvelines.private.md) 
 
-### [Yvelines.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Île-de-France\departments~Île-de-FranceYvelines.secret.md)
+### [Yvelines.personal](/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Île-de-France/departments~Île-de-France/Yvelines.personal.md) 
+
+### [Yvelines.secret](/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Île-de-France/departments~Île-de-France/Yvelines.secret.md)
 

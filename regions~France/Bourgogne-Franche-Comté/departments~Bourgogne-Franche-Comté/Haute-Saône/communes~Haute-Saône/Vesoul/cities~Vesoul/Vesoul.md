@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Vesoul.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Bourgogne-Franche-Comté\departments~Bourgogne-Franche-Comté\Haute-Saône\communes~Haute-Saône\Vesoul\cities~VesoulVesoul.public.md) 
+### [Vesoul](/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Bourgogne-Franche-Comté/departments~Bourgogne-Franche-Comté/Haute-Saône/communes~Haute-Saône/Vesoul/cities~Vesoul/Vesoul.md) 
 
-### [Vesoul.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Bourgogne-Franche-Comté\departments~Bourgogne-Franche-Comté\Haute-Saône\communes~Haute-Saône\Vesoul\cities~VesoulVesoul.internal.md) 
+### [Vesoul.public](/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Bourgogne-Franche-Comté/departments~Bourgogne-Franche-Comté/Haute-Saône/communes~Haute-Saône/Vesoul/cities~Vesoul/Vesoul.public.md) 
 
-### [Vesoul.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Bourgogne-Franche-Comté\departments~Bourgogne-Franche-Comté\Haute-Saône\communes~Haute-Saône\Vesoul\cities~VesoulVesoul.protect.md) 
+### [Vesoul.internal](/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Bourgogne-Franche-Comté/departments~Bourgogne-Franche-Comté/Haute-Saône/communes~Haute-Saône/Vesoul/cities~Vesoul/Vesoul.internal.md) 
 
-### [Vesoul.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Bourgogne-Franche-Comté\departments~Bourgogne-Franche-Comté\Haute-Saône\communes~Haute-Saône\Vesoul\cities~VesoulVesoul.private.md) 
+### [Vesoul.protect](/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Bourgogne-Franche-Comté/departments~Bourgogne-Franche-Comté/Haute-Saône/communes~Haute-Saône/Vesoul/cities~Vesoul/Vesoul.protect.md) 
 
-### [Vesoul.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Bourgogne-Franche-Comté\departments~Bourgogne-Franche-Comté\Haute-Saône\communes~Haute-Saône\Vesoul\cities~VesoulVesoul.personal.md) 
+### [Vesoul.private](/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Bourgogne-Franche-Comté/departments~Bourgogne-Franche-Comté/Haute-Saône/communes~Haute-Saône/Vesoul/cities~Vesoul/Vesoul.private.md) 
 
-### [Vesoul.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Bourgogne-Franche-Comté\departments~Bourgogne-Franche-Comté\Haute-Saône\communes~Haute-Saône\Vesoul\cities~VesoulVesoul.secret.md)
+### [Vesoul.personal](/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Bourgogne-Franche-Comté/departments~Bourgogne-Franche-Comté/Haute-Saône/communes~Haute-Saône/Vesoul/cities~Vesoul/Vesoul.personal.md) 
+
+### [Vesoul.secret](/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Bourgogne-Franche-Comté/departments~Bourgogne-Franche-Comté/Haute-Saône/communes~Haute-Saône/Vesoul/cities~Vesoul/Vesoul.secret.md)
 

@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [St.Etienne.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Auvergne-Rhône-Alpes\departments~Auvergne-Rhône-Alpes\Loire\communes~Loire\Saint-Étienne\cities~Saint-ÉtienneSt.Etienne.public.md) 
+### [St.Etienne](/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Auvergne-Rhône-Alpes/departments~Auvergne-Rhône-Alpes/Loire/communes~Loire/Saint-Étienne/cities~Saint-Étienne/St.Etienne.md) 
 
-### [St.Etienne.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Auvergne-Rhône-Alpes\departments~Auvergne-Rhône-Alpes\Loire\communes~Loire\Saint-Étienne\cities~Saint-ÉtienneSt.Etienne.internal.md) 
+### [St.Etienne.public](/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Auvergne-Rhône-Alpes/departments~Auvergne-Rhône-Alpes/Loire/communes~Loire/Saint-Étienne/cities~Saint-Étienne/St.Etienne.public.md) 
 
-### [St.Etienne.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Auvergne-Rhône-Alpes\departments~Auvergne-Rhône-Alpes\Loire\communes~Loire\Saint-Étienne\cities~Saint-ÉtienneSt.Etienne.protect.md) 
+### [St.Etienne.internal](/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Auvergne-Rhône-Alpes/departments~Auvergne-Rhône-Alpes/Loire/communes~Loire/Saint-Étienne/cities~Saint-Étienne/St.Etienne.internal.md) 
 
-### [St.Etienne.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Auvergne-Rhône-Alpes\departments~Auvergne-Rhône-Alpes\Loire\communes~Loire\Saint-Étienne\cities~Saint-ÉtienneSt.Etienne.private.md) 
+### [St.Etienne.protect](/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Auvergne-Rhône-Alpes/departments~Auvergne-Rhône-Alpes/Loire/communes~Loire/Saint-Étienne/cities~Saint-Étienne/St.Etienne.protect.md) 
 
-### [St.Etienne.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Auvergne-Rhône-Alpes\departments~Auvergne-Rhône-Alpes\Loire\communes~Loire\Saint-Étienne\cities~Saint-ÉtienneSt.Etienne.personal.md) 
+### [St.Etienne.private](/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Auvergne-Rhône-Alpes/departments~Auvergne-Rhône-Alpes/Loire/communes~Loire/Saint-Étienne/cities~Saint-Étienne/St.Etienne.private.md) 
 
-### [St.Etienne.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Auvergne-Rhône-Alpes\departments~Auvergne-Rhône-Alpes\Loire\communes~Loire\Saint-Étienne\cities~Saint-ÉtienneSt.Etienne.secret.md)
+### [St.Etienne.personal](/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Auvergne-Rhône-Alpes/departments~Auvergne-Rhône-Alpes/Loire/communes~Loire/Saint-Étienne/cities~Saint-Étienne/St.Etienne.personal.md) 
+
+### [St.Etienne.secret](/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Auvergne-Rhône-Alpes/departments~Auvergne-Rhône-Alpes/Loire/communes~Loire/Saint-Étienne/cities~Saint-Étienne/St.Etienne.secret.md)
 

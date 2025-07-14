@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Rennes.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Bretagne\departments~Bretagne\Ille-et-Vilaine\communes~Ille-et-Vilaine\Rennes\cities~RennesRennes.public.md) 
+### [Rennes](/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Bretagne/departments~Bretagne/Ille-et-Vilaine/communes~Ille-et-Vilaine/Rennes/cities~Rennes/Rennes.md) 
 
-### [Rennes.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Bretagne\departments~Bretagne\Ille-et-Vilaine\communes~Ille-et-Vilaine\Rennes\cities~RennesRennes.internal.md) 
+### [Rennes.public](/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Bretagne/departments~Bretagne/Ille-et-Vilaine/communes~Ille-et-Vilaine/Rennes/cities~Rennes/Rennes.public.md) 
 
-### [Rennes.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Bretagne\departments~Bretagne\Ille-et-Vilaine\communes~Ille-et-Vilaine\Rennes\cities~RennesRennes.protect.md) 
+### [Rennes.internal](/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Bretagne/departments~Bretagne/Ille-et-Vilaine/communes~Ille-et-Vilaine/Rennes/cities~Rennes/Rennes.internal.md) 
 
-### [Rennes.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Bretagne\departments~Bretagne\Ille-et-Vilaine\communes~Ille-et-Vilaine\Rennes\cities~RennesRennes.private.md) 
+### [Rennes.protect](/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Bretagne/departments~Bretagne/Ille-et-Vilaine/communes~Ille-et-Vilaine/Rennes/cities~Rennes/Rennes.protect.md) 
 
-### [Rennes.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Bretagne\departments~Bretagne\Ille-et-Vilaine\communes~Ille-et-Vilaine\Rennes\cities~RennesRennes.personal.md) 
+### [Rennes.private](/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Bretagne/departments~Bretagne/Ille-et-Vilaine/communes~Ille-et-Vilaine/Rennes/cities~Rennes/Rennes.private.md) 
 
-### [Rennes.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Bretagne\departments~Bretagne\Ille-et-Vilaine\communes~Ille-et-Vilaine\Rennes\cities~RennesRennes.secret.md)
+### [Rennes.personal](/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Bretagne/departments~Bretagne/Ille-et-Vilaine/communes~Ille-et-Vilaine/Rennes/cities~Rennes/Rennes.personal.md) 
+
+### [Rennes.secret](/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Bretagne/departments~Bretagne/Ille-et-Vilaine/communes~Ille-et-Vilaine/Rennes/cities~Rennes/Rennes.secret.md)
 

@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Nyon.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Auvergne-Rhône-Alpes\departments~Auvergne-Rhône-Alpes\Allier\communes~Allier\Vichy\cities~VichyNyon.public.md) 
+### [Nyon](/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Auvergne-Rhône-Alpes/departments~Auvergne-Rhône-Alpes/Allier/communes~Allier/Vichy/cities~Vichy/Nyon.md) 
 
-### [Nyon.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Auvergne-Rhône-Alpes\departments~Auvergne-Rhône-Alpes\Allier\communes~Allier\Vichy\cities~VichyNyon.internal.md) 
+### [Nyon.public](/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Auvergne-Rhône-Alpes/departments~Auvergne-Rhône-Alpes/Allier/communes~Allier/Vichy/cities~Vichy/Nyon.public.md) 
 
-### [Nyon.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Auvergne-Rhône-Alpes\departments~Auvergne-Rhône-Alpes\Allier\communes~Allier\Vichy\cities~VichyNyon.protect.md) 
+### [Nyon.internal](/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Auvergne-Rhône-Alpes/departments~Auvergne-Rhône-Alpes/Allier/communes~Allier/Vichy/cities~Vichy/Nyon.internal.md) 
 
-### [Nyon.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Auvergne-Rhône-Alpes\departments~Auvergne-Rhône-Alpes\Allier\communes~Allier\Vichy\cities~VichyNyon.private.md) 
+### [Nyon.protect](/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Auvergne-Rhône-Alpes/departments~Auvergne-Rhône-Alpes/Allier/communes~Allier/Vichy/cities~Vichy/Nyon.protect.md) 
 
-### [Nyon.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Auvergne-Rhône-Alpes\departments~Auvergne-Rhône-Alpes\Allier\communes~Allier\Vichy\cities~VichyNyon.personal.md) 
+### [Nyon.private](/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Auvergne-Rhône-Alpes/departments~Auvergne-Rhône-Alpes/Allier/communes~Allier/Vichy/cities~Vichy/Nyon.private.md) 
 
-### [Nyon.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Auvergne-Rhône-Alpes\departments~Auvergne-Rhône-Alpes\Allier\communes~Allier\Vichy\cities~VichyNyon.secret.md)
+### [Nyon.personal](/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Auvergne-Rhône-Alpes/departments~Auvergne-Rhône-Alpes/Allier/communes~Allier/Vichy/cities~Vichy/Nyon.personal.md) 
+
+### [Nyon.secret](/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Auvergne-Rhône-Alpes/departments~Auvergne-Rhône-Alpes/Allier/communes~Allier/Vichy/cities~Vichy/Nyon.secret.md)
 

@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Belley.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Auvergne-Rhône-Alpes\departments~Auvergne-Rhône-Alpes\Ain\communes~Ain\Belley\cities~BelleyBelley.public.md) 
+### [Belley](/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Auvergne-Rhône-Alpes/departments~Auvergne-Rhône-Alpes/Ain/communes~Ain/Belley/cities~Belley/Belley.md) 
 
-### [Belley.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Auvergne-Rhône-Alpes\departments~Auvergne-Rhône-Alpes\Ain\communes~Ain\Belley\cities~BelleyBelley.internal.md) 
+### [Belley.public](/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Auvergne-Rhône-Alpes/departments~Auvergne-Rhône-Alpes/Ain/communes~Ain/Belley/cities~Belley/Belley.public.md) 
 
-### [Belley.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Auvergne-Rhône-Alpes\departments~Auvergne-Rhône-Alpes\Ain\communes~Ain\Belley\cities~BelleyBelley.protect.md) 
+### [Belley.internal](/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Auvergne-Rhône-Alpes/departments~Auvergne-Rhône-Alpes/Ain/communes~Ain/Belley/cities~Belley/Belley.internal.md) 
 
-### [Belley.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Auvergne-Rhône-Alpes\departments~Auvergne-Rhône-Alpes\Ain\communes~Ain\Belley\cities~BelleyBelley.private.md) 
+### [Belley.protect](/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Auvergne-Rhône-Alpes/departments~Auvergne-Rhône-Alpes/Ain/communes~Ain/Belley/cities~Belley/Belley.protect.md) 
 
-### [Belley.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Auvergne-Rhône-Alpes\departments~Auvergne-Rhône-Alpes\Ain\communes~Ain\Belley\cities~BelleyBelley.personal.md) 
+### [Belley.private](/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Auvergne-Rhône-Alpes/departments~Auvergne-Rhône-Alpes/Ain/communes~Ain/Belley/cities~Belley/Belley.private.md) 
 
-### [Belley.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Auvergne-Rhône-Alpes\departments~Auvergne-Rhône-Alpes\Ain\communes~Ain\Belley\cities~BelleyBelley.secret.md)
+### [Belley.personal](/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Auvergne-Rhône-Alpes/departments~Auvergne-Rhône-Alpes/Ain/communes~Ain/Belley/cities~Belley/Belley.personal.md) 
+
+### [Belley.secret](/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Auvergne-Rhône-Alpes/departments~Auvergne-Rhône-Alpes/Ain/communes~Ain/Belley/cities~Belley/Belley.secret.md)
 

@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Limoux.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~Occitanie\Aude\communes~Aude\Limoux\cities~LimouxLimoux.public.md) 
+### [Limoux](/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Aude/communes~Aude/Limoux/cities~Limoux/Limoux.md) 
 
-### [Limoux.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~Occitanie\Aude\communes~Aude\Limoux\cities~LimouxLimoux.internal.md) 
+### [Limoux.public](/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Aude/communes~Aude/Limoux/cities~Limoux/Limoux.public.md) 
 
-### [Limoux.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~Occitanie\Aude\communes~Aude\Limoux\cities~LimouxLimoux.protect.md) 
+### [Limoux.internal](/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Aude/communes~Aude/Limoux/cities~Limoux/Limoux.internal.md) 
 
-### [Limoux.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~Occitanie\Aude\communes~Aude\Limoux\cities~LimouxLimoux.private.md) 
+### [Limoux.protect](/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Aude/communes~Aude/Limoux/cities~Limoux/Limoux.protect.md) 
 
-### [Limoux.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~Occitanie\Aude\communes~Aude\Limoux\cities~LimouxLimoux.personal.md) 
+### [Limoux.private](/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Aude/communes~Aude/Limoux/cities~Limoux/Limoux.private.md) 
 
-### [Limoux.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~Occitanie\Aude\communes~Aude\Limoux\cities~LimouxLimoux.secret.md)
+### [Limoux.personal](/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Aude/communes~Aude/Limoux/cities~Limoux/Limoux.personal.md) 
+
+### [Limoux.secret](/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Aude/communes~Aude/Limoux/cities~Limoux/Limoux.secret.md)
 

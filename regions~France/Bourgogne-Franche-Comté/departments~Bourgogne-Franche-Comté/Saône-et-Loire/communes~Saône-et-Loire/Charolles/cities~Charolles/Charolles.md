@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Charolles.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Bourgogne-Franche-Comté\departments~Bourgogne-Franche-Comté\Saône-et-Loire\communes~Saône-et-Loire\Charolles\cities~CharollesCharolles.public.md) 
+### [Charolles](/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Bourgogne-Franche-Comté/departments~Bourgogne-Franche-Comté/Saône-et-Loire/communes~Saône-et-Loire/Charolles/cities~Charolles/Charolles.md) 
 
-### [Charolles.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Bourgogne-Franche-Comté\departments~Bourgogne-Franche-Comté\Saône-et-Loire\communes~Saône-et-Loire\Charolles\cities~CharollesCharolles.internal.md) 
+### [Charolles.public](/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Bourgogne-Franche-Comté/departments~Bourgogne-Franche-Comté/Saône-et-Loire/communes~Saône-et-Loire/Charolles/cities~Charolles/Charolles.public.md) 
 
-### [Charolles.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Bourgogne-Franche-Comté\departments~Bourgogne-Franche-Comté\Saône-et-Loire\communes~Saône-et-Loire\Charolles\cities~CharollesCharolles.protect.md) 
+### [Charolles.internal](/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Bourgogne-Franche-Comté/departments~Bourgogne-Franche-Comté/Saône-et-Loire/communes~Saône-et-Loire/Charolles/cities~Charolles/Charolles.internal.md) 
 
-### [Charolles.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Bourgogne-Franche-Comté\departments~Bourgogne-Franche-Comté\Saône-et-Loire\communes~Saône-et-Loire\Charolles\cities~CharollesCharolles.private.md) 
+### [Charolles.protect](/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Bourgogne-Franche-Comté/departments~Bourgogne-Franche-Comté/Saône-et-Loire/communes~Saône-et-Loire/Charolles/cities~Charolles/Charolles.protect.md) 
 
-### [Charolles.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Bourgogne-Franche-Comté\departments~Bourgogne-Franche-Comté\Saône-et-Loire\communes~Saône-et-Loire\Charolles\cities~CharollesCharolles.personal.md) 
+### [Charolles.private](/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Bourgogne-Franche-Comté/departments~Bourgogne-Franche-Comté/Saône-et-Loire/communes~Saône-et-Loire/Charolles/cities~Charolles/Charolles.private.md) 
 
-### [Charolles.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Bourgogne-Franche-Comté\departments~Bourgogne-Franche-Comté\Saône-et-Loire\communes~Saône-et-Loire\Charolles\cities~CharollesCharolles.secret.md)
+### [Charolles.personal](/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Bourgogne-Franche-Comté/departments~Bourgogne-Franche-Comté/Saône-et-Loire/communes~Saône-et-Loire/Charolles/cities~Charolles/Charolles.personal.md) 
+
+### [Charolles.secret](/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Bourgogne-Franche-Comté/departments~Bourgogne-Franche-Comté/Saône-et-Loire/communes~Saône-et-Loire/Charolles/cities~Charolles/Charolles.secret.md)
 

@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Foix.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~Occitanie\Ariège\communes~Ariège\Foix\cities~FoixFoix.public.md) 
+### [Foix](/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Ariège/communes~Ariège/Foix/cities~Foix/Foix.md) 
 
-### [Foix.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~Occitanie\Ariège\communes~Ariège\Foix\cities~FoixFoix.internal.md) 
+### [Foix.public](/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Ariège/communes~Ariège/Foix/cities~Foix/Foix.public.md) 
 
-### [Foix.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~Occitanie\Ariège\communes~Ariège\Foix\cities~FoixFoix.protect.md) 
+### [Foix.internal](/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Ariège/communes~Ariège/Foix/cities~Foix/Foix.internal.md) 
 
-### [Foix.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~Occitanie\Ariège\communes~Ariège\Foix\cities~FoixFoix.private.md) 
+### [Foix.protect](/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Ariège/communes~Ariège/Foix/cities~Foix/Foix.protect.md) 
 
-### [Foix.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~Occitanie\Ariège\communes~Ariège\Foix\cities~FoixFoix.personal.md) 
+### [Foix.private](/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Ariège/communes~Ariège/Foix/cities~Foix/Foix.private.md) 
 
-### [Foix.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~Occitanie\Ariège\communes~Ariège\Foix\cities~FoixFoix.secret.md)
+### [Foix.personal](/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Ariège/communes~Ariège/Foix/cities~Foix/Foix.personal.md) 
+
+### [Foix.secret](/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Ariège/communes~Ariège/Foix/cities~Foix/Foix.secret.md)
 

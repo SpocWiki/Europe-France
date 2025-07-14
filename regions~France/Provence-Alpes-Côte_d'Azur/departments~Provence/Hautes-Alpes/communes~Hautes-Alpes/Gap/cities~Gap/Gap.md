@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Gap.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Provence-Alpes-Côte_d'Azur\departments~Provence\Hautes-Alpes\communes~Hautes-Alpes\Gap\cities~GapGap.public.md) 
+### [Gap](/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Provence-Alpes-Côte_d'Azur/departments~Provence/Hautes-Alpes/communes~Hautes-Alpes/Gap/cities~Gap/Gap.md) 
 
-### [Gap.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Provence-Alpes-Côte_d'Azur\departments~Provence\Hautes-Alpes\communes~Hautes-Alpes\Gap\cities~GapGap.internal.md) 
+### [Gap.public](/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Provence-Alpes-Côte_d'Azur/departments~Provence/Hautes-Alpes/communes~Hautes-Alpes/Gap/cities~Gap/Gap.public.md) 
 
-### [Gap.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Provence-Alpes-Côte_d'Azur\departments~Provence\Hautes-Alpes\communes~Hautes-Alpes\Gap\cities~GapGap.protect.md) 
+### [Gap.internal](/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Provence-Alpes-Côte_d'Azur/departments~Provence/Hautes-Alpes/communes~Hautes-Alpes/Gap/cities~Gap/Gap.internal.md) 
 
-### [Gap.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Provence-Alpes-Côte_d'Azur\departments~Provence\Hautes-Alpes\communes~Hautes-Alpes\Gap\cities~GapGap.private.md) 
+### [Gap.protect](/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Provence-Alpes-Côte_d'Azur/departments~Provence/Hautes-Alpes/communes~Hautes-Alpes/Gap/cities~Gap/Gap.protect.md) 
 
-### [Gap.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Provence-Alpes-Côte_d'Azur\departments~Provence\Hautes-Alpes\communes~Hautes-Alpes\Gap\cities~GapGap.personal.md) 
+### [Gap.private](/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Provence-Alpes-Côte_d'Azur/departments~Provence/Hautes-Alpes/communes~Hautes-Alpes/Gap/cities~Gap/Gap.private.md) 
 
-### [Gap.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Provence-Alpes-Côte_d'Azur\departments~Provence\Hautes-Alpes\communes~Hautes-Alpes\Gap\cities~GapGap.secret.md)
+### [Gap.personal](/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Provence-Alpes-Côte_d'Azur/departments~Provence/Hautes-Alpes/communes~Hautes-Alpes/Gap/cities~Gap/Gap.personal.md) 
+
+### [Gap.secret](/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Provence-Alpes-Côte_d'Azur/departments~Provence/Hautes-Alpes/communes~Hautes-Alpes/Gap/cities~Gap/Gap.secret.md)
 

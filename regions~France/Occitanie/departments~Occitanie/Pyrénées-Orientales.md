@@ -41,15 +41,17 @@ markerFolder: ./Département~Pyrénées-Orientales/
 
 ## Confidential Links & Embeds: 
 
-### [Pyrénées-Orientales.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~OccitaniePyrénées-Orientales.public.md) 
+### [Pyrénées-Orientales](/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Pyrénées-Orientales.md) 
 
-### [Pyrénées-Orientales.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~OccitaniePyrénées-Orientales.internal.md) 
+### [Pyrénées-Orientales.public](/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Pyrénées-Orientales.public.md) 
 
-### [Pyrénées-Orientales.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~OccitaniePyrénées-Orientales.protect.md) 
+### [Pyrénées-Orientales.internal](/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Pyrénées-Orientales.internal.md) 
 
-### [Pyrénées-Orientales.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~OccitaniePyrénées-Orientales.private.md) 
+### [Pyrénées-Orientales.protect](/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Pyrénées-Orientales.protect.md) 
 
-### [Pyrénées-Orientales.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~OccitaniePyrénées-Orientales.personal.md) 
+### [Pyrénées-Orientales.private](/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Pyrénées-Orientales.private.md) 
 
-### [Pyrénées-Orientales.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~OccitaniePyrénées-Orientales.secret.md)
+### [Pyrénées-Orientales.personal](/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Pyrénées-Orientales.personal.md) 
+
+### [Pyrénées-Orientales.secret](/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Pyrénées-Orientales.secret.md)
 

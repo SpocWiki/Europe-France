@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Calais.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Hauts-de-France\departments~Hauts-de-France\Pas-de-Calais\communes~Pas-de-Calais\Calais\cities~CalaisCalais.public.md) 
+### [Calais](/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Hauts-de-France/departments~Hauts-de-France/Pas-de-Calais/communes~Pas-de-Calais/Calais/cities~Calais/Calais.md) 
 
-### [Calais.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Hauts-de-France\departments~Hauts-de-France\Pas-de-Calais\communes~Pas-de-Calais\Calais\cities~CalaisCalais.internal.md) 
+### [Calais.public](/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Hauts-de-France/departments~Hauts-de-France/Pas-de-Calais/communes~Pas-de-Calais/Calais/cities~Calais/Calais.public.md) 
 
-### [Calais.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Hauts-de-France\departments~Hauts-de-France\Pas-de-Calais\communes~Pas-de-Calais\Calais\cities~CalaisCalais.protect.md) 
+### [Calais.internal](/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Hauts-de-France/departments~Hauts-de-France/Pas-de-Calais/communes~Pas-de-Calais/Calais/cities~Calais/Calais.internal.md) 
 
-### [Calais.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Hauts-de-France\departments~Hauts-de-France\Pas-de-Calais\communes~Pas-de-Calais\Calais\cities~CalaisCalais.private.md) 
+### [Calais.protect](/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Hauts-de-France/departments~Hauts-de-France/Pas-de-Calais/communes~Pas-de-Calais/Calais/cities~Calais/Calais.protect.md) 
 
-### [Calais.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Hauts-de-France\departments~Hauts-de-France\Pas-de-Calais\communes~Pas-de-Calais\Calais\cities~CalaisCalais.personal.md) 
+### [Calais.private](/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Hauts-de-France/departments~Hauts-de-France/Pas-de-Calais/communes~Pas-de-Calais/Calais/cities~Calais/Calais.private.md) 
 
-### [Calais.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Hauts-de-France\departments~Hauts-de-France\Pas-de-Calais\communes~Pas-de-Calais\Calais\cities~CalaisCalais.secret.md)
+### [Calais.personal](/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Hauts-de-France/departments~Hauts-de-France/Pas-de-Calais/communes~Pas-de-Calais/Calais/cities~Calais/Calais.personal.md) 
+
+### [Calais.secret](/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Hauts-de-France/departments~Hauts-de-France/Pas-de-Calais/communes~Pas-de-Calais/Calais/cities~Calais/Calais.secret.md)
 

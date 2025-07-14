@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Marvejols.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~Occitanie\Lozère\communes~Lozère\Mende\cities~MendeMarvejols.public.md) 
+### [Marvejols](/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Lozère/communes~Lozère/Mende/cities~Mende/Marvejols.md) 
 
-### [Marvejols.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~Occitanie\Lozère\communes~Lozère\Mende\cities~MendeMarvejols.internal.md) 
+### [Marvejols.public](/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Lozère/communes~Lozère/Mende/cities~Mende/Marvejols.public.md) 
 
-### [Marvejols.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~Occitanie\Lozère\communes~Lozère\Mende\cities~MendeMarvejols.protect.md) 
+### [Marvejols.internal](/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Lozère/communes~Lozère/Mende/cities~Mende/Marvejols.internal.md) 
 
-### [Marvejols.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~Occitanie\Lozère\communes~Lozère\Mende\cities~MendeMarvejols.private.md) 
+### [Marvejols.protect](/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Lozère/communes~Lozère/Mende/cities~Mende/Marvejols.protect.md) 
 
-### [Marvejols.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~Occitanie\Lozère\communes~Lozère\Mende\cities~MendeMarvejols.personal.md) 
+### [Marvejols.private](/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Lozère/communes~Lozère/Mende/cities~Mende/Marvejols.private.md) 
 
-### [Marvejols.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~Occitanie\Lozère\communes~Lozère\Mende\cities~MendeMarvejols.secret.md)
+### [Marvejols.personal](/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Lozère/communes~Lozère/Mende/cities~Mende/Marvejols.personal.md) 
+
+### [Marvejols.secret](/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Lozère/communes~Lozère/Mende/cities~Mende/Marvejols.secret.md)
 

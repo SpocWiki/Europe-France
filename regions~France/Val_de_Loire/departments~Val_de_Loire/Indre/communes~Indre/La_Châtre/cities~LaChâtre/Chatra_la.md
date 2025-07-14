@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Chatra_la.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Val_de_Loire\departments~Val_de_Loire\Indre\communes~Indre\La_Châtre\cities~LaChâtreChatra_la.public.md) 
+### [Chatra_la](/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Val_de_Loire/departments~Val_de_Loire/Indre/communes~Indre/La_Châtre/cities~LaChâtre/Chatra_la.md) 
 
-### [Chatra_la.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Val_de_Loire\departments~Val_de_Loire\Indre\communes~Indre\La_Châtre\cities~LaChâtreChatra_la.internal.md) 
+### [Chatra_la.public](/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Val_de_Loire/departments~Val_de_Loire/Indre/communes~Indre/La_Châtre/cities~LaChâtre/Chatra_la.public.md) 
 
-### [Chatra_la.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Val_de_Loire\departments~Val_de_Loire\Indre\communes~Indre\La_Châtre\cities~LaChâtreChatra_la.protect.md) 
+### [Chatra_la.internal](/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Val_de_Loire/departments~Val_de_Loire/Indre/communes~Indre/La_Châtre/cities~LaChâtre/Chatra_la.internal.md) 
 
-### [Chatra_la.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Val_de_Loire\departments~Val_de_Loire\Indre\communes~Indre\La_Châtre\cities~LaChâtreChatra_la.private.md) 
+### [Chatra_la.protect](/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Val_de_Loire/departments~Val_de_Loire/Indre/communes~Indre/La_Châtre/cities~LaChâtre/Chatra_la.protect.md) 
 
-### [Chatra_la.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Val_de_Loire\departments~Val_de_Loire\Indre\communes~Indre\La_Châtre\cities~LaChâtreChatra_la.personal.md) 
+### [Chatra_la.private](/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Val_de_Loire/departments~Val_de_Loire/Indre/communes~Indre/La_Châtre/cities~LaChâtre/Chatra_la.private.md) 
 
-### [Chatra_la.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Val_de_Loire\departments~Val_de_Loire\Indre\communes~Indre\La_Châtre\cities~LaChâtreChatra_la.secret.md)
+### [Chatra_la.personal](/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Val_de_Loire/departments~Val_de_Loire/Indre/communes~Indre/La_Châtre/cities~LaChâtre/Chatra_la.personal.md) 
+
+### [Chatra_la.secret](/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Val_de_Loire/departments~Val_de_Loire/Indre/communes~Indre/La_Châtre/cities~LaChâtre/Chatra_la.secret.md)
 

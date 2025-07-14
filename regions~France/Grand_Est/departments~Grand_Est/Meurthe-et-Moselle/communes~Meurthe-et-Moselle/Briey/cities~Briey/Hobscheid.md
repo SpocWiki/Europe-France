@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Hobscheid.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Grand_Est\departments~Grand_Est\Meurthe-et-Moselle\communes~Meurthe-et-Moselle\Briey\cities~BrieyHobscheid.public.md) 
+### [Hobscheid](/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Grand_Est/departments~Grand_Est/Meurthe-et-Moselle/communes~Meurthe-et-Moselle/Briey/cities~Briey/Hobscheid.md) 
 
-### [Hobscheid.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Grand_Est\departments~Grand_Est\Meurthe-et-Moselle\communes~Meurthe-et-Moselle\Briey\cities~BrieyHobscheid.internal.md) 
+### [Hobscheid.public](/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Grand_Est/departments~Grand_Est/Meurthe-et-Moselle/communes~Meurthe-et-Moselle/Briey/cities~Briey/Hobscheid.public.md) 
 
-### [Hobscheid.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Grand_Est\departments~Grand_Est\Meurthe-et-Moselle\communes~Meurthe-et-Moselle\Briey\cities~BrieyHobscheid.protect.md) 
+### [Hobscheid.internal](/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Grand_Est/departments~Grand_Est/Meurthe-et-Moselle/communes~Meurthe-et-Moselle/Briey/cities~Briey/Hobscheid.internal.md) 
 
-### [Hobscheid.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Grand_Est\departments~Grand_Est\Meurthe-et-Moselle\communes~Meurthe-et-Moselle\Briey\cities~BrieyHobscheid.private.md) 
+### [Hobscheid.protect](/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Grand_Est/departments~Grand_Est/Meurthe-et-Moselle/communes~Meurthe-et-Moselle/Briey/cities~Briey/Hobscheid.protect.md) 
 
-### [Hobscheid.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Grand_Est\departments~Grand_Est\Meurthe-et-Moselle\communes~Meurthe-et-Moselle\Briey\cities~BrieyHobscheid.personal.md) 
+### [Hobscheid.private](/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Grand_Est/departments~Grand_Est/Meurthe-et-Moselle/communes~Meurthe-et-Moselle/Briey/cities~Briey/Hobscheid.private.md) 
 
-### [Hobscheid.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Grand_Est\departments~Grand_Est\Meurthe-et-Moselle\communes~Meurthe-et-Moselle\Briey\cities~BrieyHobscheid.secret.md)
+### [Hobscheid.personal](/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Grand_Est/departments~Grand_Est/Meurthe-et-Moselle/communes~Meurthe-et-Moselle/Briey/cities~Briey/Hobscheid.personal.md) 
+
+### [Hobscheid.secret](/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Grand_Est/departments~Grand_Est/Meurthe-et-Moselle/communes~Meurthe-et-Moselle/Briey/cities~Briey/Hobscheid.secret.md)
 

@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Fléche.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Pays_de_la_Loire\departments~Pays_de_la_Loire\Sarthe\communes~Sarthe\La_Flèche\cities~LaFlècheFléche.public.md) 
+### [Fléche](/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Pays_de_la_Loire/departments~Pays_de_la_Loire/Sarthe/communes~Sarthe/La_Flèche/cities~LaFlèche/Fléche.md) 
 
-### [Fléche.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Pays_de_la_Loire\departments~Pays_de_la_Loire\Sarthe\communes~Sarthe\La_Flèche\cities~LaFlècheFléche.internal.md) 
+### [Fléche.public](/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Pays_de_la_Loire/departments~Pays_de_la_Loire/Sarthe/communes~Sarthe/La_Flèche/cities~LaFlèche/Fléche.public.md) 
 
-### [Fléche.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Pays_de_la_Loire\departments~Pays_de_la_Loire\Sarthe\communes~Sarthe\La_Flèche\cities~LaFlècheFléche.protect.md) 
+### [Fléche.internal](/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Pays_de_la_Loire/departments~Pays_de_la_Loire/Sarthe/communes~Sarthe/La_Flèche/cities~LaFlèche/Fléche.internal.md) 
 
-### [Fléche.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Pays_de_la_Loire\departments~Pays_de_la_Loire\Sarthe\communes~Sarthe\La_Flèche\cities~LaFlècheFléche.private.md) 
+### [Fléche.protect](/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Pays_de_la_Loire/departments~Pays_de_la_Loire/Sarthe/communes~Sarthe/La_Flèche/cities~LaFlèche/Fléche.protect.md) 
 
-### [Fléche.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Pays_de_la_Loire\departments~Pays_de_la_Loire\Sarthe\communes~Sarthe\La_Flèche\cities~LaFlècheFléche.personal.md) 
+### [Fléche.private](/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Pays_de_la_Loire/departments~Pays_de_la_Loire/Sarthe/communes~Sarthe/La_Flèche/cities~LaFlèche/Fléche.private.md) 
 
-### [Fléche.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Pays_de_la_Loire\departments~Pays_de_la_Loire\Sarthe\communes~Sarthe\La_Flèche\cities~LaFlècheFléche.secret.md)
+### [Fléche.personal](/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Pays_de_la_Loire/departments~Pays_de_la_Loire/Sarthe/communes~Sarthe/La_Flèche/cities~LaFlèche/Fléche.personal.md) 
+
+### [Fléche.secret](/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Pays_de_la_Loire/departments~Pays_de_la_Loire/Sarthe/communes~Sarthe/La_Flèche/cities~LaFlèche/Fléche.secret.md)
 

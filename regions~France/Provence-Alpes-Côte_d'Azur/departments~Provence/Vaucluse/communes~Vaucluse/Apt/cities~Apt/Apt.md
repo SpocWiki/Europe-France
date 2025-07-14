@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Apt.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Provence-Alpes-Côte_d'Azur\departments~Provence\Vaucluse\communes~Vaucluse\Apt\cities~AptApt.public.md) 
+### [Apt](/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Provence-Alpes-Côte_d'Azur/departments~Provence/Vaucluse/communes~Vaucluse/Apt/cities~Apt/Apt.md) 
 
-### [Apt.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Provence-Alpes-Côte_d'Azur\departments~Provence\Vaucluse\communes~Vaucluse\Apt\cities~AptApt.internal.md) 
+### [Apt.public](/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Provence-Alpes-Côte_d'Azur/departments~Provence/Vaucluse/communes~Vaucluse/Apt/cities~Apt/Apt.public.md) 
 
-### [Apt.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Provence-Alpes-Côte_d'Azur\departments~Provence\Vaucluse\communes~Vaucluse\Apt\cities~AptApt.protect.md) 
+### [Apt.internal](/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Provence-Alpes-Côte_d'Azur/departments~Provence/Vaucluse/communes~Vaucluse/Apt/cities~Apt/Apt.internal.md) 
 
-### [Apt.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Provence-Alpes-Côte_d'Azur\departments~Provence\Vaucluse\communes~Vaucluse\Apt\cities~AptApt.private.md) 
+### [Apt.protect](/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Provence-Alpes-Côte_d'Azur/departments~Provence/Vaucluse/communes~Vaucluse/Apt/cities~Apt/Apt.protect.md) 
 
-### [Apt.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Provence-Alpes-Côte_d'Azur\departments~Provence\Vaucluse\communes~Vaucluse\Apt\cities~AptApt.personal.md) 
+### [Apt.private](/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Provence-Alpes-Côte_d'Azur/departments~Provence/Vaucluse/communes~Vaucluse/Apt/cities~Apt/Apt.private.md) 
 
-### [Apt.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Provence-Alpes-Côte_d'Azur\departments~Provence\Vaucluse\communes~Vaucluse\Apt\cities~AptApt.secret.md)
+### [Apt.personal](/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Provence-Alpes-Côte_d'Azur/departments~Provence/Vaucluse/communes~Vaucluse/Apt/cities~Apt/Apt.personal.md) 
+
+### [Apt.secret](/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Provence-Alpes-Côte_d'Azur/departments~Provence/Vaucluse/communes~Vaucluse/Apt/cities~Apt/Apt.secret.md)
 

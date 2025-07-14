@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Belle-Isle.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\BretagneBelle-Isle.public.md) 
+### [Belle-Isle](/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Bretagne/Belle-Isle.md) 
 
-### [Belle-Isle.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\BretagneBelle-Isle.internal.md) 
+### [Belle-Isle.public](/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Bretagne/Belle-Isle.public.md) 
 
-### [Belle-Isle.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\BretagneBelle-Isle.protect.md) 
+### [Belle-Isle.internal](/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Bretagne/Belle-Isle.internal.md) 
 
-### [Belle-Isle.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\BretagneBelle-Isle.private.md) 
+### [Belle-Isle.protect](/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Bretagne/Belle-Isle.protect.md) 
 
-### [Belle-Isle.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\BretagneBelle-Isle.personal.md) 
+### [Belle-Isle.private](/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Bretagne/Belle-Isle.private.md) 
 
-### [Belle-Isle.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\BretagneBelle-Isle.secret.md)
+### [Belle-Isle.personal](/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Bretagne/Belle-Isle.personal.md) 
+
+### [Belle-Isle.secret](/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Bretagne/Belle-Isle.secret.md)
 

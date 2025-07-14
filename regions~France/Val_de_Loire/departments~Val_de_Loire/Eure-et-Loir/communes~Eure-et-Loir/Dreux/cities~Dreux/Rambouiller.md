@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Rambouiller.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Val_de_Loire\departments~Val_de_Loire\Eure-et-Loir\communes~Eure-et-Loir\Dreux\cities~DreuxRambouiller.public.md) 
+### [Rambouiller](/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Val_de_Loire/departments~Val_de_Loire/Eure-et-Loir/communes~Eure-et-Loir/Dreux/cities~Dreux/Rambouiller.md) 
 
-### [Rambouiller.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Val_de_Loire\departments~Val_de_Loire\Eure-et-Loir\communes~Eure-et-Loir\Dreux\cities~DreuxRambouiller.internal.md) 
+### [Rambouiller.public](/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Val_de_Loire/departments~Val_de_Loire/Eure-et-Loir/communes~Eure-et-Loir/Dreux/cities~Dreux/Rambouiller.public.md) 
 
-### [Rambouiller.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Val_de_Loire\departments~Val_de_Loire\Eure-et-Loir\communes~Eure-et-Loir\Dreux\cities~DreuxRambouiller.protect.md) 
+### [Rambouiller.internal](/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Val_de_Loire/departments~Val_de_Loire/Eure-et-Loir/communes~Eure-et-Loir/Dreux/cities~Dreux/Rambouiller.internal.md) 
 
-### [Rambouiller.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Val_de_Loire\departments~Val_de_Loire\Eure-et-Loir\communes~Eure-et-Loir\Dreux\cities~DreuxRambouiller.private.md) 
+### [Rambouiller.protect](/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Val_de_Loire/departments~Val_de_Loire/Eure-et-Loir/communes~Eure-et-Loir/Dreux/cities~Dreux/Rambouiller.protect.md) 
 
-### [Rambouiller.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Val_de_Loire\departments~Val_de_Loire\Eure-et-Loir\communes~Eure-et-Loir\Dreux\cities~DreuxRambouiller.personal.md) 
+### [Rambouiller.private](/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Val_de_Loire/departments~Val_de_Loire/Eure-et-Loir/communes~Eure-et-Loir/Dreux/cities~Dreux/Rambouiller.private.md) 
 
-### [Rambouiller.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Val_de_Loire\departments~Val_de_Loire\Eure-et-Loir\communes~Eure-et-Loir\Dreux\cities~DreuxRambouiller.secret.md)
+### [Rambouiller.personal](/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Val_de_Loire/departments~Val_de_Loire/Eure-et-Loir/communes~Eure-et-Loir/Dreux/cities~Dreux/Rambouiller.personal.md) 
+
+### [Rambouiller.secret](/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Val_de_Loire/departments~Val_de_Loire/Eure-et-Loir/communes~Eure-et-Loir/Dreux/cities~Dreux/Rambouiller.secret.md)
 

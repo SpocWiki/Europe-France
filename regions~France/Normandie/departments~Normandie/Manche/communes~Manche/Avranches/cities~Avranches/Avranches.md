@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Avranches.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Normandie\departments~Normandie\Manche\communes~Manche\Avranches\cities~AvranchesAvranches.public.md) 
+### [Avranches](/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Normandie/departments~Normandie/Manche/communes~Manche/Avranches/cities~Avranches/Avranches.md) 
 
-### [Avranches.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Normandie\departments~Normandie\Manche\communes~Manche\Avranches\cities~AvranchesAvranches.internal.md) 
+### [Avranches.public](/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Normandie/departments~Normandie/Manche/communes~Manche/Avranches/cities~Avranches/Avranches.public.md) 
 
-### [Avranches.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Normandie\departments~Normandie\Manche\communes~Manche\Avranches\cities~AvranchesAvranches.protect.md) 
+### [Avranches.internal](/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Normandie/departments~Normandie/Manche/communes~Manche/Avranches/cities~Avranches/Avranches.internal.md) 
 
-### [Avranches.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Normandie\departments~Normandie\Manche\communes~Manche\Avranches\cities~AvranchesAvranches.private.md) 
+### [Avranches.protect](/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Normandie/departments~Normandie/Manche/communes~Manche/Avranches/cities~Avranches/Avranches.protect.md) 
 
-### [Avranches.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Normandie\departments~Normandie\Manche\communes~Manche\Avranches\cities~AvranchesAvranches.personal.md) 
+### [Avranches.private](/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Normandie/departments~Normandie/Manche/communes~Manche/Avranches/cities~Avranches/Avranches.private.md) 
 
-### [Avranches.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Normandie\departments~Normandie\Manche\communes~Manche\Avranches\cities~AvranchesAvranches.secret.md)
+### [Avranches.personal](/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Normandie/departments~Normandie/Manche/communes~Manche/Avranches/cities~Avranches/Avranches.personal.md) 
+
+### [Avranches.secret](/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Normandie/departments~Normandie/Manche/communes~Manche/Avranches/cities~Avranches/Avranches.secret.md)
 

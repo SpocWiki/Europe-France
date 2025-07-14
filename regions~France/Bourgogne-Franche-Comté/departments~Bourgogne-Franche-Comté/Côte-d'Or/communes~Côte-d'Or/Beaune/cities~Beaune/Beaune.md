@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Beaune.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Bourgogne-Franche-Comté\departments~Bourgogne-Franche-Comté\Côte-d'Or\communes~Côte-d'Or\Beaune\cities~BeauneBeaune.public.md) 
+### [Beaune](/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Bourgogne-Franche-Comté/departments~Bourgogne-Franche-Comté/Côte-d'Or/communes~Côte-d'Or/Beaune/cities~Beaune/Beaune.md) 
 
-### [Beaune.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Bourgogne-Franche-Comté\departments~Bourgogne-Franche-Comté\Côte-d'Or\communes~Côte-d'Or\Beaune\cities~BeauneBeaune.internal.md) 
+### [Beaune.public](/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Bourgogne-Franche-Comté/departments~Bourgogne-Franche-Comté/Côte-d'Or/communes~Côte-d'Or/Beaune/cities~Beaune/Beaune.public.md) 
 
-### [Beaune.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Bourgogne-Franche-Comté\departments~Bourgogne-Franche-Comté\Côte-d'Or\communes~Côte-d'Or\Beaune\cities~BeauneBeaune.protect.md) 
+### [Beaune.internal](/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Bourgogne-Franche-Comté/departments~Bourgogne-Franche-Comté/Côte-d'Or/communes~Côte-d'Or/Beaune/cities~Beaune/Beaune.internal.md) 
 
-### [Beaune.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Bourgogne-Franche-Comté\departments~Bourgogne-Franche-Comté\Côte-d'Or\communes~Côte-d'Or\Beaune\cities~BeauneBeaune.private.md) 
+### [Beaune.protect](/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Bourgogne-Franche-Comté/departments~Bourgogne-Franche-Comté/Côte-d'Or/communes~Côte-d'Or/Beaune/cities~Beaune/Beaune.protect.md) 
 
-### [Beaune.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Bourgogne-Franche-Comté\departments~Bourgogne-Franche-Comté\Côte-d'Or\communes~Côte-d'Or\Beaune\cities~BeauneBeaune.personal.md) 
+### [Beaune.private](/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Bourgogne-Franche-Comté/departments~Bourgogne-Franche-Comté/Côte-d'Or/communes~Côte-d'Or/Beaune/cities~Beaune/Beaune.private.md) 
 
-### [Beaune.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Bourgogne-Franche-Comté\departments~Bourgogne-Franche-Comté\Côte-d'Or\communes~Côte-d'Or\Beaune\cities~BeauneBeaune.secret.md)
+### [Beaune.personal](/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Bourgogne-Franche-Comté/departments~Bourgogne-Franche-Comté/Côte-d'Or/communes~Côte-d'Or/Beaune/cities~Beaune/Beaune.personal.md) 
+
+### [Beaune.secret](/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Bourgogne-Franche-Comté/departments~Bourgogne-Franche-Comté/Côte-d'Or/communes~Côte-d'Or/Beaune/cities~Beaune/Beaune.secret.md)
 

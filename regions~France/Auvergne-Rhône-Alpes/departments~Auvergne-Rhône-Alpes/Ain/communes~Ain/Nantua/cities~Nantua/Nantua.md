@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Nantua.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Auvergne-Rhône-Alpes\departments~Auvergne-Rhône-Alpes\Ain\communes~Ain\Nantua\cities~NantuaNantua.public.md) 
+### [Nantua](/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Auvergne-Rhône-Alpes/departments~Auvergne-Rhône-Alpes/Ain/communes~Ain/Nantua/cities~Nantua/Nantua.md) 
 
-### [Nantua.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Auvergne-Rhône-Alpes\departments~Auvergne-Rhône-Alpes\Ain\communes~Ain\Nantua\cities~NantuaNantua.internal.md) 
+### [Nantua.public](/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Auvergne-Rhône-Alpes/departments~Auvergne-Rhône-Alpes/Ain/communes~Ain/Nantua/cities~Nantua/Nantua.public.md) 
 
-### [Nantua.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Auvergne-Rhône-Alpes\departments~Auvergne-Rhône-Alpes\Ain\communes~Ain\Nantua\cities~NantuaNantua.protect.md) 
+### [Nantua.internal](/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Auvergne-Rhône-Alpes/departments~Auvergne-Rhône-Alpes/Ain/communes~Ain/Nantua/cities~Nantua/Nantua.internal.md) 
 
-### [Nantua.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Auvergne-Rhône-Alpes\departments~Auvergne-Rhône-Alpes\Ain\communes~Ain\Nantua\cities~NantuaNantua.private.md) 
+### [Nantua.protect](/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Auvergne-Rhône-Alpes/departments~Auvergne-Rhône-Alpes/Ain/communes~Ain/Nantua/cities~Nantua/Nantua.protect.md) 
 
-### [Nantua.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Auvergne-Rhône-Alpes\departments~Auvergne-Rhône-Alpes\Ain\communes~Ain\Nantua\cities~NantuaNantua.personal.md) 
+### [Nantua.private](/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Auvergne-Rhône-Alpes/departments~Auvergne-Rhône-Alpes/Ain/communes~Ain/Nantua/cities~Nantua/Nantua.private.md) 
 
-### [Nantua.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Auvergne-Rhône-Alpes\departments~Auvergne-Rhône-Alpes\Ain\communes~Ain\Nantua\cities~NantuaNantua.secret.md)
+### [Nantua.personal](/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Auvergne-Rhône-Alpes/departments~Auvergne-Rhône-Alpes/Ain/communes~Ain/Nantua/cities~Nantua/Nantua.personal.md) 
+
+### [Nantua.secret](/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Auvergne-Rhône-Alpes/departments~Auvergne-Rhône-Alpes/Ain/communes~Ain/Nantua/cities~Nantua/Nantua.secret.md)
 

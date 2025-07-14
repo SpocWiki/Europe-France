@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Meaux.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Île-de-France\departments~Île-de-France\Seine-et-Marne\communes~Seine-et-Marne\Meaux\cities~MeauxMeaux.public.md) 
+### [Meaux](/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Île-de-France/departments~Île-de-France/Seine-et-Marne/communes~Seine-et-Marne/Meaux/cities~Meaux/Meaux.md) 
 
-### [Meaux.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Île-de-France\departments~Île-de-France\Seine-et-Marne\communes~Seine-et-Marne\Meaux\cities~MeauxMeaux.internal.md) 
+### [Meaux.public](/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Île-de-France/departments~Île-de-France/Seine-et-Marne/communes~Seine-et-Marne/Meaux/cities~Meaux/Meaux.public.md) 
 
-### [Meaux.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Île-de-France\departments~Île-de-France\Seine-et-Marne\communes~Seine-et-Marne\Meaux\cities~MeauxMeaux.protect.md) 
+### [Meaux.internal](/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Île-de-France/departments~Île-de-France/Seine-et-Marne/communes~Seine-et-Marne/Meaux/cities~Meaux/Meaux.internal.md) 
 
-### [Meaux.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Île-de-France\departments~Île-de-France\Seine-et-Marne\communes~Seine-et-Marne\Meaux\cities~MeauxMeaux.private.md) 
+### [Meaux.protect](/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Île-de-France/departments~Île-de-France/Seine-et-Marne/communes~Seine-et-Marne/Meaux/cities~Meaux/Meaux.protect.md) 
 
-### [Meaux.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Île-de-France\departments~Île-de-France\Seine-et-Marne\communes~Seine-et-Marne\Meaux\cities~MeauxMeaux.personal.md) 
+### [Meaux.private](/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Île-de-France/departments~Île-de-France/Seine-et-Marne/communes~Seine-et-Marne/Meaux/cities~Meaux/Meaux.private.md) 
 
-### [Meaux.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Île-de-France\departments~Île-de-France\Seine-et-Marne\communes~Seine-et-Marne\Meaux\cities~MeauxMeaux.secret.md)
+### [Meaux.personal](/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Île-de-France/departments~Île-de-France/Seine-et-Marne/communes~Seine-et-Marne/Meaux/cities~Meaux/Meaux.personal.md) 
+
+### [Meaux.secret](/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Île-de-France/departments~Île-de-France/Seine-et-Marne/communes~Seine-et-Marne/Meaux/cities~Meaux/Meaux.secret.md)
 

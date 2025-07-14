@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Clermont-Ferrand.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Auvergne-Rhône-Alpes\departments~Auvergne-Rhône-Alpes\Puy-de-Dôme\communes~Puy-de-Dôme\Clermont-Ferrand\cities~Clermont-FerrandClermont-Ferrand.public.md) 
+### [Clermont-Ferrand](/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Auvergne-Rhône-Alpes/departments~Auvergne-Rhône-Alpes/Puy-de-Dôme/communes~Puy-de-Dôme/Clermont-Ferrand/cities~Clermont-Ferrand/Clermont-Ferrand.md) 
 
-### [Clermont-Ferrand.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Auvergne-Rhône-Alpes\departments~Auvergne-Rhône-Alpes\Puy-de-Dôme\communes~Puy-de-Dôme\Clermont-Ferrand\cities~Clermont-FerrandClermont-Ferrand.internal.md) 
+### [Clermont-Ferrand.public](/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Auvergne-Rhône-Alpes/departments~Auvergne-Rhône-Alpes/Puy-de-Dôme/communes~Puy-de-Dôme/Clermont-Ferrand/cities~Clermont-Ferrand/Clermont-Ferrand.public.md) 
 
-### [Clermont-Ferrand.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Auvergne-Rhône-Alpes\departments~Auvergne-Rhône-Alpes\Puy-de-Dôme\communes~Puy-de-Dôme\Clermont-Ferrand\cities~Clermont-FerrandClermont-Ferrand.protect.md) 
+### [Clermont-Ferrand.internal](/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Auvergne-Rhône-Alpes/departments~Auvergne-Rhône-Alpes/Puy-de-Dôme/communes~Puy-de-Dôme/Clermont-Ferrand/cities~Clermont-Ferrand/Clermont-Ferrand.internal.md) 
 
-### [Clermont-Ferrand.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Auvergne-Rhône-Alpes\departments~Auvergne-Rhône-Alpes\Puy-de-Dôme\communes~Puy-de-Dôme\Clermont-Ferrand\cities~Clermont-FerrandClermont-Ferrand.private.md) 
+### [Clermont-Ferrand.protect](/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Auvergne-Rhône-Alpes/departments~Auvergne-Rhône-Alpes/Puy-de-Dôme/communes~Puy-de-Dôme/Clermont-Ferrand/cities~Clermont-Ferrand/Clermont-Ferrand.protect.md) 
 
-### [Clermont-Ferrand.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Auvergne-Rhône-Alpes\departments~Auvergne-Rhône-Alpes\Puy-de-Dôme\communes~Puy-de-Dôme\Clermont-Ferrand\cities~Clermont-FerrandClermont-Ferrand.personal.md) 
+### [Clermont-Ferrand.private](/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Auvergne-Rhône-Alpes/departments~Auvergne-Rhône-Alpes/Puy-de-Dôme/communes~Puy-de-Dôme/Clermont-Ferrand/cities~Clermont-Ferrand/Clermont-Ferrand.private.md) 
 
-### [Clermont-Ferrand.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Auvergne-Rhône-Alpes\departments~Auvergne-Rhône-Alpes\Puy-de-Dôme\communes~Puy-de-Dôme\Clermont-Ferrand\cities~Clermont-FerrandClermont-Ferrand.secret.md)
+### [Clermont-Ferrand.personal](/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Auvergne-Rhône-Alpes/departments~Auvergne-Rhône-Alpes/Puy-de-Dôme/communes~Puy-de-Dôme/Clermont-Ferrand/cities~Clermont-Ferrand/Clermont-Ferrand.personal.md) 
+
+### [Clermont-Ferrand.secret](/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Auvergne-Rhône-Alpes/departments~Auvergne-Rhône-Alpes/Puy-de-Dôme/communes~Puy-de-Dôme/Clermont-Ferrand/cities~Clermont-Ferrand/Clermont-Ferrand.secret.md)
 

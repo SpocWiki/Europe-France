@@ -41,15 +41,17 @@ markerFolder: ./Département~Vaucluse/
 
 ## Confidential Links & Embeds: 
 
-### [Vaucluse.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Provence-Alpes-Côte_d'Azur\departments~ProvenceVaucluse.public.md) 
+### [Vaucluse](/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Provence-Alpes-Côte_d'Azur/departments~Provence/Vaucluse.md) 
 
-### [Vaucluse.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Provence-Alpes-Côte_d'Azur\departments~ProvenceVaucluse.internal.md) 
+### [Vaucluse.public](/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Provence-Alpes-Côte_d'Azur/departments~Provence/Vaucluse.public.md) 
 
-### [Vaucluse.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Provence-Alpes-Côte_d'Azur\departments~ProvenceVaucluse.protect.md) 
+### [Vaucluse.internal](/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Provence-Alpes-Côte_d'Azur/departments~Provence/Vaucluse.internal.md) 
 
-### [Vaucluse.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Provence-Alpes-Côte_d'Azur\departments~ProvenceVaucluse.private.md) 
+### [Vaucluse.protect](/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Provence-Alpes-Côte_d'Azur/departments~Provence/Vaucluse.protect.md) 
 
-### [Vaucluse.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Provence-Alpes-Côte_d'Azur\departments~ProvenceVaucluse.personal.md) 
+### [Vaucluse.private](/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Provence-Alpes-Côte_d'Azur/departments~Provence/Vaucluse.private.md) 
 
-### [Vaucluse.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Provence-Alpes-Côte_d'Azur\departments~ProvenceVaucluse.secret.md)
+### [Vaucluse.personal](/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Provence-Alpes-Côte_d'Azur/departments~Provence/Vaucluse.personal.md) 
+
+### [Vaucluse.secret](/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Provence-Alpes-Côte_d'Azur/departments~Provence/Vaucluse.secret.md)
 

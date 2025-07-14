@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Samer.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Hauts-de-France\departments~Hauts-de-France\Pas-de-Calais\communes~Pas-de-Calais\Boulogne-sur-Mer\cities~Boulogne-sur-MerSamer.public.md) 
+### [Samer](/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Hauts-de-France/departments~Hauts-de-France/Pas-de-Calais/communes~Pas-de-Calais/Boulogne-sur-Mer/cities~Boulogne-sur-Mer/Samer.md) 
 
-### [Samer.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Hauts-de-France\departments~Hauts-de-France\Pas-de-Calais\communes~Pas-de-Calais\Boulogne-sur-Mer\cities~Boulogne-sur-MerSamer.internal.md) 
+### [Samer.public](/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Hauts-de-France/departments~Hauts-de-France/Pas-de-Calais/communes~Pas-de-Calais/Boulogne-sur-Mer/cities~Boulogne-sur-Mer/Samer.public.md) 
 
-### [Samer.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Hauts-de-France\departments~Hauts-de-France\Pas-de-Calais\communes~Pas-de-Calais\Boulogne-sur-Mer\cities~Boulogne-sur-MerSamer.protect.md) 
+### [Samer.internal](/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Hauts-de-France/departments~Hauts-de-France/Pas-de-Calais/communes~Pas-de-Calais/Boulogne-sur-Mer/cities~Boulogne-sur-Mer/Samer.internal.md) 
 
-### [Samer.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Hauts-de-France\departments~Hauts-de-France\Pas-de-Calais\communes~Pas-de-Calais\Boulogne-sur-Mer\cities~Boulogne-sur-MerSamer.private.md) 
+### [Samer.protect](/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Hauts-de-France/departments~Hauts-de-France/Pas-de-Calais/communes~Pas-de-Calais/Boulogne-sur-Mer/cities~Boulogne-sur-Mer/Samer.protect.md) 
 
-### [Samer.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Hauts-de-France\departments~Hauts-de-France\Pas-de-Calais\communes~Pas-de-Calais\Boulogne-sur-Mer\cities~Boulogne-sur-MerSamer.personal.md) 
+### [Samer.private](/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Hauts-de-France/departments~Hauts-de-France/Pas-de-Calais/communes~Pas-de-Calais/Boulogne-sur-Mer/cities~Boulogne-sur-Mer/Samer.private.md) 
 
-### [Samer.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Hauts-de-France\departments~Hauts-de-France\Pas-de-Calais\communes~Pas-de-Calais\Boulogne-sur-Mer\cities~Boulogne-sur-MerSamer.secret.md)
+### [Samer.personal](/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Hauts-de-France/departments~Hauts-de-France/Pas-de-Calais/communes~Pas-de-Calais/Boulogne-sur-Mer/cities~Boulogne-sur-Mer/Samer.personal.md) 
+
+### [Samer.secret](/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Hauts-de-France/departments~Hauts-de-France/Pas-de-Calais/communes~Pas-de-Calais/Boulogne-sur-Mer/cities~Boulogne-sur-Mer/Samer.secret.md)
 

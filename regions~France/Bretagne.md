@@ -25,18 +25,19 @@ markerFolder: ./Bretagne//
 > [Wikipedia](https://en.wikipedia.org/wiki/Brittany)
 
 
-
 ## Confidential Links & Embeds: 
 
-### [Bretagne.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~FranceBretagne.public.md) 
+### [Bretagne](/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Bretagne.md) 
 
-### [Bretagne.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~FranceBretagne.internal.md) 
+### [Bretagne.public](/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Bretagne.public.md) 
 
-### [Bretagne.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~FranceBretagne.protect.md) 
+### [Bretagne.internal](/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Bretagne.internal.md) 
 
-### [Bretagne.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~FranceBretagne.private.md) 
+### [Bretagne.protect](/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Bretagne.protect.md) 
 
-### [Bretagne.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~FranceBretagne.personal.md) 
+### [Bretagne.private](/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Bretagne.private.md) 
 
-### [Bretagne.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~FranceBretagne.secret.md)
+### [Bretagne.personal](/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Bretagne.personal.md) 
+
+### [Bretagne.secret](/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Bretagne.secret.md)
 

@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Redon.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Bretagne\departments~Bretagne\Ille-et-Vilaine\communes~Ille-et-Vilaine\Redon\cities~RedonRedon.public.md) 
+### [Redon](/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Bretagne/departments~Bretagne/Ille-et-Vilaine/communes~Ille-et-Vilaine/Redon/cities~Redon/Redon.md) 
 
-### [Redon.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Bretagne\departments~Bretagne\Ille-et-Vilaine\communes~Ille-et-Vilaine\Redon\cities~RedonRedon.internal.md) 
+### [Redon.public](/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Bretagne/departments~Bretagne/Ille-et-Vilaine/communes~Ille-et-Vilaine/Redon/cities~Redon/Redon.public.md) 
 
-### [Redon.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Bretagne\departments~Bretagne\Ille-et-Vilaine\communes~Ille-et-Vilaine\Redon\cities~RedonRedon.protect.md) 
+### [Redon.internal](/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Bretagne/departments~Bretagne/Ille-et-Vilaine/communes~Ille-et-Vilaine/Redon/cities~Redon/Redon.internal.md) 
 
-### [Redon.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Bretagne\departments~Bretagne\Ille-et-Vilaine\communes~Ille-et-Vilaine\Redon\cities~RedonRedon.private.md) 
+### [Redon.protect](/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Bretagne/departments~Bretagne/Ille-et-Vilaine/communes~Ille-et-Vilaine/Redon/cities~Redon/Redon.protect.md) 
 
-### [Redon.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Bretagne\departments~Bretagne\Ille-et-Vilaine\communes~Ille-et-Vilaine\Redon\cities~RedonRedon.personal.md) 
+### [Redon.private](/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Bretagne/departments~Bretagne/Ille-et-Vilaine/communes~Ille-et-Vilaine/Redon/cities~Redon/Redon.private.md) 
 
-### [Redon.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Bretagne\departments~Bretagne\Ille-et-Vilaine\communes~Ille-et-Vilaine\Redon\cities~RedonRedon.secret.md)
+### [Redon.personal](/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Bretagne/departments~Bretagne/Ille-et-Vilaine/communes~Ille-et-Vilaine/Redon/cities~Redon/Redon.personal.md) 
+
+### [Redon.secret](/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Bretagne/departments~Bretagne/Ille-et-Vilaine/communes~Ille-et-Vilaine/Redon/cities~Redon/Redon.secret.md)
 

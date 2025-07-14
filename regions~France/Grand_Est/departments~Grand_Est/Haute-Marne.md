@@ -41,15 +41,17 @@ markerFolder: ./Département~Haute-Marne/
 
 ## Confidential Links & Embeds: 
 
-### [Haute-Marne.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Grand_Est\departments~Grand_EstHaute-Marne.public.md) 
+### [Haute-Marne](/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Grand_Est/departments~Grand_Est/Haute-Marne.md) 
 
-### [Haute-Marne.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Grand_Est\departments~Grand_EstHaute-Marne.internal.md) 
+### [Haute-Marne.public](/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Grand_Est/departments~Grand_Est/Haute-Marne.public.md) 
 
-### [Haute-Marne.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Grand_Est\departments~Grand_EstHaute-Marne.protect.md) 
+### [Haute-Marne.internal](/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Grand_Est/departments~Grand_Est/Haute-Marne.internal.md) 
 
-### [Haute-Marne.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Grand_Est\departments~Grand_EstHaute-Marne.private.md) 
+### [Haute-Marne.protect](/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Grand_Est/departments~Grand_Est/Haute-Marne.protect.md) 
 
-### [Haute-Marne.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Grand_Est\departments~Grand_EstHaute-Marne.personal.md) 
+### [Haute-Marne.private](/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Grand_Est/departments~Grand_Est/Haute-Marne.private.md) 
 
-### [Haute-Marne.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Grand_Est\departments~Grand_EstHaute-Marne.secret.md)
+### [Haute-Marne.personal](/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Grand_Est/departments~Grand_Est/Haute-Marne.personal.md) 
+
+### [Haute-Marne.secret](/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Grand_Est/departments~Grand_Est/Haute-Marne.secret.md)
 

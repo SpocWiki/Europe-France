@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Dax.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~Aquitaine\Landes\communes~Landes\Dax\cities~DaxDax.public.md) 
+### [Dax](/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Nouvelle-Aquitaine/departments~Aquitaine/Landes/communes~Landes/Dax/cities~Dax/Dax.md) 
 
-### [Dax.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~Aquitaine\Landes\communes~Landes\Dax\cities~DaxDax.internal.md) 
+### [Dax.public](/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Nouvelle-Aquitaine/departments~Aquitaine/Landes/communes~Landes/Dax/cities~Dax/Dax.public.md) 
 
-### [Dax.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~Aquitaine\Landes\communes~Landes\Dax\cities~DaxDax.protect.md) 
+### [Dax.internal](/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Nouvelle-Aquitaine/departments~Aquitaine/Landes/communes~Landes/Dax/cities~Dax/Dax.internal.md) 
 
-### [Dax.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~Aquitaine\Landes\communes~Landes\Dax\cities~DaxDax.private.md) 
+### [Dax.protect](/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Nouvelle-Aquitaine/departments~Aquitaine/Landes/communes~Landes/Dax/cities~Dax/Dax.protect.md) 
 
-### [Dax.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~Aquitaine\Landes\communes~Landes\Dax\cities~DaxDax.personal.md) 
+### [Dax.private](/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Nouvelle-Aquitaine/departments~Aquitaine/Landes/communes~Landes/Dax/cities~Dax/Dax.private.md) 
 
-### [Dax.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~Aquitaine\Landes\communes~Landes\Dax\cities~DaxDax.secret.md)
+### [Dax.personal](/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Nouvelle-Aquitaine/departments~Aquitaine/Landes/communes~Landes/Dax/cities~Dax/Dax.personal.md) 
+
+### [Dax.secret](/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Nouvelle-Aquitaine/departments~Aquitaine/Landes/communes~Landes/Dax/cities~Dax/Dax.secret.md)
 

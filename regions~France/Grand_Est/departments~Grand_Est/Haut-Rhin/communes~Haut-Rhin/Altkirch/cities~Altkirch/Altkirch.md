@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Altkirch.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Grand_Est\departments~Grand_Est\Haut-Rhin\communes~Haut-Rhin\Altkirch\cities~AltkirchAltkirch.public.md) 
+### [Altkirch](/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Grand_Est/departments~Grand_Est/Haut-Rhin/communes~Haut-Rhin/Altkirch/cities~Altkirch/Altkirch.md) 
 
-### [Altkirch.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Grand_Est\departments~Grand_Est\Haut-Rhin\communes~Haut-Rhin\Altkirch\cities~AltkirchAltkirch.internal.md) 
+### [Altkirch.public](/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Grand_Est/departments~Grand_Est/Haut-Rhin/communes~Haut-Rhin/Altkirch/cities~Altkirch/Altkirch.public.md) 
 
-### [Altkirch.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Grand_Est\departments~Grand_Est\Haut-Rhin\communes~Haut-Rhin\Altkirch\cities~AltkirchAltkirch.protect.md) 
+### [Altkirch.internal](/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Grand_Est/departments~Grand_Est/Haut-Rhin/communes~Haut-Rhin/Altkirch/cities~Altkirch/Altkirch.internal.md) 
 
-### [Altkirch.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Grand_Est\departments~Grand_Est\Haut-Rhin\communes~Haut-Rhin\Altkirch\cities~AltkirchAltkirch.private.md) 
+### [Altkirch.protect](/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Grand_Est/departments~Grand_Est/Haut-Rhin/communes~Haut-Rhin/Altkirch/cities~Altkirch/Altkirch.protect.md) 
 
-### [Altkirch.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Grand_Est\departments~Grand_Est\Haut-Rhin\communes~Haut-Rhin\Altkirch\cities~AltkirchAltkirch.personal.md) 
+### [Altkirch.private](/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Grand_Est/departments~Grand_Est/Haut-Rhin/communes~Haut-Rhin/Altkirch/cities~Altkirch/Altkirch.private.md) 
 
-### [Altkirch.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Grand_Est\departments~Grand_Est\Haut-Rhin\communes~Haut-Rhin\Altkirch\cities~AltkirchAltkirch.secret.md)
+### [Altkirch.personal](/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Grand_Est/departments~Grand_Est/Haut-Rhin/communes~Haut-Rhin/Altkirch/cities~Altkirch/Altkirch.personal.md) 
+
+### [Altkirch.secret](/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Grand_Est/departments~Grand_Est/Haut-Rhin/communes~Haut-Rhin/Altkirch/cities~Altkirch/Altkirch.secret.md)
 

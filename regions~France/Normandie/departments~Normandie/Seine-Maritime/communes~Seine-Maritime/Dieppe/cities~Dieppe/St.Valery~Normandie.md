@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [St.Valery~Normandie.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Normandie\departments~Normandie\Seine-Maritime\communes~Seine-Maritime\Dieppe\cities~DieppeSt.Valery~Normandie.public.md) 
+### [St.Valery~Normandie](/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Normandie/departments~Normandie/Seine-Maritime/communes~Seine-Maritime/Dieppe/cities~Dieppe/St.Valery~Normandie.md) 
 
-### [St.Valery~Normandie.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Normandie\departments~Normandie\Seine-Maritime\communes~Seine-Maritime\Dieppe\cities~DieppeSt.Valery~Normandie.internal.md) 
+### [St.Valery~Normandie.public](/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Normandie/departments~Normandie/Seine-Maritime/communes~Seine-Maritime/Dieppe/cities~Dieppe/St.Valery~Normandie.public.md) 
 
-### [St.Valery~Normandie.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Normandie\departments~Normandie\Seine-Maritime\communes~Seine-Maritime\Dieppe\cities~DieppeSt.Valery~Normandie.protect.md) 
+### [St.Valery~Normandie.internal](/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Normandie/departments~Normandie/Seine-Maritime/communes~Seine-Maritime/Dieppe/cities~Dieppe/St.Valery~Normandie.internal.md) 
 
-### [St.Valery~Normandie.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Normandie\departments~Normandie\Seine-Maritime\communes~Seine-Maritime\Dieppe\cities~DieppeSt.Valery~Normandie.private.md) 
+### [St.Valery~Normandie.protect](/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Normandie/departments~Normandie/Seine-Maritime/communes~Seine-Maritime/Dieppe/cities~Dieppe/St.Valery~Normandie.protect.md) 
 
-### [St.Valery~Normandie.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Normandie\departments~Normandie\Seine-Maritime\communes~Seine-Maritime\Dieppe\cities~DieppeSt.Valery~Normandie.personal.md) 
+### [St.Valery~Normandie.private](/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Normandie/departments~Normandie/Seine-Maritime/communes~Seine-Maritime/Dieppe/cities~Dieppe/St.Valery~Normandie.private.md) 
 
-### [St.Valery~Normandie.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Normandie\departments~Normandie\Seine-Maritime\communes~Seine-Maritime\Dieppe\cities~DieppeSt.Valery~Normandie.secret.md)
+### [St.Valery~Normandie.personal](/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Normandie/departments~Normandie/Seine-Maritime/communes~Seine-Maritime/Dieppe/cities~Dieppe/St.Valery~Normandie.personal.md) 
+
+### [St.Valery~Normandie.secret](/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Normandie/departments~Normandie/Seine-Maritime/communes~Seine-Maritime/Dieppe/cities~Dieppe/St.Valery~Normandie.secret.md)
 

@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Argentan.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Normandie\departments~Normandie\Orne\communes~Orne\Argentan\cities~ArgentanArgentan.public.md) 
+### [Argentan](/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Normandie/departments~Normandie/Orne/communes~Orne/Argentan/cities~Argentan/Argentan.md) 
 
-### [Argentan.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Normandie\departments~Normandie\Orne\communes~Orne\Argentan\cities~ArgentanArgentan.internal.md) 
+### [Argentan.public](/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Normandie/departments~Normandie/Orne/communes~Orne/Argentan/cities~Argentan/Argentan.public.md) 
 
-### [Argentan.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Normandie\departments~Normandie\Orne\communes~Orne\Argentan\cities~ArgentanArgentan.protect.md) 
+### [Argentan.internal](/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Normandie/departments~Normandie/Orne/communes~Orne/Argentan/cities~Argentan/Argentan.internal.md) 
 
-### [Argentan.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Normandie\departments~Normandie\Orne\communes~Orne\Argentan\cities~ArgentanArgentan.private.md) 
+### [Argentan.protect](/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Normandie/departments~Normandie/Orne/communes~Orne/Argentan/cities~Argentan/Argentan.protect.md) 
 
-### [Argentan.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Normandie\departments~Normandie\Orne\communes~Orne\Argentan\cities~ArgentanArgentan.personal.md) 
+### [Argentan.private](/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Normandie/departments~Normandie/Orne/communes~Orne/Argentan/cities~Argentan/Argentan.private.md) 
 
-### [Argentan.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Normandie\departments~Normandie\Orne\communes~Orne\Argentan\cities~ArgentanArgentan.secret.md)
+### [Argentan.personal](/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Normandie/departments~Normandie/Orne/communes~Orne/Argentan/cities~Argentan/Argentan.personal.md) 
+
+### [Argentan.secret](/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Normandie/departments~Normandie/Orne/communes~Orne/Argentan/cities~Argentan/Argentan.secret.md)
 

@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Montmedy.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Grand_Est\departments~Grand_Est\Meuse\communes~Meuse\Verdun\cities~VerdunMontmedy.public.md) 
+### [Montmedy](/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Grand_Est/departments~Grand_Est/Meuse/communes~Meuse/Verdun/cities~Verdun/Montmedy.md) 
 
-### [Montmedy.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Grand_Est\departments~Grand_Est\Meuse\communes~Meuse\Verdun\cities~VerdunMontmedy.internal.md) 
+### [Montmedy.public](/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Grand_Est/departments~Grand_Est/Meuse/communes~Meuse/Verdun/cities~Verdun/Montmedy.public.md) 
 
-### [Montmedy.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Grand_Est\departments~Grand_Est\Meuse\communes~Meuse\Verdun\cities~VerdunMontmedy.protect.md) 
+### [Montmedy.internal](/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Grand_Est/departments~Grand_Est/Meuse/communes~Meuse/Verdun/cities~Verdun/Montmedy.internal.md) 
 
-### [Montmedy.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Grand_Est\departments~Grand_Est\Meuse\communes~Meuse\Verdun\cities~VerdunMontmedy.private.md) 
+### [Montmedy.protect](/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Grand_Est/departments~Grand_Est/Meuse/communes~Meuse/Verdun/cities~Verdun/Montmedy.protect.md) 
 
-### [Montmedy.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Grand_Est\departments~Grand_Est\Meuse\communes~Meuse\Verdun\cities~VerdunMontmedy.personal.md) 
+### [Montmedy.private](/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Grand_Est/departments~Grand_Est/Meuse/communes~Meuse/Verdun/cities~Verdun/Montmedy.private.md) 
 
-### [Montmedy.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Grand_Est\departments~Grand_Est\Meuse\communes~Meuse\Verdun\cities~VerdunMontmedy.secret.md)
+### [Montmedy.personal](/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Grand_Est/departments~Grand_Est/Meuse/communes~Meuse/Verdun/cities~Verdun/Montmedy.personal.md) 
+
+### [Montmedy.secret](/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Grand_Est/departments~Grand_Est/Meuse/communes~Meuse/Verdun/cities~Verdun/Montmedy.secret.md)
 

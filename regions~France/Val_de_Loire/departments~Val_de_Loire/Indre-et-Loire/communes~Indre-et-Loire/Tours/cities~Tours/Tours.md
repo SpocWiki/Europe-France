@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Tours.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Val_de_Loire\departments~Val_de_Loire\Indre-et-Loire\communes~Indre-et-Loire\Tours\cities~ToursTours.public.md) 
+### [Tours](/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Val_de_Loire/departments~Val_de_Loire/Indre-et-Loire/communes~Indre-et-Loire/Tours/cities~Tours/Tours.md) 
 
-### [Tours.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Val_de_Loire\departments~Val_de_Loire\Indre-et-Loire\communes~Indre-et-Loire\Tours\cities~ToursTours.internal.md) 
+### [Tours.public](/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Val_de_Loire/departments~Val_de_Loire/Indre-et-Loire/communes~Indre-et-Loire/Tours/cities~Tours/Tours.public.md) 
 
-### [Tours.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Val_de_Loire\departments~Val_de_Loire\Indre-et-Loire\communes~Indre-et-Loire\Tours\cities~ToursTours.protect.md) 
+### [Tours.internal](/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Val_de_Loire/departments~Val_de_Loire/Indre-et-Loire/communes~Indre-et-Loire/Tours/cities~Tours/Tours.internal.md) 
 
-### [Tours.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Val_de_Loire\departments~Val_de_Loire\Indre-et-Loire\communes~Indre-et-Loire\Tours\cities~ToursTours.private.md) 
+### [Tours.protect](/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Val_de_Loire/departments~Val_de_Loire/Indre-et-Loire/communes~Indre-et-Loire/Tours/cities~Tours/Tours.protect.md) 
 
-### [Tours.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Val_de_Loire\departments~Val_de_Loire\Indre-et-Loire\communes~Indre-et-Loire\Tours\cities~ToursTours.personal.md) 
+### [Tours.private](/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Val_de_Loire/departments~Val_de_Loire/Indre-et-Loire/communes~Indre-et-Loire/Tours/cities~Tours/Tours.private.md) 
 
-### [Tours.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Val_de_Loire\departments~Val_de_Loire\Indre-et-Loire\communes~Indre-et-Loire\Tours\cities~ToursTours.secret.md)
+### [Tours.personal](/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Val_de_Loire/departments~Val_de_Loire/Indre-et-Loire/communes~Indre-et-Loire/Tours/cities~Tours/Tours.personal.md) 
+
+### [Tours.secret](/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Val_de_Loire/departments~Val_de_Loire/Indre-et-Loire/communes~Indre-et-Loire/Tours/cities~Tours/Tours.secret.md)
 

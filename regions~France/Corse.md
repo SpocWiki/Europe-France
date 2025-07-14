@@ -50,20 +50,19 @@ markerFolder: ./Corse//
 > [Wikipedia](https://en.wikipedia.org/wiki/Corsica)
 
 
-
-
-
 ## Confidential Links & Embeds: 
 
-### [Corse.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~FranceCorse.public.md) 
+### [Corse](/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Corse.md) 
 
-### [Corse.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~FranceCorse.internal.md) 
+### [Corse.public](/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Corse.public.md) 
 
-### [Corse.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~FranceCorse.protect.md) 
+### [Corse.internal](/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Corse.internal.md) 
 
-### [Corse.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~FranceCorse.private.md) 
+### [Corse.protect](/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Corse.protect.md) 
 
-### [Corse.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~FranceCorse.personal.md) 
+### [Corse.private](/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Corse.private.md) 
 
-### [Corse.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~FranceCorse.secret.md)
+### [Corse.personal](/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Corse.personal.md) 
+
+### [Corse.secret](/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Corse.secret.md)
 

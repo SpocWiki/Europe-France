@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Albertville.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Auvergne-Rhône-Alpes\departments~Auvergne-Rhône-Alpes\Savoie\communes~Savoie\Albertville\cities~AlbertvilleAlbertville.public.md) 
+### [Albertville](/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Auvergne-Rhône-Alpes/departments~Auvergne-Rhône-Alpes/Savoie/communes~Savoie/Albertville/cities~Albertville/Albertville.md) 
 
-### [Albertville.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Auvergne-Rhône-Alpes\departments~Auvergne-Rhône-Alpes\Savoie\communes~Savoie\Albertville\cities~AlbertvilleAlbertville.internal.md) 
+### [Albertville.public](/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Auvergne-Rhône-Alpes/departments~Auvergne-Rhône-Alpes/Savoie/communes~Savoie/Albertville/cities~Albertville/Albertville.public.md) 
 
-### [Albertville.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Auvergne-Rhône-Alpes\departments~Auvergne-Rhône-Alpes\Savoie\communes~Savoie\Albertville\cities~AlbertvilleAlbertville.protect.md) 
+### [Albertville.internal](/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Auvergne-Rhône-Alpes/departments~Auvergne-Rhône-Alpes/Savoie/communes~Savoie/Albertville/cities~Albertville/Albertville.internal.md) 
 
-### [Albertville.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Auvergne-Rhône-Alpes\departments~Auvergne-Rhône-Alpes\Savoie\communes~Savoie\Albertville\cities~AlbertvilleAlbertville.private.md) 
+### [Albertville.protect](/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Auvergne-Rhône-Alpes/departments~Auvergne-Rhône-Alpes/Savoie/communes~Savoie/Albertville/cities~Albertville/Albertville.protect.md) 
 
-### [Albertville.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Auvergne-Rhône-Alpes\departments~Auvergne-Rhône-Alpes\Savoie\communes~Savoie\Albertville\cities~AlbertvilleAlbertville.personal.md) 
+### [Albertville.private](/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Auvergne-Rhône-Alpes/departments~Auvergne-Rhône-Alpes/Savoie/communes~Savoie/Albertville/cities~Albertville/Albertville.private.md) 
 
-### [Albertville.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Auvergne-Rhône-Alpes\departments~Auvergne-Rhône-Alpes\Savoie\communes~Savoie\Albertville\cities~AlbertvilleAlbertville.secret.md)
+### [Albertville.personal](/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Auvergne-Rhône-Alpes/departments~Auvergne-Rhône-Alpes/Savoie/communes~Savoie/Albertville/cities~Albertville/Albertville.personal.md) 
+
+### [Albertville.secret](/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Auvergne-Rhône-Alpes/departments~Auvergne-Rhône-Alpes/Savoie/communes~Savoie/Albertville/cities~Albertville/Albertville.secret.md)
 

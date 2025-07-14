@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Ruffec.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~Aquitaine\Charente\communes~Charente\Confolens\cities~ConfolensRuffec.public.md) 
+### [Ruffec](/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Nouvelle-Aquitaine/departments~Aquitaine/Charente/communes~Charente/Confolens/cities~Confolens/Ruffec.md) 
 
-### [Ruffec.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~Aquitaine\Charente\communes~Charente\Confolens\cities~ConfolensRuffec.internal.md) 
+### [Ruffec.public](/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Nouvelle-Aquitaine/departments~Aquitaine/Charente/communes~Charente/Confolens/cities~Confolens/Ruffec.public.md) 
 
-### [Ruffec.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~Aquitaine\Charente\communes~Charente\Confolens\cities~ConfolensRuffec.protect.md) 
+### [Ruffec.internal](/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Nouvelle-Aquitaine/departments~Aquitaine/Charente/communes~Charente/Confolens/cities~Confolens/Ruffec.internal.md) 
 
-### [Ruffec.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~Aquitaine\Charente\communes~Charente\Confolens\cities~ConfolensRuffec.private.md) 
+### [Ruffec.protect](/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Nouvelle-Aquitaine/departments~Aquitaine/Charente/communes~Charente/Confolens/cities~Confolens/Ruffec.protect.md) 
 
-### [Ruffec.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~Aquitaine\Charente\communes~Charente\Confolens\cities~ConfolensRuffec.personal.md) 
+### [Ruffec.private](/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Nouvelle-Aquitaine/departments~Aquitaine/Charente/communes~Charente/Confolens/cities~Confolens/Ruffec.private.md) 
 
-### [Ruffec.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~Aquitaine\Charente\communes~Charente\Confolens\cities~ConfolensRuffec.secret.md)
+### [Ruffec.personal](/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Nouvelle-Aquitaine/departments~Aquitaine/Charente/communes~Charente/Confolens/cities~Confolens/Ruffec.personal.md) 
+
+### [Ruffec.secret](/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Nouvelle-Aquitaine/departments~Aquitaine/Charente/communes~Charente/Confolens/cities~Confolens/Ruffec.secret.md)
 

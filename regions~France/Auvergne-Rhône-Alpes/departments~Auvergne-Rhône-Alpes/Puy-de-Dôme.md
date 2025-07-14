@@ -41,15 +41,17 @@ markerFolder: ./Département~Puy-de-Dôme/
 
 ## Confidential Links & Embeds: 
 
-### [Puy-de-Dôme.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Auvergne-Rhône-Alpes\departments~Auvergne-Rhône-AlpesPuy-de-Dôme.public.md) 
+### [Puy-de-Dôme](/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Auvergne-Rhône-Alpes/departments~Auvergne-Rhône-Alpes/Puy-de-Dôme.md) 
 
-### [Puy-de-Dôme.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Auvergne-Rhône-Alpes\departments~Auvergne-Rhône-AlpesPuy-de-Dôme.internal.md) 
+### [Puy-de-Dôme.public](/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Auvergne-Rhône-Alpes/departments~Auvergne-Rhône-Alpes/Puy-de-Dôme.public.md) 
 
-### [Puy-de-Dôme.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Auvergne-Rhône-Alpes\departments~Auvergne-Rhône-AlpesPuy-de-Dôme.protect.md) 
+### [Puy-de-Dôme.internal](/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Auvergne-Rhône-Alpes/departments~Auvergne-Rhône-Alpes/Puy-de-Dôme.internal.md) 
 
-### [Puy-de-Dôme.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Auvergne-Rhône-Alpes\departments~Auvergne-Rhône-AlpesPuy-de-Dôme.private.md) 
+### [Puy-de-Dôme.protect](/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Auvergne-Rhône-Alpes/departments~Auvergne-Rhône-Alpes/Puy-de-Dôme.protect.md) 
 
-### [Puy-de-Dôme.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Auvergne-Rhône-Alpes\departments~Auvergne-Rhône-AlpesPuy-de-Dôme.personal.md) 
+### [Puy-de-Dôme.private](/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Auvergne-Rhône-Alpes/departments~Auvergne-Rhône-Alpes/Puy-de-Dôme.private.md) 
 
-### [Puy-de-Dôme.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Auvergne-Rhône-Alpes\departments~Auvergne-Rhône-AlpesPuy-de-Dôme.secret.md)
+### [Puy-de-Dôme.personal](/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Auvergne-Rhône-Alpes/departments~Auvergne-Rhône-Alpes/Puy-de-Dôme.personal.md) 
+
+### [Puy-de-Dôme.secret](/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Auvergne-Rhône-Alpes/departments~Auvergne-Rhône-Alpes/Puy-de-Dôme.secret.md)
 

@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Draguignan.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Provence-Alpes-Côte_d'Azur\departments~Provence\Var\communes~Var\Draguignan\cities~DraguignanDraguignan.public.md) 
+### [Draguignan](/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Provence-Alpes-Côte_d'Azur/departments~Provence/Var/communes~Var/Draguignan/cities~Draguignan/Draguignan.md) 
 
-### [Draguignan.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Provence-Alpes-Côte_d'Azur\departments~Provence\Var\communes~Var\Draguignan\cities~DraguignanDraguignan.internal.md) 
+### [Draguignan.public](/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Provence-Alpes-Côte_d'Azur/departments~Provence/Var/communes~Var/Draguignan/cities~Draguignan/Draguignan.public.md) 
 
-### [Draguignan.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Provence-Alpes-Côte_d'Azur\departments~Provence\Var\communes~Var\Draguignan\cities~DraguignanDraguignan.protect.md) 
+### [Draguignan.internal](/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Provence-Alpes-Côte_d'Azur/departments~Provence/Var/communes~Var/Draguignan/cities~Draguignan/Draguignan.internal.md) 
 
-### [Draguignan.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Provence-Alpes-Côte_d'Azur\departments~Provence\Var\communes~Var\Draguignan\cities~DraguignanDraguignan.private.md) 
+### [Draguignan.protect](/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Provence-Alpes-Côte_d'Azur/departments~Provence/Var/communes~Var/Draguignan/cities~Draguignan/Draguignan.protect.md) 
 
-### [Draguignan.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Provence-Alpes-Côte_d'Azur\departments~Provence\Var\communes~Var\Draguignan\cities~DraguignanDraguignan.personal.md) 
+### [Draguignan.private](/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Provence-Alpes-Côte_d'Azur/departments~Provence/Var/communes~Var/Draguignan/cities~Draguignan/Draguignan.private.md) 
 
-### [Draguignan.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Provence-Alpes-Côte_d'Azur\departments~Provence\Var\communes~Var\Draguignan\cities~DraguignanDraguignan.secret.md)
+### [Draguignan.personal](/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Provence-Alpes-Côte_d'Azur/departments~Provence/Var/communes~Var/Draguignan/cities~Draguignan/Draguignan.personal.md) 
+
+### [Draguignan.secret](/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Provence-Alpes-Côte_d'Azur/departments~Provence/Var/communes~Var/Draguignan/cities~Draguignan/Draguignan.secret.md)
 

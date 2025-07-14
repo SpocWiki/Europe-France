@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Metz.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Grand_Est\departments~Grand_Est\Moselle\communes~Moselle\Metz-Ville\cities~Metz-VilleMetz.public.md) 
+### [Metz](/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Grand_Est/departments~Grand_Est/Moselle/communes~Moselle/Metz-Ville/cities~Metz-Ville/Metz.md) 
 
-### [Metz.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Grand_Est\departments~Grand_Est\Moselle\communes~Moselle\Metz-Ville\cities~Metz-VilleMetz.internal.md) 
+### [Metz.public](/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Grand_Est/departments~Grand_Est/Moselle/communes~Moselle/Metz-Ville/cities~Metz-Ville/Metz.public.md) 
 
-### [Metz.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Grand_Est\departments~Grand_Est\Moselle\communes~Moselle\Metz-Ville\cities~Metz-VilleMetz.protect.md) 
+### [Metz.internal](/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Grand_Est/departments~Grand_Est/Moselle/communes~Moselle/Metz-Ville/cities~Metz-Ville/Metz.internal.md) 
 
-### [Metz.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Grand_Est\departments~Grand_Est\Moselle\communes~Moselle\Metz-Ville\cities~Metz-VilleMetz.private.md) 
+### [Metz.protect](/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Grand_Est/departments~Grand_Est/Moselle/communes~Moselle/Metz-Ville/cities~Metz-Ville/Metz.protect.md) 
 
-### [Metz.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Grand_Est\departments~Grand_Est\Moselle\communes~Moselle\Metz-Ville\cities~Metz-VilleMetz.personal.md) 
+### [Metz.private](/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Grand_Est/departments~Grand_Est/Moselle/communes~Moselle/Metz-Ville/cities~Metz-Ville/Metz.private.md) 
 
-### [Metz.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Grand_Est\departments~Grand_Est\Moselle\communes~Moselle\Metz-Ville\cities~Metz-VilleMetz.secret.md)
+### [Metz.personal](/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Grand_Est/departments~Grand_Est/Moselle/communes~Moselle/Metz-Ville/cities~Metz-Ville/Metz.personal.md) 
+
+### [Metz.secret](/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Grand_Est/departments~Grand_Est/Moselle/communes~Moselle/Metz-Ville/cities~Metz-Ville/Metz.secret.md)
 

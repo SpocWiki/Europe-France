@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Marennes.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~Aquitaine\Charente-Maritime\communes~Charente-Maritime\Rochefort\cities~RochefortMarennes.public.md) 
+### [Marennes](/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Nouvelle-Aquitaine/departments~Aquitaine/Charente-Maritime/communes~Charente-Maritime/Rochefort/cities~Rochefort/Marennes.md) 
 
-### [Marennes.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~Aquitaine\Charente-Maritime\communes~Charente-Maritime\Rochefort\cities~RochefortMarennes.internal.md) 
+### [Marennes.public](/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Nouvelle-Aquitaine/departments~Aquitaine/Charente-Maritime/communes~Charente-Maritime/Rochefort/cities~Rochefort/Marennes.public.md) 
 
-### [Marennes.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~Aquitaine\Charente-Maritime\communes~Charente-Maritime\Rochefort\cities~RochefortMarennes.protect.md) 
+### [Marennes.internal](/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Nouvelle-Aquitaine/departments~Aquitaine/Charente-Maritime/communes~Charente-Maritime/Rochefort/cities~Rochefort/Marennes.internal.md) 
 
-### [Marennes.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~Aquitaine\Charente-Maritime\communes~Charente-Maritime\Rochefort\cities~RochefortMarennes.private.md) 
+### [Marennes.protect](/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Nouvelle-Aquitaine/departments~Aquitaine/Charente-Maritime/communes~Charente-Maritime/Rochefort/cities~Rochefort/Marennes.protect.md) 
 
-### [Marennes.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~Aquitaine\Charente-Maritime\communes~Charente-Maritime\Rochefort\cities~RochefortMarennes.personal.md) 
+### [Marennes.private](/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Nouvelle-Aquitaine/departments~Aquitaine/Charente-Maritime/communes~Charente-Maritime/Rochefort/cities~Rochefort/Marennes.private.md) 
 
-### [Marennes.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~Aquitaine\Charente-Maritime\communes~Charente-Maritime\Rochefort\cities~RochefortMarennes.secret.md)
+### [Marennes.personal](/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Nouvelle-Aquitaine/departments~Aquitaine/Charente-Maritime/communes~Charente-Maritime/Rochefort/cities~Rochefort/Marennes.personal.md) 
+
+### [Marennes.secret](/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Nouvelle-Aquitaine/departments~Aquitaine/Charente-Maritime/communes~Charente-Maritime/Rochefort/cities~Rochefort/Marennes.secret.md)
 

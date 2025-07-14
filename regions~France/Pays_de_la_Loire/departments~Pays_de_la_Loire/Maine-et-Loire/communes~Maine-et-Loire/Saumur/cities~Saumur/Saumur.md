@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Saumur.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Pays_de_la_Loire\departments~Pays_de_la_Loire\Maine-et-Loire\communes~Maine-et-Loire\Saumur\cities~SaumurSaumur.public.md) 
+### [Saumur](/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Pays_de_la_Loire/departments~Pays_de_la_Loire/Maine-et-Loire/communes~Maine-et-Loire/Saumur/cities~Saumur/Saumur.md) 
 
-### [Saumur.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Pays_de_la_Loire\departments~Pays_de_la_Loire\Maine-et-Loire\communes~Maine-et-Loire\Saumur\cities~SaumurSaumur.internal.md) 
+### [Saumur.public](/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Pays_de_la_Loire/departments~Pays_de_la_Loire/Maine-et-Loire/communes~Maine-et-Loire/Saumur/cities~Saumur/Saumur.public.md) 
 
-### [Saumur.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Pays_de_la_Loire\departments~Pays_de_la_Loire\Maine-et-Loire\communes~Maine-et-Loire\Saumur\cities~SaumurSaumur.protect.md) 
+### [Saumur.internal](/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Pays_de_la_Loire/departments~Pays_de_la_Loire/Maine-et-Loire/communes~Maine-et-Loire/Saumur/cities~Saumur/Saumur.internal.md) 
 
-### [Saumur.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Pays_de_la_Loire\departments~Pays_de_la_Loire\Maine-et-Loire\communes~Maine-et-Loire\Saumur\cities~SaumurSaumur.private.md) 
+### [Saumur.protect](/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Pays_de_la_Loire/departments~Pays_de_la_Loire/Maine-et-Loire/communes~Maine-et-Loire/Saumur/cities~Saumur/Saumur.protect.md) 
 
-### [Saumur.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Pays_de_la_Loire\departments~Pays_de_la_Loire\Maine-et-Loire\communes~Maine-et-Loire\Saumur\cities~SaumurSaumur.personal.md) 
+### [Saumur.private](/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Pays_de_la_Loire/departments~Pays_de_la_Loire/Maine-et-Loire/communes~Maine-et-Loire/Saumur/cities~Saumur/Saumur.private.md) 
 
-### [Saumur.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Pays_de_la_Loire\departments~Pays_de_la_Loire\Maine-et-Loire\communes~Maine-et-Loire\Saumur\cities~SaumurSaumur.secret.md)
+### [Saumur.personal](/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Pays_de_la_Loire/departments~Pays_de_la_Loire/Maine-et-Loire/communes~Maine-et-Loire/Saumur/cities~Saumur/Saumur.personal.md) 
+
+### [Saumur.secret](/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Pays_de_la_Loire/departments~Pays_de_la_Loire/Maine-et-Loire/communes~Maine-et-Loire/Saumur/cities~Saumur/Saumur.secret.md)
 

@@ -41,15 +41,17 @@ markerFolder: ./Département~Calvados/
 
 ## Confidential Links & Embeds: 
 
-### [Calvados.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Normandie\departments~NormandieCalvados.public.md) 
+### [Calvados](/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Normandie/departments~Normandie/Calvados.md) 
 
-### [Calvados.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Normandie\departments~NormandieCalvados.internal.md) 
+### [Calvados.public](/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Normandie/departments~Normandie/Calvados.public.md) 
 
-### [Calvados.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Normandie\departments~NormandieCalvados.protect.md) 
+### [Calvados.internal](/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Normandie/departments~Normandie/Calvados.internal.md) 
 
-### [Calvados.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Normandie\departments~NormandieCalvados.private.md) 
+### [Calvados.protect](/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Normandie/departments~Normandie/Calvados.protect.md) 
 
-### [Calvados.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Normandie\departments~NormandieCalvados.personal.md) 
+### [Calvados.private](/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Normandie/departments~Normandie/Calvados.private.md) 
 
-### [Calvados.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Normandie\departments~NormandieCalvados.secret.md)
+### [Calvados.personal](/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Normandie/departments~Normandie/Calvados.personal.md) 
+
+### [Calvados.secret](/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Normandie/departments~Normandie/Calvados.secret.md)
 

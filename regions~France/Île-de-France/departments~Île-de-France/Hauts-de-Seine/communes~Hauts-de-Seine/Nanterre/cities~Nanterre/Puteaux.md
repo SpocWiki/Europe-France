@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Puteaux.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Île-de-France\departments~Île-de-France\Hauts-de-Seine\communes~Hauts-de-Seine\Nanterre\cities~NanterrePuteaux.public.md) 
+### [Puteaux](/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Île-de-France/departments~Île-de-France/Hauts-de-Seine/communes~Hauts-de-Seine/Nanterre/cities~Nanterre/Puteaux.md) 
 
-### [Puteaux.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Île-de-France\departments~Île-de-France\Hauts-de-Seine\communes~Hauts-de-Seine\Nanterre\cities~NanterrePuteaux.internal.md) 
+### [Puteaux.public](/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Île-de-France/departments~Île-de-France/Hauts-de-Seine/communes~Hauts-de-Seine/Nanterre/cities~Nanterre/Puteaux.public.md) 
 
-### [Puteaux.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Île-de-France\departments~Île-de-France\Hauts-de-Seine\communes~Hauts-de-Seine\Nanterre\cities~NanterrePuteaux.protect.md) 
+### [Puteaux.internal](/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Île-de-France/departments~Île-de-France/Hauts-de-Seine/communes~Hauts-de-Seine/Nanterre/cities~Nanterre/Puteaux.internal.md) 
 
-### [Puteaux.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Île-de-France\departments~Île-de-France\Hauts-de-Seine\communes~Hauts-de-Seine\Nanterre\cities~NanterrePuteaux.private.md) 
+### [Puteaux.protect](/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Île-de-France/departments~Île-de-France/Hauts-de-Seine/communes~Hauts-de-Seine/Nanterre/cities~Nanterre/Puteaux.protect.md) 
 
-### [Puteaux.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Île-de-France\departments~Île-de-France\Hauts-de-Seine\communes~Hauts-de-Seine\Nanterre\cities~NanterrePuteaux.personal.md) 
+### [Puteaux.private](/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Île-de-France/departments~Île-de-France/Hauts-de-Seine/communes~Hauts-de-Seine/Nanterre/cities~Nanterre/Puteaux.private.md) 
 
-### [Puteaux.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Île-de-France\departments~Île-de-France\Hauts-de-Seine\communes~Hauts-de-Seine\Nanterre\cities~NanterrePuteaux.secret.md)
+### [Puteaux.personal](/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Île-de-France/departments~Île-de-France/Hauts-de-Seine/communes~Hauts-de-Seine/Nanterre/cities~Nanterre/Puteaux.personal.md) 
+
+### [Puteaux.secret](/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Île-de-France/departments~Île-de-France/Hauts-de-Seine/communes~Hauts-de-Seine/Nanterre/cities~Nanterre/Puteaux.secret.md)
 

@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [St.Fleur.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Auvergne-Rhône-Alpes\departments~Auvergne-Rhône-Alpes\Cantal\communes~Cantal\Saint-Flour\cities~Saint-FlourSt.Fleur.public.md) 
+### [St.Fleur](/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Auvergne-Rhône-Alpes/departments~Auvergne-Rhône-Alpes/Cantal/communes~Cantal/Saint-Flour/cities~Saint-Flour/St.Fleur.md) 
 
-### [St.Fleur.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Auvergne-Rhône-Alpes\departments~Auvergne-Rhône-Alpes\Cantal\communes~Cantal\Saint-Flour\cities~Saint-FlourSt.Fleur.internal.md) 
+### [St.Fleur.public](/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Auvergne-Rhône-Alpes/departments~Auvergne-Rhône-Alpes/Cantal/communes~Cantal/Saint-Flour/cities~Saint-Flour/St.Fleur.public.md) 
 
-### [St.Fleur.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Auvergne-Rhône-Alpes\departments~Auvergne-Rhône-Alpes\Cantal\communes~Cantal\Saint-Flour\cities~Saint-FlourSt.Fleur.protect.md) 
+### [St.Fleur.internal](/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Auvergne-Rhône-Alpes/departments~Auvergne-Rhône-Alpes/Cantal/communes~Cantal/Saint-Flour/cities~Saint-Flour/St.Fleur.internal.md) 
 
-### [St.Fleur.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Auvergne-Rhône-Alpes\departments~Auvergne-Rhône-Alpes\Cantal\communes~Cantal\Saint-Flour\cities~Saint-FlourSt.Fleur.private.md) 
+### [St.Fleur.protect](/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Auvergne-Rhône-Alpes/departments~Auvergne-Rhône-Alpes/Cantal/communes~Cantal/Saint-Flour/cities~Saint-Flour/St.Fleur.protect.md) 
 
-### [St.Fleur.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Auvergne-Rhône-Alpes\departments~Auvergne-Rhône-Alpes\Cantal\communes~Cantal\Saint-Flour\cities~Saint-FlourSt.Fleur.personal.md) 
+### [St.Fleur.private](/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Auvergne-Rhône-Alpes/departments~Auvergne-Rhône-Alpes/Cantal/communes~Cantal/Saint-Flour/cities~Saint-Flour/St.Fleur.private.md) 
 
-### [St.Fleur.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Auvergne-Rhône-Alpes\departments~Auvergne-Rhône-Alpes\Cantal\communes~Cantal\Saint-Flour\cities~Saint-FlourSt.Fleur.secret.md)
+### [St.Fleur.personal](/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Auvergne-Rhône-Alpes/departments~Auvergne-Rhône-Alpes/Cantal/communes~Cantal/Saint-Flour/cities~Saint-Flour/St.Fleur.personal.md) 
+
+### [St.Fleur.secret](/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Auvergne-Rhône-Alpes/departments~Auvergne-Rhône-Alpes/Cantal/communes~Cantal/Saint-Flour/cities~Saint-Flour/St.Fleur.secret.md)
 

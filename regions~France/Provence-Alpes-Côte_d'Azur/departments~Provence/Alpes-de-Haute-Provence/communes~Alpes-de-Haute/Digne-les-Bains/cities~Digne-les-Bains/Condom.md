@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Condom.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Provence-Alpes-Côte_d'Azur\departments~Provence\Alpes-de-Haute-Provence\communes~Alpes-de-Haute\Digne-les-Bains\cities~Digne-les-BainsCondom.public.md) 
+### [Condom](/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Provence-Alpes-Côte_d'Azur/departments~Provence/Alpes-de-Haute-Provence/communes~Alpes-de-Haute/Digne-les-Bains/cities~Digne-les-Bains/Condom.md) 
 
-### [Condom.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Provence-Alpes-Côte_d'Azur\departments~Provence\Alpes-de-Haute-Provence\communes~Alpes-de-Haute\Digne-les-Bains\cities~Digne-les-BainsCondom.internal.md) 
+### [Condom.public](/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Provence-Alpes-Côte_d'Azur/departments~Provence/Alpes-de-Haute-Provence/communes~Alpes-de-Haute/Digne-les-Bains/cities~Digne-les-Bains/Condom.public.md) 
 
-### [Condom.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Provence-Alpes-Côte_d'Azur\departments~Provence\Alpes-de-Haute-Provence\communes~Alpes-de-Haute\Digne-les-Bains\cities~Digne-les-BainsCondom.protect.md) 
+### [Condom.internal](/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Provence-Alpes-Côte_d'Azur/departments~Provence/Alpes-de-Haute-Provence/communes~Alpes-de-Haute/Digne-les-Bains/cities~Digne-les-Bains/Condom.internal.md) 
 
-### [Condom.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Provence-Alpes-Côte_d'Azur\departments~Provence\Alpes-de-Haute-Provence\communes~Alpes-de-Haute\Digne-les-Bains\cities~Digne-les-BainsCondom.private.md) 
+### [Condom.protect](/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Provence-Alpes-Côte_d'Azur/departments~Provence/Alpes-de-Haute-Provence/communes~Alpes-de-Haute/Digne-les-Bains/cities~Digne-les-Bains/Condom.protect.md) 
 
-### [Condom.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Provence-Alpes-Côte_d'Azur\departments~Provence\Alpes-de-Haute-Provence\communes~Alpes-de-Haute\Digne-les-Bains\cities~Digne-les-BainsCondom.personal.md) 
+### [Condom.private](/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Provence-Alpes-Côte_d'Azur/departments~Provence/Alpes-de-Haute-Provence/communes~Alpes-de-Haute/Digne-les-Bains/cities~Digne-les-Bains/Condom.private.md) 
 
-### [Condom.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Provence-Alpes-Côte_d'Azur\departments~Provence\Alpes-de-Haute-Provence\communes~Alpes-de-Haute\Digne-les-Bains\cities~Digne-les-BainsCondom.secret.md)
+### [Condom.personal](/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Provence-Alpes-Côte_d'Azur/departments~Provence/Alpes-de-Haute-Provence/communes~Alpes-de-Haute/Digne-les-Bains/cities~Digne-les-Bains/Condom.personal.md) 
+
+### [Condom.secret](/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Provence-Alpes-Côte_d'Azur/departments~Provence/Alpes-de-Haute-Provence/communes~Alpes-de-Haute/Digne-les-Bains/cities~Digne-les-Bains/Condom.secret.md)
 

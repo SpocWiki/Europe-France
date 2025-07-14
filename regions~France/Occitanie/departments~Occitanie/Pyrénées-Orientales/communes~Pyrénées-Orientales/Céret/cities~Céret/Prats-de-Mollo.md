@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Prats-de-Mollo.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~Occitanie\Pyrénées-Orientales\communes~Pyrénées-Orientales\Céret\cities~CéretPrats-de-Mollo.public.md) 
+### [Prats-de-Mollo](/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Pyrénées-Orientales/communes~Pyrénées-Orientales/Céret/cities~Céret/Prats-de-Mollo.md) 
 
-### [Prats-de-Mollo.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~Occitanie\Pyrénées-Orientales\communes~Pyrénées-Orientales\Céret\cities~CéretPrats-de-Mollo.internal.md) 
+### [Prats-de-Mollo.public](/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Pyrénées-Orientales/communes~Pyrénées-Orientales/Céret/cities~Céret/Prats-de-Mollo.public.md) 
 
-### [Prats-de-Mollo.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~Occitanie\Pyrénées-Orientales\communes~Pyrénées-Orientales\Céret\cities~CéretPrats-de-Mollo.protect.md) 
+### [Prats-de-Mollo.internal](/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Pyrénées-Orientales/communes~Pyrénées-Orientales/Céret/cities~Céret/Prats-de-Mollo.internal.md) 
 
-### [Prats-de-Mollo.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~Occitanie\Pyrénées-Orientales\communes~Pyrénées-Orientales\Céret\cities~CéretPrats-de-Mollo.private.md) 
+### [Prats-de-Mollo.protect](/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Pyrénées-Orientales/communes~Pyrénées-Orientales/Céret/cities~Céret/Prats-de-Mollo.protect.md) 
 
-### [Prats-de-Mollo.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~Occitanie\Pyrénées-Orientales\communes~Pyrénées-Orientales\Céret\cities~CéretPrats-de-Mollo.personal.md) 
+### [Prats-de-Mollo.private](/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Pyrénées-Orientales/communes~Pyrénées-Orientales/Céret/cities~Céret/Prats-de-Mollo.private.md) 
 
-### [Prats-de-Mollo.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~Occitanie\Pyrénées-Orientales\communes~Pyrénées-Orientales\Céret\cities~CéretPrats-de-Mollo.secret.md)
+### [Prats-de-Mollo.personal](/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Pyrénées-Orientales/communes~Pyrénées-Orientales/Céret/cities~Céret/Prats-de-Mollo.personal.md) 
+
+### [Prats-de-Mollo.secret](/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Pyrénées-Orientales/communes~Pyrénées-Orientales/Céret/cities~Céret/Prats-de-Mollo.secret.md)
 

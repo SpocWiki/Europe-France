@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Lyon.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Auvergne-Rhône-Alpes\departments~Auvergne-Rhône-Alpes\Rhône\communes~Rhône\Lyon\cities~LyonLyon.public.md) 
+### [Lyon](/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Auvergne-Rhône-Alpes/departments~Auvergne-Rhône-Alpes/Rhône/communes~Rhône/Lyon/cities~Lyon/Lyon.md) 
 
-### [Lyon.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Auvergne-Rhône-Alpes\departments~Auvergne-Rhône-Alpes\Rhône\communes~Rhône\Lyon\cities~LyonLyon.internal.md) 
+### [Lyon.public](/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Auvergne-Rhône-Alpes/departments~Auvergne-Rhône-Alpes/Rhône/communes~Rhône/Lyon/cities~Lyon/Lyon.public.md) 
 
-### [Lyon.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Auvergne-Rhône-Alpes\departments~Auvergne-Rhône-Alpes\Rhône\communes~Rhône\Lyon\cities~LyonLyon.protect.md) 
+### [Lyon.internal](/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Auvergne-Rhône-Alpes/departments~Auvergne-Rhône-Alpes/Rhône/communes~Rhône/Lyon/cities~Lyon/Lyon.internal.md) 
 
-### [Lyon.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Auvergne-Rhône-Alpes\departments~Auvergne-Rhône-Alpes\Rhône\communes~Rhône\Lyon\cities~LyonLyon.private.md) 
+### [Lyon.protect](/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Auvergne-Rhône-Alpes/departments~Auvergne-Rhône-Alpes/Rhône/communes~Rhône/Lyon/cities~Lyon/Lyon.protect.md) 
 
-### [Lyon.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Auvergne-Rhône-Alpes\departments~Auvergne-Rhône-Alpes\Rhône\communes~Rhône\Lyon\cities~LyonLyon.personal.md) 
+### [Lyon.private](/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Auvergne-Rhône-Alpes/departments~Auvergne-Rhône-Alpes/Rhône/communes~Rhône/Lyon/cities~Lyon/Lyon.private.md) 
 
-### [Lyon.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Auvergne-Rhône-Alpes\departments~Auvergne-Rhône-Alpes\Rhône\communes~Rhône\Lyon\cities~LyonLyon.secret.md)
+### [Lyon.personal](/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Auvergne-Rhône-Alpes/departments~Auvergne-Rhône-Alpes/Rhône/communes~Rhône/Lyon/cities~Lyon/Lyon.personal.md) 
+
+### [Lyon.secret](/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Auvergne-Rhône-Alpes/departments~Auvergne-Rhône-Alpes/Rhône/communes~Rhône/Lyon/cities~Lyon/Lyon.secret.md)
 

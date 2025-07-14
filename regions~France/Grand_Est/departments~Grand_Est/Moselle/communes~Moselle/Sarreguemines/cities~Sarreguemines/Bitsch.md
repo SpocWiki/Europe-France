@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Bitsch.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Grand_Est\departments~Grand_Est\Moselle\communes~Moselle\Sarreguemines\cities~SarregueminesBitsch.public.md) 
+### [Bitsch](/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Grand_Est/departments~Grand_Est/Moselle/communes~Moselle/Sarreguemines/cities~Sarreguemines/Bitsch.md) 
 
-### [Bitsch.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Grand_Est\departments~Grand_Est\Moselle\communes~Moselle\Sarreguemines\cities~SarregueminesBitsch.internal.md) 
+### [Bitsch.public](/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Grand_Est/departments~Grand_Est/Moselle/communes~Moselle/Sarreguemines/cities~Sarreguemines/Bitsch.public.md) 
 
-### [Bitsch.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Grand_Est\departments~Grand_Est\Moselle\communes~Moselle\Sarreguemines\cities~SarregueminesBitsch.protect.md) 
+### [Bitsch.internal](/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Grand_Est/departments~Grand_Est/Moselle/communes~Moselle/Sarreguemines/cities~Sarreguemines/Bitsch.internal.md) 
 
-### [Bitsch.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Grand_Est\departments~Grand_Est\Moselle\communes~Moselle\Sarreguemines\cities~SarregueminesBitsch.private.md) 
+### [Bitsch.protect](/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Grand_Est/departments~Grand_Est/Moselle/communes~Moselle/Sarreguemines/cities~Sarreguemines/Bitsch.protect.md) 
 
-### [Bitsch.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Grand_Est\departments~Grand_Est\Moselle\communes~Moselle\Sarreguemines\cities~SarregueminesBitsch.personal.md) 
+### [Bitsch.private](/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Grand_Est/departments~Grand_Est/Moselle/communes~Moselle/Sarreguemines/cities~Sarreguemines/Bitsch.private.md) 
 
-### [Bitsch.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Grand_Est\departments~Grand_Est\Moselle\communes~Moselle\Sarreguemines\cities~SarregueminesBitsch.secret.md)
+### [Bitsch.personal](/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Grand_Est/departments~Grand_Est/Moselle/communes~Moselle/Sarreguemines/cities~Sarreguemines/Bitsch.personal.md) 
+
+### [Bitsch.secret](/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Grand_Est/departments~Grand_Est/Moselle/communes~Moselle/Sarreguemines/cities~Sarreguemines/Bitsch.secret.md)
 

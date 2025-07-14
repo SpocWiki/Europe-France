@@ -41,15 +41,17 @@ markerFolder: ./Département~Loiret/
 
 ## Confidential Links & Embeds: 
 
-### [Loiret.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Val_de_Loire\departments~Val_de_LoireLoiret.public.md) 
+### [Loiret](/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Val_de_Loire/departments~Val_de_Loire/Loiret.md) 
 
-### [Loiret.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Val_de_Loire\departments~Val_de_LoireLoiret.internal.md) 
+### [Loiret.public](/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Val_de_Loire/departments~Val_de_Loire/Loiret.public.md) 
 
-### [Loiret.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Val_de_Loire\departments~Val_de_LoireLoiret.protect.md) 
+### [Loiret.internal](/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Val_de_Loire/departments~Val_de_Loire/Loiret.internal.md) 
 
-### [Loiret.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Val_de_Loire\departments~Val_de_LoireLoiret.private.md) 
+### [Loiret.protect](/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Val_de_Loire/departments~Val_de_Loire/Loiret.protect.md) 
 
-### [Loiret.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Val_de_Loire\departments~Val_de_LoireLoiret.personal.md) 
+### [Loiret.private](/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Val_de_Loire/departments~Val_de_Loire/Loiret.private.md) 
 
-### [Loiret.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Val_de_Loire\departments~Val_de_LoireLoiret.secret.md)
+### [Loiret.personal](/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Val_de_Loire/departments~Val_de_Loire/Loiret.personal.md) 
+
+### [Loiret.secret](/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Val_de_Loire/departments~Val_de_Loire/Loiret.secret.md)
 

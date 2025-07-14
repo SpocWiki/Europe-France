@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Lorette~St.Etienne.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Auvergne-Rhône-Alpes\departments~Auvergne-Rhône-Alpes\Loire\communes~Loire\Montbrison\cities~MontbrisonLorette~St.Etienne.public.md) 
+### [Lorette~St.Etienne](/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Auvergne-Rhône-Alpes/departments~Auvergne-Rhône-Alpes/Loire/communes~Loire/Montbrison/cities~Montbrison/Lorette~St.Etienne.md) 
 
-### [Lorette~St.Etienne.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Auvergne-Rhône-Alpes\departments~Auvergne-Rhône-Alpes\Loire\communes~Loire\Montbrison\cities~MontbrisonLorette~St.Etienne.internal.md) 
+### [Lorette~St.Etienne.public](/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Auvergne-Rhône-Alpes/departments~Auvergne-Rhône-Alpes/Loire/communes~Loire/Montbrison/cities~Montbrison/Lorette~St.Etienne.public.md) 
 
-### [Lorette~St.Etienne.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Auvergne-Rhône-Alpes\departments~Auvergne-Rhône-Alpes\Loire\communes~Loire\Montbrison\cities~MontbrisonLorette~St.Etienne.protect.md) 
+### [Lorette~St.Etienne.internal](/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Auvergne-Rhône-Alpes/departments~Auvergne-Rhône-Alpes/Loire/communes~Loire/Montbrison/cities~Montbrison/Lorette~St.Etienne.internal.md) 
 
-### [Lorette~St.Etienne.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Auvergne-Rhône-Alpes\departments~Auvergne-Rhône-Alpes\Loire\communes~Loire\Montbrison\cities~MontbrisonLorette~St.Etienne.private.md) 
+### [Lorette~St.Etienne.protect](/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Auvergne-Rhône-Alpes/departments~Auvergne-Rhône-Alpes/Loire/communes~Loire/Montbrison/cities~Montbrison/Lorette~St.Etienne.protect.md) 
 
-### [Lorette~St.Etienne.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Auvergne-Rhône-Alpes\departments~Auvergne-Rhône-Alpes\Loire\communes~Loire\Montbrison\cities~MontbrisonLorette~St.Etienne.personal.md) 
+### [Lorette~St.Etienne.private](/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Auvergne-Rhône-Alpes/departments~Auvergne-Rhône-Alpes/Loire/communes~Loire/Montbrison/cities~Montbrison/Lorette~St.Etienne.private.md) 
 
-### [Lorette~St.Etienne.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Auvergne-Rhône-Alpes\departments~Auvergne-Rhône-Alpes\Loire\communes~Loire\Montbrison\cities~MontbrisonLorette~St.Etienne.secret.md)
+### [Lorette~St.Etienne.personal](/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Auvergne-Rhône-Alpes/departments~Auvergne-Rhône-Alpes/Loire/communes~Loire/Montbrison/cities~Montbrison/Lorette~St.Etienne.personal.md) 
+
+### [Lorette~St.Etienne.secret](/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Auvergne-Rhône-Alpes/departments~Auvergne-Rhône-Alpes/Loire/communes~Loire/Montbrison/cities~Montbrison/Lorette~St.Etienne.secret.md)
 

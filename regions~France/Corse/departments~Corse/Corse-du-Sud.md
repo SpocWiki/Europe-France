@@ -41,15 +41,17 @@ markerFolder: ./Corse-du-Sud/
 
 ## Confidential Links & Embeds: 
 
-### [Corse-du-Sud.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Corse\departments~CorseCorse-du-Sud.public.md) 
+### [Corse-du-Sud](/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Corse/departments~Corse/Corse-du-Sud.md) 
 
-### [Corse-du-Sud.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Corse\departments~CorseCorse-du-Sud.internal.md) 
+### [Corse-du-Sud.public](/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Corse/departments~Corse/Corse-du-Sud.public.md) 
 
-### [Corse-du-Sud.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Corse\departments~CorseCorse-du-Sud.protect.md) 
+### [Corse-du-Sud.internal](/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Corse/departments~Corse/Corse-du-Sud.internal.md) 
 
-### [Corse-du-Sud.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Corse\departments~CorseCorse-du-Sud.private.md) 
+### [Corse-du-Sud.protect](/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Corse/departments~Corse/Corse-du-Sud.protect.md) 
 
-### [Corse-du-Sud.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Corse\departments~CorseCorse-du-Sud.personal.md) 
+### [Corse-du-Sud.private](/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Corse/departments~Corse/Corse-du-Sud.private.md) 
 
-### [Corse-du-Sud.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Corse\departments~CorseCorse-du-Sud.secret.md)
+### [Corse-du-Sud.personal](/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Corse/departments~Corse/Corse-du-Sud.personal.md) 
+
+### [Corse-du-Sud.secret](/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Corse/departments~Corse/Corse-du-Sud.secret.md)
 

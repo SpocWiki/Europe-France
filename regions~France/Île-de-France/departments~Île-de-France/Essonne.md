@@ -41,15 +41,17 @@ markerFolder: ./Département~Essonne/
 
 ## Confidential Links & Embeds: 
 
-### [Essonne.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Île-de-France\departments~Île-de-FranceEssonne.public.md) 
+### [Essonne](/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Île-de-France/departments~Île-de-France/Essonne.md) 
 
-### [Essonne.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Île-de-France\departments~Île-de-FranceEssonne.internal.md) 
+### [Essonne.public](/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Île-de-France/departments~Île-de-France/Essonne.public.md) 
 
-### [Essonne.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Île-de-France\departments~Île-de-FranceEssonne.protect.md) 
+### [Essonne.internal](/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Île-de-France/departments~Île-de-France/Essonne.internal.md) 
 
-### [Essonne.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Île-de-France\departments~Île-de-FranceEssonne.private.md) 
+### [Essonne.protect](/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Île-de-France/departments~Île-de-France/Essonne.protect.md) 
 
-### [Essonne.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Île-de-France\departments~Île-de-FranceEssonne.personal.md) 
+### [Essonne.private](/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Île-de-France/departments~Île-de-France/Essonne.private.md) 
 
-### [Essonne.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Île-de-France\departments~Île-de-FranceEssonne.secret.md)
+### [Essonne.personal](/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Île-de-France/departments~Île-de-France/Essonne.personal.md) 
+
+### [Essonne.secret](/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Île-de-France/departments~Île-de-France/Essonne.secret.md)
 

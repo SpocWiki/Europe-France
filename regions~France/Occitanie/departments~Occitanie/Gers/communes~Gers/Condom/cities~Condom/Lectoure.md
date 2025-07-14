@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Lectoure.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~Occitanie\Gers\communes~Gers\Condom\cities~CondomLectoure.public.md) 
+### [Lectoure](/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Gers/communes~Gers/Condom/cities~Condom/Lectoure.md) 
 
-### [Lectoure.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~Occitanie\Gers\communes~Gers\Condom\cities~CondomLectoure.internal.md) 
+### [Lectoure.public](/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Gers/communes~Gers/Condom/cities~Condom/Lectoure.public.md) 
 
-### [Lectoure.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~Occitanie\Gers\communes~Gers\Condom\cities~CondomLectoure.protect.md) 
+### [Lectoure.internal](/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Gers/communes~Gers/Condom/cities~Condom/Lectoure.internal.md) 
 
-### [Lectoure.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~Occitanie\Gers\communes~Gers\Condom\cities~CondomLectoure.private.md) 
+### [Lectoure.protect](/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Gers/communes~Gers/Condom/cities~Condom/Lectoure.protect.md) 
 
-### [Lectoure.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~Occitanie\Gers\communes~Gers\Condom\cities~CondomLectoure.personal.md) 
+### [Lectoure.private](/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Gers/communes~Gers/Condom/cities~Condom/Lectoure.private.md) 
 
-### [Lectoure.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~Occitanie\Gers\communes~Gers\Condom\cities~CondomLectoure.secret.md)
+### [Lectoure.personal](/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Gers/communes~Gers/Condom/cities~Condom/Lectoure.personal.md) 
+
+### [Lectoure.secret](/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Gers/communes~Gers/Condom/cities~Condom/Lectoure.secret.md)
 

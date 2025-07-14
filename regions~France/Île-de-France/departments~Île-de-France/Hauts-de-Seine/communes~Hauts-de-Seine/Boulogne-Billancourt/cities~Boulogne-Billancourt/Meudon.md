@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Meudon.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Île-de-France\departments~Île-de-France\Hauts-de-Seine\communes~Hauts-de-Seine\Boulogne-Billancourt\cities~Boulogne-BillancourtMeudon.public.md) 
+### [Meudon](/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Île-de-France/departments~Île-de-France/Hauts-de-Seine/communes~Hauts-de-Seine/Boulogne-Billancourt/cities~Boulogne-Billancourt/Meudon.md) 
 
-### [Meudon.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Île-de-France\departments~Île-de-France\Hauts-de-Seine\communes~Hauts-de-Seine\Boulogne-Billancourt\cities~Boulogne-BillancourtMeudon.internal.md) 
+### [Meudon.public](/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Île-de-France/departments~Île-de-France/Hauts-de-Seine/communes~Hauts-de-Seine/Boulogne-Billancourt/cities~Boulogne-Billancourt/Meudon.public.md) 
 
-### [Meudon.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Île-de-France\departments~Île-de-France\Hauts-de-Seine\communes~Hauts-de-Seine\Boulogne-Billancourt\cities~Boulogne-BillancourtMeudon.protect.md) 
+### [Meudon.internal](/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Île-de-France/departments~Île-de-France/Hauts-de-Seine/communes~Hauts-de-Seine/Boulogne-Billancourt/cities~Boulogne-Billancourt/Meudon.internal.md) 
 
-### [Meudon.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Île-de-France\departments~Île-de-France\Hauts-de-Seine\communes~Hauts-de-Seine\Boulogne-Billancourt\cities~Boulogne-BillancourtMeudon.private.md) 
+### [Meudon.protect](/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Île-de-France/departments~Île-de-France/Hauts-de-Seine/communes~Hauts-de-Seine/Boulogne-Billancourt/cities~Boulogne-Billancourt/Meudon.protect.md) 
 
-### [Meudon.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Île-de-France\departments~Île-de-France\Hauts-de-Seine\communes~Hauts-de-Seine\Boulogne-Billancourt\cities~Boulogne-BillancourtMeudon.personal.md) 
+### [Meudon.private](/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Île-de-France/departments~Île-de-France/Hauts-de-Seine/communes~Hauts-de-Seine/Boulogne-Billancourt/cities~Boulogne-Billancourt/Meudon.private.md) 
 
-### [Meudon.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Île-de-France\departments~Île-de-France\Hauts-de-Seine\communes~Hauts-de-Seine\Boulogne-Billancourt\cities~Boulogne-BillancourtMeudon.secret.md)
+### [Meudon.personal](/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Île-de-France/departments~Île-de-France/Hauts-de-Seine/communes~Hauts-de-Seine/Boulogne-Billancourt/cities~Boulogne-Billancourt/Meudon.personal.md) 
+
+### [Meudon.secret](/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Île-de-France/departments~Île-de-France/Hauts-de-Seine/communes~Hauts-de-Seine/Boulogne-Billancourt/cities~Boulogne-Billancourt/Meudon.secret.md)
 

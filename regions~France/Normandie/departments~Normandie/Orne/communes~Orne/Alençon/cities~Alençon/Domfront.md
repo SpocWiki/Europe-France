@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Domfront.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Normandie\departments~Normandie\Orne\communes~Orne\Alençon\cities~AlençonDomfront.public.md) 
+### [Domfront](/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Normandie/departments~Normandie/Orne/communes~Orne/Alençon/cities~Alençon/Domfront.md) 
 
-### [Domfront.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Normandie\departments~Normandie\Orne\communes~Orne\Alençon\cities~AlençonDomfront.internal.md) 
+### [Domfront.public](/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Normandie/departments~Normandie/Orne/communes~Orne/Alençon/cities~Alençon/Domfront.public.md) 
 
-### [Domfront.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Normandie\departments~Normandie\Orne\communes~Orne\Alençon\cities~AlençonDomfront.protect.md) 
+### [Domfront.internal](/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Normandie/departments~Normandie/Orne/communes~Orne/Alençon/cities~Alençon/Domfront.internal.md) 
 
-### [Domfront.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Normandie\departments~Normandie\Orne\communes~Orne\Alençon\cities~AlençonDomfront.private.md) 
+### [Domfront.protect](/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Normandie/departments~Normandie/Orne/communes~Orne/Alençon/cities~Alençon/Domfront.protect.md) 
 
-### [Domfront.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Normandie\departments~Normandie\Orne\communes~Orne\Alençon\cities~AlençonDomfront.personal.md) 
+### [Domfront.private](/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Normandie/departments~Normandie/Orne/communes~Orne/Alençon/cities~Alençon/Domfront.private.md) 
 
-### [Domfront.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Normandie\departments~Normandie\Orne\communes~Orne\Alençon\cities~AlençonDomfront.secret.md)
+### [Domfront.personal](/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Normandie/departments~Normandie/Orne/communes~Orne/Alençon/cities~Alençon/Domfront.personal.md) 
+
+### [Domfront.secret](/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Normandie/departments~Normandie/Orne/communes~Orne/Alençon/cities~Alençon/Domfront.secret.md)
 

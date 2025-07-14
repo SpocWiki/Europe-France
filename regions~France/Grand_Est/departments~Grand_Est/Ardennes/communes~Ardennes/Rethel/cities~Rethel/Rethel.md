@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Rethel.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Grand_Est\departments~Grand_Est\Ardennes\communes~Ardennes\Rethel\cities~RethelRethel.public.md) 
+### [Rethel](/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Grand_Est/departments~Grand_Est/Ardennes/communes~Ardennes/Rethel/cities~Rethel/Rethel.md) 
 
-### [Rethel.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Grand_Est\departments~Grand_Est\Ardennes\communes~Ardennes\Rethel\cities~RethelRethel.internal.md) 
+### [Rethel.public](/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Grand_Est/departments~Grand_Est/Ardennes/communes~Ardennes/Rethel/cities~Rethel/Rethel.public.md) 
 
-### [Rethel.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Grand_Est\departments~Grand_Est\Ardennes\communes~Ardennes\Rethel\cities~RethelRethel.protect.md) 
+### [Rethel.internal](/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Grand_Est/departments~Grand_Est/Ardennes/communes~Ardennes/Rethel/cities~Rethel/Rethel.internal.md) 
 
-### [Rethel.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Grand_Est\departments~Grand_Est\Ardennes\communes~Ardennes\Rethel\cities~RethelRethel.private.md) 
+### [Rethel.protect](/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Grand_Est/departments~Grand_Est/Ardennes/communes~Ardennes/Rethel/cities~Rethel/Rethel.protect.md) 
 
-### [Rethel.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Grand_Est\departments~Grand_Est\Ardennes\communes~Ardennes\Rethel\cities~RethelRethel.personal.md) 
+### [Rethel.private](/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Grand_Est/departments~Grand_Est/Ardennes/communes~Ardennes/Rethel/cities~Rethel/Rethel.private.md) 
 
-### [Rethel.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Grand_Est\departments~Grand_Est\Ardennes\communes~Ardennes\Rethel\cities~RethelRethel.secret.md)
+### [Rethel.personal](/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Grand_Est/departments~Grand_Est/Ardennes/communes~Ardennes/Rethel/cities~Rethel/Rethel.personal.md) 
+
+### [Rethel.secret](/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Grand_Est/departments~Grand_Est/Ardennes/communes~Ardennes/Rethel/cities~Rethel/Rethel.secret.md)
 

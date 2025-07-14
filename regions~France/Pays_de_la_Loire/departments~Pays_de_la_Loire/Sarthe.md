@@ -41,15 +41,17 @@ markerFolder: ./Département~Sarthe/
 
 ## Confidential Links & Embeds: 
 
-### [Sarthe.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Pays_de_la_Loire\departments~Pays_de_la_LoireSarthe.public.md) 
+### [Sarthe](/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Pays_de_la_Loire/departments~Pays_de_la_Loire/Sarthe.md) 
 
-### [Sarthe.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Pays_de_la_Loire\departments~Pays_de_la_LoireSarthe.internal.md) 
+### [Sarthe.public](/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Pays_de_la_Loire/departments~Pays_de_la_Loire/Sarthe.public.md) 
 
-### [Sarthe.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Pays_de_la_Loire\departments~Pays_de_la_LoireSarthe.protect.md) 
+### [Sarthe.internal](/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Pays_de_la_Loire/departments~Pays_de_la_Loire/Sarthe.internal.md) 
 
-### [Sarthe.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Pays_de_la_Loire\departments~Pays_de_la_LoireSarthe.private.md) 
+### [Sarthe.protect](/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Pays_de_la_Loire/departments~Pays_de_la_Loire/Sarthe.protect.md) 
 
-### [Sarthe.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Pays_de_la_Loire\departments~Pays_de_la_LoireSarthe.personal.md) 
+### [Sarthe.private](/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Pays_de_la_Loire/departments~Pays_de_la_Loire/Sarthe.private.md) 
 
-### [Sarthe.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Pays_de_la_Loire\departments~Pays_de_la_LoireSarthe.secret.md)
+### [Sarthe.personal](/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Pays_de_la_Loire/departments~Pays_de_la_Loire/Sarthe.personal.md) 
+
+### [Sarthe.secret](/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Pays_de_la_Loire/departments~Pays_de_la_Loire/Sarthe.secret.md)
 

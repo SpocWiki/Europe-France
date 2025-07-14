@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Pau.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~Aquitaine\Pyrénées-Atlantiques\communes~Pyrénées-Atlantiques\Pau\cities~PauPau.public.md) 
+### [Pau](/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Nouvelle-Aquitaine/departments~Aquitaine/Pyrénées-Atlantiques/communes~Pyrénées-Atlantiques/Pau/cities~Pau/Pau.md) 
 
-### [Pau.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~Aquitaine\Pyrénées-Atlantiques\communes~Pyrénées-Atlantiques\Pau\cities~PauPau.internal.md) 
+### [Pau.public](/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Nouvelle-Aquitaine/departments~Aquitaine/Pyrénées-Atlantiques/communes~Pyrénées-Atlantiques/Pau/cities~Pau/Pau.public.md) 
 
-### [Pau.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~Aquitaine\Pyrénées-Atlantiques\communes~Pyrénées-Atlantiques\Pau\cities~PauPau.protect.md) 
+### [Pau.internal](/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Nouvelle-Aquitaine/departments~Aquitaine/Pyrénées-Atlantiques/communes~Pyrénées-Atlantiques/Pau/cities~Pau/Pau.internal.md) 
 
-### [Pau.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~Aquitaine\Pyrénées-Atlantiques\communes~Pyrénées-Atlantiques\Pau\cities~PauPau.private.md) 
+### [Pau.protect](/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Nouvelle-Aquitaine/departments~Aquitaine/Pyrénées-Atlantiques/communes~Pyrénées-Atlantiques/Pau/cities~Pau/Pau.protect.md) 
 
-### [Pau.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~Aquitaine\Pyrénées-Atlantiques\communes~Pyrénées-Atlantiques\Pau\cities~PauPau.personal.md) 
+### [Pau.private](/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Nouvelle-Aquitaine/departments~Aquitaine/Pyrénées-Atlantiques/communes~Pyrénées-Atlantiques/Pau/cities~Pau/Pau.private.md) 
 
-### [Pau.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~Aquitaine\Pyrénées-Atlantiques\communes~Pyrénées-Atlantiques\Pau\cities~PauPau.secret.md)
+### [Pau.personal](/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Nouvelle-Aquitaine/departments~Aquitaine/Pyrénées-Atlantiques/communes~Pyrénées-Atlantiques/Pau/cities~Pau/Pau.personal.md) 
+
+### [Pau.secret](/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Nouvelle-Aquitaine/departments~Aquitaine/Pyrénées-Atlantiques/communes~Pyrénées-Atlantiques/Pau/cities~Pau/Pau.secret.md)
 

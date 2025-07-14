@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Bressuire.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~Aquitaine\Deux-Sèvres\communes~Deux-Sèvres\Bressuire\cities~BressuireBressuire.public.md) 
+### [Bressuire](/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Nouvelle-Aquitaine/departments~Aquitaine/Deux-Sèvres/communes~Deux-Sèvres/Bressuire/cities~Bressuire/Bressuire.md) 
 
-### [Bressuire.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~Aquitaine\Deux-Sèvres\communes~Deux-Sèvres\Bressuire\cities~BressuireBressuire.internal.md) 
+### [Bressuire.public](/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Nouvelle-Aquitaine/departments~Aquitaine/Deux-Sèvres/communes~Deux-Sèvres/Bressuire/cities~Bressuire/Bressuire.public.md) 
 
-### [Bressuire.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~Aquitaine\Deux-Sèvres\communes~Deux-Sèvres\Bressuire\cities~BressuireBressuire.protect.md) 
+### [Bressuire.internal](/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Nouvelle-Aquitaine/departments~Aquitaine/Deux-Sèvres/communes~Deux-Sèvres/Bressuire/cities~Bressuire/Bressuire.internal.md) 
 
-### [Bressuire.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~Aquitaine\Deux-Sèvres\communes~Deux-Sèvres\Bressuire\cities~BressuireBressuire.private.md) 
+### [Bressuire.protect](/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Nouvelle-Aquitaine/departments~Aquitaine/Deux-Sèvres/communes~Deux-Sèvres/Bressuire/cities~Bressuire/Bressuire.protect.md) 
 
-### [Bressuire.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~Aquitaine\Deux-Sèvres\communes~Deux-Sèvres\Bressuire\cities~BressuireBressuire.personal.md) 
+### [Bressuire.private](/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Nouvelle-Aquitaine/departments~Aquitaine/Deux-Sèvres/communes~Deux-Sèvres/Bressuire/cities~Bressuire/Bressuire.private.md) 
 
-### [Bressuire.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~Aquitaine\Deux-Sèvres\communes~Deux-Sèvres\Bressuire\cities~BressuireBressuire.secret.md)
+### [Bressuire.personal](/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Nouvelle-Aquitaine/departments~Aquitaine/Deux-Sèvres/communes~Deux-Sèvres/Bressuire/cities~Bressuire/Bressuire.personal.md) 
+
+### [Bressuire.secret](/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Nouvelle-Aquitaine/departments~Aquitaine/Deux-Sèvres/communes~Deux-Sèvres/Bressuire/cities~Bressuire/Bressuire.secret.md)
 

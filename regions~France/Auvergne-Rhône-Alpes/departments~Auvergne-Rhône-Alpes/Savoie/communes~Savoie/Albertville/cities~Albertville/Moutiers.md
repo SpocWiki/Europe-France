@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Moutiers.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Auvergne-Rhône-Alpes\departments~Auvergne-Rhône-Alpes\Savoie\communes~Savoie\Albertville\cities~AlbertvilleMoutiers.public.md) 
+### [Moutiers](/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Auvergne-Rhône-Alpes/departments~Auvergne-Rhône-Alpes/Savoie/communes~Savoie/Albertville/cities~Albertville/Moutiers.md) 
 
-### [Moutiers.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Auvergne-Rhône-Alpes\departments~Auvergne-Rhône-Alpes\Savoie\communes~Savoie\Albertville\cities~AlbertvilleMoutiers.internal.md) 
+### [Moutiers.public](/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Auvergne-Rhône-Alpes/departments~Auvergne-Rhône-Alpes/Savoie/communes~Savoie/Albertville/cities~Albertville/Moutiers.public.md) 
 
-### [Moutiers.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Auvergne-Rhône-Alpes\departments~Auvergne-Rhône-Alpes\Savoie\communes~Savoie\Albertville\cities~AlbertvilleMoutiers.protect.md) 
+### [Moutiers.internal](/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Auvergne-Rhône-Alpes/departments~Auvergne-Rhône-Alpes/Savoie/communes~Savoie/Albertville/cities~Albertville/Moutiers.internal.md) 
 
-### [Moutiers.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Auvergne-Rhône-Alpes\departments~Auvergne-Rhône-Alpes\Savoie\communes~Savoie\Albertville\cities~AlbertvilleMoutiers.private.md) 
+### [Moutiers.protect](/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Auvergne-Rhône-Alpes/departments~Auvergne-Rhône-Alpes/Savoie/communes~Savoie/Albertville/cities~Albertville/Moutiers.protect.md) 
 
-### [Moutiers.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Auvergne-Rhône-Alpes\departments~Auvergne-Rhône-Alpes\Savoie\communes~Savoie\Albertville\cities~AlbertvilleMoutiers.personal.md) 
+### [Moutiers.private](/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Auvergne-Rhône-Alpes/departments~Auvergne-Rhône-Alpes/Savoie/communes~Savoie/Albertville/cities~Albertville/Moutiers.private.md) 
 
-### [Moutiers.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Auvergne-Rhône-Alpes\departments~Auvergne-Rhône-Alpes\Savoie\communes~Savoie\Albertville\cities~AlbertvilleMoutiers.secret.md)
+### [Moutiers.personal](/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Auvergne-Rhône-Alpes/departments~Auvergne-Rhône-Alpes/Savoie/communes~Savoie/Albertville/cities~Albertville/Moutiers.personal.md) 
+
+### [Moutiers.secret](/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Auvergne-Rhône-Alpes/departments~Auvergne-Rhône-Alpes/Savoie/communes~Savoie/Albertville/cities~Albertville/Moutiers.secret.md)
 

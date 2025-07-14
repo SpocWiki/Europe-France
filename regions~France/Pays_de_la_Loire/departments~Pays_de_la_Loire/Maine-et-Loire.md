@@ -41,15 +41,17 @@ markerFolder: ./Département~Maine-et-Loire/
 
 ## Confidential Links & Embeds: 
 
-### [Maine-et-Loire.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Pays_de_la_Loire\departments~Pays_de_la_LoireMaine-et-Loire.public.md) 
+### [Maine-et-Loire](/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Pays_de_la_Loire/departments~Pays_de_la_Loire/Maine-et-Loire.md) 
 
-### [Maine-et-Loire.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Pays_de_la_Loire\departments~Pays_de_la_LoireMaine-et-Loire.internal.md) 
+### [Maine-et-Loire.public](/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Pays_de_la_Loire/departments~Pays_de_la_Loire/Maine-et-Loire.public.md) 
 
-### [Maine-et-Loire.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Pays_de_la_Loire\departments~Pays_de_la_LoireMaine-et-Loire.protect.md) 
+### [Maine-et-Loire.internal](/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Pays_de_la_Loire/departments~Pays_de_la_Loire/Maine-et-Loire.internal.md) 
 
-### [Maine-et-Loire.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Pays_de_la_Loire\departments~Pays_de_la_LoireMaine-et-Loire.private.md) 
+### [Maine-et-Loire.protect](/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Pays_de_la_Loire/departments~Pays_de_la_Loire/Maine-et-Loire.protect.md) 
 
-### [Maine-et-Loire.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Pays_de_la_Loire\departments~Pays_de_la_LoireMaine-et-Loire.personal.md) 
+### [Maine-et-Loire.private](/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Pays_de_la_Loire/departments~Pays_de_la_Loire/Maine-et-Loire.private.md) 
 
-### [Maine-et-Loire.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Pays_de_la_Loire\departments~Pays_de_la_LoireMaine-et-Loire.secret.md)
+### [Maine-et-Loire.personal](/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Pays_de_la_Loire/departments~Pays_de_la_Loire/Maine-et-Loire.personal.md) 
+
+### [Maine-et-Loire.secret](/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Pays_de_la_Loire/departments~Pays_de_la_Loire/Maine-et-Loire.secret.md)
 

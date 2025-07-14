@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Céret.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~Occitanie\Pyrénées-Orientales\communes~Pyrénées-Orientales\Céret\cities~CéretCéret.public.md) 
+### [Céret](/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Pyrénées-Orientales/communes~Pyrénées-Orientales/Céret/cities~Céret/Céret.md) 
 
-### [Céret.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~Occitanie\Pyrénées-Orientales\communes~Pyrénées-Orientales\Céret\cities~CéretCéret.internal.md) 
+### [Céret.public](/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Pyrénées-Orientales/communes~Pyrénées-Orientales/Céret/cities~Céret/Céret.public.md) 
 
-### [Céret.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~Occitanie\Pyrénées-Orientales\communes~Pyrénées-Orientales\Céret\cities~CéretCéret.protect.md) 
+### [Céret.internal](/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Pyrénées-Orientales/communes~Pyrénées-Orientales/Céret/cities~Céret/Céret.internal.md) 
 
-### [Céret.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~Occitanie\Pyrénées-Orientales\communes~Pyrénées-Orientales\Céret\cities~CéretCéret.private.md) 
+### [Céret.protect](/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Pyrénées-Orientales/communes~Pyrénées-Orientales/Céret/cities~Céret/Céret.protect.md) 
 
-### [Céret.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~Occitanie\Pyrénées-Orientales\communes~Pyrénées-Orientales\Céret\cities~CéretCéret.personal.md) 
+### [Céret.private](/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Pyrénées-Orientales/communes~Pyrénées-Orientales/Céret/cities~Céret/Céret.private.md) 
 
-### [Céret.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~Occitanie\Pyrénées-Orientales\communes~Pyrénées-Orientales\Céret\cities~CéretCéret.secret.md)
+### [Céret.personal](/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Pyrénées-Orientales/communes~Pyrénées-Orientales/Céret/cities~Céret/Céret.personal.md) 
+
+### [Céret.secret](/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Pyrénées-Orientales/communes~Pyrénées-Orientales/Céret/cities~Céret/Céret.secret.md)
 

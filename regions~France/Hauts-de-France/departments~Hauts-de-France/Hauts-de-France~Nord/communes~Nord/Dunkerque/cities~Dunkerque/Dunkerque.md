@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Dunkerque.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Hauts-de-France\departments~Hauts-de-France\Hauts-de-France~Nord\communes~Nord\Dunkerque\cities~DunkerqueDunkerque.public.md) 
+### [Dunkerque](/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Hauts-de-France/departments~Hauts-de-France/Hauts-de-France~Nord/communes~Nord/Dunkerque/cities~Dunkerque/Dunkerque.md) 
 
-### [Dunkerque.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Hauts-de-France\departments~Hauts-de-France\Hauts-de-France~Nord\communes~Nord\Dunkerque\cities~DunkerqueDunkerque.internal.md) 
+### [Dunkerque.public](/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Hauts-de-France/departments~Hauts-de-France/Hauts-de-France~Nord/communes~Nord/Dunkerque/cities~Dunkerque/Dunkerque.public.md) 
 
-### [Dunkerque.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Hauts-de-France\departments~Hauts-de-France\Hauts-de-France~Nord\communes~Nord\Dunkerque\cities~DunkerqueDunkerque.protect.md) 
+### [Dunkerque.internal](/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Hauts-de-France/departments~Hauts-de-France/Hauts-de-France~Nord/communes~Nord/Dunkerque/cities~Dunkerque/Dunkerque.internal.md) 
 
-### [Dunkerque.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Hauts-de-France\departments~Hauts-de-France\Hauts-de-France~Nord\communes~Nord\Dunkerque\cities~DunkerqueDunkerque.private.md) 
+### [Dunkerque.protect](/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Hauts-de-France/departments~Hauts-de-France/Hauts-de-France~Nord/communes~Nord/Dunkerque/cities~Dunkerque/Dunkerque.protect.md) 
 
-### [Dunkerque.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Hauts-de-France\departments~Hauts-de-France\Hauts-de-France~Nord\communes~Nord\Dunkerque\cities~DunkerqueDunkerque.personal.md) 
+### [Dunkerque.private](/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Hauts-de-France/departments~Hauts-de-France/Hauts-de-France~Nord/communes~Nord/Dunkerque/cities~Dunkerque/Dunkerque.private.md) 
 
-### [Dunkerque.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Hauts-de-France\departments~Hauts-de-France\Hauts-de-France~Nord\communes~Nord\Dunkerque\cities~DunkerqueDunkerque.secret.md)
+### [Dunkerque.personal](/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Hauts-de-France/departments~Hauts-de-France/Hauts-de-France~Nord/communes~Nord/Dunkerque/cities~Dunkerque/Dunkerque.personal.md) 
+
+### [Dunkerque.secret](/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Hauts-de-France/departments~Hauts-de-France/Hauts-de-France~Nord/communes~Nord/Dunkerque/cities~Dunkerque/Dunkerque.secret.md)
 

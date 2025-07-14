@@ -41,15 +41,17 @@ markerFolder: ./Département~Tarn-et-Garonne/
 
 ## Confidential Links & Embeds: 
 
-### [Tarn-et-Garonne.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~OccitanieTarn-et-Garonne.public.md) 
+### [Tarn-et-Garonne](/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Tarn-et-Garonne.md) 
 
-### [Tarn-et-Garonne.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~OccitanieTarn-et-Garonne.internal.md) 
+### [Tarn-et-Garonne.public](/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Tarn-et-Garonne.public.md) 
 
-### [Tarn-et-Garonne.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~OccitanieTarn-et-Garonne.protect.md) 
+### [Tarn-et-Garonne.internal](/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Tarn-et-Garonne.internal.md) 
 
-### [Tarn-et-Garonne.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~OccitanieTarn-et-Garonne.private.md) 
+### [Tarn-et-Garonne.protect](/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Tarn-et-Garonne.protect.md) 
 
-### [Tarn-et-Garonne.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~OccitanieTarn-et-Garonne.personal.md) 
+### [Tarn-et-Garonne.private](/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Tarn-et-Garonne.private.md) 
 
-### [Tarn-et-Garonne.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~OccitanieTarn-et-Garonne.secret.md)
+### [Tarn-et-Garonne.personal](/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Tarn-et-Garonne.personal.md) 
+
+### [Tarn-et-Garonne.secret](/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Tarn-et-Garonne.secret.md)
 

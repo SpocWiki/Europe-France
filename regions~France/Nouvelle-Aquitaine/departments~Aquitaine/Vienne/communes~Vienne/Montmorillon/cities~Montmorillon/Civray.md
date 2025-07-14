@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Civray.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~Aquitaine\Vienne\communes~Vienne\Montmorillon\cities~MontmorillonCivray.public.md) 
+### [Civray](/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Nouvelle-Aquitaine/departments~Aquitaine/Vienne/communes~Vienne/Montmorillon/cities~Montmorillon/Civray.md) 
 
-### [Civray.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~Aquitaine\Vienne\communes~Vienne\Montmorillon\cities~MontmorillonCivray.internal.md) 
+### [Civray.public](/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Nouvelle-Aquitaine/departments~Aquitaine/Vienne/communes~Vienne/Montmorillon/cities~Montmorillon/Civray.public.md) 
 
-### [Civray.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~Aquitaine\Vienne\communes~Vienne\Montmorillon\cities~MontmorillonCivray.protect.md) 
+### [Civray.internal](/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Nouvelle-Aquitaine/departments~Aquitaine/Vienne/communes~Vienne/Montmorillon/cities~Montmorillon/Civray.internal.md) 
 
-### [Civray.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~Aquitaine\Vienne\communes~Vienne\Montmorillon\cities~MontmorillonCivray.private.md) 
+### [Civray.protect](/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Nouvelle-Aquitaine/departments~Aquitaine/Vienne/communes~Vienne/Montmorillon/cities~Montmorillon/Civray.protect.md) 
 
-### [Civray.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~Aquitaine\Vienne\communes~Vienne\Montmorillon\cities~MontmorillonCivray.personal.md) 
+### [Civray.private](/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Nouvelle-Aquitaine/departments~Aquitaine/Vienne/communes~Vienne/Montmorillon/cities~Montmorillon/Civray.private.md) 
 
-### [Civray.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~Aquitaine\Vienne\communes~Vienne\Montmorillon\cities~MontmorillonCivray.secret.md)
+### [Civray.personal](/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Nouvelle-Aquitaine/departments~Aquitaine/Vienne/communes~Vienne/Montmorillon/cities~Montmorillon/Civray.personal.md) 
+
+### [Civray.secret](/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Nouvelle-Aquitaine/departments~Aquitaine/Vienne/communes~Vienne/Montmorillon/cities~Montmorillon/Civray.secret.md)
 

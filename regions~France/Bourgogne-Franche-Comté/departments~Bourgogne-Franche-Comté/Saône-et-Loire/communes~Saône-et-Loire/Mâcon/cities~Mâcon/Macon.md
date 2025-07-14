@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Macon.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Bourgogne-Franche-Comté\departments~Bourgogne-Franche-Comté\Saône-et-Loire\communes~Saône-et-Loire\Mâcon\cities~MâconMacon.public.md) 
+### [Macon](/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Bourgogne-Franche-Comté/departments~Bourgogne-Franche-Comté/Saône-et-Loire/communes~Saône-et-Loire/Mâcon/cities~Mâcon/Macon.md) 
 
-### [Macon.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Bourgogne-Franche-Comté\departments~Bourgogne-Franche-Comté\Saône-et-Loire\communes~Saône-et-Loire\Mâcon\cities~MâconMacon.internal.md) 
+### [Macon.public](/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Bourgogne-Franche-Comté/departments~Bourgogne-Franche-Comté/Saône-et-Loire/communes~Saône-et-Loire/Mâcon/cities~Mâcon/Macon.public.md) 
 
-### [Macon.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Bourgogne-Franche-Comté\departments~Bourgogne-Franche-Comté\Saône-et-Loire\communes~Saône-et-Loire\Mâcon\cities~MâconMacon.protect.md) 
+### [Macon.internal](/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Bourgogne-Franche-Comté/departments~Bourgogne-Franche-Comté/Saône-et-Loire/communes~Saône-et-Loire/Mâcon/cities~Mâcon/Macon.internal.md) 
 
-### [Macon.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Bourgogne-Franche-Comté\departments~Bourgogne-Franche-Comté\Saône-et-Loire\communes~Saône-et-Loire\Mâcon\cities~MâconMacon.private.md) 
+### [Macon.protect](/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Bourgogne-Franche-Comté/departments~Bourgogne-Franche-Comté/Saône-et-Loire/communes~Saône-et-Loire/Mâcon/cities~Mâcon/Macon.protect.md) 
 
-### [Macon.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Bourgogne-Franche-Comté\departments~Bourgogne-Franche-Comté\Saône-et-Loire\communes~Saône-et-Loire\Mâcon\cities~MâconMacon.personal.md) 
+### [Macon.private](/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Bourgogne-Franche-Comté/departments~Bourgogne-Franche-Comté/Saône-et-Loire/communes~Saône-et-Loire/Mâcon/cities~Mâcon/Macon.private.md) 
 
-### [Macon.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Bourgogne-Franche-Comté\departments~Bourgogne-Franche-Comté\Saône-et-Loire\communes~Saône-et-Loire\Mâcon\cities~MâconMacon.secret.md)
+### [Macon.personal](/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Bourgogne-Franche-Comté/departments~Bourgogne-Franche-Comté/Saône-et-Loire/communes~Saône-et-Loire/Mâcon/cities~Mâcon/Macon.personal.md) 
+
+### [Macon.secret](/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Bourgogne-Franche-Comté/departments~Bourgogne-Franche-Comté/Saône-et-Loire/communes~Saône-et-Loire/Mâcon/cities~Mâcon/Macon.secret.md)
 

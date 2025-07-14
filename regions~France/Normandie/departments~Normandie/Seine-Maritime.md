@@ -41,15 +41,17 @@ markerFolder: ./Département~Seine-Maritime/
 
 ## Confidential Links & Embeds: 
 
-### [Seine-Maritime.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Normandie\departments~NormandieSeine-Maritime.public.md) 
+### [Seine-Maritime](/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Normandie/departments~Normandie/Seine-Maritime.md) 
 
-### [Seine-Maritime.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Normandie\departments~NormandieSeine-Maritime.internal.md) 
+### [Seine-Maritime.public](/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Normandie/departments~Normandie/Seine-Maritime.public.md) 
 
-### [Seine-Maritime.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Normandie\departments~NormandieSeine-Maritime.protect.md) 
+### [Seine-Maritime.internal](/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Normandie/departments~Normandie/Seine-Maritime.internal.md) 
 
-### [Seine-Maritime.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Normandie\departments~NormandieSeine-Maritime.private.md) 
+### [Seine-Maritime.protect](/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Normandie/departments~Normandie/Seine-Maritime.protect.md) 
 
-### [Seine-Maritime.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Normandie\departments~NormandieSeine-Maritime.personal.md) 
+### [Seine-Maritime.private](/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Normandie/departments~Normandie/Seine-Maritime.private.md) 
 
-### [Seine-Maritime.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Normandie\departments~NormandieSeine-Maritime.secret.md)
+### [Seine-Maritime.personal](/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Normandie/departments~Normandie/Seine-Maritime.personal.md) 
+
+### [Seine-Maritime.secret](/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Normandie/departments~Normandie/Seine-Maritime.secret.md)
 

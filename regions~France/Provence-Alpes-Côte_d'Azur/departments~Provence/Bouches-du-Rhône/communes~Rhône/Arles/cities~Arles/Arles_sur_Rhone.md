@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Arles_sur_Rhone.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Provence-Alpes-Côte_d'Azur\departments~Provence\Bouches-du-Rhône\communes~Rhône\Arles\cities~ArlesArles_sur_Rhone.public.md) 
+### [Arles_sur_Rhone](/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Provence-Alpes-Côte_d'Azur/departments~Provence/Bouches-du-Rhône/communes~Rhône/Arles/cities~Arles/Arles_sur_Rhone.md) 
 
-### [Arles_sur_Rhone.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Provence-Alpes-Côte_d'Azur\departments~Provence\Bouches-du-Rhône\communes~Rhône\Arles\cities~ArlesArles_sur_Rhone.internal.md) 
+### [Arles_sur_Rhone.public](/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Provence-Alpes-Côte_d'Azur/departments~Provence/Bouches-du-Rhône/communes~Rhône/Arles/cities~Arles/Arles_sur_Rhone.public.md) 
 
-### [Arles_sur_Rhone.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Provence-Alpes-Côte_d'Azur\departments~Provence\Bouches-du-Rhône\communes~Rhône\Arles\cities~ArlesArles_sur_Rhone.protect.md) 
+### [Arles_sur_Rhone.internal](/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Provence-Alpes-Côte_d'Azur/departments~Provence/Bouches-du-Rhône/communes~Rhône/Arles/cities~Arles/Arles_sur_Rhone.internal.md) 
 
-### [Arles_sur_Rhone.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Provence-Alpes-Côte_d'Azur\departments~Provence\Bouches-du-Rhône\communes~Rhône\Arles\cities~ArlesArles_sur_Rhone.private.md) 
+### [Arles_sur_Rhone.protect](/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Provence-Alpes-Côte_d'Azur/departments~Provence/Bouches-du-Rhône/communes~Rhône/Arles/cities~Arles/Arles_sur_Rhone.protect.md) 
 
-### [Arles_sur_Rhone.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Provence-Alpes-Côte_d'Azur\departments~Provence\Bouches-du-Rhône\communes~Rhône\Arles\cities~ArlesArles_sur_Rhone.personal.md) 
+### [Arles_sur_Rhone.private](/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Provence-Alpes-Côte_d'Azur/departments~Provence/Bouches-du-Rhône/communes~Rhône/Arles/cities~Arles/Arles_sur_Rhone.private.md) 
 
-### [Arles_sur_Rhone.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Provence-Alpes-Côte_d'Azur\departments~Provence\Bouches-du-Rhône\communes~Rhône\Arles\cities~ArlesArles_sur_Rhone.secret.md)
+### [Arles_sur_Rhone.personal](/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Provence-Alpes-Côte_d'Azur/departments~Provence/Bouches-du-Rhône/communes~Rhône/Arles/cities~Arles/Arles_sur_Rhone.personal.md) 
+
+### [Arles_sur_Rhone.secret](/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Provence-Alpes-Côte_d'Azur/departments~Provence/Bouches-du-Rhône/communes~Rhône/Arles/cities~Arles/Arles_sur_Rhone.secret.md)
 

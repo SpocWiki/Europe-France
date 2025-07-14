@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Mortain.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Bretagne\departments~Bretagne\Ille-et-Vilaine\communes~Ille-et-Vilaine\Saint-Malo\cities~Saint-MaloMortain.public.md) 
+### [Mortain](/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Bretagne/departments~Bretagne/Ille-et-Vilaine/communes~Ille-et-Vilaine/Saint-Malo/cities~Saint-Malo/Mortain.md) 
 
-### [Mortain.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Bretagne\departments~Bretagne\Ille-et-Vilaine\communes~Ille-et-Vilaine\Saint-Malo\cities~Saint-MaloMortain.internal.md) 
+### [Mortain.public](/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Bretagne/departments~Bretagne/Ille-et-Vilaine/communes~Ille-et-Vilaine/Saint-Malo/cities~Saint-Malo/Mortain.public.md) 
 
-### [Mortain.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Bretagne\departments~Bretagne\Ille-et-Vilaine\communes~Ille-et-Vilaine\Saint-Malo\cities~Saint-MaloMortain.protect.md) 
+### [Mortain.internal](/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Bretagne/departments~Bretagne/Ille-et-Vilaine/communes~Ille-et-Vilaine/Saint-Malo/cities~Saint-Malo/Mortain.internal.md) 
 
-### [Mortain.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Bretagne\departments~Bretagne\Ille-et-Vilaine\communes~Ille-et-Vilaine\Saint-Malo\cities~Saint-MaloMortain.private.md) 
+### [Mortain.protect](/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Bretagne/departments~Bretagne/Ille-et-Vilaine/communes~Ille-et-Vilaine/Saint-Malo/cities~Saint-Malo/Mortain.protect.md) 
 
-### [Mortain.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Bretagne\departments~Bretagne\Ille-et-Vilaine\communes~Ille-et-Vilaine\Saint-Malo\cities~Saint-MaloMortain.personal.md) 
+### [Mortain.private](/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Bretagne/departments~Bretagne/Ille-et-Vilaine/communes~Ille-et-Vilaine/Saint-Malo/cities~Saint-Malo/Mortain.private.md) 
 
-### [Mortain.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Bretagne\departments~Bretagne\Ille-et-Vilaine\communes~Ille-et-Vilaine\Saint-Malo\cities~Saint-MaloMortain.secret.md)
+### [Mortain.personal](/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Bretagne/departments~Bretagne/Ille-et-Vilaine/communes~Ille-et-Vilaine/Saint-Malo/cities~Saint-Malo/Mortain.personal.md) 
+
+### [Mortain.secret](/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Bretagne/departments~Bretagne/Ille-et-Vilaine/communes~Ille-et-Vilaine/Saint-Malo/cities~Saint-Malo/Mortain.secret.md)
 

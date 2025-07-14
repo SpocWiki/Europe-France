@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Bourganeuf.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~Aquitaine\Creuse\communes~Creuse\Guéret\cities~GuéretBourganeuf.public.md) 
+### [Bourganeuf](/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Nouvelle-Aquitaine/departments~Aquitaine/Creuse/communes~Creuse/Guéret/cities~Guéret/Bourganeuf.md) 
 
-### [Bourganeuf.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~Aquitaine\Creuse\communes~Creuse\Guéret\cities~GuéretBourganeuf.internal.md) 
+### [Bourganeuf.public](/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Nouvelle-Aquitaine/departments~Aquitaine/Creuse/communes~Creuse/Guéret/cities~Guéret/Bourganeuf.public.md) 
 
-### [Bourganeuf.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~Aquitaine\Creuse\communes~Creuse\Guéret\cities~GuéretBourganeuf.protect.md) 
+### [Bourganeuf.internal](/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Nouvelle-Aquitaine/departments~Aquitaine/Creuse/communes~Creuse/Guéret/cities~Guéret/Bourganeuf.internal.md) 
 
-### [Bourganeuf.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~Aquitaine\Creuse\communes~Creuse\Guéret\cities~GuéretBourganeuf.private.md) 
+### [Bourganeuf.protect](/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Nouvelle-Aquitaine/departments~Aquitaine/Creuse/communes~Creuse/Guéret/cities~Guéret/Bourganeuf.protect.md) 
 
-### [Bourganeuf.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~Aquitaine\Creuse\communes~Creuse\Guéret\cities~GuéretBourganeuf.personal.md) 
+### [Bourganeuf.private](/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Nouvelle-Aquitaine/departments~Aquitaine/Creuse/communes~Creuse/Guéret/cities~Guéret/Bourganeuf.private.md) 
 
-### [Bourganeuf.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~Aquitaine\Creuse\communes~Creuse\Guéret\cities~GuéretBourganeuf.secret.md)
+### [Bourganeuf.personal](/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Nouvelle-Aquitaine/departments~Aquitaine/Creuse/communes~Creuse/Guéret/cities~Guéret/Bourganeuf.personal.md) 
+
+### [Bourganeuf.secret](/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Nouvelle-Aquitaine/departments~Aquitaine/Creuse/communes~Creuse/Guéret/cities~Guéret/Bourganeuf.secret.md)
 

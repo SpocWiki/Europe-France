@@ -41,15 +41,17 @@ markerFolder: ./Département~Seine-Saint-Denis/
 
 ## Confidential Links & Embeds: 
 
-### [Seine-Saint-Denis.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Île-de-France\departments~Île-de-FranceSeine-Saint-Denis.public.md) 
+### [Seine-Saint-Denis](/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Île-de-France/departments~Île-de-France/Seine-Saint-Denis.md) 
 
-### [Seine-Saint-Denis.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Île-de-France\departments~Île-de-FranceSeine-Saint-Denis.internal.md) 
+### [Seine-Saint-Denis.public](/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Île-de-France/departments~Île-de-France/Seine-Saint-Denis.public.md) 
 
-### [Seine-Saint-Denis.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Île-de-France\departments~Île-de-FranceSeine-Saint-Denis.protect.md) 
+### [Seine-Saint-Denis.internal](/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Île-de-France/departments~Île-de-France/Seine-Saint-Denis.internal.md) 
 
-### [Seine-Saint-Denis.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Île-de-France\departments~Île-de-FranceSeine-Saint-Denis.private.md) 
+### [Seine-Saint-Denis.protect](/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Île-de-France/departments~Île-de-France/Seine-Saint-Denis.protect.md) 
 
-### [Seine-Saint-Denis.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Île-de-France\departments~Île-de-FranceSeine-Saint-Denis.personal.md) 
+### [Seine-Saint-Denis.private](/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Île-de-France/departments~Île-de-France/Seine-Saint-Denis.private.md) 
 
-### [Seine-Saint-Denis.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Île-de-France\departments~Île-de-FranceSeine-Saint-Denis.secret.md)
+### [Seine-Saint-Denis.personal](/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Île-de-France/departments~Île-de-France/Seine-Saint-Denis.personal.md) 
+
+### [Seine-Saint-Denis.secret](/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Île-de-France/departments~Île-de-France/Seine-Saint-Denis.secret.md)
 

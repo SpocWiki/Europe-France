@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Vendóme.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Val_de_Loire\departments~Val_de_Loire\Loir-et-Cher\communes~Loir-et-Cher\Vendôme\cities~VendômeVendóme.public.md) 
+### [Vendóme](/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Val_de_Loire/departments~Val_de_Loire/Loir-et-Cher/communes~Loir-et-Cher/Vendôme/cities~Vendôme/Vendóme.md) 
 
-### [Vendóme.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Val_de_Loire\departments~Val_de_Loire\Loir-et-Cher\communes~Loir-et-Cher\Vendôme\cities~VendômeVendóme.internal.md) 
+### [Vendóme.public](/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Val_de_Loire/departments~Val_de_Loire/Loir-et-Cher/communes~Loir-et-Cher/Vendôme/cities~Vendôme/Vendóme.public.md) 
 
-### [Vendóme.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Val_de_Loire\departments~Val_de_Loire\Loir-et-Cher\communes~Loir-et-Cher\Vendôme\cities~VendômeVendóme.protect.md) 
+### [Vendóme.internal](/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Val_de_Loire/departments~Val_de_Loire/Loir-et-Cher/communes~Loir-et-Cher/Vendôme/cities~Vendôme/Vendóme.internal.md) 
 
-### [Vendóme.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Val_de_Loire\departments~Val_de_Loire\Loir-et-Cher\communes~Loir-et-Cher\Vendôme\cities~VendômeVendóme.private.md) 
+### [Vendóme.protect](/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Val_de_Loire/departments~Val_de_Loire/Loir-et-Cher/communes~Loir-et-Cher/Vendôme/cities~Vendôme/Vendóme.protect.md) 
 
-### [Vendóme.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Val_de_Loire\departments~Val_de_Loire\Loir-et-Cher\communes~Loir-et-Cher\Vendôme\cities~VendômeVendóme.personal.md) 
+### [Vendóme.private](/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Val_de_Loire/departments~Val_de_Loire/Loir-et-Cher/communes~Loir-et-Cher/Vendôme/cities~Vendôme/Vendóme.private.md) 
 
-### [Vendóme.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Val_de_Loire\departments~Val_de_Loire\Loir-et-Cher\communes~Loir-et-Cher\Vendôme\cities~VendômeVendóme.secret.md)
+### [Vendóme.personal](/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Val_de_Loire/departments~Val_de_Loire/Loir-et-Cher/communes~Loir-et-Cher/Vendôme/cities~Vendôme/Vendóme.personal.md) 
+
+### [Vendóme.secret](/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Val_de_Loire/departments~Val_de_Loire/Loir-et-Cher/communes~Loir-et-Cher/Vendôme/cities~Vendôme/Vendóme.secret.md)
 

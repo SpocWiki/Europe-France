@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Nouvion_en_Thierache.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Hauts-de-France\departments~Hauts-de-France\Aisne\communes~Aisne\Vervins\cities~VervinsNouvion_en_Thierache.public.md) 
+### [Nouvion_en_Thierache](/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Hauts-de-France/departments~Hauts-de-France/Aisne/communes~Aisne/Vervins/cities~Vervins/Nouvion_en_Thierache.md) 
 
-### [Nouvion_en_Thierache.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Hauts-de-France\departments~Hauts-de-France\Aisne\communes~Aisne\Vervins\cities~VervinsNouvion_en_Thierache.internal.md) 
+### [Nouvion_en_Thierache.public](/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Hauts-de-France/departments~Hauts-de-France/Aisne/communes~Aisne/Vervins/cities~Vervins/Nouvion_en_Thierache.public.md) 
 
-### [Nouvion_en_Thierache.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Hauts-de-France\departments~Hauts-de-France\Aisne\communes~Aisne\Vervins\cities~VervinsNouvion_en_Thierache.protect.md) 
+### [Nouvion_en_Thierache.internal](/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Hauts-de-France/departments~Hauts-de-France/Aisne/communes~Aisne/Vervins/cities~Vervins/Nouvion_en_Thierache.internal.md) 
 
-### [Nouvion_en_Thierache.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Hauts-de-France\departments~Hauts-de-France\Aisne\communes~Aisne\Vervins\cities~VervinsNouvion_en_Thierache.private.md) 
+### [Nouvion_en_Thierache.protect](/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Hauts-de-France/departments~Hauts-de-France/Aisne/communes~Aisne/Vervins/cities~Vervins/Nouvion_en_Thierache.protect.md) 
 
-### [Nouvion_en_Thierache.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Hauts-de-France\departments~Hauts-de-France\Aisne\communes~Aisne\Vervins\cities~VervinsNouvion_en_Thierache.personal.md) 
+### [Nouvion_en_Thierache.private](/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Hauts-de-France/departments~Hauts-de-France/Aisne/communes~Aisne/Vervins/cities~Vervins/Nouvion_en_Thierache.private.md) 
 
-### [Nouvion_en_Thierache.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Hauts-de-France\departments~Hauts-de-France\Aisne\communes~Aisne\Vervins\cities~VervinsNouvion_en_Thierache.secret.md)
+### [Nouvion_en_Thierache.personal](/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Hauts-de-France/departments~Hauts-de-France/Aisne/communes~Aisne/Vervins/cities~Vervins/Nouvion_en_Thierache.personal.md) 
+
+### [Nouvion_en_Thierache.secret](/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Hauts-de-France/departments~Hauts-de-France/Aisne/communes~Aisne/Vervins/cities~Vervins/Nouvion_en_Thierache.secret.md)
 

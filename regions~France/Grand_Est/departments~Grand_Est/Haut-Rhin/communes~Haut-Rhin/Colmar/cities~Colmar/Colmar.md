@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Colmar.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Grand_Est\departments~Grand_Est\Haut-Rhin\communes~Haut-Rhin\Colmar\cities~ColmarColmar.public.md) 
+### [Colmar](/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Grand_Est/departments~Grand_Est/Haut-Rhin/communes~Haut-Rhin/Colmar/cities~Colmar/Colmar.md) 
 
-### [Colmar.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Grand_Est\departments~Grand_Est\Haut-Rhin\communes~Haut-Rhin\Colmar\cities~ColmarColmar.internal.md) 
+### [Colmar.public](/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Grand_Est/departments~Grand_Est/Haut-Rhin/communes~Haut-Rhin/Colmar/cities~Colmar/Colmar.public.md) 
 
-### [Colmar.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Grand_Est\departments~Grand_Est\Haut-Rhin\communes~Haut-Rhin\Colmar\cities~ColmarColmar.protect.md) 
+### [Colmar.internal](/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Grand_Est/departments~Grand_Est/Haut-Rhin/communes~Haut-Rhin/Colmar/cities~Colmar/Colmar.internal.md) 
 
-### [Colmar.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Grand_Est\departments~Grand_Est\Haut-Rhin\communes~Haut-Rhin\Colmar\cities~ColmarColmar.private.md) 
+### [Colmar.protect](/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Grand_Est/departments~Grand_Est/Haut-Rhin/communes~Haut-Rhin/Colmar/cities~Colmar/Colmar.protect.md) 
 
-### [Colmar.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Grand_Est\departments~Grand_Est\Haut-Rhin\communes~Haut-Rhin\Colmar\cities~ColmarColmar.personal.md) 
+### [Colmar.private](/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Grand_Est/departments~Grand_Est/Haut-Rhin/communes~Haut-Rhin/Colmar/cities~Colmar/Colmar.private.md) 
 
-### [Colmar.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Grand_Est\departments~Grand_Est\Haut-Rhin\communes~Haut-Rhin\Colmar\cities~ColmarColmar.secret.md)
+### [Colmar.personal](/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Grand_Est/departments~Grand_Est/Haut-Rhin/communes~Haut-Rhin/Colmar/cities~Colmar/Colmar.personal.md) 
+
+### [Colmar.secret](/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Grand_Est/departments~Grand_Est/Haut-Rhin/communes~Haut-Rhin/Colmar/cities~Colmar/Colmar.secret.md)
 

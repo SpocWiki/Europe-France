@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Laval.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Pays_de_la_Loire\departments~Pays_de_la_Loire\Mayenne\communes~Mayenne\Laval\cities~LavalLaval.public.md) 
+### [Laval](/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Pays_de_la_Loire/departments~Pays_de_la_Loire/Mayenne/communes~Mayenne/Laval/cities~Laval/Laval.md) 
 
-### [Laval.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Pays_de_la_Loire\departments~Pays_de_la_Loire\Mayenne\communes~Mayenne\Laval\cities~LavalLaval.internal.md) 
+### [Laval.public](/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Pays_de_la_Loire/departments~Pays_de_la_Loire/Mayenne/communes~Mayenne/Laval/cities~Laval/Laval.public.md) 
 
-### [Laval.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Pays_de_la_Loire\departments~Pays_de_la_Loire\Mayenne\communes~Mayenne\Laval\cities~LavalLaval.protect.md) 
+### [Laval.internal](/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Pays_de_la_Loire/departments~Pays_de_la_Loire/Mayenne/communes~Mayenne/Laval/cities~Laval/Laval.internal.md) 
 
-### [Laval.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Pays_de_la_Loire\departments~Pays_de_la_Loire\Mayenne\communes~Mayenne\Laval\cities~LavalLaval.private.md) 
+### [Laval.protect](/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Pays_de_la_Loire/departments~Pays_de_la_Loire/Mayenne/communes~Mayenne/Laval/cities~Laval/Laval.protect.md) 
 
-### [Laval.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Pays_de_la_Loire\departments~Pays_de_la_Loire\Mayenne\communes~Mayenne\Laval\cities~LavalLaval.personal.md) 
+### [Laval.private](/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Pays_de_la_Loire/departments~Pays_de_la_Loire/Mayenne/communes~Mayenne/Laval/cities~Laval/Laval.private.md) 
 
-### [Laval.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Pays_de_la_Loire\departments~Pays_de_la_Loire\Mayenne\communes~Mayenne\Laval\cities~LavalLaval.secret.md)
+### [Laval.personal](/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Pays_de_la_Loire/departments~Pays_de_la_Loire/Mayenne/communes~Mayenne/Laval/cities~Laval/Laval.personal.md) 
+
+### [Laval.secret](/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Pays_de_la_Loire/departments~Pays_de_la_Loire/Mayenne/communes~Mayenne/Laval/cities~Laval/Laval.secret.md)
 

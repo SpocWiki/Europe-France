@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Puget-Théniers.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Provence-Alpes-Côte_d'Azur\departments~Provence\Alpes-Maritimes\communes~Alpes-Maritimes\Nice,Commune\cities~NicePuget-Théniers.public.md) 
+### [Puget-Théniers](/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Provence-Alpes-Côte_d'Azur/departments~Provence/Alpes-Maritimes/communes~Alpes-Maritimes/Nice,Commune/cities~Nice/Puget-Théniers.md) 
 
-### [Puget-Théniers.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Provence-Alpes-Côte_d'Azur\departments~Provence\Alpes-Maritimes\communes~Alpes-Maritimes\Nice,Commune\cities~NicePuget-Théniers.internal.md) 
+### [Puget-Théniers.public](/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Provence-Alpes-Côte_d'Azur/departments~Provence/Alpes-Maritimes/communes~Alpes-Maritimes/Nice,Commune/cities~Nice/Puget-Théniers.public.md) 
 
-### [Puget-Théniers.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Provence-Alpes-Côte_d'Azur\departments~Provence\Alpes-Maritimes\communes~Alpes-Maritimes\Nice,Commune\cities~NicePuget-Théniers.protect.md) 
+### [Puget-Théniers.internal](/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Provence-Alpes-Côte_d'Azur/departments~Provence/Alpes-Maritimes/communes~Alpes-Maritimes/Nice,Commune/cities~Nice/Puget-Théniers.internal.md) 
 
-### [Puget-Théniers.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Provence-Alpes-Côte_d'Azur\departments~Provence\Alpes-Maritimes\communes~Alpes-Maritimes\Nice,Commune\cities~NicePuget-Théniers.private.md) 
+### [Puget-Théniers.protect](/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Provence-Alpes-Côte_d'Azur/departments~Provence/Alpes-Maritimes/communes~Alpes-Maritimes/Nice,Commune/cities~Nice/Puget-Théniers.protect.md) 
 
-### [Puget-Théniers.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Provence-Alpes-Côte_d'Azur\departments~Provence\Alpes-Maritimes\communes~Alpes-Maritimes\Nice,Commune\cities~NicePuget-Théniers.personal.md) 
+### [Puget-Théniers.private](/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Provence-Alpes-Côte_d'Azur/departments~Provence/Alpes-Maritimes/communes~Alpes-Maritimes/Nice,Commune/cities~Nice/Puget-Théniers.private.md) 
 
-### [Puget-Théniers.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Provence-Alpes-Côte_d'Azur\departments~Provence\Alpes-Maritimes\communes~Alpes-Maritimes\Nice,Commune\cities~NicePuget-Théniers.secret.md)
+### [Puget-Théniers.personal](/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Provence-Alpes-Côte_d'Azur/departments~Provence/Alpes-Maritimes/communes~Alpes-Maritimes/Nice,Commune/cities~Nice/Puget-Théniers.personal.md) 
+
+### [Puget-Théniers.secret](/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Provence-Alpes-Côte_d'Azur/departments~Provence/Alpes-Maritimes/communes~Alpes-Maritimes/Nice,Commune/cities~Nice/Puget-Théniers.secret.md)
 

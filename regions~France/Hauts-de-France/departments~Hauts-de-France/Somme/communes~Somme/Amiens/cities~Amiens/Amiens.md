@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Amiens.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Hauts-de-France\departments~Hauts-de-France\Somme\communes~Somme\Amiens\cities~AmiensAmiens.public.md) 
+### [Amiens](/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Hauts-de-France/departments~Hauts-de-France/Somme/communes~Somme/Amiens/cities~Amiens/Amiens.md) 
 
-### [Amiens.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Hauts-de-France\departments~Hauts-de-France\Somme\communes~Somme\Amiens\cities~AmiensAmiens.internal.md) 
+### [Amiens.public](/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Hauts-de-France/departments~Hauts-de-France/Somme/communes~Somme/Amiens/cities~Amiens/Amiens.public.md) 
 
-### [Amiens.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Hauts-de-France\departments~Hauts-de-France\Somme\communes~Somme\Amiens\cities~AmiensAmiens.protect.md) 
+### [Amiens.internal](/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Hauts-de-France/departments~Hauts-de-France/Somme/communes~Somme/Amiens/cities~Amiens/Amiens.internal.md) 
 
-### [Amiens.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Hauts-de-France\departments~Hauts-de-France\Somme\communes~Somme\Amiens\cities~AmiensAmiens.private.md) 
+### [Amiens.protect](/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Hauts-de-France/departments~Hauts-de-France/Somme/communes~Somme/Amiens/cities~Amiens/Amiens.protect.md) 
 
-### [Amiens.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Hauts-de-France\departments~Hauts-de-France\Somme\communes~Somme\Amiens\cities~AmiensAmiens.personal.md) 
+### [Amiens.private](/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Hauts-de-France/departments~Hauts-de-France/Somme/communes~Somme/Amiens/cities~Amiens/Amiens.private.md) 
 
-### [Amiens.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Hauts-de-France\departments~Hauts-de-France\Somme\communes~Somme\Amiens\cities~AmiensAmiens.secret.md)
+### [Amiens.personal](/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Hauts-de-France/departments~Hauts-de-France/Somme/communes~Somme/Amiens/cities~Amiens/Amiens.personal.md) 
+
+### [Amiens.secret](/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Hauts-de-France/departments~Hauts-de-France/Somme/communes~Somme/Amiens/cities~Amiens/Amiens.secret.md)
 

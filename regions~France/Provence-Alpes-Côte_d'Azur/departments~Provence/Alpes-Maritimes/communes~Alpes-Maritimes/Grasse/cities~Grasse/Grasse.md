@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Grasse.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Provence-Alpes-Côte_d'Azur\departments~Provence\Alpes-Maritimes\communes~Alpes-Maritimes\Grasse\cities~GrasseGrasse.public.md) 
+### [Grasse](/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Provence-Alpes-Côte_d'Azur/departments~Provence/Alpes-Maritimes/communes~Alpes-Maritimes/Grasse/cities~Grasse/Grasse.md) 
 
-### [Grasse.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Provence-Alpes-Côte_d'Azur\departments~Provence\Alpes-Maritimes\communes~Alpes-Maritimes\Grasse\cities~GrasseGrasse.internal.md) 
+### [Grasse.public](/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Provence-Alpes-Côte_d'Azur/departments~Provence/Alpes-Maritimes/communes~Alpes-Maritimes/Grasse/cities~Grasse/Grasse.public.md) 
 
-### [Grasse.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Provence-Alpes-Côte_d'Azur\departments~Provence\Alpes-Maritimes\communes~Alpes-Maritimes\Grasse\cities~GrasseGrasse.protect.md) 
+### [Grasse.internal](/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Provence-Alpes-Côte_d'Azur/departments~Provence/Alpes-Maritimes/communes~Alpes-Maritimes/Grasse/cities~Grasse/Grasse.internal.md) 
 
-### [Grasse.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Provence-Alpes-Côte_d'Azur\departments~Provence\Alpes-Maritimes\communes~Alpes-Maritimes\Grasse\cities~GrasseGrasse.private.md) 
+### [Grasse.protect](/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Provence-Alpes-Côte_d'Azur/departments~Provence/Alpes-Maritimes/communes~Alpes-Maritimes/Grasse/cities~Grasse/Grasse.protect.md) 
 
-### [Grasse.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Provence-Alpes-Côte_d'Azur\departments~Provence\Alpes-Maritimes\communes~Alpes-Maritimes\Grasse\cities~GrasseGrasse.personal.md) 
+### [Grasse.private](/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Provence-Alpes-Côte_d'Azur/departments~Provence/Alpes-Maritimes/communes~Alpes-Maritimes/Grasse/cities~Grasse/Grasse.private.md) 
 
-### [Grasse.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Provence-Alpes-Côte_d'Azur\departments~Provence\Alpes-Maritimes\communes~Alpes-Maritimes\Grasse\cities~GrasseGrasse.secret.md)
+### [Grasse.personal](/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Provence-Alpes-Côte_d'Azur/departments~Provence/Alpes-Maritimes/communes~Alpes-Maritimes/Grasse/cities~Grasse/Grasse.personal.md) 
+
+### [Grasse.secret](/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Provence-Alpes-Côte_d'Azur/departments~Provence/Alpes-Maritimes/communes~Alpes-Maritimes/Grasse/cities~Grasse/Grasse.secret.md)
 

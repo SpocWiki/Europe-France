@@ -41,15 +41,17 @@ markerFolder: ./Département~Hautes-Pyrénées/
 
 ## Confidential Links & Embeds: 
 
-### [Hautes-Pyrénées.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~OccitanieHautes-Pyrénées.public.md) 
+### [Hautes-Pyrénées](/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Hautes-Pyrénées.md) 
 
-### [Hautes-Pyrénées.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~OccitanieHautes-Pyrénées.internal.md) 
+### [Hautes-Pyrénées.public](/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Hautes-Pyrénées.public.md) 
 
-### [Hautes-Pyrénées.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~OccitanieHautes-Pyrénées.protect.md) 
+### [Hautes-Pyrénées.internal](/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Hautes-Pyrénées.internal.md) 
 
-### [Hautes-Pyrénées.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~OccitanieHautes-Pyrénées.private.md) 
+### [Hautes-Pyrénées.protect](/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Hautes-Pyrénées.protect.md) 
 
-### [Hautes-Pyrénées.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~OccitanieHautes-Pyrénées.personal.md) 
+### [Hautes-Pyrénées.private](/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Hautes-Pyrénées.private.md) 
 
-### [Hautes-Pyrénées.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~OccitanieHautes-Pyrénées.secret.md)
+### [Hautes-Pyrénées.personal](/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Hautes-Pyrénées.personal.md) 
+
+### [Hautes-Pyrénées.secret](/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Hautes-Pyrénées.secret.md)
 

@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Lannion.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Bretagne\departments~Bretagne\Côtes-d'Armor\communes~Côtes-d'Armor\Lannion\cities~LannionLannion.public.md) 
+### [Lannion](/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Bretagne/departments~Bretagne/Côtes-d'Armor/communes~Côtes-d'Armor/Lannion/cities~Lannion/Lannion.md) 
 
-### [Lannion.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Bretagne\departments~Bretagne\Côtes-d'Armor\communes~Côtes-d'Armor\Lannion\cities~LannionLannion.internal.md) 
+### [Lannion.public](/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Bretagne/departments~Bretagne/Côtes-d'Armor/communes~Côtes-d'Armor/Lannion/cities~Lannion/Lannion.public.md) 
 
-### [Lannion.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Bretagne\departments~Bretagne\Côtes-d'Armor\communes~Côtes-d'Armor\Lannion\cities~LannionLannion.protect.md) 
+### [Lannion.internal](/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Bretagne/departments~Bretagne/Côtes-d'Armor/communes~Côtes-d'Armor/Lannion/cities~Lannion/Lannion.internal.md) 
 
-### [Lannion.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Bretagne\departments~Bretagne\Côtes-d'Armor\communes~Côtes-d'Armor\Lannion\cities~LannionLannion.private.md) 
+### [Lannion.protect](/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Bretagne/departments~Bretagne/Côtes-d'Armor/communes~Côtes-d'Armor/Lannion/cities~Lannion/Lannion.protect.md) 
 
-### [Lannion.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Bretagne\departments~Bretagne\Côtes-d'Armor\communes~Côtes-d'Armor\Lannion\cities~LannionLannion.personal.md) 
+### [Lannion.private](/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Bretagne/departments~Bretagne/Côtes-d'Armor/communes~Côtes-d'Armor/Lannion/cities~Lannion/Lannion.private.md) 
 
-### [Lannion.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Bretagne\departments~Bretagne\Côtes-d'Armor\communes~Côtes-d'Armor\Lannion\cities~LannionLannion.secret.md)
+### [Lannion.personal](/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Bretagne/departments~Bretagne/Côtes-d'Armor/communes~Côtes-d'Armor/Lannion/cities~Lannion/Lannion.personal.md) 
+
+### [Lannion.secret](/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Bretagne/departments~Bretagne/Côtes-d'Armor/communes~Côtes-d'Armor/Lannion/cities~Lannion/Lannion.secret.md)
 

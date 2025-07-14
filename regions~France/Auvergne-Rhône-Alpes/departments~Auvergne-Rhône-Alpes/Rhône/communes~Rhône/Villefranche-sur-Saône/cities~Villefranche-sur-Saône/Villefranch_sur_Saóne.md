@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Villefranch_sur_Saóne.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Auvergne-Rhône-Alpes\departments~Auvergne-Rhône-Alpes\Rhône\communes~Rhône\Villefranche-sur-Saône\cities~Villefranche-sur-SaôneVillefranch_sur_Saóne.public.md) 
+### [Villefranch_sur_Saóne](/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Auvergne-Rhône-Alpes/departments~Auvergne-Rhône-Alpes/Rhône/communes~Rhône/Villefranche-sur-Saône/cities~Villefranche-sur-Saône/Villefranch_sur_Saóne.md) 
 
-### [Villefranch_sur_Saóne.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Auvergne-Rhône-Alpes\departments~Auvergne-Rhône-Alpes\Rhône\communes~Rhône\Villefranche-sur-Saône\cities~Villefranche-sur-SaôneVillefranch_sur_Saóne.internal.md) 
+### [Villefranch_sur_Saóne.public](/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Auvergne-Rhône-Alpes/departments~Auvergne-Rhône-Alpes/Rhône/communes~Rhône/Villefranche-sur-Saône/cities~Villefranche-sur-Saône/Villefranch_sur_Saóne.public.md) 
 
-### [Villefranch_sur_Saóne.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Auvergne-Rhône-Alpes\departments~Auvergne-Rhône-Alpes\Rhône\communes~Rhône\Villefranche-sur-Saône\cities~Villefranche-sur-SaôneVillefranch_sur_Saóne.protect.md) 
+### [Villefranch_sur_Saóne.internal](/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Auvergne-Rhône-Alpes/departments~Auvergne-Rhône-Alpes/Rhône/communes~Rhône/Villefranche-sur-Saône/cities~Villefranche-sur-Saône/Villefranch_sur_Saóne.internal.md) 
 
-### [Villefranch_sur_Saóne.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Auvergne-Rhône-Alpes\departments~Auvergne-Rhône-Alpes\Rhône\communes~Rhône\Villefranche-sur-Saône\cities~Villefranche-sur-SaôneVillefranch_sur_Saóne.private.md) 
+### [Villefranch_sur_Saóne.protect](/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Auvergne-Rhône-Alpes/departments~Auvergne-Rhône-Alpes/Rhône/communes~Rhône/Villefranche-sur-Saône/cities~Villefranche-sur-Saône/Villefranch_sur_Saóne.protect.md) 
 
-### [Villefranch_sur_Saóne.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Auvergne-Rhône-Alpes\departments~Auvergne-Rhône-Alpes\Rhône\communes~Rhône\Villefranche-sur-Saône\cities~Villefranche-sur-SaôneVillefranch_sur_Saóne.personal.md) 
+### [Villefranch_sur_Saóne.private](/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Auvergne-Rhône-Alpes/departments~Auvergne-Rhône-Alpes/Rhône/communes~Rhône/Villefranche-sur-Saône/cities~Villefranche-sur-Saône/Villefranch_sur_Saóne.private.md) 
 
-### [Villefranch_sur_Saóne.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Auvergne-Rhône-Alpes\departments~Auvergne-Rhône-Alpes\Rhône\communes~Rhône\Villefranche-sur-Saône\cities~Villefranche-sur-SaôneVillefranch_sur_Saóne.secret.md)
+### [Villefranch_sur_Saóne.personal](/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Auvergne-Rhône-Alpes/departments~Auvergne-Rhône-Alpes/Rhône/communes~Rhône/Villefranche-sur-Saône/cities~Villefranche-sur-Saône/Villefranch_sur_Saóne.personal.md) 
+
+### [Villefranch_sur_Saóne.secret](/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Auvergne-Rhône-Alpes/departments~Auvergne-Rhône-Alpes/Rhône/communes~Rhône/Villefranche-sur-Saône/cities~Villefranche-sur-Saône/Villefranch_sur_Saóne.secret.md)
 

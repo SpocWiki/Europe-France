@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Die.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Auvergne-Rhône-Alpes\departments~Auvergne-Rhône-Alpes\Drôme\communes~Drôme\Die\cities~DieDie.public.md) 
+### [Die](/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Auvergne-Rhône-Alpes/departments~Auvergne-Rhône-Alpes/Drôme/communes~Drôme/Die/cities~Die/Die.md) 
 
-### [Die.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Auvergne-Rhône-Alpes\departments~Auvergne-Rhône-Alpes\Drôme\communes~Drôme\Die\cities~DieDie.internal.md) 
+### [Die.public](/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Auvergne-Rhône-Alpes/departments~Auvergne-Rhône-Alpes/Drôme/communes~Drôme/Die/cities~Die/Die.public.md) 
 
-### [Die.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Auvergne-Rhône-Alpes\departments~Auvergne-Rhône-Alpes\Drôme\communes~Drôme\Die\cities~DieDie.protect.md) 
+### [Die.internal](/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Auvergne-Rhône-Alpes/departments~Auvergne-Rhône-Alpes/Drôme/communes~Drôme/Die/cities~Die/Die.internal.md) 
 
-### [Die.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Auvergne-Rhône-Alpes\departments~Auvergne-Rhône-Alpes\Drôme\communes~Drôme\Die\cities~DieDie.private.md) 
+### [Die.protect](/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Auvergne-Rhône-Alpes/departments~Auvergne-Rhône-Alpes/Drôme/communes~Drôme/Die/cities~Die/Die.protect.md) 
 
-### [Die.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Auvergne-Rhône-Alpes\departments~Auvergne-Rhône-Alpes\Drôme\communes~Drôme\Die\cities~DieDie.personal.md) 
+### [Die.private](/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Auvergne-Rhône-Alpes/departments~Auvergne-Rhône-Alpes/Drôme/communes~Drôme/Die/cities~Die/Die.private.md) 
 
-### [Die.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Auvergne-Rhône-Alpes\departments~Auvergne-Rhône-Alpes\Drôme\communes~Drôme\Die\cities~DieDie.secret.md)
+### [Die.personal](/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Auvergne-Rhône-Alpes/departments~Auvergne-Rhône-Alpes/Drôme/communes~Drôme/Die/cities~Die/Die.personal.md) 
+
+### [Die.secret](/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Auvergne-Rhône-Alpes/departments~Auvergne-Rhône-Alpes/Drôme/communes~Drôme/Die/cities~Die/Die.secret.md)
 

@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Agen.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~Aquitaine\Lot-et-Garonne\communes~Lot-et-Garonne\Agen\cities~AgenAgen.public.md) 
+### [Agen](/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Nouvelle-Aquitaine/departments~Aquitaine/Lot-et-Garonne/communes~Lot-et-Garonne/Agen/cities~Agen/Agen.md) 
 
-### [Agen.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~Aquitaine\Lot-et-Garonne\communes~Lot-et-Garonne\Agen\cities~AgenAgen.internal.md) 
+### [Agen.public](/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Nouvelle-Aquitaine/departments~Aquitaine/Lot-et-Garonne/communes~Lot-et-Garonne/Agen/cities~Agen/Agen.public.md) 
 
-### [Agen.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~Aquitaine\Lot-et-Garonne\communes~Lot-et-Garonne\Agen\cities~AgenAgen.protect.md) 
+### [Agen.internal](/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Nouvelle-Aquitaine/departments~Aquitaine/Lot-et-Garonne/communes~Lot-et-Garonne/Agen/cities~Agen/Agen.internal.md) 
 
-### [Agen.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~Aquitaine\Lot-et-Garonne\communes~Lot-et-Garonne\Agen\cities~AgenAgen.private.md) 
+### [Agen.protect](/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Nouvelle-Aquitaine/departments~Aquitaine/Lot-et-Garonne/communes~Lot-et-Garonne/Agen/cities~Agen/Agen.protect.md) 
 
-### [Agen.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~Aquitaine\Lot-et-Garonne\communes~Lot-et-Garonne\Agen\cities~AgenAgen.personal.md) 
+### [Agen.private](/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Nouvelle-Aquitaine/departments~Aquitaine/Lot-et-Garonne/communes~Lot-et-Garonne/Agen/cities~Agen/Agen.private.md) 
 
-### [Agen.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~Aquitaine\Lot-et-Garonne\communes~Lot-et-Garonne\Agen\cities~AgenAgen.secret.md)
+### [Agen.personal](/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Nouvelle-Aquitaine/departments~Aquitaine/Lot-et-Garonne/communes~Lot-et-Garonne/Agen/cities~Agen/Agen.personal.md) 
+
+### [Agen.secret](/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Nouvelle-Aquitaine/departments~Aquitaine/Lot-et-Garonne/communes~Lot-et-Garonne/Agen/cities~Agen/Agen.secret.md)
 

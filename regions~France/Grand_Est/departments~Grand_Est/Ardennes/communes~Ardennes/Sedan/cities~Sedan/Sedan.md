@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Sedan.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Grand_Est\departments~Grand_Est\Ardennes\communes~Ardennes\Sedan\cities~SedanSedan.public.md) 
+### [Sedan](/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Grand_Est/departments~Grand_Est/Ardennes/communes~Ardennes/Sedan/cities~Sedan/Sedan.md) 
 
-### [Sedan.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Grand_Est\departments~Grand_Est\Ardennes\communes~Ardennes\Sedan\cities~SedanSedan.internal.md) 
+### [Sedan.public](/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Grand_Est/departments~Grand_Est/Ardennes/communes~Ardennes/Sedan/cities~Sedan/Sedan.public.md) 
 
-### [Sedan.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Grand_Est\departments~Grand_Est\Ardennes\communes~Ardennes\Sedan\cities~SedanSedan.protect.md) 
+### [Sedan.internal](/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Grand_Est/departments~Grand_Est/Ardennes/communes~Ardennes/Sedan/cities~Sedan/Sedan.internal.md) 
 
-### [Sedan.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Grand_Est\departments~Grand_Est\Ardennes\communes~Ardennes\Sedan\cities~SedanSedan.private.md) 
+### [Sedan.protect](/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Grand_Est/departments~Grand_Est/Ardennes/communes~Ardennes/Sedan/cities~Sedan/Sedan.protect.md) 
 
-### [Sedan.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Grand_Est\departments~Grand_Est\Ardennes\communes~Ardennes\Sedan\cities~SedanSedan.personal.md) 
+### [Sedan.private](/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Grand_Est/departments~Grand_Est/Ardennes/communes~Ardennes/Sedan/cities~Sedan/Sedan.private.md) 
 
-### [Sedan.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Grand_Est\departments~Grand_Est\Ardennes\communes~Ardennes\Sedan\cities~SedanSedan.secret.md)
+### [Sedan.personal](/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Grand_Est/departments~Grand_Est/Ardennes/communes~Ardennes/Sedan/cities~Sedan/Sedan.personal.md) 
+
+### [Sedan.secret](/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Grand_Est/departments~Grand_Est/Ardennes/communes~Ardennes/Sedan/cities~Sedan/Sedan.secret.md)
 

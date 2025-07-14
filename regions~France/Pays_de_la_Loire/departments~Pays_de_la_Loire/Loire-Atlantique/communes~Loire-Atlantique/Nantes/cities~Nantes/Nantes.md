@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Nantes.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Pays_de_la_Loire\departments~Pays_de_la_Loire\Loire-Atlantique\communes~Loire-Atlantique\Nantes\cities~NantesNantes.public.md) 
+### [Nantes](/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Pays_de_la_Loire/departments~Pays_de_la_Loire/Loire-Atlantique/communes~Loire-Atlantique/Nantes/cities~Nantes/Nantes.md) 
 
-### [Nantes.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Pays_de_la_Loire\departments~Pays_de_la_Loire\Loire-Atlantique\communes~Loire-Atlantique\Nantes\cities~NantesNantes.internal.md) 
+### [Nantes.public](/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Pays_de_la_Loire/departments~Pays_de_la_Loire/Loire-Atlantique/communes~Loire-Atlantique/Nantes/cities~Nantes/Nantes.public.md) 
 
-### [Nantes.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Pays_de_la_Loire\departments~Pays_de_la_Loire\Loire-Atlantique\communes~Loire-Atlantique\Nantes\cities~NantesNantes.protect.md) 
+### [Nantes.internal](/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Pays_de_la_Loire/departments~Pays_de_la_Loire/Loire-Atlantique/communes~Loire-Atlantique/Nantes/cities~Nantes/Nantes.internal.md) 
 
-### [Nantes.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Pays_de_la_Loire\departments~Pays_de_la_Loire\Loire-Atlantique\communes~Loire-Atlantique\Nantes\cities~NantesNantes.private.md) 
+### [Nantes.protect](/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Pays_de_la_Loire/departments~Pays_de_la_Loire/Loire-Atlantique/communes~Loire-Atlantique/Nantes/cities~Nantes/Nantes.protect.md) 
 
-### [Nantes.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Pays_de_la_Loire\departments~Pays_de_la_Loire\Loire-Atlantique\communes~Loire-Atlantique\Nantes\cities~NantesNantes.personal.md) 
+### [Nantes.private](/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Pays_de_la_Loire/departments~Pays_de_la_Loire/Loire-Atlantique/communes~Loire-Atlantique/Nantes/cities~Nantes/Nantes.private.md) 
 
-### [Nantes.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Pays_de_la_Loire\departments~Pays_de_la_Loire\Loire-Atlantique\communes~Loire-Atlantique\Nantes\cities~NantesNantes.secret.md)
+### [Nantes.personal](/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Pays_de_la_Loire/departments~Pays_de_la_Loire/Loire-Atlantique/communes~Loire-Atlantique/Nantes/cities~Nantes/Nantes.personal.md) 
+
+### [Nantes.secret](/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Pays_de_la_Loire/departments~Pays_de_la_Loire/Loire-Atlantique/communes~Loire-Atlantique/Nantes/cities~Nantes/Nantes.secret.md)
 

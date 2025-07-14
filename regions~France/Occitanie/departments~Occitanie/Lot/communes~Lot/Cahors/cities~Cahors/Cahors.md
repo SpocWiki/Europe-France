@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Cahors.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~Occitanie\Lot\communes~Lot\Cahors\cities~CahorsCahors.public.md) 
+### [Cahors](/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Lot/communes~Lot/Cahors/cities~Cahors/Cahors.md) 
 
-### [Cahors.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~Occitanie\Lot\communes~Lot\Cahors\cities~CahorsCahors.internal.md) 
+### [Cahors.public](/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Lot/communes~Lot/Cahors/cities~Cahors/Cahors.public.md) 
 
-### [Cahors.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~Occitanie\Lot\communes~Lot\Cahors\cities~CahorsCahors.protect.md) 
+### [Cahors.internal](/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Lot/communes~Lot/Cahors/cities~Cahors/Cahors.internal.md) 
 
-### [Cahors.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~Occitanie\Lot\communes~Lot\Cahors\cities~CahorsCahors.private.md) 
+### [Cahors.protect](/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Lot/communes~Lot/Cahors/cities~Cahors/Cahors.protect.md) 
 
-### [Cahors.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~Occitanie\Lot\communes~Lot\Cahors\cities~CahorsCahors.personal.md) 
+### [Cahors.private](/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Lot/communes~Lot/Cahors/cities~Cahors/Cahors.private.md) 
 
-### [Cahors.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~Occitanie\Lot\communes~Lot\Cahors\cities~CahorsCahors.secret.md)
+### [Cahors.personal](/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Lot/communes~Lot/Cahors/cities~Cahors/Cahors.personal.md) 
+
+### [Cahors.secret](/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Lot/communes~Lot/Cahors/cities~Cahors/Cahors.secret.md)
 

@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Loudon.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~Aquitaine\Vienne\communes~Vienne\Châtellerault\cities~ChâtelleraultLoudon.public.md) 
+### [Loudon](/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Nouvelle-Aquitaine/departments~Aquitaine/Vienne/communes~Vienne/Châtellerault/cities~Châtellerault/Loudon.md) 
 
-### [Loudon.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~Aquitaine\Vienne\communes~Vienne\Châtellerault\cities~ChâtelleraultLoudon.internal.md) 
+### [Loudon.public](/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Nouvelle-Aquitaine/departments~Aquitaine/Vienne/communes~Vienne/Châtellerault/cities~Châtellerault/Loudon.public.md) 
 
-### [Loudon.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~Aquitaine\Vienne\communes~Vienne\Châtellerault\cities~ChâtelleraultLoudon.protect.md) 
+### [Loudon.internal](/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Nouvelle-Aquitaine/departments~Aquitaine/Vienne/communes~Vienne/Châtellerault/cities~Châtellerault/Loudon.internal.md) 
 
-### [Loudon.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~Aquitaine\Vienne\communes~Vienne\Châtellerault\cities~ChâtelleraultLoudon.private.md) 
+### [Loudon.protect](/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Nouvelle-Aquitaine/departments~Aquitaine/Vienne/communes~Vienne/Châtellerault/cities~Châtellerault/Loudon.protect.md) 
 
-### [Loudon.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~Aquitaine\Vienne\communes~Vienne\Châtellerault\cities~ChâtelleraultLoudon.personal.md) 
+### [Loudon.private](/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Nouvelle-Aquitaine/departments~Aquitaine/Vienne/communes~Vienne/Châtellerault/cities~Châtellerault/Loudon.private.md) 
 
-### [Loudon.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~Aquitaine\Vienne\communes~Vienne\Châtellerault\cities~ChâtelleraultLoudon.secret.md)
+### [Loudon.personal](/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Nouvelle-Aquitaine/departments~Aquitaine/Vienne/communes~Vienne/Châtellerault/cities~Châtellerault/Loudon.personal.md) 
+
+### [Loudon.secret](/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Nouvelle-Aquitaine/departments~Aquitaine/Vienne/communes~Vienne/Châtellerault/cities~Châtellerault/Loudon.secret.md)
 

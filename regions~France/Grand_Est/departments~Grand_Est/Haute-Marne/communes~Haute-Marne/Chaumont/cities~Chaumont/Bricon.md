@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Bricon.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Grand_Est\departments~Grand_Est\Haute-Marne\communes~Haute-Marne\Chaumont\cities~ChaumontBricon.public.md) 
+### [Bricon](/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Grand_Est/departments~Grand_Est/Haute-Marne/communes~Haute-Marne/Chaumont/cities~Chaumont/Bricon.md) 
 
-### [Bricon.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Grand_Est\departments~Grand_Est\Haute-Marne\communes~Haute-Marne\Chaumont\cities~ChaumontBricon.internal.md) 
+### [Bricon.public](/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Grand_Est/departments~Grand_Est/Haute-Marne/communes~Haute-Marne/Chaumont/cities~Chaumont/Bricon.public.md) 
 
-### [Bricon.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Grand_Est\departments~Grand_Est\Haute-Marne\communes~Haute-Marne\Chaumont\cities~ChaumontBricon.protect.md) 
+### [Bricon.internal](/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Grand_Est/departments~Grand_Est/Haute-Marne/communes~Haute-Marne/Chaumont/cities~Chaumont/Bricon.internal.md) 
 
-### [Bricon.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Grand_Est\departments~Grand_Est\Haute-Marne\communes~Haute-Marne\Chaumont\cities~ChaumontBricon.private.md) 
+### [Bricon.protect](/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Grand_Est/departments~Grand_Est/Haute-Marne/communes~Haute-Marne/Chaumont/cities~Chaumont/Bricon.protect.md) 
 
-### [Bricon.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Grand_Est\departments~Grand_Est\Haute-Marne\communes~Haute-Marne\Chaumont\cities~ChaumontBricon.personal.md) 
+### [Bricon.private](/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Grand_Est/departments~Grand_Est/Haute-Marne/communes~Haute-Marne/Chaumont/cities~Chaumont/Bricon.private.md) 
 
-### [Bricon.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Grand_Est\departments~Grand_Est\Haute-Marne\communes~Haute-Marne\Chaumont\cities~ChaumontBricon.secret.md)
+### [Bricon.personal](/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Grand_Est/departments~Grand_Est/Haute-Marne/communes~Haute-Marne/Chaumont/cities~Chaumont/Bricon.personal.md) 
+
+### [Bricon.secret](/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Grand_Est/departments~Grand_Est/Haute-Marne/communes~Haute-Marne/Chaumont/cities~Chaumont/Bricon.secret.md)
 

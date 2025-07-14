@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Roscoff.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Bretagne\departments~Bretagne\FinistèreRoscoff.public.md) 
+### [Roscoff](/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Bretagne/departments~Bretagne/Finistère/Roscoff.md) 
 
-### [Roscoff.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Bretagne\departments~Bretagne\FinistèreRoscoff.internal.md) 
+### [Roscoff.public](/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Bretagne/departments~Bretagne/Finistère/Roscoff.public.md) 
 
-### [Roscoff.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Bretagne\departments~Bretagne\FinistèreRoscoff.protect.md) 
+### [Roscoff.internal](/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Bretagne/departments~Bretagne/Finistère/Roscoff.internal.md) 
 
-### [Roscoff.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Bretagne\departments~Bretagne\FinistèreRoscoff.private.md) 
+### [Roscoff.protect](/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Bretagne/departments~Bretagne/Finistère/Roscoff.protect.md) 
 
-### [Roscoff.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Bretagne\departments~Bretagne\FinistèreRoscoff.personal.md) 
+### [Roscoff.private](/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Bretagne/departments~Bretagne/Finistère/Roscoff.private.md) 
 
-### [Roscoff.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Bretagne\departments~Bretagne\FinistèreRoscoff.secret.md)
+### [Roscoff.personal](/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Bretagne/departments~Bretagne/Finistère/Roscoff.personal.md) 
+
+### [Roscoff.secret](/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Bretagne/departments~Bretagne/Finistère/Roscoff.secret.md)
 

@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Stawropol=Voroshilovsk.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Auvergne-Rhône-Alpes\departments~Auvergne-Rhône-Alpes\Haute-Loire\communes~Haute-Loire\Yssingeaux\cities~YssingeauxStawropol=Voroshilovsk.public.md) 
+### [Stawropol=Voroshilovsk](/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Auvergne-Rhône-Alpes/departments~Auvergne-Rhône-Alpes/Haute-Loire/communes~Haute-Loire/Yssingeaux/cities~Yssingeaux/Stawropol=Voroshilovsk.md) 
 
-### [Stawropol=Voroshilovsk.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Auvergne-Rhône-Alpes\departments~Auvergne-Rhône-Alpes\Haute-Loire\communes~Haute-Loire\Yssingeaux\cities~YssingeauxStawropol=Voroshilovsk.internal.md) 
+### [Stawropol=Voroshilovsk.public](/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Auvergne-Rhône-Alpes/departments~Auvergne-Rhône-Alpes/Haute-Loire/communes~Haute-Loire/Yssingeaux/cities~Yssingeaux/Stawropol=Voroshilovsk.public.md) 
 
-### [Stawropol=Voroshilovsk.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Auvergne-Rhône-Alpes\departments~Auvergne-Rhône-Alpes\Haute-Loire\communes~Haute-Loire\Yssingeaux\cities~YssingeauxStawropol=Voroshilovsk.protect.md) 
+### [Stawropol=Voroshilovsk.internal](/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Auvergne-Rhône-Alpes/departments~Auvergne-Rhône-Alpes/Haute-Loire/communes~Haute-Loire/Yssingeaux/cities~Yssingeaux/Stawropol=Voroshilovsk.internal.md) 
 
-### [Stawropol=Voroshilovsk.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Auvergne-Rhône-Alpes\departments~Auvergne-Rhône-Alpes\Haute-Loire\communes~Haute-Loire\Yssingeaux\cities~YssingeauxStawropol=Voroshilovsk.private.md) 
+### [Stawropol=Voroshilovsk.protect](/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Auvergne-Rhône-Alpes/departments~Auvergne-Rhône-Alpes/Haute-Loire/communes~Haute-Loire/Yssingeaux/cities~Yssingeaux/Stawropol=Voroshilovsk.protect.md) 
 
-### [Stawropol=Voroshilovsk.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Auvergne-Rhône-Alpes\departments~Auvergne-Rhône-Alpes\Haute-Loire\communes~Haute-Loire\Yssingeaux\cities~YssingeauxStawropol=Voroshilovsk.personal.md) 
+### [Stawropol=Voroshilovsk.private](/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Auvergne-Rhône-Alpes/departments~Auvergne-Rhône-Alpes/Haute-Loire/communes~Haute-Loire/Yssingeaux/cities~Yssingeaux/Stawropol=Voroshilovsk.private.md) 
 
-### [Stawropol=Voroshilovsk.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Auvergne-Rhône-Alpes\departments~Auvergne-Rhône-Alpes\Haute-Loire\communes~Haute-Loire\Yssingeaux\cities~YssingeauxStawropol=Voroshilovsk.secret.md)
+### [Stawropol=Voroshilovsk.personal](/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Auvergne-Rhône-Alpes/departments~Auvergne-Rhône-Alpes/Haute-Loire/communes~Haute-Loire/Yssingeaux/cities~Yssingeaux/Stawropol=Voroshilovsk.personal.md) 
+
+### [Stawropol=Voroshilovsk.secret](/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Auvergne-Rhône-Alpes/departments~Auvergne-Rhône-Alpes/Haute-Loire/communes~Haute-Loire/Yssingeaux/cities~Yssingeaux/Stawropol=Voroshilovsk.secret.md)
 

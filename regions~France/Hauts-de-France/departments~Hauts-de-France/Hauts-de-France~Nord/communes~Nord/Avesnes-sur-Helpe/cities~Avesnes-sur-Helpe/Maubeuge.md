@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Maubeuge.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Hauts-de-France\departments~Hauts-de-France\Hauts-de-France~Nord\communes~Nord\Avesnes-sur-Helpe\cities~Avesnes-sur-HelpeMaubeuge.public.md) 
+### [Maubeuge](/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Hauts-de-France/departments~Hauts-de-France/Hauts-de-France~Nord/communes~Nord/Avesnes-sur-Helpe/cities~Avesnes-sur-Helpe/Maubeuge.md) 
 
-### [Maubeuge.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Hauts-de-France\departments~Hauts-de-France\Hauts-de-France~Nord\communes~Nord\Avesnes-sur-Helpe\cities~Avesnes-sur-HelpeMaubeuge.internal.md) 
+### [Maubeuge.public](/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Hauts-de-France/departments~Hauts-de-France/Hauts-de-France~Nord/communes~Nord/Avesnes-sur-Helpe/cities~Avesnes-sur-Helpe/Maubeuge.public.md) 
 
-### [Maubeuge.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Hauts-de-France\departments~Hauts-de-France\Hauts-de-France~Nord\communes~Nord\Avesnes-sur-Helpe\cities~Avesnes-sur-HelpeMaubeuge.protect.md) 
+### [Maubeuge.internal](/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Hauts-de-France/departments~Hauts-de-France/Hauts-de-France~Nord/communes~Nord/Avesnes-sur-Helpe/cities~Avesnes-sur-Helpe/Maubeuge.internal.md) 
 
-### [Maubeuge.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Hauts-de-France\departments~Hauts-de-France\Hauts-de-France~Nord\communes~Nord\Avesnes-sur-Helpe\cities~Avesnes-sur-HelpeMaubeuge.private.md) 
+### [Maubeuge.protect](/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Hauts-de-France/departments~Hauts-de-France/Hauts-de-France~Nord/communes~Nord/Avesnes-sur-Helpe/cities~Avesnes-sur-Helpe/Maubeuge.protect.md) 
 
-### [Maubeuge.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Hauts-de-France\departments~Hauts-de-France\Hauts-de-France~Nord\communes~Nord\Avesnes-sur-Helpe\cities~Avesnes-sur-HelpeMaubeuge.personal.md) 
+### [Maubeuge.private](/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Hauts-de-France/departments~Hauts-de-France/Hauts-de-France~Nord/communes~Nord/Avesnes-sur-Helpe/cities~Avesnes-sur-Helpe/Maubeuge.private.md) 
 
-### [Maubeuge.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Hauts-de-France\departments~Hauts-de-France\Hauts-de-France~Nord\communes~Nord\Avesnes-sur-Helpe\cities~Avesnes-sur-HelpeMaubeuge.secret.md)
+### [Maubeuge.personal](/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Hauts-de-France/departments~Hauts-de-France/Hauts-de-France~Nord/communes~Nord/Avesnes-sur-Helpe/cities~Avesnes-sur-Helpe/Maubeuge.personal.md) 
+
+### [Maubeuge.secret](/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Hauts-de-France/departments~Hauts-de-France/Hauts-de-France~Nord/communes~Nord/Avesnes-sur-Helpe/cities~Avesnes-sur-Helpe/Maubeuge.secret.md)
 

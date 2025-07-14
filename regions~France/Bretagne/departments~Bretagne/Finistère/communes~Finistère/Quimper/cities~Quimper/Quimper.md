@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Quimper.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Bretagne\departments~Bretagne\Finistère\communes~Finistère\Quimper\cities~QuimperQuimper.public.md) 
+### [Quimper](/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Bretagne/departments~Bretagne/Finistère/communes~Finistère/Quimper/cities~Quimper/Quimper.md) 
 
-### [Quimper.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Bretagne\departments~Bretagne\Finistère\communes~Finistère\Quimper\cities~QuimperQuimper.internal.md) 
+### [Quimper.public](/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Bretagne/departments~Bretagne/Finistère/communes~Finistère/Quimper/cities~Quimper/Quimper.public.md) 
 
-### [Quimper.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Bretagne\departments~Bretagne\Finistère\communes~Finistère\Quimper\cities~QuimperQuimper.protect.md) 
+### [Quimper.internal](/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Bretagne/departments~Bretagne/Finistère/communes~Finistère/Quimper/cities~Quimper/Quimper.internal.md) 
 
-### [Quimper.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Bretagne\departments~Bretagne\Finistère\communes~Finistère\Quimper\cities~QuimperQuimper.private.md) 
+### [Quimper.protect](/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Bretagne/departments~Bretagne/Finistère/communes~Finistère/Quimper/cities~Quimper/Quimper.protect.md) 
 
-### [Quimper.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Bretagne\departments~Bretagne\Finistère\communes~Finistère\Quimper\cities~QuimperQuimper.personal.md) 
+### [Quimper.private](/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Bretagne/departments~Bretagne/Finistère/communes~Finistère/Quimper/cities~Quimper/Quimper.private.md) 
 
-### [Quimper.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Bretagne\departments~Bretagne\Finistère\communes~Finistère\Quimper\cities~QuimperQuimper.secret.md)
+### [Quimper.personal](/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Bretagne/departments~Bretagne/Finistère/communes~Finistère/Quimper/cities~Quimper/Quimper.personal.md) 
+
+### [Quimper.secret](/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Bretagne/departments~Bretagne/Finistère/communes~Finistère/Quimper/cities~Quimper/Quimper.secret.md)
 

@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Valence.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Auvergne-Rhône-Alpes\departments~Auvergne-Rhône-Alpes\Drôme\communes~Drôme\Valence\cities~ValenceValence.public.md) 
+### [Valence](/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Auvergne-Rhône-Alpes/departments~Auvergne-Rhône-Alpes/Drôme/communes~Drôme/Valence/cities~Valence/Valence.md) 
 
-### [Valence.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Auvergne-Rhône-Alpes\departments~Auvergne-Rhône-Alpes\Drôme\communes~Drôme\Valence\cities~ValenceValence.internal.md) 
+### [Valence.public](/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Auvergne-Rhône-Alpes/departments~Auvergne-Rhône-Alpes/Drôme/communes~Drôme/Valence/cities~Valence/Valence.public.md) 
 
-### [Valence.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Auvergne-Rhône-Alpes\departments~Auvergne-Rhône-Alpes\Drôme\communes~Drôme\Valence\cities~ValenceValence.protect.md) 
+### [Valence.internal](/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Auvergne-Rhône-Alpes/departments~Auvergne-Rhône-Alpes/Drôme/communes~Drôme/Valence/cities~Valence/Valence.internal.md) 
 
-### [Valence.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Auvergne-Rhône-Alpes\departments~Auvergne-Rhône-Alpes\Drôme\communes~Drôme\Valence\cities~ValenceValence.private.md) 
+### [Valence.protect](/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Auvergne-Rhône-Alpes/departments~Auvergne-Rhône-Alpes/Drôme/communes~Drôme/Valence/cities~Valence/Valence.protect.md) 
 
-### [Valence.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Auvergne-Rhône-Alpes\departments~Auvergne-Rhône-Alpes\Drôme\communes~Drôme\Valence\cities~ValenceValence.personal.md) 
+### [Valence.private](/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Auvergne-Rhône-Alpes/departments~Auvergne-Rhône-Alpes/Drôme/communes~Drôme/Valence/cities~Valence/Valence.private.md) 
 
-### [Valence.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Auvergne-Rhône-Alpes\departments~Auvergne-Rhône-Alpes\Drôme\communes~Drôme\Valence\cities~ValenceValence.secret.md)
+### [Valence.personal](/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Auvergne-Rhône-Alpes/departments~Auvergne-Rhône-Alpes/Drôme/communes~Drôme/Valence/cities~Valence/Valence.personal.md) 
+
+### [Valence.secret](/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Auvergne-Rhône-Alpes/departments~Auvergne-Rhône-Alpes/Drôme/communes~Drôme/Valence/cities~Valence/Valence.secret.md)
 

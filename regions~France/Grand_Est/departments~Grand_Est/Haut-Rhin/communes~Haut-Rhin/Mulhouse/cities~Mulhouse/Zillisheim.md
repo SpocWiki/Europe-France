@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Zillisheim.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Grand_Est\departments~Grand_Est\Haut-Rhin\communes~Haut-Rhin\Mulhouse\cities~MulhouseZillisheim.public.md) 
+### [Zillisheim](/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Grand_Est/departments~Grand_Est/Haut-Rhin/communes~Haut-Rhin/Mulhouse/cities~Mulhouse/Zillisheim.md) 
 
-### [Zillisheim.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Grand_Est\departments~Grand_Est\Haut-Rhin\communes~Haut-Rhin\Mulhouse\cities~MulhouseZillisheim.internal.md) 
+### [Zillisheim.public](/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Grand_Est/departments~Grand_Est/Haut-Rhin/communes~Haut-Rhin/Mulhouse/cities~Mulhouse/Zillisheim.public.md) 
 
-### [Zillisheim.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Grand_Est\departments~Grand_Est\Haut-Rhin\communes~Haut-Rhin\Mulhouse\cities~MulhouseZillisheim.protect.md) 
+### [Zillisheim.internal](/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Grand_Est/departments~Grand_Est/Haut-Rhin/communes~Haut-Rhin/Mulhouse/cities~Mulhouse/Zillisheim.internal.md) 
 
-### [Zillisheim.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Grand_Est\departments~Grand_Est\Haut-Rhin\communes~Haut-Rhin\Mulhouse\cities~MulhouseZillisheim.private.md) 
+### [Zillisheim.protect](/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Grand_Est/departments~Grand_Est/Haut-Rhin/communes~Haut-Rhin/Mulhouse/cities~Mulhouse/Zillisheim.protect.md) 
 
-### [Zillisheim.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Grand_Est\departments~Grand_Est\Haut-Rhin\communes~Haut-Rhin\Mulhouse\cities~MulhouseZillisheim.personal.md) 
+### [Zillisheim.private](/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Grand_Est/departments~Grand_Est/Haut-Rhin/communes~Haut-Rhin/Mulhouse/cities~Mulhouse/Zillisheim.private.md) 
 
-### [Zillisheim.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Grand_Est\departments~Grand_Est\Haut-Rhin\communes~Haut-Rhin\Mulhouse\cities~MulhouseZillisheim.secret.md)
+### [Zillisheim.personal](/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Grand_Est/departments~Grand_Est/Haut-Rhin/communes~Haut-Rhin/Mulhouse/cities~Mulhouse/Zillisheim.personal.md) 
+
+### [Zillisheim.secret](/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Grand_Est/departments~Grand_Est/Haut-Rhin/communes~Haut-Rhin/Mulhouse/cities~Mulhouse/Zillisheim.secret.md)
 

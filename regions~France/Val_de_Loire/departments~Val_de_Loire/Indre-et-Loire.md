@@ -41,15 +41,17 @@ markerFolder: ./Département~Indre-et-Loire/
 
 ## Confidential Links & Embeds: 
 
-### [Indre-et-Loire.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Val_de_Loire\departments~Val_de_LoireIndre-et-Loire.public.md) 
+### [Indre-et-Loire](/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Val_de_Loire/departments~Val_de_Loire/Indre-et-Loire.md) 
 
-### [Indre-et-Loire.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Val_de_Loire\departments~Val_de_LoireIndre-et-Loire.internal.md) 
+### [Indre-et-Loire.public](/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Val_de_Loire/departments~Val_de_Loire/Indre-et-Loire.public.md) 
 
-### [Indre-et-Loire.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Val_de_Loire\departments~Val_de_LoireIndre-et-Loire.protect.md) 
+### [Indre-et-Loire.internal](/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Val_de_Loire/departments~Val_de_Loire/Indre-et-Loire.internal.md) 
 
-### [Indre-et-Loire.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Val_de_Loire\departments~Val_de_LoireIndre-et-Loire.private.md) 
+### [Indre-et-Loire.protect](/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Val_de_Loire/departments~Val_de_Loire/Indre-et-Loire.protect.md) 
 
-### [Indre-et-Loire.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Val_de_Loire\departments~Val_de_LoireIndre-et-Loire.personal.md) 
+### [Indre-et-Loire.private](/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Val_de_Loire/departments~Val_de_Loire/Indre-et-Loire.private.md) 
 
-### [Indre-et-Loire.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Val_de_Loire\departments~Val_de_LoireIndre-et-Loire.secret.md)
+### [Indre-et-Loire.personal](/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Val_de_Loire/departments~Val_de_Loire/Indre-et-Loire.personal.md) 
+
+### [Indre-et-Loire.secret](/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Val_de_Loire/departments~Val_de_Loire/Indre-et-Loire.secret.md)
 

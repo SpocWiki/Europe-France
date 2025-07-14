@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Toulouse.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~Occitanie\Haute-Garonne\communes~Haute-Garonne\Toulouse\cities~ToulouseToulouse.public.md) 
+### [Toulouse](/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Haute-Garonne/communes~Haute-Garonne/Toulouse/cities~Toulouse/Toulouse.md) 
 
-### [Toulouse.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~Occitanie\Haute-Garonne\communes~Haute-Garonne\Toulouse\cities~ToulouseToulouse.internal.md) 
+### [Toulouse.public](/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Haute-Garonne/communes~Haute-Garonne/Toulouse/cities~Toulouse/Toulouse.public.md) 
 
-### [Toulouse.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~Occitanie\Haute-Garonne\communes~Haute-Garonne\Toulouse\cities~ToulouseToulouse.protect.md) 
+### [Toulouse.internal](/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Haute-Garonne/communes~Haute-Garonne/Toulouse/cities~Toulouse/Toulouse.internal.md) 
 
-### [Toulouse.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~Occitanie\Haute-Garonne\communes~Haute-Garonne\Toulouse\cities~ToulouseToulouse.private.md) 
+### [Toulouse.protect](/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Haute-Garonne/communes~Haute-Garonne/Toulouse/cities~Toulouse/Toulouse.protect.md) 
 
-### [Toulouse.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~Occitanie\Haute-Garonne\communes~Haute-Garonne\Toulouse\cities~ToulouseToulouse.personal.md) 
+### [Toulouse.private](/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Haute-Garonne/communes~Haute-Garonne/Toulouse/cities~Toulouse/Toulouse.private.md) 
 
-### [Toulouse.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~Occitanie\Haute-Garonne\communes~Haute-Garonne\Toulouse\cities~ToulouseToulouse.secret.md)
+### [Toulouse.personal](/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Haute-Garonne/communes~Haute-Garonne/Toulouse/cities~Toulouse/Toulouse.personal.md) 
+
+### [Toulouse.secret](/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Haute-Garonne/communes~Haute-Garonne/Toulouse/cities~Toulouse/Toulouse.secret.md)
 

@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Figeac.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~Occitanie\Lot\communes~Lot\Figeac\cities~FigeacFigeac.public.md) 
+### [Figeac](/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Lot/communes~Lot/Figeac/cities~Figeac/Figeac.md) 
 
-### [Figeac.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~Occitanie\Lot\communes~Lot\Figeac\cities~FigeacFigeac.internal.md) 
+### [Figeac.public](/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Lot/communes~Lot/Figeac/cities~Figeac/Figeac.public.md) 
 
-### [Figeac.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~Occitanie\Lot\communes~Lot\Figeac\cities~FigeacFigeac.protect.md) 
+### [Figeac.internal](/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Lot/communes~Lot/Figeac/cities~Figeac/Figeac.internal.md) 
 
-### [Figeac.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~Occitanie\Lot\communes~Lot\Figeac\cities~FigeacFigeac.private.md) 
+### [Figeac.protect](/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Lot/communes~Lot/Figeac/cities~Figeac/Figeac.protect.md) 
 
-### [Figeac.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~Occitanie\Lot\communes~Lot\Figeac\cities~FigeacFigeac.personal.md) 
+### [Figeac.private](/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Lot/communes~Lot/Figeac/cities~Figeac/Figeac.private.md) 
 
-### [Figeac.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~Occitanie\Lot\communes~Lot\Figeac\cities~FigeacFigeac.secret.md)
+### [Figeac.personal](/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Lot/communes~Lot/Figeac/cities~Figeac/Figeac.personal.md) 
+
+### [Figeac.secret](/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Lot/communes~Lot/Figeac/cities~Figeac/Figeac.secret.md)
 

@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Louviers.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Normandie\departments~Normandie\Eure\communes~Eure\Les_Andelys\cities~LesAndelysLouviers.public.md) 
+### [Louviers](/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Normandie/departments~Normandie/Eure/communes~Eure/Les_Andelys/cities~LesAndelys/Louviers.md) 
 
-### [Louviers.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Normandie\departments~Normandie\Eure\communes~Eure\Les_Andelys\cities~LesAndelysLouviers.internal.md) 
+### [Louviers.public](/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Normandie/departments~Normandie/Eure/communes~Eure/Les_Andelys/cities~LesAndelys/Louviers.public.md) 
 
-### [Louviers.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Normandie\departments~Normandie\Eure\communes~Eure\Les_Andelys\cities~LesAndelysLouviers.protect.md) 
+### [Louviers.internal](/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Normandie/departments~Normandie/Eure/communes~Eure/Les_Andelys/cities~LesAndelys/Louviers.internal.md) 
 
-### [Louviers.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Normandie\departments~Normandie\Eure\communes~Eure\Les_Andelys\cities~LesAndelysLouviers.private.md) 
+### [Louviers.protect](/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Normandie/departments~Normandie/Eure/communes~Eure/Les_Andelys/cities~LesAndelys/Louviers.protect.md) 
 
-### [Louviers.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Normandie\departments~Normandie\Eure\communes~Eure\Les_Andelys\cities~LesAndelysLouviers.personal.md) 
+### [Louviers.private](/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Normandie/departments~Normandie/Eure/communes~Eure/Les_Andelys/cities~LesAndelys/Louviers.private.md) 
 
-### [Louviers.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Normandie\departments~Normandie\Eure\communes~Eure\Les_Andelys\cities~LesAndelysLouviers.secret.md)
+### [Louviers.personal](/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Normandie/departments~Normandie/Eure/communes~Eure/Les_Andelys/cities~LesAndelys/Louviers.personal.md) 
+
+### [Louviers.secret](/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Normandie/departments~Normandie/Eure/communes~Eure/Les_Andelys/cities~LesAndelys/Louviers.secret.md)
 

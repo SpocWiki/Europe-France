@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Vigan.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~Occitanie\Gard\communes~Gard\Le_Vigan\cities~LeViganVigan.public.md) 
+### [Vigan](/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Gard/communes~Gard/Le_Vigan/cities~LeVigan/Vigan.md) 
 
-### [Vigan.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~Occitanie\Gard\communes~Gard\Le_Vigan\cities~LeViganVigan.internal.md) 
+### [Vigan.public](/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Gard/communes~Gard/Le_Vigan/cities~LeVigan/Vigan.public.md) 
 
-### [Vigan.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~Occitanie\Gard\communes~Gard\Le_Vigan\cities~LeViganVigan.protect.md) 
+### [Vigan.internal](/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Gard/communes~Gard/Le_Vigan/cities~LeVigan/Vigan.internal.md) 
 
-### [Vigan.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~Occitanie\Gard\communes~Gard\Le_Vigan\cities~LeViganVigan.private.md) 
+### [Vigan.protect](/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Gard/communes~Gard/Le_Vigan/cities~LeVigan/Vigan.protect.md) 
 
-### [Vigan.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~Occitanie\Gard\communes~Gard\Le_Vigan\cities~LeViganVigan.personal.md) 
+### [Vigan.private](/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Gard/communes~Gard/Le_Vigan/cities~LeVigan/Vigan.private.md) 
 
-### [Vigan.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~Occitanie\Gard\communes~Gard\Le_Vigan\cities~LeViganVigan.secret.md)
+### [Vigan.personal](/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Gard/communes~Gard/Le_Vigan/cities~LeVigan/Vigan.personal.md) 
+
+### [Vigan.secret](/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Gard/communes~Gard/Le_Vigan/cities~LeVigan/Vigan.secret.md)
 

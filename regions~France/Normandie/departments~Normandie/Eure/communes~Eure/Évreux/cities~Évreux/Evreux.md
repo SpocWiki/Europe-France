@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Evreux.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Normandie\departments~Normandie\Eure\communes~Eure\Évreux\cities~ÉvreuxEvreux.public.md) 
+### [Evreux](/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Normandie/departments~Normandie/Eure/communes~Eure/Évreux/cities~Évreux/Evreux.md) 
 
-### [Evreux.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Normandie\departments~Normandie\Eure\communes~Eure\Évreux\cities~ÉvreuxEvreux.internal.md) 
+### [Evreux.public](/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Normandie/departments~Normandie/Eure/communes~Eure/Évreux/cities~Évreux/Evreux.public.md) 
 
-### [Evreux.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Normandie\departments~Normandie\Eure\communes~Eure\Évreux\cities~ÉvreuxEvreux.protect.md) 
+### [Evreux.internal](/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Normandie/departments~Normandie/Eure/communes~Eure/Évreux/cities~Évreux/Evreux.internal.md) 
 
-### [Evreux.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Normandie\departments~Normandie\Eure\communes~Eure\Évreux\cities~ÉvreuxEvreux.private.md) 
+### [Evreux.protect](/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Normandie/departments~Normandie/Eure/communes~Eure/Évreux/cities~Évreux/Evreux.protect.md) 
 
-### [Evreux.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Normandie\departments~Normandie\Eure\communes~Eure\Évreux\cities~ÉvreuxEvreux.personal.md) 
+### [Evreux.private](/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Normandie/departments~Normandie/Eure/communes~Eure/Évreux/cities~Évreux/Evreux.private.md) 
 
-### [Evreux.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Normandie\departments~Normandie\Eure\communes~Eure\Évreux\cities~ÉvreuxEvreux.secret.md)
+### [Evreux.personal](/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Normandie/departments~Normandie/Eure/communes~Eure/Évreux/cities~Évreux/Evreux.personal.md) 
+
+### [Evreux.secret](/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Normandie/departments~Normandie/Eure/communes~Eure/Évreux/cities~Évreux/Evreux.secret.md)
 

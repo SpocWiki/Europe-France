@@ -41,15 +41,17 @@ markerFolder: ./Département~Territoire_de_Belfort/
 
 ## Confidential Links & Embeds: 
 
-### [Territoire_de_Belfort.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Bourgogne-Franche-Comté\departments~Bourgogne-Franche-ComtéTerritoire_de_Belfort.public.md) 
+### [Territoire_de_Belfort](/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Bourgogne-Franche-Comté/departments~Bourgogne-Franche-Comté/Territoire_de_Belfort.md) 
 
-### [Territoire_de_Belfort.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Bourgogne-Franche-Comté\departments~Bourgogne-Franche-ComtéTerritoire_de_Belfort.internal.md) 
+### [Territoire_de_Belfort.public](/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Bourgogne-Franche-Comté/departments~Bourgogne-Franche-Comté/Territoire_de_Belfort.public.md) 
 
-### [Territoire_de_Belfort.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Bourgogne-Franche-Comté\departments~Bourgogne-Franche-ComtéTerritoire_de_Belfort.protect.md) 
+### [Territoire_de_Belfort.internal](/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Bourgogne-Franche-Comté/departments~Bourgogne-Franche-Comté/Territoire_de_Belfort.internal.md) 
 
-### [Territoire_de_Belfort.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Bourgogne-Franche-Comté\departments~Bourgogne-Franche-ComtéTerritoire_de_Belfort.private.md) 
+### [Territoire_de_Belfort.protect](/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Bourgogne-Franche-Comté/departments~Bourgogne-Franche-Comté/Territoire_de_Belfort.protect.md) 
 
-### [Territoire_de_Belfort.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Bourgogne-Franche-Comté\departments~Bourgogne-Franche-ComtéTerritoire_de_Belfort.personal.md) 
+### [Territoire_de_Belfort.private](/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Bourgogne-Franche-Comté/departments~Bourgogne-Franche-Comté/Territoire_de_Belfort.private.md) 
 
-### [Territoire_de_Belfort.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Bourgogne-Franche-Comté\departments~Bourgogne-Franche-ComtéTerritoire_de_Belfort.secret.md)
+### [Territoire_de_Belfort.personal](/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Bourgogne-Franche-Comté/departments~Bourgogne-Franche-Comté/Territoire_de_Belfort.personal.md) 
+
+### [Territoire_de_Belfort.secret](/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Bourgogne-Franche-Comté/departments~Bourgogne-Franche-Comté/Territoire_de_Belfort.secret.md)
 

@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Autun.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Bourgogne-Franche-Comté\departments~Bourgogne-Franche-Comté\Saône-et-Loire\communes~Saône-et-Loire\Autun\cities~AutunAutun.public.md) 
+### [Autun](/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Bourgogne-Franche-Comté/departments~Bourgogne-Franche-Comté/Saône-et-Loire/communes~Saône-et-Loire/Autun/cities~Autun/Autun.md) 
 
-### [Autun.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Bourgogne-Franche-Comté\departments~Bourgogne-Franche-Comté\Saône-et-Loire\communes~Saône-et-Loire\Autun\cities~AutunAutun.internal.md) 
+### [Autun.public](/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Bourgogne-Franche-Comté/departments~Bourgogne-Franche-Comté/Saône-et-Loire/communes~Saône-et-Loire/Autun/cities~Autun/Autun.public.md) 
 
-### [Autun.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Bourgogne-Franche-Comté\departments~Bourgogne-Franche-Comté\Saône-et-Loire\communes~Saône-et-Loire\Autun\cities~AutunAutun.protect.md) 
+### [Autun.internal](/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Bourgogne-Franche-Comté/departments~Bourgogne-Franche-Comté/Saône-et-Loire/communes~Saône-et-Loire/Autun/cities~Autun/Autun.internal.md) 
 
-### [Autun.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Bourgogne-Franche-Comté\departments~Bourgogne-Franche-Comté\Saône-et-Loire\communes~Saône-et-Loire\Autun\cities~AutunAutun.private.md) 
+### [Autun.protect](/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Bourgogne-Franche-Comté/departments~Bourgogne-Franche-Comté/Saône-et-Loire/communes~Saône-et-Loire/Autun/cities~Autun/Autun.protect.md) 
 
-### [Autun.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Bourgogne-Franche-Comté\departments~Bourgogne-Franche-Comté\Saône-et-Loire\communes~Saône-et-Loire\Autun\cities~AutunAutun.personal.md) 
+### [Autun.private](/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Bourgogne-Franche-Comté/departments~Bourgogne-Franche-Comté/Saône-et-Loire/communes~Saône-et-Loire/Autun/cities~Autun/Autun.private.md) 
 
-### [Autun.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Bourgogne-Franche-Comté\departments~Bourgogne-Franche-Comté\Saône-et-Loire\communes~Saône-et-Loire\Autun\cities~AutunAutun.secret.md)
+### [Autun.personal](/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Bourgogne-Franche-Comté/departments~Bourgogne-Franche-Comté/Saône-et-Loire/communes~Saône-et-Loire/Autun/cities~Autun/Autun.personal.md) 
+
+### [Autun.secret](/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Bourgogne-Franche-Comté/departments~Bourgogne-Franche-Comté/Saône-et-Loire/communes~Saône-et-Loire/Autun/cities~Autun/Autun.secret.md)
 

@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Bordeaux.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~Aquitaine\Gironde\communes~Gironde\Bordeaux\cities~BordeauxBordeaux.public.md) 
+### [Bordeaux](/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Nouvelle-Aquitaine/departments~Aquitaine/Gironde/communes~Gironde/Bordeaux/cities~Bordeaux/Bordeaux.md) 
 
-### [Bordeaux.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~Aquitaine\Gironde\communes~Gironde\Bordeaux\cities~BordeauxBordeaux.internal.md) 
+### [Bordeaux.public](/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Nouvelle-Aquitaine/departments~Aquitaine/Gironde/communes~Gironde/Bordeaux/cities~Bordeaux/Bordeaux.public.md) 
 
-### [Bordeaux.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~Aquitaine\Gironde\communes~Gironde\Bordeaux\cities~BordeauxBordeaux.protect.md) 
+### [Bordeaux.internal](/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Nouvelle-Aquitaine/departments~Aquitaine/Gironde/communes~Gironde/Bordeaux/cities~Bordeaux/Bordeaux.internal.md) 
 
-### [Bordeaux.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~Aquitaine\Gironde\communes~Gironde\Bordeaux\cities~BordeauxBordeaux.private.md) 
+### [Bordeaux.protect](/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Nouvelle-Aquitaine/departments~Aquitaine/Gironde/communes~Gironde/Bordeaux/cities~Bordeaux/Bordeaux.protect.md) 
 
-### [Bordeaux.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~Aquitaine\Gironde\communes~Gironde\Bordeaux\cities~BordeauxBordeaux.personal.md) 
+### [Bordeaux.private](/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Nouvelle-Aquitaine/departments~Aquitaine/Gironde/communes~Gironde/Bordeaux/cities~Bordeaux/Bordeaux.private.md) 
 
-### [Bordeaux.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~Aquitaine\Gironde\communes~Gironde\Bordeaux\cities~BordeauxBordeaux.secret.md)
+### [Bordeaux.personal](/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Nouvelle-Aquitaine/departments~Aquitaine/Gironde/communes~Gironde/Bordeaux/cities~Bordeaux/Bordeaux.personal.md) 
+
+### [Bordeaux.secret](/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Nouvelle-Aquitaine/departments~Aquitaine/Gironde/communes~Gironde/Bordeaux/cities~Bordeaux/Bordeaux.secret.md)
 

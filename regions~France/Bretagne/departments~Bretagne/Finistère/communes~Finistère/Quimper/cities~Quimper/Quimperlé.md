@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Quimperlé.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Bretagne\departments~Bretagne\Finistère\communes~Finistère\Quimper\cities~QuimperQuimperlé.public.md) 
+### [Quimperlé](/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Bretagne/departments~Bretagne/Finistère/communes~Finistère/Quimper/cities~Quimper/Quimperlé.md) 
 
-### [Quimperlé.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Bretagne\departments~Bretagne\Finistère\communes~Finistère\Quimper\cities~QuimperQuimperlé.internal.md) 
+### [Quimperlé.public](/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Bretagne/departments~Bretagne/Finistère/communes~Finistère/Quimper/cities~Quimper/Quimperlé.public.md) 
 
-### [Quimperlé.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Bretagne\departments~Bretagne\Finistère\communes~Finistère\Quimper\cities~QuimperQuimperlé.protect.md) 
+### [Quimperlé.internal](/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Bretagne/departments~Bretagne/Finistère/communes~Finistère/Quimper/cities~Quimper/Quimperlé.internal.md) 
 
-### [Quimperlé.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Bretagne\departments~Bretagne\Finistère\communes~Finistère\Quimper\cities~QuimperQuimperlé.private.md) 
+### [Quimperlé.protect](/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Bretagne/departments~Bretagne/Finistère/communes~Finistère/Quimper/cities~Quimper/Quimperlé.protect.md) 
 
-### [Quimperlé.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Bretagne\departments~Bretagne\Finistère\communes~Finistère\Quimper\cities~QuimperQuimperlé.personal.md) 
+### [Quimperlé.private](/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Bretagne/departments~Bretagne/Finistère/communes~Finistère/Quimper/cities~Quimper/Quimperlé.private.md) 
 
-### [Quimperlé.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Bretagne\departments~Bretagne\Finistère\communes~Finistère\Quimper\cities~QuimperQuimperlé.secret.md)
+### [Quimperlé.personal](/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Bretagne/departments~Bretagne/Finistère/communes~Finistère/Quimper/cities~Quimper/Quimperlé.personal.md) 
+
+### [Quimperlé.secret](/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Bretagne/departments~Bretagne/Finistère/communes~Finistère/Quimper/cities~Quimper/Quimperlé.secret.md)
 

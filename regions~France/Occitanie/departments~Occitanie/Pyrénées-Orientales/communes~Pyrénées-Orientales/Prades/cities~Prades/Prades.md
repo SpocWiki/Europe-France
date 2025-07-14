@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Prades.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~Occitanie\Pyrénées-Orientales\communes~Pyrénées-Orientales\Prades\cities~PradesPrades.public.md) 
+### [Prades](/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Pyrénées-Orientales/communes~Pyrénées-Orientales/Prades/cities~Prades/Prades.md) 
 
-### [Prades.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~Occitanie\Pyrénées-Orientales\communes~Pyrénées-Orientales\Prades\cities~PradesPrades.internal.md) 
+### [Prades.public](/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Pyrénées-Orientales/communes~Pyrénées-Orientales/Prades/cities~Prades/Prades.public.md) 
 
-### [Prades.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~Occitanie\Pyrénées-Orientales\communes~Pyrénées-Orientales\Prades\cities~PradesPrades.protect.md) 
+### [Prades.internal](/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Pyrénées-Orientales/communes~Pyrénées-Orientales/Prades/cities~Prades/Prades.internal.md) 
 
-### [Prades.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~Occitanie\Pyrénées-Orientales\communes~Pyrénées-Orientales\Prades\cities~PradesPrades.private.md) 
+### [Prades.protect](/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Pyrénées-Orientales/communes~Pyrénées-Orientales/Prades/cities~Prades/Prades.protect.md) 
 
-### [Prades.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~Occitanie\Pyrénées-Orientales\communes~Pyrénées-Orientales\Prades\cities~PradesPrades.personal.md) 
+### [Prades.private](/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Pyrénées-Orientales/communes~Pyrénées-Orientales/Prades/cities~Prades/Prades.private.md) 
 
-### [Prades.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~Occitanie\Pyrénées-Orientales\communes~Pyrénées-Orientales\Prades\cities~PradesPrades.secret.md)
+### [Prades.personal](/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Pyrénées-Orientales/communes~Pyrénées-Orientales/Prades/cities~Prades/Prades.personal.md) 
+
+### [Prades.secret](/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Pyrénées-Orientales/communes~Pyrénées-Orientales/Prades/cities~Prades/Prades.secret.md)
 

@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Laon.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Hauts-de-France\departments~Hauts-de-France\Aisne\communes~Aisne\Laon\cities~LaonLaon.public.md) 
+### [Laon](/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Hauts-de-France/departments~Hauts-de-France/Aisne/communes~Aisne/Laon/cities~Laon/Laon.md) 
 
-### [Laon.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Hauts-de-France\departments~Hauts-de-France\Aisne\communes~Aisne\Laon\cities~LaonLaon.internal.md) 
+### [Laon.public](/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Hauts-de-France/departments~Hauts-de-France/Aisne/communes~Aisne/Laon/cities~Laon/Laon.public.md) 
 
-### [Laon.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Hauts-de-France\departments~Hauts-de-France\Aisne\communes~Aisne\Laon\cities~LaonLaon.protect.md) 
+### [Laon.internal](/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Hauts-de-France/departments~Hauts-de-France/Aisne/communes~Aisne/Laon/cities~Laon/Laon.internal.md) 
 
-### [Laon.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Hauts-de-France\departments~Hauts-de-France\Aisne\communes~Aisne\Laon\cities~LaonLaon.private.md) 
+### [Laon.protect](/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Hauts-de-France/departments~Hauts-de-France/Aisne/communes~Aisne/Laon/cities~Laon/Laon.protect.md) 
 
-### [Laon.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Hauts-de-France\departments~Hauts-de-France\Aisne\communes~Aisne\Laon\cities~LaonLaon.personal.md) 
+### [Laon.private](/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Hauts-de-France/departments~Hauts-de-France/Aisne/communes~Aisne/Laon/cities~Laon/Laon.private.md) 
 
-### [Laon.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Hauts-de-France\departments~Hauts-de-France\Aisne\communes~Aisne\Laon\cities~LaonLaon.secret.md)
+### [Laon.personal](/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Hauts-de-France/departments~Hauts-de-France/Aisne/communes~Aisne/Laon/cities~Laon/Laon.personal.md) 
+
+### [Laon.secret](/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Hauts-de-France/departments~Hauts-de-France/Aisne/communes~Aisne/Laon/cities~Laon/Laon.secret.md)
 

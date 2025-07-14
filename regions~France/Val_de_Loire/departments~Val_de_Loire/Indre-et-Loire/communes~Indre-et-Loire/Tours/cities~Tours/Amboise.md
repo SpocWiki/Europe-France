@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Amboise.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Val_de_Loire\departments~Val_de_Loire\Indre-et-Loire\communes~Indre-et-Loire\Tours\cities~ToursAmboise.public.md) 
+### [Amboise](/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Val_de_Loire/departments~Val_de_Loire/Indre-et-Loire/communes~Indre-et-Loire/Tours/cities~Tours/Amboise.md) 
 
-### [Amboise.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Val_de_Loire\departments~Val_de_Loire\Indre-et-Loire\communes~Indre-et-Loire\Tours\cities~ToursAmboise.internal.md) 
+### [Amboise.public](/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Val_de_Loire/departments~Val_de_Loire/Indre-et-Loire/communes~Indre-et-Loire/Tours/cities~Tours/Amboise.public.md) 
 
-### [Amboise.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Val_de_Loire\departments~Val_de_Loire\Indre-et-Loire\communes~Indre-et-Loire\Tours\cities~ToursAmboise.protect.md) 
+### [Amboise.internal](/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Val_de_Loire/departments~Val_de_Loire/Indre-et-Loire/communes~Indre-et-Loire/Tours/cities~Tours/Amboise.internal.md) 
 
-### [Amboise.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Val_de_Loire\departments~Val_de_Loire\Indre-et-Loire\communes~Indre-et-Loire\Tours\cities~ToursAmboise.private.md) 
+### [Amboise.protect](/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Val_de_Loire/departments~Val_de_Loire/Indre-et-Loire/communes~Indre-et-Loire/Tours/cities~Tours/Amboise.protect.md) 
 
-### [Amboise.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Val_de_Loire\departments~Val_de_Loire\Indre-et-Loire\communes~Indre-et-Loire\Tours\cities~ToursAmboise.personal.md) 
+### [Amboise.private](/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Val_de_Loire/departments~Val_de_Loire/Indre-et-Loire/communes~Indre-et-Loire/Tours/cities~Tours/Amboise.private.md) 
 
-### [Amboise.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Val_de_Loire\departments~Val_de_Loire\Indre-et-Loire\communes~Indre-et-Loire\Tours\cities~ToursAmboise.secret.md)
+### [Amboise.personal](/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Val_de_Loire/departments~Val_de_Loire/Indre-et-Loire/communes~Indre-et-Loire/Tours/cities~Tours/Amboise.personal.md) 
+
+### [Amboise.secret](/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Val_de_Loire/departments~Val_de_Loire/Indre-et-Loire/communes~Indre-et-Loire/Tours/cities~Tours/Amboise.secret.md)
 

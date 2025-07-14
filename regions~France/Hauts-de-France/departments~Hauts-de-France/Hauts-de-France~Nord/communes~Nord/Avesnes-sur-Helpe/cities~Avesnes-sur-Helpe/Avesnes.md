@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Avesnes.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Hauts-de-France\departments~Hauts-de-France\Hauts-de-France~Nord\communes~Nord\Avesnes-sur-Helpe\cities~Avesnes-sur-HelpeAvesnes.public.md) 
+### [Avesnes](/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Hauts-de-France/departments~Hauts-de-France/Hauts-de-France~Nord/communes~Nord/Avesnes-sur-Helpe/cities~Avesnes-sur-Helpe/Avesnes.md) 
 
-### [Avesnes.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Hauts-de-France\departments~Hauts-de-France\Hauts-de-France~Nord\communes~Nord\Avesnes-sur-Helpe\cities~Avesnes-sur-HelpeAvesnes.internal.md) 
+### [Avesnes.public](/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Hauts-de-France/departments~Hauts-de-France/Hauts-de-France~Nord/communes~Nord/Avesnes-sur-Helpe/cities~Avesnes-sur-Helpe/Avesnes.public.md) 
 
-### [Avesnes.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Hauts-de-France\departments~Hauts-de-France\Hauts-de-France~Nord\communes~Nord\Avesnes-sur-Helpe\cities~Avesnes-sur-HelpeAvesnes.protect.md) 
+### [Avesnes.internal](/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Hauts-de-France/departments~Hauts-de-France/Hauts-de-France~Nord/communes~Nord/Avesnes-sur-Helpe/cities~Avesnes-sur-Helpe/Avesnes.internal.md) 
 
-### [Avesnes.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Hauts-de-France\departments~Hauts-de-France\Hauts-de-France~Nord\communes~Nord\Avesnes-sur-Helpe\cities~Avesnes-sur-HelpeAvesnes.private.md) 
+### [Avesnes.protect](/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Hauts-de-France/departments~Hauts-de-France/Hauts-de-France~Nord/communes~Nord/Avesnes-sur-Helpe/cities~Avesnes-sur-Helpe/Avesnes.protect.md) 
 
-### [Avesnes.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Hauts-de-France\departments~Hauts-de-France\Hauts-de-France~Nord\communes~Nord\Avesnes-sur-Helpe\cities~Avesnes-sur-HelpeAvesnes.personal.md) 
+### [Avesnes.private](/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Hauts-de-France/departments~Hauts-de-France/Hauts-de-France~Nord/communes~Nord/Avesnes-sur-Helpe/cities~Avesnes-sur-Helpe/Avesnes.private.md) 
 
-### [Avesnes.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Hauts-de-France\departments~Hauts-de-France\Hauts-de-France~Nord\communes~Nord\Avesnes-sur-Helpe\cities~Avesnes-sur-HelpeAvesnes.secret.md)
+### [Avesnes.personal](/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Hauts-de-France/departments~Hauts-de-France/Hauts-de-France~Nord/communes~Nord/Avesnes-sur-Helpe/cities~Avesnes-sur-Helpe/Avesnes.personal.md) 
+
+### [Avesnes.secret](/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Hauts-de-France/departments~Hauts-de-France/Hauts-de-France~Nord/communes~Nord/Avesnes-sur-Helpe/cities~Avesnes-sur-Helpe/Avesnes.secret.md)
 

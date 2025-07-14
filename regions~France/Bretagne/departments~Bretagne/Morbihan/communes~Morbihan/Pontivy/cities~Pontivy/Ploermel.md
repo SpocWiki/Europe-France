@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Ploermel.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Bretagne\departments~Bretagne\Morbihan\communes~Morbihan\Pontivy\cities~PontivyPloermel.public.md) 
+### [Ploermel](/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Bretagne/departments~Bretagne/Morbihan/communes~Morbihan/Pontivy/cities~Pontivy/Ploermel.md) 
 
-### [Ploermel.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Bretagne\departments~Bretagne\Morbihan\communes~Morbihan\Pontivy\cities~PontivyPloermel.internal.md) 
+### [Ploermel.public](/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Bretagne/departments~Bretagne/Morbihan/communes~Morbihan/Pontivy/cities~Pontivy/Ploermel.public.md) 
 
-### [Ploermel.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Bretagne\departments~Bretagne\Morbihan\communes~Morbihan\Pontivy\cities~PontivyPloermel.protect.md) 
+### [Ploermel.internal](/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Bretagne/departments~Bretagne/Morbihan/communes~Morbihan/Pontivy/cities~Pontivy/Ploermel.internal.md) 
 
-### [Ploermel.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Bretagne\departments~Bretagne\Morbihan\communes~Morbihan\Pontivy\cities~PontivyPloermel.private.md) 
+### [Ploermel.protect](/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Bretagne/departments~Bretagne/Morbihan/communes~Morbihan/Pontivy/cities~Pontivy/Ploermel.protect.md) 
 
-### [Ploermel.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Bretagne\departments~Bretagne\Morbihan\communes~Morbihan\Pontivy\cities~PontivyPloermel.personal.md) 
+### [Ploermel.private](/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Bretagne/departments~Bretagne/Morbihan/communes~Morbihan/Pontivy/cities~Pontivy/Ploermel.private.md) 
 
-### [Ploermel.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Bretagne\departments~Bretagne\Morbihan\communes~Morbihan\Pontivy\cities~PontivyPloermel.secret.md)
+### [Ploermel.personal](/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Bretagne/departments~Bretagne/Morbihan/communes~Morbihan/Pontivy/cities~Pontivy/Ploermel.personal.md) 
+
+### [Ploermel.secret](/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Bretagne/departments~Bretagne/Morbihan/communes~Morbihan/Pontivy/cities~Pontivy/Ploermel.secret.md)
 

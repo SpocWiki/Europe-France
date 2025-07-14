@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Heve.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Normandie\departments~Normandie\Seine-Maritime\communes~Seine-Maritime\Le_Havre\cities~LeHavreHeve.public.md) 
+### [Heve](/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Normandie/departments~Normandie/Seine-Maritime/communes~Seine-Maritime/Le_Havre/cities~LeHavre/Heve.md) 
 
-### [Heve.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Normandie\departments~Normandie\Seine-Maritime\communes~Seine-Maritime\Le_Havre\cities~LeHavreHeve.internal.md) 
+### [Heve.public](/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Normandie/departments~Normandie/Seine-Maritime/communes~Seine-Maritime/Le_Havre/cities~LeHavre/Heve.public.md) 
 
-### [Heve.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Normandie\departments~Normandie\Seine-Maritime\communes~Seine-Maritime\Le_Havre\cities~LeHavreHeve.protect.md) 
+### [Heve.internal](/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Normandie/departments~Normandie/Seine-Maritime/communes~Seine-Maritime/Le_Havre/cities~LeHavre/Heve.internal.md) 
 
-### [Heve.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Normandie\departments~Normandie\Seine-Maritime\communes~Seine-Maritime\Le_Havre\cities~LeHavreHeve.private.md) 
+### [Heve.protect](/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Normandie/departments~Normandie/Seine-Maritime/communes~Seine-Maritime/Le_Havre/cities~LeHavre/Heve.protect.md) 
 
-### [Heve.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Normandie\departments~Normandie\Seine-Maritime\communes~Seine-Maritime\Le_Havre\cities~LeHavreHeve.personal.md) 
+### [Heve.private](/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Normandie/departments~Normandie/Seine-Maritime/communes~Seine-Maritime/Le_Havre/cities~LeHavre/Heve.private.md) 
 
-### [Heve.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Normandie\departments~Normandie\Seine-Maritime\communes~Seine-Maritime\Le_Havre\cities~LeHavreHeve.secret.md)
+### [Heve.personal](/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Normandie/departments~Normandie/Seine-Maritime/communes~Seine-Maritime/Le_Havre/cities~LeHavre/Heve.personal.md) 
+
+### [Heve.secret](/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Normandie/departments~Normandie/Seine-Maritime/communes~Seine-Maritime/Le_Havre/cities~LeHavre/Heve.secret.md)
 

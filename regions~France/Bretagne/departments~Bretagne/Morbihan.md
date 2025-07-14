@@ -41,15 +41,17 @@ markerFolder: ./Département~Morbihan/
 
 ## Confidential Links & Embeds: 
 
-### [Morbihan.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Bretagne\departments~BretagneMorbihan.public.md) 
+### [Morbihan](/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Bretagne/departments~Bretagne/Morbihan.md) 
 
-### [Morbihan.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Bretagne\departments~BretagneMorbihan.internal.md) 
+### [Morbihan.public](/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Bretagne/departments~Bretagne/Morbihan.public.md) 
 
-### [Morbihan.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Bretagne\departments~BretagneMorbihan.protect.md) 
+### [Morbihan.internal](/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Bretagne/departments~Bretagne/Morbihan.internal.md) 
 
-### [Morbihan.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Bretagne\departments~BretagneMorbihan.private.md) 
+### [Morbihan.protect](/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Bretagne/departments~Bretagne/Morbihan.protect.md) 
 
-### [Morbihan.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Bretagne\departments~BretagneMorbihan.personal.md) 
+### [Morbihan.private](/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Bretagne/departments~Bretagne/Morbihan.private.md) 
 
-### [Morbihan.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Bretagne\departments~BretagneMorbihan.secret.md)
+### [Morbihan.personal](/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Bretagne/departments~Bretagne/Morbihan.personal.md) 
+
+### [Morbihan.secret](/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Bretagne/departments~Bretagne/Morbihan.secret.md)
 

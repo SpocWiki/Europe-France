@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Cette.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~Occitanie\Hérault\communes~Hérault\Montpellier\cities~MontpellierCette.public.md) 
+### [Cette](/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Hérault/communes~Hérault/Montpellier/cities~Montpellier/Cette.md) 
 
-### [Cette.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~Occitanie\Hérault\communes~Hérault\Montpellier\cities~MontpellierCette.internal.md) 
+### [Cette.public](/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Hérault/communes~Hérault/Montpellier/cities~Montpellier/Cette.public.md) 
 
-### [Cette.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~Occitanie\Hérault\communes~Hérault\Montpellier\cities~MontpellierCette.protect.md) 
+### [Cette.internal](/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Hérault/communes~Hérault/Montpellier/cities~Montpellier/Cette.internal.md) 
 
-### [Cette.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~Occitanie\Hérault\communes~Hérault\Montpellier\cities~MontpellierCette.private.md) 
+### [Cette.protect](/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Hérault/communes~Hérault/Montpellier/cities~Montpellier/Cette.protect.md) 
 
-### [Cette.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~Occitanie\Hérault\communes~Hérault\Montpellier\cities~MontpellierCette.personal.md) 
+### [Cette.private](/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Hérault/communes~Hérault/Montpellier/cities~Montpellier/Cette.private.md) 
 
-### [Cette.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~Occitanie\Hérault\communes~Hérault\Montpellier\cities~MontpellierCette.secret.md)
+### [Cette.personal](/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Hérault/communes~Hérault/Montpellier/cities~Montpellier/Cette.personal.md) 
+
+### [Cette.secret](/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Hérault/communes~Hérault/Montpellier/cities~Montpellier/Cette.secret.md)
 

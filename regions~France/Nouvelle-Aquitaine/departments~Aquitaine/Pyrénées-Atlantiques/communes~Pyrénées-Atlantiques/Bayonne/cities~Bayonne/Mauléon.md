@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Mauléon.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~Aquitaine\Pyrénées-Atlantiques\communes~Pyrénées-Atlantiques\Bayonne\cities~BayonneMauléon.public.md) 
+### [Mauléon](/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Nouvelle-Aquitaine/departments~Aquitaine/Pyrénées-Atlantiques/communes~Pyrénées-Atlantiques/Bayonne/cities~Bayonne/Mauléon.md) 
 
-### [Mauléon.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~Aquitaine\Pyrénées-Atlantiques\communes~Pyrénées-Atlantiques\Bayonne\cities~BayonneMauléon.internal.md) 
+### [Mauléon.public](/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Nouvelle-Aquitaine/departments~Aquitaine/Pyrénées-Atlantiques/communes~Pyrénées-Atlantiques/Bayonne/cities~Bayonne/Mauléon.public.md) 
 
-### [Mauléon.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~Aquitaine\Pyrénées-Atlantiques\communes~Pyrénées-Atlantiques\Bayonne\cities~BayonneMauléon.protect.md) 
+### [Mauléon.internal](/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Nouvelle-Aquitaine/departments~Aquitaine/Pyrénées-Atlantiques/communes~Pyrénées-Atlantiques/Bayonne/cities~Bayonne/Mauléon.internal.md) 
 
-### [Mauléon.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~Aquitaine\Pyrénées-Atlantiques\communes~Pyrénées-Atlantiques\Bayonne\cities~BayonneMauléon.private.md) 
+### [Mauléon.protect](/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Nouvelle-Aquitaine/departments~Aquitaine/Pyrénées-Atlantiques/communes~Pyrénées-Atlantiques/Bayonne/cities~Bayonne/Mauléon.protect.md) 
 
-### [Mauléon.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~Aquitaine\Pyrénées-Atlantiques\communes~Pyrénées-Atlantiques\Bayonne\cities~BayonneMauléon.personal.md) 
+### [Mauléon.private](/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Nouvelle-Aquitaine/departments~Aquitaine/Pyrénées-Atlantiques/communes~Pyrénées-Atlantiques/Bayonne/cities~Bayonne/Mauléon.private.md) 
 
-### [Mauléon.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~Aquitaine\Pyrénées-Atlantiques\communes~Pyrénées-Atlantiques\Bayonne\cities~BayonneMauléon.secret.md)
+### [Mauléon.personal](/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Nouvelle-Aquitaine/departments~Aquitaine/Pyrénées-Atlantiques/communes~Pyrénées-Atlantiques/Bayonne/cities~Bayonne/Mauléon.personal.md) 
+
+### [Mauléon.secret](/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Nouvelle-Aquitaine/departments~Aquitaine/Pyrénées-Atlantiques/communes~Pyrénées-Atlantiques/Bayonne/cities~Bayonne/Mauléon.secret.md)
 

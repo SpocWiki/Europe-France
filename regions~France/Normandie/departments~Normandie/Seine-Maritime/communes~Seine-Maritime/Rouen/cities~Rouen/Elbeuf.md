@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Elbeuf.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Normandie\departments~Normandie\Seine-Maritime\communes~Seine-Maritime\Rouen\cities~RouenElbeuf.public.md) 
+### [Elbeuf](/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Normandie/departments~Normandie/Seine-Maritime/communes~Seine-Maritime/Rouen/cities~Rouen/Elbeuf.md) 
 
-### [Elbeuf.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Normandie\departments~Normandie\Seine-Maritime\communes~Seine-Maritime\Rouen\cities~RouenElbeuf.internal.md) 
+### [Elbeuf.public](/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Normandie/departments~Normandie/Seine-Maritime/communes~Seine-Maritime/Rouen/cities~Rouen/Elbeuf.public.md) 
 
-### [Elbeuf.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Normandie\departments~Normandie\Seine-Maritime\communes~Seine-Maritime\Rouen\cities~RouenElbeuf.protect.md) 
+### [Elbeuf.internal](/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Normandie/departments~Normandie/Seine-Maritime/communes~Seine-Maritime/Rouen/cities~Rouen/Elbeuf.internal.md) 
 
-### [Elbeuf.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Normandie\departments~Normandie\Seine-Maritime\communes~Seine-Maritime\Rouen\cities~RouenElbeuf.private.md) 
+### [Elbeuf.protect](/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Normandie/departments~Normandie/Seine-Maritime/communes~Seine-Maritime/Rouen/cities~Rouen/Elbeuf.protect.md) 
 
-### [Elbeuf.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Normandie\departments~Normandie\Seine-Maritime\communes~Seine-Maritime\Rouen\cities~RouenElbeuf.personal.md) 
+### [Elbeuf.private](/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Normandie/departments~Normandie/Seine-Maritime/communes~Seine-Maritime/Rouen/cities~Rouen/Elbeuf.private.md) 
 
-### [Elbeuf.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Normandie\departments~Normandie\Seine-Maritime\communes~Seine-Maritime\Rouen\cities~RouenElbeuf.secret.md)
+### [Elbeuf.personal](/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Normandie/departments~Normandie/Seine-Maritime/communes~Seine-Maritime/Rouen/cities~Rouen/Elbeuf.personal.md) 
+
+### [Elbeuf.secret](/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Normandie/departments~Normandie/Seine-Maritime/communes~Seine-Maritime/Rouen/cities~Rouen/Elbeuf.secret.md)
 

@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Diedenhofen.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Grand_Est\departments~Grand_Est\Moselle\communes~Moselle\Thionville-Est\cities~Thionville-EstDiedenhofen.public.md) 
+### [Diedenhofen](/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Grand_Est/departments~Grand_Est/Moselle/communes~Moselle/Thionville-Est/cities~Thionville-Est/Diedenhofen.md) 
 
-### [Diedenhofen.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Grand_Est\departments~Grand_Est\Moselle\communes~Moselle\Thionville-Est\cities~Thionville-EstDiedenhofen.internal.md) 
+### [Diedenhofen.public](/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Grand_Est/departments~Grand_Est/Moselle/communes~Moselle/Thionville-Est/cities~Thionville-Est/Diedenhofen.public.md) 
 
-### [Diedenhofen.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Grand_Est\departments~Grand_Est\Moselle\communes~Moselle\Thionville-Est\cities~Thionville-EstDiedenhofen.protect.md) 
+### [Diedenhofen.internal](/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Grand_Est/departments~Grand_Est/Moselle/communes~Moselle/Thionville-Est/cities~Thionville-Est/Diedenhofen.internal.md) 
 
-### [Diedenhofen.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Grand_Est\departments~Grand_Est\Moselle\communes~Moselle\Thionville-Est\cities~Thionville-EstDiedenhofen.private.md) 
+### [Diedenhofen.protect](/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Grand_Est/departments~Grand_Est/Moselle/communes~Moselle/Thionville-Est/cities~Thionville-Est/Diedenhofen.protect.md) 
 
-### [Diedenhofen.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Grand_Est\departments~Grand_Est\Moselle\communes~Moselle\Thionville-Est\cities~Thionville-EstDiedenhofen.personal.md) 
+### [Diedenhofen.private](/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Grand_Est/departments~Grand_Est/Moselle/communes~Moselle/Thionville-Est/cities~Thionville-Est/Diedenhofen.private.md) 
 
-### [Diedenhofen.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Grand_Est\departments~Grand_Est\Moselle\communes~Moselle\Thionville-Est\cities~Thionville-EstDiedenhofen.secret.md)
+### [Diedenhofen.personal](/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Grand_Est/departments~Grand_Est/Moselle/communes~Moselle/Thionville-Est/cities~Thionville-Est/Diedenhofen.personal.md) 
+
+### [Diedenhofen.secret](/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Grand_Est/departments~Grand_Est/Moselle/communes~Moselle/Thionville-Est/cities~Thionville-Est/Diedenhofen.secret.md)
 

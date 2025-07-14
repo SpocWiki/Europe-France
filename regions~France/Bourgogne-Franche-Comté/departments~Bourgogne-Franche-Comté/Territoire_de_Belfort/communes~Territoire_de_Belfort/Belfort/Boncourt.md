@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Boncourt.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Bourgogne-Franche-Comté\departments~Bourgogne-Franche-Comté\Territoire_de_Belfort\communes~Territoire_de_Belfort\BelfortBoncourt.public.md) 
+### [Boncourt](/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Bourgogne-Franche-Comté/departments~Bourgogne-Franche-Comté/Territoire_de_Belfort/communes~Territoire_de_Belfort/Belfort/Boncourt.md) 
 
-### [Boncourt.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Bourgogne-Franche-Comté\departments~Bourgogne-Franche-Comté\Territoire_de_Belfort\communes~Territoire_de_Belfort\BelfortBoncourt.internal.md) 
+### [Boncourt.public](/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Bourgogne-Franche-Comté/departments~Bourgogne-Franche-Comté/Territoire_de_Belfort/communes~Territoire_de_Belfort/Belfort/Boncourt.public.md) 
 
-### [Boncourt.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Bourgogne-Franche-Comté\departments~Bourgogne-Franche-Comté\Territoire_de_Belfort\communes~Territoire_de_Belfort\BelfortBoncourt.protect.md) 
+### [Boncourt.internal](/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Bourgogne-Franche-Comté/departments~Bourgogne-Franche-Comté/Territoire_de_Belfort/communes~Territoire_de_Belfort/Belfort/Boncourt.internal.md) 
 
-### [Boncourt.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Bourgogne-Franche-Comté\departments~Bourgogne-Franche-Comté\Territoire_de_Belfort\communes~Territoire_de_Belfort\BelfortBoncourt.private.md) 
+### [Boncourt.protect](/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Bourgogne-Franche-Comté/departments~Bourgogne-Franche-Comté/Territoire_de_Belfort/communes~Territoire_de_Belfort/Belfort/Boncourt.protect.md) 
 
-### [Boncourt.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Bourgogne-Franche-Comté\departments~Bourgogne-Franche-Comté\Territoire_de_Belfort\communes~Territoire_de_Belfort\BelfortBoncourt.personal.md) 
+### [Boncourt.private](/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Bourgogne-Franche-Comté/departments~Bourgogne-Franche-Comté/Territoire_de_Belfort/communes~Territoire_de_Belfort/Belfort/Boncourt.private.md) 
 
-### [Boncourt.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Bourgogne-Franche-Comté\departments~Bourgogne-Franche-Comté\Territoire_de_Belfort\communes~Territoire_de_Belfort\BelfortBoncourt.secret.md)
+### [Boncourt.personal](/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Bourgogne-Franche-Comté/departments~Bourgogne-Franche-Comté/Territoire_de_Belfort/communes~Territoire_de_Belfort/Belfort/Boncourt.personal.md) 
+
+### [Boncourt.secret](/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Bourgogne-Franche-Comté/departments~Bourgogne-Franche-Comté/Territoire_de_Belfort/communes~Territoire_de_Belfort/Belfort/Boncourt.secret.md)
 

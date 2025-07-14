@@ -349,15 +349,17 @@ markerFolder: ./Département~Paris/
 
 ## Confidential Links & Embeds: 
 
-### [Paris.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Île-de-France\departments~Île-de-FranceParis.public.md) 
+### [Paris](/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Île-de-France/departments~Île-de-France/Paris.md) 
 
-### [Paris.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Île-de-France\departments~Île-de-FranceParis.internal.md) 
+### [Paris.public](/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Île-de-France/departments~Île-de-France/Paris.public.md) 
 
-### [Paris.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Île-de-France\departments~Île-de-FranceParis.protect.md) 
+### [Paris.internal](/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Île-de-France/departments~Île-de-France/Paris.internal.md) 
 
-### [Paris.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Île-de-France\departments~Île-de-FranceParis.private.md) 
+### [Paris.protect](/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Île-de-France/departments~Île-de-France/Paris.protect.md) 
 
-### [Paris.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Île-de-France\departments~Île-de-FranceParis.personal.md) 
+### [Paris.private](/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Île-de-France/departments~Île-de-France/Paris.private.md) 
 
-### [Paris.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Île-de-France\departments~Île-de-FranceParis.secret.md)
+### [Paris.personal](/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Île-de-France/departments~Île-de-France/Paris.personal.md) 
+
+### [Paris.secret](/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Île-de-France/departments~Île-de-France/Paris.secret.md)
 

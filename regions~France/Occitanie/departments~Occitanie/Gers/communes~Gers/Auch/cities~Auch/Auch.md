@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Auch.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~Occitanie\Gers\communes~Gers\Auch\cities~AuchAuch.public.md) 
+### [Auch](/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Gers/communes~Gers/Auch/cities~Auch/Auch.md) 
 
-### [Auch.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~Occitanie\Gers\communes~Gers\Auch\cities~AuchAuch.internal.md) 
+### [Auch.public](/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Gers/communes~Gers/Auch/cities~Auch/Auch.public.md) 
 
-### [Auch.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~Occitanie\Gers\communes~Gers\Auch\cities~AuchAuch.protect.md) 
+### [Auch.internal](/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Gers/communes~Gers/Auch/cities~Auch/Auch.internal.md) 
 
-### [Auch.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~Occitanie\Gers\communes~Gers\Auch\cities~AuchAuch.private.md) 
+### [Auch.protect](/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Gers/communes~Gers/Auch/cities~Auch/Auch.protect.md) 
 
-### [Auch.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~Occitanie\Gers\communes~Gers\Auch\cities~AuchAuch.personal.md) 
+### [Auch.private](/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Gers/communes~Gers/Auch/cities~Auch/Auch.private.md) 
 
-### [Auch.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~Occitanie\Gers\communes~Gers\Auch\cities~AuchAuch.secret.md)
+### [Auch.personal](/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Gers/communes~Gers/Auch/cities~Auch/Auch.personal.md) 
+
+### [Auch.secret](/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Gers/communes~Gers/Auch/cities~Auch/Auch.secret.md)
 

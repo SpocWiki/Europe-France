@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Alencon.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Normandie\departments~Normandie\Orne\communes~Orne\Alençon\cities~AlençonAlencon.public.md) 
+### [Alencon](/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Normandie/departments~Normandie/Orne/communes~Orne/Alençon/cities~Alençon/Alencon.md) 
 
-### [Alencon.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Normandie\departments~Normandie\Orne\communes~Orne\Alençon\cities~AlençonAlencon.internal.md) 
+### [Alencon.public](/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Normandie/departments~Normandie/Orne/communes~Orne/Alençon/cities~Alençon/Alencon.public.md) 
 
-### [Alencon.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Normandie\departments~Normandie\Orne\communes~Orne\Alençon\cities~AlençonAlencon.protect.md) 
+### [Alencon.internal](/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Normandie/departments~Normandie/Orne/communes~Orne/Alençon/cities~Alençon/Alencon.internal.md) 
 
-### [Alencon.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Normandie\departments~Normandie\Orne\communes~Orne\Alençon\cities~AlençonAlencon.private.md) 
+### [Alencon.protect](/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Normandie/departments~Normandie/Orne/communes~Orne/Alençon/cities~Alençon/Alencon.protect.md) 
 
-### [Alencon.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Normandie\departments~Normandie\Orne\communes~Orne\Alençon\cities~AlençonAlencon.personal.md) 
+### [Alencon.private](/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Normandie/departments~Normandie/Orne/communes~Orne/Alençon/cities~Alençon/Alencon.private.md) 
 
-### [Alencon.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Normandie\departments~Normandie\Orne\communes~Orne\Alençon\cities~AlençonAlencon.secret.md)
+### [Alencon.personal](/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Normandie/departments~Normandie/Orne/communes~Orne/Alençon/cities~Alençon/Alencon.personal.md) 
+
+### [Alencon.secret](/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Normandie/departments~Normandie/Orne/communes~Orne/Alençon/cities~Alençon/Alencon.secret.md)
 

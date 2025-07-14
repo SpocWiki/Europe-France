@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Fécamp.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\NormandieFécamp.public.md) 
+### [Fécamp](/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Normandie/Fécamp.md) 
 
-### [Fécamp.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\NormandieFécamp.internal.md) 
+### [Fécamp.public](/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Normandie/Fécamp.public.md) 
 
-### [Fécamp.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\NormandieFécamp.protect.md) 
+### [Fécamp.internal](/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Normandie/Fécamp.internal.md) 
 
-### [Fécamp.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\NormandieFécamp.private.md) 
+### [Fécamp.protect](/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Normandie/Fécamp.protect.md) 
 
-### [Fécamp.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\NormandieFécamp.personal.md) 
+### [Fécamp.private](/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Normandie/Fécamp.private.md) 
 
-### [Fécamp.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\NormandieFécamp.secret.md)
+### [Fécamp.personal](/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Normandie/Fécamp.personal.md) 
+
+### [Fécamp.secret](/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Normandie/Fécamp.secret.md)
 

@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Chateaubriant.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Pays_de_la_Loire\departments~Pays_de_la_Loire\Loire-Atlantique\communes~Loire-Atlantique\Châteaubriant\cities~ChâteaubriantChateaubriant.public.md) 
+### [Chateaubriant](/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Pays_de_la_Loire/departments~Pays_de_la_Loire/Loire-Atlantique/communes~Loire-Atlantique/Châteaubriant/cities~Châteaubriant/Chateaubriant.md) 
 
-### [Chateaubriant.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Pays_de_la_Loire\departments~Pays_de_la_Loire\Loire-Atlantique\communes~Loire-Atlantique\Châteaubriant\cities~ChâteaubriantChateaubriant.internal.md) 
+### [Chateaubriant.public](/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Pays_de_la_Loire/departments~Pays_de_la_Loire/Loire-Atlantique/communes~Loire-Atlantique/Châteaubriant/cities~Châteaubriant/Chateaubriant.public.md) 
 
-### [Chateaubriant.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Pays_de_la_Loire\departments~Pays_de_la_Loire\Loire-Atlantique\communes~Loire-Atlantique\Châteaubriant\cities~ChâteaubriantChateaubriant.protect.md) 
+### [Chateaubriant.internal](/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Pays_de_la_Loire/departments~Pays_de_la_Loire/Loire-Atlantique/communes~Loire-Atlantique/Châteaubriant/cities~Châteaubriant/Chateaubriant.internal.md) 
 
-### [Chateaubriant.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Pays_de_la_Loire\departments~Pays_de_la_Loire\Loire-Atlantique\communes~Loire-Atlantique\Châteaubriant\cities~ChâteaubriantChateaubriant.private.md) 
+### [Chateaubriant.protect](/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Pays_de_la_Loire/departments~Pays_de_la_Loire/Loire-Atlantique/communes~Loire-Atlantique/Châteaubriant/cities~Châteaubriant/Chateaubriant.protect.md) 
 
-### [Chateaubriant.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Pays_de_la_Loire\departments~Pays_de_la_Loire\Loire-Atlantique\communes~Loire-Atlantique\Châteaubriant\cities~ChâteaubriantChateaubriant.personal.md) 
+### [Chateaubriant.private](/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Pays_de_la_Loire/departments~Pays_de_la_Loire/Loire-Atlantique/communes~Loire-Atlantique/Châteaubriant/cities~Châteaubriant/Chateaubriant.private.md) 
 
-### [Chateaubriant.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Pays_de_la_Loire\departments~Pays_de_la_Loire\Loire-Atlantique\communes~Loire-Atlantique\Châteaubriant\cities~ChâteaubriantChateaubriant.secret.md)
+### [Chateaubriant.personal](/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Pays_de_la_Loire/departments~Pays_de_la_Loire/Loire-Atlantique/communes~Loire-Atlantique/Châteaubriant/cities~Châteaubriant/Chateaubriant.personal.md) 
+
+### [Chateaubriant.secret](/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Pays_de_la_Loire/departments~Pays_de_la_Loire/Loire-Atlantique/communes~Loire-Atlantique/Châteaubriant/cities~Châteaubriant/Chateaubriant.secret.md)
 

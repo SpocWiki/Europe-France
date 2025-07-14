@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Talmay.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Bourgogne-Franche-Comté\departments~Bourgogne-Franche-Comté\Côte-d'Or\communes~Côte-d'Or\Dijon\cities~DijonTalmay.public.md) 
+### [Talmay](/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Bourgogne-Franche-Comté/departments~Bourgogne-Franche-Comté/Côte-d'Or/communes~Côte-d'Or/Dijon/cities~Dijon/Talmay.md) 
 
-### [Talmay.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Bourgogne-Franche-Comté\departments~Bourgogne-Franche-Comté\Côte-d'Or\communes~Côte-d'Or\Dijon\cities~DijonTalmay.internal.md) 
+### [Talmay.public](/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Bourgogne-Franche-Comté/departments~Bourgogne-Franche-Comté/Côte-d'Or/communes~Côte-d'Or/Dijon/cities~Dijon/Talmay.public.md) 
 
-### [Talmay.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Bourgogne-Franche-Comté\departments~Bourgogne-Franche-Comté\Côte-d'Or\communes~Côte-d'Or\Dijon\cities~DijonTalmay.protect.md) 
+### [Talmay.internal](/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Bourgogne-Franche-Comté/departments~Bourgogne-Franche-Comté/Côte-d'Or/communes~Côte-d'Or/Dijon/cities~Dijon/Talmay.internal.md) 
 
-### [Talmay.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Bourgogne-Franche-Comté\departments~Bourgogne-Franche-Comté\Côte-d'Or\communes~Côte-d'Or\Dijon\cities~DijonTalmay.private.md) 
+### [Talmay.protect](/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Bourgogne-Franche-Comté/departments~Bourgogne-Franche-Comté/Côte-d'Or/communes~Côte-d'Or/Dijon/cities~Dijon/Talmay.protect.md) 
 
-### [Talmay.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Bourgogne-Franche-Comté\departments~Bourgogne-Franche-Comté\Côte-d'Or\communes~Côte-d'Or\Dijon\cities~DijonTalmay.personal.md) 
+### [Talmay.private](/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Bourgogne-Franche-Comté/departments~Bourgogne-Franche-Comté/Côte-d'Or/communes~Côte-d'Or/Dijon/cities~Dijon/Talmay.private.md) 
 
-### [Talmay.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Bourgogne-Franche-Comté\departments~Bourgogne-Franche-Comté\Côte-d'Or\communes~Côte-d'Or\Dijon\cities~DijonTalmay.secret.md)
+### [Talmay.personal](/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Bourgogne-Franche-Comté/departments~Bourgogne-Franche-Comté/Côte-d'Or/communes~Côte-d'Or/Dijon/cities~Dijon/Talmay.personal.md) 
+
+### [Talmay.secret](/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Bourgogne-Franche-Comté/departments~Bourgogne-Franche-Comté/Côte-d'Or/communes~Côte-d'Or/Dijon/cities~Dijon/Talmay.secret.md)
 

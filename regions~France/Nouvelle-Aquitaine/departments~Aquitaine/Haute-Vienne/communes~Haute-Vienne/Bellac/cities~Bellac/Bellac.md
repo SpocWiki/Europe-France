@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Bellac.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~Aquitaine\Haute-Vienne\communes~Haute-Vienne\Bellac\cities~BellacBellac.public.md) 
+### [Bellac](/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Nouvelle-Aquitaine/departments~Aquitaine/Haute-Vienne/communes~Haute-Vienne/Bellac/cities~Bellac/Bellac.md) 
 
-### [Bellac.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~Aquitaine\Haute-Vienne\communes~Haute-Vienne\Bellac\cities~BellacBellac.internal.md) 
+### [Bellac.public](/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Nouvelle-Aquitaine/departments~Aquitaine/Haute-Vienne/communes~Haute-Vienne/Bellac/cities~Bellac/Bellac.public.md) 
 
-### [Bellac.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~Aquitaine\Haute-Vienne\communes~Haute-Vienne\Bellac\cities~BellacBellac.protect.md) 
+### [Bellac.internal](/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Nouvelle-Aquitaine/departments~Aquitaine/Haute-Vienne/communes~Haute-Vienne/Bellac/cities~Bellac/Bellac.internal.md) 
 
-### [Bellac.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~Aquitaine\Haute-Vienne\communes~Haute-Vienne\Bellac\cities~BellacBellac.private.md) 
+### [Bellac.protect](/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Nouvelle-Aquitaine/departments~Aquitaine/Haute-Vienne/communes~Haute-Vienne/Bellac/cities~Bellac/Bellac.protect.md) 
 
-### [Bellac.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~Aquitaine\Haute-Vienne\communes~Haute-Vienne\Bellac\cities~BellacBellac.personal.md) 
+### [Bellac.private](/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Nouvelle-Aquitaine/departments~Aquitaine/Haute-Vienne/communes~Haute-Vienne/Bellac/cities~Bellac/Bellac.private.md) 
 
-### [Bellac.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Nouvelle-Aquitaine\departments~Aquitaine\Haute-Vienne\communes~Haute-Vienne\Bellac\cities~BellacBellac.secret.md)
+### [Bellac.personal](/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Nouvelle-Aquitaine/departments~Aquitaine/Haute-Vienne/communes~Haute-Vienne/Bellac/cities~Bellac/Bellac.personal.md) 
+
+### [Bellac.secret](/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Nouvelle-Aquitaine/departments~Aquitaine/Haute-Vienne/communes~Haute-Vienne/Bellac/cities~Bellac/Bellac.secret.md)
 

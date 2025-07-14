@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Montpellier.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~Occitanie\Hérault\communes~Hérault\Montpellier\cities~MontpellierMontpellier.public.md) 
+### [Montpellier](/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Hérault/communes~Hérault/Montpellier/cities~Montpellier/Montpellier.md) 
 
-### [Montpellier.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~Occitanie\Hérault\communes~Hérault\Montpellier\cities~MontpellierMontpellier.internal.md) 
+### [Montpellier.public](/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Hérault/communes~Hérault/Montpellier/cities~Montpellier/Montpellier.public.md) 
 
-### [Montpellier.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~Occitanie\Hérault\communes~Hérault\Montpellier\cities~MontpellierMontpellier.protect.md) 
+### [Montpellier.internal](/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Hérault/communes~Hérault/Montpellier/cities~Montpellier/Montpellier.internal.md) 
 
-### [Montpellier.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~Occitanie\Hérault\communes~Hérault\Montpellier\cities~MontpellierMontpellier.private.md) 
+### [Montpellier.protect](/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Hérault/communes~Hérault/Montpellier/cities~Montpellier/Montpellier.protect.md) 
 
-### [Montpellier.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~Occitanie\Hérault\communes~Hérault\Montpellier\cities~MontpellierMontpellier.personal.md) 
+### [Montpellier.private](/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Hérault/communes~Hérault/Montpellier/cities~Montpellier/Montpellier.private.md) 
 
-### [Montpellier.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~Occitanie\Hérault\communes~Hérault\Montpellier\cities~MontpellierMontpellier.secret.md)
+### [Montpellier.personal](/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Hérault/communes~Hérault/Montpellier/cities~Montpellier/Montpellier.personal.md) 
+
+### [Montpellier.secret](/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Hérault/communes~Hérault/Montpellier/cities~Montpellier/Montpellier.secret.md)
 

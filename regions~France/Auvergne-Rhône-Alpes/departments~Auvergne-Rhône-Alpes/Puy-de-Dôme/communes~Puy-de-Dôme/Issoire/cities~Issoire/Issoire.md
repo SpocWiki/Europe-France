@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Issoire.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Auvergne-Rhône-Alpes\departments~Auvergne-Rhône-Alpes\Puy-de-Dôme\communes~Puy-de-Dôme\Issoire\cities~IssoireIssoire.public.md) 
+### [Issoire](/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Auvergne-Rhône-Alpes/departments~Auvergne-Rhône-Alpes/Puy-de-Dôme/communes~Puy-de-Dôme/Issoire/cities~Issoire/Issoire.md) 
 
-### [Issoire.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Auvergne-Rhône-Alpes\departments~Auvergne-Rhône-Alpes\Puy-de-Dôme\communes~Puy-de-Dôme\Issoire\cities~IssoireIssoire.internal.md) 
+### [Issoire.public](/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Auvergne-Rhône-Alpes/departments~Auvergne-Rhône-Alpes/Puy-de-Dôme/communes~Puy-de-Dôme/Issoire/cities~Issoire/Issoire.public.md) 
 
-### [Issoire.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Auvergne-Rhône-Alpes\departments~Auvergne-Rhône-Alpes\Puy-de-Dôme\communes~Puy-de-Dôme\Issoire\cities~IssoireIssoire.protect.md) 
+### [Issoire.internal](/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Auvergne-Rhône-Alpes/departments~Auvergne-Rhône-Alpes/Puy-de-Dôme/communes~Puy-de-Dôme/Issoire/cities~Issoire/Issoire.internal.md) 
 
-### [Issoire.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Auvergne-Rhône-Alpes\departments~Auvergne-Rhône-Alpes\Puy-de-Dôme\communes~Puy-de-Dôme\Issoire\cities~IssoireIssoire.private.md) 
+### [Issoire.protect](/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Auvergne-Rhône-Alpes/departments~Auvergne-Rhône-Alpes/Puy-de-Dôme/communes~Puy-de-Dôme/Issoire/cities~Issoire/Issoire.protect.md) 
 
-### [Issoire.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Auvergne-Rhône-Alpes\departments~Auvergne-Rhône-Alpes\Puy-de-Dôme\communes~Puy-de-Dôme\Issoire\cities~IssoireIssoire.personal.md) 
+### [Issoire.private](/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Auvergne-Rhône-Alpes/departments~Auvergne-Rhône-Alpes/Puy-de-Dôme/communes~Puy-de-Dôme/Issoire/cities~Issoire/Issoire.private.md) 
 
-### [Issoire.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Auvergne-Rhône-Alpes\departments~Auvergne-Rhône-Alpes\Puy-de-Dôme\communes~Puy-de-Dôme\Issoire\cities~IssoireIssoire.secret.md)
+### [Issoire.personal](/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Auvergne-Rhône-Alpes/departments~Auvergne-Rhône-Alpes/Puy-de-Dôme/communes~Puy-de-Dôme/Issoire/cities~Issoire/Issoire.personal.md) 
+
+### [Issoire.secret](/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Auvergne-Rhône-Alpes/departments~Auvergne-Rhône-Alpes/Puy-de-Dôme/communes~Puy-de-Dôme/Issoire/cities~Issoire/Issoire.secret.md)
 

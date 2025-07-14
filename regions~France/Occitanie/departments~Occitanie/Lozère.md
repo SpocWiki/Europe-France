@@ -41,15 +41,17 @@ markerFolder: ./Département~Lozère/
 
 ## Confidential Links & Embeds: 
 
-### [Lozère.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~OccitanieLozère.public.md) 
+### [Lozère](/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Lozère.md) 
 
-### [Lozère.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~OccitanieLozère.internal.md) 
+### [Lozère.public](/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Lozère.public.md) 
 
-### [Lozère.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~OccitanieLozère.protect.md) 
+### [Lozère.internal](/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Lozère.internal.md) 
 
-### [Lozère.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~OccitanieLozère.private.md) 
+### [Lozère.protect](/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Lozère.protect.md) 
 
-### [Lozère.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~OccitanieLozère.personal.md) 
+### [Lozère.private](/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Lozère.private.md) 
 
-### [Lozère.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~OccitanieLozère.secret.md)
+### [Lozère.personal](/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Lozère.personal.md) 
+
+### [Lozère.secret](/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Lozère.secret.md)
 

@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Etampes.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Île-de-France\departments~Île-de-France\Essonne\communes~Essonne\Étampes\cities~ÉtampesEtampes.public.md) 
+### [Etampes](/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Île-de-France/departments~Île-de-France/Essonne/communes~Essonne/Étampes/cities~Étampes/Etampes.md) 
 
-### [Etampes.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Île-de-France\departments~Île-de-France\Essonne\communes~Essonne\Étampes\cities~ÉtampesEtampes.internal.md) 
+### [Etampes.public](/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Île-de-France/departments~Île-de-France/Essonne/communes~Essonne/Étampes/cities~Étampes/Etampes.public.md) 
 
-### [Etampes.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Île-de-France\departments~Île-de-France\Essonne\communes~Essonne\Étampes\cities~ÉtampesEtampes.protect.md) 
+### [Etampes.internal](/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Île-de-France/departments~Île-de-France/Essonne/communes~Essonne/Étampes/cities~Étampes/Etampes.internal.md) 
 
-### [Etampes.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Île-de-France\departments~Île-de-France\Essonne\communes~Essonne\Étampes\cities~ÉtampesEtampes.private.md) 
+### [Etampes.protect](/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Île-de-France/departments~Île-de-France/Essonne/communes~Essonne/Étampes/cities~Étampes/Etampes.protect.md) 
 
-### [Etampes.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Île-de-France\departments~Île-de-France\Essonne\communes~Essonne\Étampes\cities~ÉtampesEtampes.personal.md) 
+### [Etampes.private](/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Île-de-France/departments~Île-de-France/Essonne/communes~Essonne/Étampes/cities~Étampes/Etampes.private.md) 
 
-### [Etampes.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Île-de-France\departments~Île-de-France\Essonne\communes~Essonne\Étampes\cities~ÉtampesEtampes.secret.md)
+### [Etampes.personal](/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Île-de-France/departments~Île-de-France/Essonne/communes~Essonne/Étampes/cities~Étampes/Etampes.personal.md) 
+
+### [Etampes.secret](/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Île-de-France/departments~Île-de-France/Essonne/communes~Essonne/Étampes/cities~Étampes/Etampes.secret.md)
 

@@ -36,15 +36,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Chateaulin.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\BretagneChateaulin.public.md) 
+### [Chateaulin](/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Bretagne/Chateaulin.md) 
 
-### [Chateaulin.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\BretagneChateaulin.internal.md) 
+### [Chateaulin.public](/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Bretagne/Chateaulin.public.md) 
 
-### [Chateaulin.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\BretagneChateaulin.protect.md) 
+### [Chateaulin.internal](/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Bretagne/Chateaulin.internal.md) 
 
-### [Chateaulin.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\BretagneChateaulin.private.md) 
+### [Chateaulin.protect](/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Bretagne/Chateaulin.protect.md) 
 
-### [Chateaulin.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\BretagneChateaulin.personal.md) 
+### [Chateaulin.private](/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Bretagne/Chateaulin.private.md) 
 
-### [Chateaulin.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\BretagneChateaulin.secret.md)
+### [Chateaulin.personal](/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Bretagne/Chateaulin.personal.md) 
+
+### [Chateaulin.secret](/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Bretagne/Chateaulin.secret.md)
 

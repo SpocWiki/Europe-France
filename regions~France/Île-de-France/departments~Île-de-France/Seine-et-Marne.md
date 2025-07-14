@@ -41,15 +41,17 @@ markerFolder: ./Département~Seien-et-Marne/
 
 ## Confidential Links & Embeds: 
 
-### [Seine-et-Marne.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Île-de-France\departments~Île-de-FranceSeine-et-Marne.public.md) 
+### [Seine-et-Marne](/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Île-de-France/departments~Île-de-France/Seine-et-Marne.md) 
 
-### [Seine-et-Marne.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Île-de-France\departments~Île-de-FranceSeine-et-Marne.internal.md) 
+### [Seine-et-Marne.public](/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Île-de-France/departments~Île-de-France/Seine-et-Marne.public.md) 
 
-### [Seine-et-Marne.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Île-de-France\departments~Île-de-FranceSeine-et-Marne.protect.md) 
+### [Seine-et-Marne.internal](/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Île-de-France/departments~Île-de-France/Seine-et-Marne.internal.md) 
 
-### [Seine-et-Marne.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Île-de-France\departments~Île-de-FranceSeine-et-Marne.private.md) 
+### [Seine-et-Marne.protect](/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Île-de-France/departments~Île-de-France/Seine-et-Marne.protect.md) 
 
-### [Seine-et-Marne.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Île-de-France\departments~Île-de-FranceSeine-et-Marne.personal.md) 
+### [Seine-et-Marne.private](/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Île-de-France/departments~Île-de-France/Seine-et-Marne.private.md) 
 
-### [Seine-et-Marne.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Île-de-France\departments~Île-de-FranceSeine-et-Marne.secret.md)
+### [Seine-et-Marne.personal](/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Île-de-France/departments~Île-de-France/Seine-et-Marne.personal.md) 
+
+### [Seine-et-Marne.secret](/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Île-de-France/departments~Île-de-France/Seine-et-Marne.secret.md)
 

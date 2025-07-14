@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Tour-du-pin.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Provence-Alpes-Côte_d'Azur\departments~Provence\Bouches-du-Rhône\communes~Rhône\Istres\cities~IstresTour-du-pin.public.md) 
+### [Tour-du-pin](/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Provence-Alpes-Côte_d'Azur/departments~Provence/Bouches-du-Rhône/communes~Rhône/Istres/cities~Istres/Tour-du-pin.md) 
 
-### [Tour-du-pin.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Provence-Alpes-Côte_d'Azur\departments~Provence\Bouches-du-Rhône\communes~Rhône\Istres\cities~IstresTour-du-pin.internal.md) 
+### [Tour-du-pin.public](/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Provence-Alpes-Côte_d'Azur/departments~Provence/Bouches-du-Rhône/communes~Rhône/Istres/cities~Istres/Tour-du-pin.public.md) 
 
-### [Tour-du-pin.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Provence-Alpes-Côte_d'Azur\departments~Provence\Bouches-du-Rhône\communes~Rhône\Istres\cities~IstresTour-du-pin.protect.md) 
+### [Tour-du-pin.internal](/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Provence-Alpes-Côte_d'Azur/departments~Provence/Bouches-du-Rhône/communes~Rhône/Istres/cities~Istres/Tour-du-pin.internal.md) 
 
-### [Tour-du-pin.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Provence-Alpes-Côte_d'Azur\departments~Provence\Bouches-du-Rhône\communes~Rhône\Istres\cities~IstresTour-du-pin.private.md) 
+### [Tour-du-pin.protect](/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Provence-Alpes-Côte_d'Azur/departments~Provence/Bouches-du-Rhône/communes~Rhône/Istres/cities~Istres/Tour-du-pin.protect.md) 
 
-### [Tour-du-pin.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Provence-Alpes-Côte_d'Azur\departments~Provence\Bouches-du-Rhône\communes~Rhône\Istres\cities~IstresTour-du-pin.personal.md) 
+### [Tour-du-pin.private](/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Provence-Alpes-Côte_d'Azur/departments~Provence/Bouches-du-Rhône/communes~Rhône/Istres/cities~Istres/Tour-du-pin.private.md) 
 
-### [Tour-du-pin.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Provence-Alpes-Côte_d'Azur\departments~Provence\Bouches-du-Rhône\communes~Rhône\Istres\cities~IstresTour-du-pin.secret.md)
+### [Tour-du-pin.personal](/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Provence-Alpes-Côte_d'Azur/departments~Provence/Bouches-du-Rhône/communes~Rhône/Istres/cities~Istres/Tour-du-pin.personal.md) 
+
+### [Tour-du-pin.secret](/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Provence-Alpes-Côte_d'Azur/departments~Provence/Bouches-du-Rhône/communes~Rhône/Istres/cities~Istres/Tour-du-pin.secret.md)
 

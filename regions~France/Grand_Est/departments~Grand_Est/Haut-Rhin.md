@@ -41,15 +41,17 @@ markerFolder: ./Département~Haute-Rhin/
 
 ## Confidential Links & Embeds: 
 
-### [Haut-Rhin.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Grand_Est\departments~Grand_EstHaut-Rhin.public.md) 
+### [Haut-Rhin](/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Grand_Est/departments~Grand_Est/Haut-Rhin.md) 
 
-### [Haut-Rhin.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Grand_Est\departments~Grand_EstHaut-Rhin.internal.md) 
+### [Haut-Rhin.public](/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Grand_Est/departments~Grand_Est/Haut-Rhin.public.md) 
 
-### [Haut-Rhin.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Grand_Est\departments~Grand_EstHaut-Rhin.protect.md) 
+### [Haut-Rhin.internal](/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Grand_Est/departments~Grand_Est/Haut-Rhin.internal.md) 
 
-### [Haut-Rhin.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Grand_Est\departments~Grand_EstHaut-Rhin.private.md) 
+### [Haut-Rhin.protect](/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Grand_Est/departments~Grand_Est/Haut-Rhin.protect.md) 
 
-### [Haut-Rhin.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Grand_Est\departments~Grand_EstHaut-Rhin.personal.md) 
+### [Haut-Rhin.private](/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Grand_Est/departments~Grand_Est/Haut-Rhin.private.md) 
 
-### [Haut-Rhin.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Grand_Est\departments~Grand_EstHaut-Rhin.secret.md)
+### [Haut-Rhin.personal](/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Grand_Est/departments~Grand_Est/Haut-Rhin.personal.md) 
+
+### [Haut-Rhin.secret](/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Grand_Est/departments~Grand_Est/Haut-Rhin.secret.md)
 

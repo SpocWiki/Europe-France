@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Valognes.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\NormandieValognes.public.md) 
+### [Valognes](/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Normandie/Valognes.md) 
 
-### [Valognes.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\NormandieValognes.internal.md) 
+### [Valognes.public](/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Normandie/Valognes.public.md) 
 
-### [Valognes.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\NormandieValognes.protect.md) 
+### [Valognes.internal](/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Normandie/Valognes.internal.md) 
 
-### [Valognes.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\NormandieValognes.private.md) 
+### [Valognes.protect](/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Normandie/Valognes.protect.md) 
 
-### [Valognes.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\NormandieValognes.personal.md) 
+### [Valognes.private](/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Normandie/Valognes.private.md) 
 
-### [Valognes.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\NormandieValognes.secret.md)
+### [Valognes.personal](/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Normandie/Valognes.personal.md) 
+
+### [Valognes.secret](/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Normandie/Valognes.secret.md)
 

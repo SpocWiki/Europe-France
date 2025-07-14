@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Cosne.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Bourgogne-Franche-Comté\departments~Bourgogne-Franche-Comté\Nièvre\communes~Nièvre\Cosne-Cours-sur-Loire\cities~Cosne-Cours-sur-LoireCosne.public.md) 
+### [Cosne](/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Bourgogne-Franche-Comté/departments~Bourgogne-Franche-Comté/Nièvre/communes~Nièvre/Cosne-Cours-sur-Loire/cities~Cosne-Cours-sur-Loire/Cosne.md) 
 
-### [Cosne.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Bourgogne-Franche-Comté\departments~Bourgogne-Franche-Comté\Nièvre\communes~Nièvre\Cosne-Cours-sur-Loire\cities~Cosne-Cours-sur-LoireCosne.internal.md) 
+### [Cosne.public](/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Bourgogne-Franche-Comté/departments~Bourgogne-Franche-Comté/Nièvre/communes~Nièvre/Cosne-Cours-sur-Loire/cities~Cosne-Cours-sur-Loire/Cosne.public.md) 
 
-### [Cosne.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Bourgogne-Franche-Comté\departments~Bourgogne-Franche-Comté\Nièvre\communes~Nièvre\Cosne-Cours-sur-Loire\cities~Cosne-Cours-sur-LoireCosne.protect.md) 
+### [Cosne.internal](/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Bourgogne-Franche-Comté/departments~Bourgogne-Franche-Comté/Nièvre/communes~Nièvre/Cosne-Cours-sur-Loire/cities~Cosne-Cours-sur-Loire/Cosne.internal.md) 
 
-### [Cosne.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Bourgogne-Franche-Comté\departments~Bourgogne-Franche-Comté\Nièvre\communes~Nièvre\Cosne-Cours-sur-Loire\cities~Cosne-Cours-sur-LoireCosne.private.md) 
+### [Cosne.protect](/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Bourgogne-Franche-Comté/departments~Bourgogne-Franche-Comté/Nièvre/communes~Nièvre/Cosne-Cours-sur-Loire/cities~Cosne-Cours-sur-Loire/Cosne.protect.md) 
 
-### [Cosne.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Bourgogne-Franche-Comté\departments~Bourgogne-Franche-Comté\Nièvre\communes~Nièvre\Cosne-Cours-sur-Loire\cities~Cosne-Cours-sur-LoireCosne.personal.md) 
+### [Cosne.private](/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Bourgogne-Franche-Comté/departments~Bourgogne-Franche-Comté/Nièvre/communes~Nièvre/Cosne-Cours-sur-Loire/cities~Cosne-Cours-sur-Loire/Cosne.private.md) 
 
-### [Cosne.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Bourgogne-Franche-Comté\departments~Bourgogne-Franche-Comté\Nièvre\communes~Nièvre\Cosne-Cours-sur-Loire\cities~Cosne-Cours-sur-LoireCosne.secret.md)
+### [Cosne.personal](/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Bourgogne-Franche-Comté/departments~Bourgogne-Franche-Comté/Nièvre/communes~Nièvre/Cosne-Cours-sur-Loire/cities~Cosne-Cours-sur-Loire/Cosne.personal.md) 
+
+### [Cosne.secret](/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Bourgogne-Franche-Comté/departments~Bourgogne-Franche-Comté/Nièvre/communes~Nièvre/Cosne-Cours-sur-Loire/cities~Cosne-Cours-sur-Loire/Cosne.secret.md)
 

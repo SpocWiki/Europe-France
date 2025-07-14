@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Vannes.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Bretagne\departments~Bretagne\Morbihan\communes~Morbihan\Vannes\cities~VannesVannes.public.md) 
+### [Vannes](/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Bretagne/departments~Bretagne/Morbihan/communes~Morbihan/Vannes/cities~Vannes/Vannes.md) 
 
-### [Vannes.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Bretagne\departments~Bretagne\Morbihan\communes~Morbihan\Vannes\cities~VannesVannes.internal.md) 
+### [Vannes.public](/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Bretagne/departments~Bretagne/Morbihan/communes~Morbihan/Vannes/cities~Vannes/Vannes.public.md) 
 
-### [Vannes.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Bretagne\departments~Bretagne\Morbihan\communes~Morbihan\Vannes\cities~VannesVannes.protect.md) 
+### [Vannes.internal](/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Bretagne/departments~Bretagne/Morbihan/communes~Morbihan/Vannes/cities~Vannes/Vannes.internal.md) 
 
-### [Vannes.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Bretagne\departments~Bretagne\Morbihan\communes~Morbihan\Vannes\cities~VannesVannes.private.md) 
+### [Vannes.protect](/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Bretagne/departments~Bretagne/Morbihan/communes~Morbihan/Vannes/cities~Vannes/Vannes.protect.md) 
 
-### [Vannes.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Bretagne\departments~Bretagne\Morbihan\communes~Morbihan\Vannes\cities~VannesVannes.personal.md) 
+### [Vannes.private](/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Bretagne/departments~Bretagne/Morbihan/communes~Morbihan/Vannes/cities~Vannes/Vannes.private.md) 
 
-### [Vannes.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Bretagne\departments~Bretagne\Morbihan\communes~Morbihan\Vannes\cities~VannesVannes.secret.md)
+### [Vannes.personal](/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Bretagne/departments~Bretagne/Morbihan/communes~Morbihan/Vannes/cities~Vannes/Vannes.personal.md) 
+
+### [Vannes.secret](/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Bretagne/departments~Bretagne/Morbihan/communes~Morbihan/Vannes/cities~Vannes/Vannes.secret.md)
 

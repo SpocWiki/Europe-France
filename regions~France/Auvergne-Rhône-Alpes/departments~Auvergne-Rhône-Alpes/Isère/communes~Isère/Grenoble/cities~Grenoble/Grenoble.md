@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Grenoble.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Auvergne-Rhône-Alpes\departments~Auvergne-Rhône-Alpes\Isère\communes~Isère\Grenoble\cities~GrenobleGrenoble.public.md) 
+### [Grenoble](/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Auvergne-Rhône-Alpes/departments~Auvergne-Rhône-Alpes/Isère/communes~Isère/Grenoble/cities~Grenoble/Grenoble.md) 
 
-### [Grenoble.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Auvergne-Rhône-Alpes\departments~Auvergne-Rhône-Alpes\Isère\communes~Isère\Grenoble\cities~GrenobleGrenoble.internal.md) 
+### [Grenoble.public](/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Auvergne-Rhône-Alpes/departments~Auvergne-Rhône-Alpes/Isère/communes~Isère/Grenoble/cities~Grenoble/Grenoble.public.md) 
 
-### [Grenoble.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Auvergne-Rhône-Alpes\departments~Auvergne-Rhône-Alpes\Isère\communes~Isère\Grenoble\cities~GrenobleGrenoble.protect.md) 
+### [Grenoble.internal](/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Auvergne-Rhône-Alpes/departments~Auvergne-Rhône-Alpes/Isère/communes~Isère/Grenoble/cities~Grenoble/Grenoble.internal.md) 
 
-### [Grenoble.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Auvergne-Rhône-Alpes\departments~Auvergne-Rhône-Alpes\Isère\communes~Isère\Grenoble\cities~GrenobleGrenoble.private.md) 
+### [Grenoble.protect](/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Auvergne-Rhône-Alpes/departments~Auvergne-Rhône-Alpes/Isère/communes~Isère/Grenoble/cities~Grenoble/Grenoble.protect.md) 
 
-### [Grenoble.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Auvergne-Rhône-Alpes\departments~Auvergne-Rhône-Alpes\Isère\communes~Isère\Grenoble\cities~GrenobleGrenoble.personal.md) 
+### [Grenoble.private](/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Auvergne-Rhône-Alpes/departments~Auvergne-Rhône-Alpes/Isère/communes~Isère/Grenoble/cities~Grenoble/Grenoble.private.md) 
 
-### [Grenoble.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Auvergne-Rhône-Alpes\departments~Auvergne-Rhône-Alpes\Isère\communes~Isère\Grenoble\cities~GrenobleGrenoble.secret.md)
+### [Grenoble.personal](/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Auvergne-Rhône-Alpes/departments~Auvergne-Rhône-Alpes/Isère/communes~Isère/Grenoble/cities~Grenoble/Grenoble.personal.md) 
+
+### [Grenoble.secret](/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Auvergne-Rhône-Alpes/departments~Auvergne-Rhône-Alpes/Isère/communes~Isère/Grenoble/cities~Grenoble/Grenoble.secret.md)
 

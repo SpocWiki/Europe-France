@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Tregnier.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Bretagne\departments~Bretagne\Côtes-d'Armor\communes~Côtes-d'Armor\Lannion\cities~LannionTregnier.public.md) 
+### [Tregnier](/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Bretagne/departments~Bretagne/Côtes-d'Armor/communes~Côtes-d'Armor/Lannion/cities~Lannion/Tregnier.md) 
 
-### [Tregnier.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Bretagne\departments~Bretagne\Côtes-d'Armor\communes~Côtes-d'Armor\Lannion\cities~LannionTregnier.internal.md) 
+### [Tregnier.public](/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Bretagne/departments~Bretagne/Côtes-d'Armor/communes~Côtes-d'Armor/Lannion/cities~Lannion/Tregnier.public.md) 
 
-### [Tregnier.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Bretagne\departments~Bretagne\Côtes-d'Armor\communes~Côtes-d'Armor\Lannion\cities~LannionTregnier.protect.md) 
+### [Tregnier.internal](/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Bretagne/departments~Bretagne/Côtes-d'Armor/communes~Côtes-d'Armor/Lannion/cities~Lannion/Tregnier.internal.md) 
 
-### [Tregnier.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Bretagne\departments~Bretagne\Côtes-d'Armor\communes~Côtes-d'Armor\Lannion\cities~LannionTregnier.private.md) 
+### [Tregnier.protect](/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Bretagne/departments~Bretagne/Côtes-d'Armor/communes~Côtes-d'Armor/Lannion/cities~Lannion/Tregnier.protect.md) 
 
-### [Tregnier.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Bretagne\departments~Bretagne\Côtes-d'Armor\communes~Côtes-d'Armor\Lannion\cities~LannionTregnier.personal.md) 
+### [Tregnier.private](/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Bretagne/departments~Bretagne/Côtes-d'Armor/communes~Côtes-d'Armor/Lannion/cities~Lannion/Tregnier.private.md) 
 
-### [Tregnier.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Bretagne\departments~Bretagne\Côtes-d'Armor\communes~Côtes-d'Armor\Lannion\cities~LannionTregnier.secret.md)
+### [Tregnier.personal](/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Bretagne/departments~Bretagne/Côtes-d'Armor/communes~Côtes-d'Armor/Lannion/cities~Lannion/Tregnier.personal.md) 
+
+### [Tregnier.secret](/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Bretagne/departments~Bretagne/Côtes-d'Armor/communes~Côtes-d'Armor/Lannion/cities~Lannion/Tregnier.secret.md)
 

@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Perpignan.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~Occitanie\Pyrénées-Orientales\communes~Pyrénées-Orientales\Perpignan\cities~PerpignanPerpignan.public.md) 
+### [Perpignan](/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Pyrénées-Orientales/communes~Pyrénées-Orientales/Perpignan/cities~Perpignan/Perpignan.md) 
 
-### [Perpignan.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~Occitanie\Pyrénées-Orientales\communes~Pyrénées-Orientales\Perpignan\cities~PerpignanPerpignan.internal.md) 
+### [Perpignan.public](/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Pyrénées-Orientales/communes~Pyrénées-Orientales/Perpignan/cities~Perpignan/Perpignan.public.md) 
 
-### [Perpignan.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~Occitanie\Pyrénées-Orientales\communes~Pyrénées-Orientales\Perpignan\cities~PerpignanPerpignan.protect.md) 
+### [Perpignan.internal](/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Pyrénées-Orientales/communes~Pyrénées-Orientales/Perpignan/cities~Perpignan/Perpignan.internal.md) 
 
-### [Perpignan.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~Occitanie\Pyrénées-Orientales\communes~Pyrénées-Orientales\Perpignan\cities~PerpignanPerpignan.private.md) 
+### [Perpignan.protect](/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Pyrénées-Orientales/communes~Pyrénées-Orientales/Perpignan/cities~Perpignan/Perpignan.protect.md) 
 
-### [Perpignan.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~Occitanie\Pyrénées-Orientales\communes~Pyrénées-Orientales\Perpignan\cities~PerpignanPerpignan.personal.md) 
+### [Perpignan.private](/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Pyrénées-Orientales/communes~Pyrénées-Orientales/Perpignan/cities~Perpignan/Perpignan.private.md) 
 
-### [Perpignan.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Occitanie\departments~Occitanie\Pyrénées-Orientales\communes~Pyrénées-Orientales\Perpignan\cities~PerpignanPerpignan.secret.md)
+### [Perpignan.personal](/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Pyrénées-Orientales/communes~Pyrénées-Orientales/Perpignan/cities~Perpignan/Perpignan.personal.md) 
+
+### [Perpignan.secret](/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Pyrénées-Orientales/communes~Pyrénées-Orientales/Perpignan/cities~Perpignan/Perpignan.secret.md)
 

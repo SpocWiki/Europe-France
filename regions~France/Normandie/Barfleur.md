@@ -36,15 +36,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Barfleur.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\NormandieBarfleur.public.md) 
+### [Barfleur](/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Normandie/Barfleur.md) 
 
-### [Barfleur.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\NormandieBarfleur.internal.md) 
+### [Barfleur.public](/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Normandie/Barfleur.public.md) 
 
-### [Barfleur.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\NormandieBarfleur.protect.md) 
+### [Barfleur.internal](/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Normandie/Barfleur.internal.md) 
 
-### [Barfleur.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\NormandieBarfleur.private.md) 
+### [Barfleur.protect](/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Normandie/Barfleur.protect.md) 
 
-### [Barfleur.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\NormandieBarfleur.personal.md) 
+### [Barfleur.private](/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Normandie/Barfleur.private.md) 
 
-### [Barfleur.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\NormandieBarfleur.secret.md)
+### [Barfleur.personal](/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Normandie/Barfleur.personal.md) 
+
+### [Barfleur.secret](/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Normandie/Barfleur.secret.md)
 

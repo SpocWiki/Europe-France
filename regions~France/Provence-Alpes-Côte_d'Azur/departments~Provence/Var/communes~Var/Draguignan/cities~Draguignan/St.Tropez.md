@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [St.Tropez.public](/_public/\Earth\Continent\Europe\Europe~West\France\regions~France\Provence-Alpes-Côte_d'Azur\departments~Provence\Var\communes~Var\Draguignan\cities~DraguignanSt.Tropez.public.md) 
+### [St.Tropez](/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Provence-Alpes-Côte_d'Azur/departments~Provence/Var/communes~Var/Draguignan/cities~Draguignan/St.Tropez.md) 
 
-### [St.Tropez.internal](/_internal/\Earth\Continent\Europe\Europe~West\France\regions~France\Provence-Alpes-Côte_d'Azur\departments~Provence\Var\communes~Var\Draguignan\cities~DraguignanSt.Tropez.internal.md) 
+### [St.Tropez.public](/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Provence-Alpes-Côte_d'Azur/departments~Provence/Var/communes~Var/Draguignan/cities~Draguignan/St.Tropez.public.md) 
 
-### [St.Tropez.protect](/_protect/\Earth\Continent\Europe\Europe~West\France\regions~France\Provence-Alpes-Côte_d'Azur\departments~Provence\Var\communes~Var\Draguignan\cities~DraguignanSt.Tropez.protect.md) 
+### [St.Tropez.internal](/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Provence-Alpes-Côte_d'Azur/departments~Provence/Var/communes~Var/Draguignan/cities~Draguignan/St.Tropez.internal.md) 
 
-### [St.Tropez.private](/_private/\Earth\Continent\Europe\Europe~West\France\regions~France\Provence-Alpes-Côte_d'Azur\departments~Provence\Var\communes~Var\Draguignan\cities~DraguignanSt.Tropez.private.md) 
+### [St.Tropez.protect](/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Provence-Alpes-Côte_d'Azur/departments~Provence/Var/communes~Var/Draguignan/cities~Draguignan/St.Tropez.protect.md) 
 
-### [St.Tropez.personal](/_personal/\Earth\Continent\Europe\Europe~West\France\regions~France\Provence-Alpes-Côte_d'Azur\departments~Provence\Var\communes~Var\Draguignan\cities~DraguignanSt.Tropez.personal.md) 
+### [St.Tropez.private](/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Provence-Alpes-Côte_d'Azur/departments~Provence/Var/communes~Var/Draguignan/cities~Draguignan/St.Tropez.private.md) 
 
-### [St.Tropez.secret](/_secret/\Earth\Continent\Europe\Europe~West\France\regions~France\Provence-Alpes-Côte_d'Azur\departments~Provence\Var\communes~Var\Draguignan\cities~DraguignanSt.Tropez.secret.md)
+### [St.Tropez.personal](/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Provence-Alpes-Côte_d'Azur/departments~Provence/Var/communes~Var/Draguignan/cities~Draguignan/St.Tropez.personal.md) 
+
+### [St.Tropez.secret](/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Provence-Alpes-Côte_d'Azur/departments~Provence/Var/communes~Var/Draguignan/cities~Draguignan/St.Tropez.secret.md)
 

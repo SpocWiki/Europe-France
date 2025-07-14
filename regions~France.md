@@ -25,19 +25,19 @@
 > [Wikipedia](https://en.wikipedia.org/wiki/Regions%20of%20France)
 
 
-
-
 ## Confidential Links & Embeds: 
 
-### [regions~France.public](/_public/\Earth\Continent\Europe\Europe~West\Franceregions~France.public.md) 
+### [regions~France](/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France.md) 
 
-### [regions~France.internal](/_internal/\Earth\Continent\Europe\Europe~West\Franceregions~France.internal.md) 
+### [regions~France.public](/_public/Earth/Continent/Europe/Europe~West/France/regions~France.public.md) 
 
-### [regions~France.protect](/_protect/\Earth\Continent\Europe\Europe~West\Franceregions~France.protect.md) 
+### [regions~France.internal](/_internal/Earth/Continent/Europe/Europe~West/France/regions~France.internal.md) 
 
-### [regions~France.private](/_private/\Earth\Continent\Europe\Europe~West\Franceregions~France.private.md) 
+### [regions~France.protect](/_protect/Earth/Continent/Europe/Europe~West/France/regions~France.protect.md) 
 
-### [regions~France.personal](/_personal/\Earth\Continent\Europe\Europe~West\Franceregions~France.personal.md) 
+### [regions~France.private](/_private/Earth/Continent/Europe/Europe~West/France/regions~France.private.md) 
 
-### [regions~France.secret](/_secret/\Earth\Continent\Europe\Europe~West\Franceregions~France.secret.md)
+### [regions~France.personal](/_personal/Earth/Continent/Europe/Europe~West/France/regions~France.personal.md) 
+
+### [regions~France.secret](/_secret/Earth/Continent/Europe/Europe~West/France/regions~France.secret.md)
 
