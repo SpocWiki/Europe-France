@@ -1,30 +1,29 @@
 ---
-location: [ 47.6 , 6.9 ] 
+location:
+  - 47.6
+  - 6.9
 type: geo-Region
 title: Département~Territoire_de_Belfort
-
 license: CC BY-SA 4.0
 source: https://datahub.io/core/country-codes
 isDeleted: false
 isReadOnly: false
 draft: false
 confidential: public
-
 tags:
-- geo/Country/Region
+  - geo/Country/Region
 aliases:
-- Département~Territoire_de_Belfort
-
+  - Département~Territoire_de_Belfort
 Languages:
-- de
-
-cssclasses: geo-Region
+  - de
+cssclasses:
+  - geo-Region
 publish: true
-linkTitle: 
-keywords: 
-layout: 
-publishDate: 
-expiryDate: 
+linkTitle:
+keywords:
+layout:
+publishDate:
+expiryDate:
 ---
 
 # Département~Territoire_de_Belfort

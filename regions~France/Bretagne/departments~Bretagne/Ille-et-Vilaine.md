@@ -1,30 +1,29 @@
 ---
-location: [ 48.2 , -1.6 ] 
+location:
+  - 48.2
+  - -1.6
 type: geo-Region
 title: Département~Ille-et-Vilaine
-
 license: CC BY-SA 4.0
 source: https://datahub.io/core/country-codes
 isDeleted: false
 isReadOnly: false
 draft: false
 confidential: public
-
 tags:
-- geo/Country/Region
+  - geo/Country/Region
 aliases:
-- Département~Ille-et-Vilaine
-
+  - Département~Ille-et-Vilaine
 Languages:
-- de
-
-cssclasses: geo-Region
+  - de
+cssclasses:
+  - geo-Region
 publish: true
-linkTitle: 
-keywords: 
-layout: 
-publishDate: 
-expiryDate: 
+linkTitle:
+keywords:
+layout:
+publishDate:
+expiryDate:
 ---
 
 # Département~Ille-et-Vilaine

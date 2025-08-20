@@ -1,30 +1,29 @@
 ---
-location: [ 43.3 , 1 ] 
+location:
+  - 43.3
+  - 1
 type: geo-Region
 title: Département~Haute-Garonne
-
 license: CC BY-SA 4.0
 source: https://datahub.io/core/country-codes
 isDeleted: false
 isReadOnly: false
 draft: false
 confidential: public
-
 tags:
-- geo/Country/Region
+  - geo/Country/Region
 aliases:
-- Département~Haute-Garonne
-
+  - Département~Haute-Garonne
 Languages:
-- de
-
-cssclasses: geo-Region
+  - de
+cssclasses:
+  - geo-Region
 publish: true
-linkTitle: 
-keywords: 
-layout: 
-publishDate: 
-expiryDate: 
+linkTitle:
+keywords:
+layout:
+publishDate:
+expiryDate:
 ---
 
 # Département~Haute-Garonne
