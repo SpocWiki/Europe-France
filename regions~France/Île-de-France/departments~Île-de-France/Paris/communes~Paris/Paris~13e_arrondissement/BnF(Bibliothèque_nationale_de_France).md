@@ -97,7 +97,7 @@ item_operated: "[[_Standards/WikiData/WD~BnFcollection.com_Mediatheque_numerique
 industry: "[[_Standards/WikiData/WD~library_and_archive_management,112166175]]"
 on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~Wikidata_WikiProject_Academic_Publisher,117222928]]"
 operator: "[[_Standards/WikiData/WD~Bibliothèque_nationale_de_France,130758320]]"
-Wikidata_property: Bibliothèque nationale de France ID
+has_id_wikidata: Bibliothèque nationale de France ID
 named_after: "[[_Standards/WikiData/WD~François_Mitterrand,2038]]"
 location: "[[_Standards/WikiData/WD~Paris,90]]"
 country: "[[_Standards/WikiData/WD~France,142]]"
