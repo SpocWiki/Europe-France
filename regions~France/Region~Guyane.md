@@ -1,4 +1,4 @@
-# [[Guyana|Guyana]] 
+# [[../../../../America~South/Guianas/Guyana|Guyana]] 
 
 [[America~South|South-America]]n Region 
 

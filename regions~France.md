@@ -18,7 +18,7 @@
 > Most administrative regions also have the status of regional territorial collectivities, 
 > which comes with a local government, 
 > with departmental and communal collectivities below the regions level. 
-> The exceptions are [[regions~France/Corse|Corse]], [[../../../America~South/French_Guiana|French Guiana]], [[../../../Africa/Africa~East/Mayotte|Mayotte]] and [[../../../America~Caribbean/Martinique|Martinique]], 
+> The exceptions are [[regions~France/Corse|Corse]], [[../../../America~South/Guianas/French_Guiana|French Guiana]], [[../../../Africa/Africa~East/Mayotte|Mayotte]] and [[../../../America~Caribbean/Martinique|Martinique]], 
 > where region and department functions are managed by single local governments 
 > having consolidated jurisdiction and which are known as single territorial collectivities.
 >

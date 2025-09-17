@@ -151,7 +151,7 @@ markerFolder: ./Corse//
 > with Corsican, the native language and an Italo-Dalmatian language, 
 > also recognized as one of France's regional languages.
 >
-> Corsica is the third-least populated region of France after [[../../../../Africa/Africa~East/Mayotte|Mayotte]] and [[../../../../America~South/French_Guiana|French Guiana]].
+> Corsica is the third-least populated region of France after [[../../../../Africa/Africa~East/Mayotte|Mayotte]] and [[../../../../America~South/Guianas/French_Guiana|French Guiana]].
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Corsica)
 
