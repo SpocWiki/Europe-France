@@ -31,7 +31,7 @@ expiryDate:
 ```leaflet
 id: Département~Loir-et-Cher
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Département~Loir-et-Cher/
 markerFolder: ./Département~Loir-et-Cher/

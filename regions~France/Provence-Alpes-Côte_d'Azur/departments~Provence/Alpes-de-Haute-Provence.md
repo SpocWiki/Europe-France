@@ -31,7 +31,7 @@ expiryDate:
 ```leaflet
 id: Département~Alpes-de-Haute-Provence
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Département~Alpes-de-Haute-Provence/
 markerFolder: ./Département~Alpes-de-Haute-Provence/

@@ -31,7 +31,7 @@ expiryDate:
 ```leaflet
 id: Département~Bouches-du-Rhône
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Département~Bouches-du-Rhône/
 markerFolder: ./Département~Bouches-du-Rhône/

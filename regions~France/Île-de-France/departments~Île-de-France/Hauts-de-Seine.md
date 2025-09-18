@@ -31,7 +31,7 @@ expiryDate:
 ```leaflet
 id: Département~Hauts-de-Seine
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Département~Hauts-de-Seine/
 markerFolder: ./Département~Hauts-de-Seine/

@@ -31,7 +31,7 @@ expiryDate:
 ```leaflet
 id: Département~Hautes-Alpes
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Département~Hautes-Alpes/
 markerFolder: ./Département~Hautes-Alpes/

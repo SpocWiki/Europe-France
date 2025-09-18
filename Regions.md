@@ -6,7 +6,7 @@
 ```leaflet
 id: Regions
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: Regions//
 markerFolder: Regions//
@@ -21,7 +21,7 @@ id: Regions
 zoomFeatures: true 
 geojsonFolder: ./Regions//
 markerFolder: ./Regions/
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 defaultZoom: 11
 ```

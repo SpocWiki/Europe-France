@@ -31,7 +31,7 @@ expiryDate:
 ```leaflet
 id: Département~Charente
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Département~Charente/
 markerFolder: ./Département~Charente/

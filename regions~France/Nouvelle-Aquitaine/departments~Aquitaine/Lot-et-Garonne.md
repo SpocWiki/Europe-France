@@ -31,7 +31,7 @@ expiryDate:
 ```leaflet
 id: Département~Lot-et-Garonne
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Département~Lot-et-Garonne/
 markerFolder: ./Département~Lot-et-Garonne/

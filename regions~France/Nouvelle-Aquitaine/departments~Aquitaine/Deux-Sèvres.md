@@ -31,7 +31,7 @@ expiryDate:
 ```leaflet
 id: Département~Deux-Sèvres
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Département~Deux-Sèvres/
 markerFolder: ./Département~Deux-Sèvres/

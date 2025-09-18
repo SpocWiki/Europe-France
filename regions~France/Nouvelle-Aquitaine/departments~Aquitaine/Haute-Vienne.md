@@ -31,7 +31,7 @@ expiryDate:
 ```leaflet
 id: Département~Haute-Vienne
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Département~Haute-Vienne/
 markerFolder: ./Département~Haute-Vienne/

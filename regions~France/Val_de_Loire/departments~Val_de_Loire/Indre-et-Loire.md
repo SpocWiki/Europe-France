@@ -31,7 +31,7 @@ expiryDate:
 ```leaflet
 id: Département~Indre-et-Loire
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Département~Indre-et-Loire/
 markerFolder: ./Département~Indre-et-Loire/

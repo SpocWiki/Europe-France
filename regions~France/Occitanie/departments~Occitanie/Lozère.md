@@ -31,7 +31,7 @@ expiryDate:
 ```leaflet
 id: Département~Lozère
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Département~Lozère/
 markerFolder: ./Département~Lozère/

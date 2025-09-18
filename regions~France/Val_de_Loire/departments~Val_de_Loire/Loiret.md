@@ -31,7 +31,7 @@ expiryDate:
 ```leaflet
 id: Département~Loiret
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Département~Loiret/
 markerFolder: ./Département~Loiret/

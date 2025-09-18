@@ -31,7 +31,7 @@ expiryDate:
 ```leaflet
 id: Département~Val-de-Marne
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Département~Val-de-Marne/
 markerFolder: ./Département~Val-de-Marne/

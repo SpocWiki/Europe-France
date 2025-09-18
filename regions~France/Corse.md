@@ -113,7 +113,7 @@ native_label: Corsica
 ```leaflet
 id: Corse
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Corse/
 markerFolder: ./Corse//

@@ -31,7 +31,7 @@ expiryDate:
 ```leaflet
 id: Département~Savoie
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Département~Savoie/
 markerFolder: ./Département~Savoie/

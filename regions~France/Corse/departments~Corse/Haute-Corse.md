@@ -31,7 +31,7 @@ expiryDate:
 ```leaflet
 id: Haute-Corse
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Haute-Corse/
 markerFolder: ./Haute-Corse/

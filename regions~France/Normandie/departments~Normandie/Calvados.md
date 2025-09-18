@@ -31,7 +31,7 @@ expiryDate:
 ```leaflet
 id: Département~Calvados
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Département~Calvados/
 markerFolder: ./Département~Calvados/

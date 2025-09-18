@@ -31,7 +31,7 @@ expiryDate:
 ```leaflet
 id: Département~Oise
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Département~Oise/
 markerFolder: ./Département~Oise/

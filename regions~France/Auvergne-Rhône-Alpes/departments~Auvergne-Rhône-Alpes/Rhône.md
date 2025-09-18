@@ -31,7 +31,7 @@ expiryDate:
 ```leaflet
 id: Département~Rhône
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Département~Rhône/
 markerFolder: ./Département~Rhône/

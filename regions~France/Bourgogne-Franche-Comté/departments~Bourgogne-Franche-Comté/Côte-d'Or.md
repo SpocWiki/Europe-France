@@ -31,7 +31,7 @@ expiryDate:
 ```leaflet
 id: Département~Côte-d'Or
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Département~Côte-d'Or/
 markerFolder: ./Département~Côte-d'Or/

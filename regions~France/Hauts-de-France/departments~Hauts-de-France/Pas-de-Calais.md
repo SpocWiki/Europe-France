@@ -31,7 +31,7 @@ expiryDate:
 ```leaflet
 id: Département~Pas-de-Calais
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Département~Pas-de-Calais/
 markerFolder: ./Département~Pas-de-Calais/

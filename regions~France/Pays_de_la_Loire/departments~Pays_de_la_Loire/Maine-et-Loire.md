@@ -31,7 +31,7 @@ expiryDate:
 ```leaflet
 id: Département~Maine-et-Loire
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Département~Maine-et-Loire/
 markerFolder: ./Département~Maine-et-Loire/

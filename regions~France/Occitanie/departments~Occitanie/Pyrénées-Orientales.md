@@ -31,7 +31,7 @@ expiryDate:
 ```leaflet
 id: Département~Pyrénées-Orientales
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Département~Pyrénées-Orientales/
 markerFolder: ./Département~Pyrénées-Orientales/

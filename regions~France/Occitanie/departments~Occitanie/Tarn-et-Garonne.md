@@ -31,7 +31,7 @@ expiryDate:
 ```leaflet
 id: Département~Tarn-et-Garonne
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Département~Tarn-et-Garonne/
 markerFolder: ./Département~Tarn-et-Garonne/

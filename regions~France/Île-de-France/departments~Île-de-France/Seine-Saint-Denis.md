@@ -31,7 +31,7 @@ expiryDate:
 ```leaflet
 id: Département~Seine-Saint-Denis
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Département~Seine-Saint-Denis/
 markerFolder: ./Département~Seine-Saint-Denis/

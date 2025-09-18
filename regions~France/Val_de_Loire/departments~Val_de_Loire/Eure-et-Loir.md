@@ -31,7 +31,7 @@ expiryDate:
 ```leaflet
 id: Département~Eure-et-Loir
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Département~Eure-et-Loir/
 markerFolder: ./Département~Eure-et-Loir/

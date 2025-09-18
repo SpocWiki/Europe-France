@@ -31,7 +31,7 @@ expiryDate:
 ```leaflet
 id: Département~Haute-Marne
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Département~Haute-Marne/
 markerFolder: ./Département~Haute-Marne/

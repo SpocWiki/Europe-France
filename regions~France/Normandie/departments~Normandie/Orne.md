@@ -31,7 +31,7 @@ expiryDate:
 ```leaflet
 id: Département~Orne
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Département~Orne/
 markerFolder: ./Département~Orne/

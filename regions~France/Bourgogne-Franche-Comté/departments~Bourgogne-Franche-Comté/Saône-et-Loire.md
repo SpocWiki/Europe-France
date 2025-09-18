@@ -31,7 +31,7 @@ expiryDate:
 ```leaflet
 id: Département~Saône-et-Loire
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Département~Saône-et-Loire/
 markerFolder: ./Département~Saône-et-Loire/

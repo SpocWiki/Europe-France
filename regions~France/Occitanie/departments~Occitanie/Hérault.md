@@ -31,7 +31,7 @@ expiryDate:
 ```leaflet
 id: Département~Hérault
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Département~Hérault/
 markerFolder: ./Département~Hérault/

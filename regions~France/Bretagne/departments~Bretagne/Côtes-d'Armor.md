@@ -31,7 +31,7 @@ expiryDate:
 ```leaflet
 id: Département~Côtes-d'Armor
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Département~Côtes-d'Armor/
 markerFolder: ./Département~Côtes-d'Armor/

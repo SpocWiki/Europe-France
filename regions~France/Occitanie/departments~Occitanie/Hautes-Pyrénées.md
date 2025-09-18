@@ -31,7 +31,7 @@ expiryDate:
 ```leaflet
 id: Département~Hautes-Pyrénées
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Département~Hautes-Pyrénées/
 markerFolder: ./Département~Hautes-Pyrénées/

@@ -31,7 +31,7 @@ expiryDate:
 ```leaflet
 id: Département~Creuse
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Département~Creuse/
 markerFolder: ./Département~Creuse/

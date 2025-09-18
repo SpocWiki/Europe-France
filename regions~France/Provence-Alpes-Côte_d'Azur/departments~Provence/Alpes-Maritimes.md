@@ -31,7 +31,7 @@ expiryDate:
 ```leaflet
 id: Département~Alpes-Maritimes
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Département~Alpes-Maritimes/
 markerFolder: ./Département~Alpes-Maritimes/

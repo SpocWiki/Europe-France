@@ -31,7 +31,7 @@ expiryDate:
 ```leaflet
 id: Département~Allier
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Département~Allier/
 markerFolder: ./Département~Allier/

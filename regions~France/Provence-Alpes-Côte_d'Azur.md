@@ -6,7 +6,7 @@ aliases:
 ```leaflet
 id: France
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Provence-Alpes-Côte d'Azur/
 markerFolder: ./Provence-Alpes-Côte d'Azur//

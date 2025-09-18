@@ -31,7 +31,7 @@ expiryDate:
 ```leaflet
 id: Département~Meuse
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Département~Meuse/
 markerFolder: ./Département~Meuse/

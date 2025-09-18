@@ -11,7 +11,7 @@ id: states~France
 zoomFeatures: true 
 geojsonFolder: states~France/
 markerFolder: states~France/
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 defaultZoom: 11
 ```

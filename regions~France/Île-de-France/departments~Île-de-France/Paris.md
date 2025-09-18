@@ -339,7 +339,7 @@ id: Paris
 coordinates: [[Paris]] 
 markerFile: [[Paris]] 
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 defaultZoom: 11 
 maxZoom: 18
 geojsonFolder: ./Département~Paris/

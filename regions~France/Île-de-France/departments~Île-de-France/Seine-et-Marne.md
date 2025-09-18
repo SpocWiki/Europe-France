@@ -31,7 +31,7 @@ expiryDate:
 ```leaflet
 id: Département~Seien-et-Marne
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Département~Seien-et-Marne/
 markerFolder: ./Département~Seien-et-Marne/

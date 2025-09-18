@@ -31,7 +31,7 @@ expiryDate:
 ```leaflet
 id: Département~Finistère
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Département~Finistère/
 markerFolder: ./Département~Finistère/

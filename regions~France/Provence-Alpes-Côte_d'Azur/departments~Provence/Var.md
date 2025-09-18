@@ -31,7 +31,7 @@ expiryDate:
 ```leaflet
 id: Département~Var
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Département~Var/
 markerFolder: ./Département~Var/

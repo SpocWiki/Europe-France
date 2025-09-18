@@ -31,7 +31,7 @@ expiryDate:
 ```leaflet
 id: Département~Puy-de-Dôme
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Département~Puy-de-Dôme/
 markerFolder: ./Département~Puy-de-Dôme/

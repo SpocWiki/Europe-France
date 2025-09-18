@@ -31,7 +31,7 @@ expiryDate:
 ```leaflet
 id: Département~Aube
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Département~Aube/
 markerFolder: ./Département~Aube/
