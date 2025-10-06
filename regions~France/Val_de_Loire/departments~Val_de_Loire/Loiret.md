@@ -26,16 +26,35 @@ publishDate:
 expiryDate:
 ---
 
-# Département~Loiret
+# [[Loiret]]
+
+## #has_/map  
 
 ```leaflet
-id: Département~Loiret
+id: Loiret
 zoomFeatures: true 
 minZoom: 4 
 maxZoom: 18
-geojsonFolder: ./Département~Loiret/
-markerFolder: ./Département~Loiret/
+geojsonFolder: ./Loiret/
+markerFolder: ./Loiret/
 ```
+
+## #has_/text_of_/abstract 
+
+> **Loiret** (French: [lwaʁɛ]) is a department in the Centre-Val de Loire region of north-central France. 
+> It takes its name from the river Loiret, which is contained wholly within the department. 
+> In 2019, Loiret had a population of 680,434.
+>
+> Its prefecture is Orléans, which is about 110 km (68 mi) southwest of Paris. 
+> As well as being the regional prefecture, it is a historic city on the banks of the Loire. 
+> 
+> It has a large central area with many historic buildings and mansions. 
+> Orléans Cathedral, dating back to the 13th century, was rebuilt 
+> after Protestant forces destroyed it in 1568. 
+> 
+> Loiret has two subprefectures, in Montargis and Pithiviers. It is famous for its several châteaux.
+>
+> [Wikipedia](https://en.wikipedia.org/wiki/Loiret) 
 
 
 ## Confidential Links & Embeds: 
