@@ -321,6 +321,8 @@ located_in_time_zone:
 - '[[_Standards/WikiData/WD~UTC+02_00,6723]]'
 ---
 
+# [[Paris]] 
+
 #is_a_/Place  
 #is_a_ :: [[Place]] 
 [has_place_longitude::2.33] 
@@ -332,7 +334,7 @@ Country :: [[France]]
 [Population::] 
 [Unknown::] 
 
-# Département~Paris
+## #has_/map 
 
 ```leaflet
 id: Paris
@@ -342,8 +344,8 @@ zoomFeatures: true
 minZoom: 4 
 defaultZoom: 11 
 maxZoom: 18
-geojsonFolder: ./Département~Paris/
-markerFolder: ./Département~Paris/
+geojsonFolder: ./Paris//
+markerFolder: ./Paris/
 ```
 
 
