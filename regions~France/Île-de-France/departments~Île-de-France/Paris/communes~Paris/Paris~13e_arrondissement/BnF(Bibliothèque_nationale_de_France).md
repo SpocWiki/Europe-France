@@ -39,7 +39,7 @@ inception: 1537-01-01T00:00:00Z
 coordinate_location: Point(2.375833333 48.833611111)
 PyPI_project: isbnlib-bnf
 Bluesky_handle: labnf.bsky.social
-headquarters_location: "[[_Standards/WikiData/WD~2nd_arrondissement_of_Paris,209549]]"
+headquarters_locations: "[[_Standards/WikiData/WD~2nd_arrondissement_of_Paris,209549]]"
 parent_organization: "[[_Standards/WikiData/WD~Ministry_of_Culture_of_France,384602]]"
 child_organization_unit:
   - "[[_Standards/WikiData/WD~BnF_Museum,549143]]"
@@ -99,7 +99,7 @@ on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~Wikidata_WikiProje
 operator: "[[_Standards/WikiData/WD~Bibliothèque_nationale_de_France,130758320]]"
 has_id_wikidata: Bibliothèque nationale de France ID
 named_after: "[[_Standards/WikiData/WD~François_Mitterrand,2038]]"
-location: "[[_Standards/WikiData/WD~Paris,90]]"
+locations: "[[_Standards/WikiData/WD~Paris,90]]"
 country: "[[_Standards/WikiData/WD~France,142]]"
 visitors_per_year:
   - 926000

@@ -62,7 +62,7 @@ Wikidata_property:
   - Musée d'Orsay artist or personality ID
   - Musée d'Orsay artwork ID
 has_part_s_: "[[_Standards/WikiData/WD~restaurant,11707]]"
-headquarters_location: "[[_Standards/WikiData/WD~Paris,90]]"
+headquarters_locations: "[[_Standards/WikiData/WD~Paris,90]]"
 country: "[[_Standards/WikiData/WD~France,142]]"
 social_media_followers:
   - 62200

@@ -10,7 +10,7 @@ described_by_source:
   - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._6,124737633]]"
 instance_of: "[[_Standards/WikiData/WD~revolution,10931]]"
 derivative_work: "[[_Standards/WikiData/WD~Liberty_Leading_the_People,29530]]"
-location: "[[_Standards/WikiData/WD~France,142]]"
+locations: "[[_Standards/WikiData/WD~France,142]]"
 end_time: 1830-07-29T00:00:00Z
 start_time: 1830-07-27T00:00:00Z
 point_in_time: 1830-07-01T00:00:00Z
