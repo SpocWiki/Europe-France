@@ -21,7 +21,7 @@ State ::
 Country :: [[France]]  
 [StateId::] 
 [Population::] 
-[Unknown::] 
+
 
 
 ## #has_/text_of_/abstract  

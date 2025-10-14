@@ -230,7 +230,7 @@ State ::
 Country :: [[France]]  
 [StateId::] 
 [Population::] 
-[Unknown::] 
+
 
 #is_/same_as :: [[../../../../../../../../../../../../WikiData/WD~Lyon,456|WD~Lyon,456]] 
 

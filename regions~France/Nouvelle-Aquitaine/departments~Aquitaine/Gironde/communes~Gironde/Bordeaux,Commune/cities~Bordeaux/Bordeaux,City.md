@@ -165,7 +165,7 @@ State ::
 Country :: [[France]]  
 [StateId::] 
 [Population::] 
-[Unknown::] 
+
 
 #is_/same_as :: [[../../../../../../../../../../../../WikiData/WD~Bordeaux,1479|WD~Bordeaux,1479]] 
 

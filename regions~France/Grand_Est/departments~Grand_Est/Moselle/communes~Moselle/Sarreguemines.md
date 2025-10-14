@@ -21,7 +21,7 @@ has_place_province::
 has_place_country:: [[France]]  
 [StateId::] 
 [Population::] 
-[Unknown::] 
+
 
 
 ```leaflet

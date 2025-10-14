@@ -275,7 +275,7 @@ State ::
 Country :: [[France]]  
 [StateId::] 
 [Population::] 
-[Unknown::] 
+
 
 #is_/same_as :: [[../../../../../../../../../../../../WikiData/WD~Marseille,23482|WD~Marseille,23482]] 
 

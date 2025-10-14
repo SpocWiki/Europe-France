@@ -332,7 +332,7 @@ State ::
 Country :: [[France]]  
 [StateId::] 
 [Population::] 
-[Unknown::] 
+
 
 ## #has_/map 
 
