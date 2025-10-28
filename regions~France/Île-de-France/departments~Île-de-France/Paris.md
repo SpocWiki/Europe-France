@@ -333,6 +333,7 @@ Country :: [[France]]
 [StateId::] 
 [Population::] 
 
+#is_/same_as :: [[../../../../../../../../WikiData/WD~Paris,90|WD~Paris,90]] 
 
 ## #has_/map 
 
@@ -340,12 +341,12 @@ Country :: [[France]]
 id: Paris
 coordinates: [[Paris]] 
 markerFile: [[Paris]] 
+geojsonFolder: ./Paris//
+markerFolder: ./Paris///
 zoomFeatures: true 
 minZoom: 4 
 defaultZoom: 11 
 maxZoom: 18
-geojsonFolder: ./Paris//
-markerFolder: ./Paris/
 ```
 
 
