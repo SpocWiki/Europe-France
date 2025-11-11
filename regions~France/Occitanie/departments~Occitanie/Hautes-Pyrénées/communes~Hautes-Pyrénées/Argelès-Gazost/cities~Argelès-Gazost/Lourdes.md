@@ -12,6 +12,9 @@ isDeleted: false
 confidential: public
 
 ---
+
+# [[Lourdes]] 
+
 #is_a_/Place  
 #is_a_ :: [[Place]] 
 [has_place_longitude::-0.03] 
@@ -22,7 +25,7 @@ Country :: [[France]]
 [StateId::] 
 [Population::] 
 
-
+## #has_/map 
 
 ```leaflet
 id: Lourdes
@@ -32,6 +35,21 @@ defaultZoom: 11
 maxZoom: 18
 ```
 
+## #has_/text_of_/abstract 
+
+> **Lourdes** (French: [luʁd] ; Occitan: Lorda [ˈluɾðɔ]) is a market town situated in the Pyrenees. 
+> It is part of the Hautes-Pyrénées department in the Occitanie region in southwestern France. 
+> Prior to the mid-19th century, the town was best known for its Château fort, 
+> a fortified castle that rises up from a rocky escarpment at its center.
+>
+> In 1858, Lourdes rose to prominence in France and abroad 
+> due to the Marian apparitions to the peasant girl Bernadette Soubirous 
+> (later canonized a saint by the Catholic Church for her virtuous life). 
+> 
+> Shortly thereafter, the city and its Sanctuary of Our Lady of Lourdes 
+> became among the world's most important sites for pilgrimage and religious tourism.
+>
+> [Wikipedia](https://en.wikipedia.org/wiki/Lourdes)
 
 ## Confidential Links & Embeds: 
 
