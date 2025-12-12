@@ -12,6 +12,9 @@ isDeleted: false
 confidential: public
 
 ---
+
+# [[Valence]] 
+
 #is_a_/Place  
 #is_a_ :: [[Place]] 
 [has_place_longitude::4.9] 
@@ -22,7 +25,7 @@ Country :: [[France]]
 [StateId::] 
 [Population::] 
 
-
+## #has_/map 
 
 ```leaflet
 id: Valence
