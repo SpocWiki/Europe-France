@@ -13,7 +13,7 @@ confidential: public
 
 ---
 
-# [[Valence]] 
+# [[Valence,Drôme]] 
 
 #is_a_/Place  
 #is_a_ :: [[Place]] 
