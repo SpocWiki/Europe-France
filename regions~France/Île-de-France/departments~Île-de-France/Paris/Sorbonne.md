@@ -37,6 +37,7 @@ inception: 1257-01-01T00:00:00Z
 # [[Sorbonne]] 
 
 #is_/same_as :: [[../../../../../../../../../WikiData/WD~Sorbonne,214654|WD~Sorbonne,214654]]  
+#is_/same_as :: [[University_of_Paris]] 
 
 ## #has_/text_of_/abstract 
 
@@ -47,16 +48,10 @@ inception: 1257-01-01T00:00:00Z
 > It is also the name of a building in the Latin Quarter of Paris which from 1253 onwards housed the College of Sorbonne, part of one of the first universities in the Western world, later renamed University of Paris and commonly known as "the Sorbonne". The Sorbonne building and the “La Sorbonne” trademark are owned by the Chancellerie des Universités de Paris. 
 >
 > Today, it continues to house the successor universities of the University of Paris, such as:
->
-> 
->
-> Sorbonne University,
->
-> Paris 1 Panthéon-Sorbonne University,
->
-> Sorbonne Nouvelle University,
->
-> and the Chancellerie des Universités de Paris, which manages the building.
+> - Sorbonne University,
+> - Paris 1 Panthéon-Sorbonne University,
+> - Sorbonne Nouvelle University,
+> - and the Chancellerie des Universités de Paris, which manages the building.
 >
 > Sorbonne University is also now the university resulting from the merger on 1 January 2018 of UPMC (Paris VI) and Paris-Sorbonne University (Paris IV).
 >
