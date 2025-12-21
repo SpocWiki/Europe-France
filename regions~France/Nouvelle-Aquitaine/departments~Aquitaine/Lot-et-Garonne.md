@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Département~Lot-et-Garonne
+  - Lot-et-Garonne
 location:
   - 44.4
   - 0.4
@@ -12,18 +15,16 @@ draft: false
 confidential: public
 tags:
   - geo/Country/Region
-aliases:
-  - Département~Lot-et-Garonne
 Languages:
   - de
 cssclasses:
   - geo-Region
 publish: true
-linkTitle:
-keywords:
-layout:
-publishDate:
-expiryDate:
+linkTitle: ''
+keywords: ''
+layout: ''
+publishDate: ''
+expiryDate: ''
 ---
 
 # Département~Lot-et-Garonne

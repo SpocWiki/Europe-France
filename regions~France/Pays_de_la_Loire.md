@@ -3,6 +3,7 @@ aliases:
   - Pays de la Loire
   - Val de Loire
   - Centre-Val de Loire
+  - Pays_de_la_Loire
 ---
 
 ```leaflet

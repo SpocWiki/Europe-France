@@ -1,16 +1,19 @@
 ---
-location: [47.02,0.08] 
-mapzoom: [7,12] 
-mapmarker: city 
+aliases:
+  - Loudon
+location:
+  - 47.02
+  - 0.08
+mapzoom:
+  - 7
+  - 12
+mapmarker: city
 type: City
 tags:
-- geo/City
-
-
+  - geo/City
 SpocWebEntityId: 32105
 isDeleted: false
 confidential: public
-
 ---
 #is_a_/Place  
 #is_a_ :: [[Place]] 

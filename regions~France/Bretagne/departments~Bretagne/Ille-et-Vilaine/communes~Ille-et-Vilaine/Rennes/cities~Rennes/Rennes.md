@@ -1,16 +1,19 @@
 ---
-location: [48.1,-1.67] 
-mapzoom: [7,12] 
-mapmarker: city 
+aliases:
+  - Rennes
+location:
+  - 48.1
+  - -1.67
+mapzoom:
+  - 7
+  - 12
+mapmarker: city
 type: City
 tags:
-- geo/City
-
-
+  - geo/City
 SpocWebEntityId: 33711
 isDeleted: false
 confidential: public
-
 ---
 #is_a_/Place  
 #is_a_ :: [[Place]] 

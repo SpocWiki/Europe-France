@@ -1,16 +1,19 @@
 ---
-location: [47.27,-2.2] 
-mapzoom: [7,12] 
-mapmarker: city 
+aliases:
+  - St.Nazaire
+location:
+  - 47.27
+  - -2.2
+mapzoom:
+  - 7
+  - 12
+mapmarker: city
 type: City
 tags:
-- geo/City
-
-
+  - geo/City
 SpocWebEntityId: 34478
 isDeleted: false
 confidential: public
-
 ---
 #is_a_/Place  
 #is_a_ :: [[Place]] 

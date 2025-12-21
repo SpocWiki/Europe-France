@@ -1,16 +1,19 @@
 ---
-location: [47.7,-2] 
-mapzoom: [7,12] 
-mapmarker: city 
+aliases:
+  - St.Marie
+location:
+  - 47.7
+  - -2
+mapzoom:
+  - 7
+  - 12
+mapmarker: city
 type: City
 tags:
-- geo/City
-
-
+  - geo/City
 SpocWebEntityId: 34474
 isDeleted: false
 confidential: public
-
 ---
 #is_a_/Place  
 #is_a_ :: [[Place]] 

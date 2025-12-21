@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Département~Loir-et-Cher
+  - Loir-et-Cher
 location:
   - 47.7
   - 1.3
@@ -12,18 +15,16 @@ draft: false
 confidential: public
 tags:
   - geo/Country/Region
-aliases:
-  - Département~Loir-et-Cher
 Languages:
   - de
 cssclasses:
   - geo-Region
 publish: true
-linkTitle:
-keywords:
-layout:
-publishDate:
-expiryDate:
+linkTitle: ''
+keywords: ''
+layout: ''
+publishDate: ''
+expiryDate: ''
 ---
 
 # Département~Loir-et-Cher

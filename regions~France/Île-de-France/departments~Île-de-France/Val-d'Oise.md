@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Département~Val-d'Oise
+  - Val-d'Oise
 location:
   - 49.1
   - 2.2
@@ -12,18 +15,16 @@ draft: false
 confidential: public
 tags:
   - geo/Country/Region
-aliases:
-  - Département~Val-d'Oise
 Languages:
   - de
 cssclasses:
   - geo-Region
 publish: true
-linkTitle:
-keywords:
-layout:
-publishDate:
-expiryDate:
+linkTitle: ''
+keywords: ''
+layout: ''
+publishDate: ''
+expiryDate: ''
 ---
 
 # Département~Val-d'Oise

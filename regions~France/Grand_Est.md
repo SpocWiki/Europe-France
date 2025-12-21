@@ -1,6 +1,7 @@
 ---
 aliases:
   - Grand Est
+  - Grand_Est
 ---
 
 ```leaflet

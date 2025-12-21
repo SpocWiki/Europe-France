@@ -1,16 +1,19 @@
 ---
-location: [49.42,2.83] 
-mapzoom: [7,12] 
-mapmarker: city 
+aliases:
+  - Compiégne
+location:
+  - 49.42
+  - 2.83
+mapzoom:
+  - 7
+  - 12
+mapmarker: city
 type: City
 tags:
-- geo/City
-
-
+  - geo/City
 SpocWebEntityId: 29648
 isDeleted: false
 confidential: public
-
 ---
 #is_a_/Place  
 #is_a_ :: [[Place]] 

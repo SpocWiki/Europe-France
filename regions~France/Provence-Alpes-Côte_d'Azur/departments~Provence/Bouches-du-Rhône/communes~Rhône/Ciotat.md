@@ -1,16 +1,19 @@
 ---
-location: [43.18,5.62] 
-mapzoom: [7,12] 
-mapmarker: city 
+aliases:
+  - Ciotat
+location:
+  - 43.18
+  - 5.62
+mapzoom:
+  - 7
+  - 12
+mapmarker: city
 type: City
 tags:
-- geo/City
-
-
+  - geo/City
 SpocWebEntityId: 29612
 isDeleted: false
 confidential: public
-
 ---
 
 # [[Ciotat]] 

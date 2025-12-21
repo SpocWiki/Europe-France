@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Département~Loire-Atlantique
+  - Loire-Atlantique
 location:
   - 47.3
   - -1.9
@@ -12,18 +15,16 @@ draft: false
 confidential: public
 tags:
   - geo/Country/Region
-aliases:
-  - Département~Loire-Atlantique
 Languages:
   - de
 cssclasses:
   - geo-Region
 publish: true
-linkTitle:
-keywords:
-layout:
-publishDate:
-expiryDate:
+linkTitle: ''
+keywords: ''
+layout: ''
+publishDate: ''
+expiryDate: ''
 ---
 
 # Département~Loire-Atlantique

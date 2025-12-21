@@ -1,16 +1,19 @@
 ---
-location: [47.87,4.57] 
-mapzoom: [7,12] 
-mapmarker: city 
+aliases:
+  - Chatillon-sur-Seine
+location:
+  - 47.87
+  - 4.57
+mapzoom:
+  - 7
+  - 12
+mapmarker: city
 type: City
 tags:
-- geo/City
-
-
+  - geo/City
 SpocWebEntityId: 29561
 isDeleted: false
 confidential: public
-
 ---
 #is_a_/Place  
 #is_a_ :: [[Place]] 

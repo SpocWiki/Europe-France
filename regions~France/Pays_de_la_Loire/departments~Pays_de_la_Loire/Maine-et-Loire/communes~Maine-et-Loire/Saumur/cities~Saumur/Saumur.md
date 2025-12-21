@@ -1,16 +1,19 @@
 ---
-location: [47.27,-0.07] 
-mapzoom: [7,12] 
-mapmarker: city 
+aliases:
+  - Saumur
+location:
+  - 47.27
+  - -0.07
+mapzoom:
+  - 7
+  - 12
+mapmarker: city
 type: City
 tags:
-- geo/City
-
-
+  - geo/City
 SpocWebEntityId: 33975
 isDeleted: false
 confidential: public
-
 ---
 #is_a_/Place  
 #is_a_ :: [[Place]] 

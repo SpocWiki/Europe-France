@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Département~Bouches-du-Rhône
+  - Bouches-du-Rhône
 location:
   - 43.5
   - 5.4
@@ -12,18 +15,16 @@ draft: false
 confidential: public
 tags:
   - geo/Country/Region
-aliases:
-  - Département~Bouches-du-Rhône
 Languages:
   - de
 cssclasses:
   - geo-Region
 publish: true
-linkTitle:
-keywords:
-layout:
-publishDate:
-expiryDate:
+linkTitle: ''
+keywords: ''
+layout: ''
+publishDate: ''
+expiryDate: ''
 ---
 
 # Département~Bouches-du-Rhône

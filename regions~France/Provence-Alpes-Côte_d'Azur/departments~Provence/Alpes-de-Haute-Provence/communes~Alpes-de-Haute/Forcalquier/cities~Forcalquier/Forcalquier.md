@@ -1,16 +1,19 @@
 ---
-location: [43.97,5.78] 
-mapzoom: [7,12] 
-mapmarker: city 
+aliases:
+  - Forcalquier
+location:
+  - 43.97
+  - 5.78
+mapzoom:
+  - 7
+  - 12
+mapmarker: city
 type: City
 tags:
-- geo/City
-
-
+  - geo/City
 SpocWebEntityId: 30211
 isDeleted: false
 confidential: public
-
 ---
 #is_a_/Place  
 #is_a_ :: [[Place]] 

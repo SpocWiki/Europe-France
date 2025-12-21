@@ -1,4 +1,9 @@
 ---
+aliases:
+  - Strasbourg
+  - Strassburg
+  - Straßburg
+  - Strasbourg~Elsass
 location:
   - 48.58
   - 7.7
@@ -12,10 +17,6 @@ tags:
 SpocWebEntityId: 34614
 isDeleted: false
 confidential: public
-aliases:
-  - Strasbourg
-  - Strassburg
-  - Straßburg
 ---
 
 # [[Strasbourg~Elsass]] 

@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Département~Meurhe-et-Moselle
+  - Meurthe-et-Moselle
 location:
   - 49
   - 6
@@ -12,18 +15,16 @@ draft: false
 confidential: public
 tags:
   - geo/Country/Region
-aliases:
-  - Département~Meurhe-et-Moselle
 Languages:
   - de
 cssclasses:
   - geo-Region
 publish: true
-linkTitle:
-keywords:
-layout:
-publishDate:
-expiryDate:
+linkTitle: ''
+keywords: ''
+layout: ''
+publishDate: ''
+expiryDate: ''
 ---
 
 # Département~Meurhe-et-Moselle

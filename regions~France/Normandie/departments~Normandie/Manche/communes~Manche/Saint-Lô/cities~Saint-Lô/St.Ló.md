@@ -1,16 +1,19 @@
 ---
-location: [49.12,-1.1] 
-mapzoom: [7,12] 
-mapmarker: city 
+aliases:
+  - St.Ló
+location:
+  - 49.12
+  - -1.1
+mapzoom:
+  - 7
+  - 12
+mapmarker: city
 type: City
 tags:
-- geo/City
-
-
+  - geo/City
 SpocWebEntityId: 34470
 isDeleted: false
 confidential: public
-
 ---
 #is_a_/Place  
 #is_a_ :: [[Place]] 

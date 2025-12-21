@@ -1,16 +1,19 @@
 ---
-location: [50.53,1.6] 
-mapzoom: [7,12] 
-mapmarker: city 
+aliases:
+  - Etaples
+location:
+  - 50.53
+  - 1.6
+mapzoom:
+  - 7
+  - 12
+mapmarker: city
 type: City
 tags:
-- geo/City
-
-
+  - geo/City
 SpocWebEntityId: 30082
 isDeleted: false
 confidential: public
-
 ---
 #is_a_/Place  
 #is_a_ :: [[Place]] 

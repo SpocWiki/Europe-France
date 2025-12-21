@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Département~Haute-Garonne
+  - Haute-Garonne
 location:
   - 43.3
   - 1
@@ -12,18 +15,16 @@ draft: false
 confidential: public
 tags:
   - geo/Country/Region
-aliases:
-  - Département~Haute-Garonne
 Languages:
   - de
 cssclasses:
   - geo-Region
 publish: true
-linkTitle:
-keywords:
-layout:
-publishDate:
-expiryDate:
+linkTitle: ''
+keywords: ''
+layout: ''
+publishDate: ''
+expiryDate: ''
 ---
 
 # Département~Haute-Garonne

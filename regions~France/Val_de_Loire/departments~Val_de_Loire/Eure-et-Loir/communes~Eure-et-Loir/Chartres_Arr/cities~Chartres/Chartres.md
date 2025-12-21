@@ -1,16 +1,19 @@
 ---
-location: [48.45,1.48] 
-mapzoom: [7,12] 
-mapmarker: city 
+aliases:
+  - Chartres
+location:
+  - 48.45
+  - 1.48
+mapzoom:
+  - 7
+  - 12
+mapmarker: city
 type: City
 tags:
-- geo/City
-
-
+  - geo/City
 SpocWebEntityId: 29548
 isDeleted: false
 confidential: public
-
 ---
 
 # [[Chartres]]

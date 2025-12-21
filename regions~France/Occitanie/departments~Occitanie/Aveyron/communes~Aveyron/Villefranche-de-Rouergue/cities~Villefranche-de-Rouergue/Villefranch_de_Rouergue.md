@@ -1,16 +1,20 @@
 ---
-location: [44.35,2.03] 
-mapzoom: [7,12] 
-mapmarker: city 
+aliases:
+  - Villefranch_de_Rouergue
+  - Villefranch de Rouergue
+location:
+  - 44.35
+  - 2.03
+mapzoom:
+  - 7
+  - 12
+mapmarker: city
 type: City
 tags:
-- geo/City
-
-
+  - geo/City
 SpocWebEntityId: 35301
 isDeleted: false
 confidential: public
-
 ---
 #is_a_/Place  
 #is_a_ :: [[Place]] 

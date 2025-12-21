@@ -1,4 +1,10 @@
 ---
+aliases:
+  - Bordèu
+  - Bordele
+  - Bordeaux
+  - Bordeaux,City
+has_id_wikidata: Q1479
 location:
   - 44.83
   - -0.52
@@ -12,87 +18,86 @@ tags:
 SpocWebEntityId: 29274
 isDeleted: false
 confidential: public
-has_id_wikidata: Q1479
 twinned_administrative_body:
-  - "[[_Standards/WikiData/WD~Ramallah,158119]]"
-  - "[[_Standards/WikiData/WD~Kraków,31487]]"
+  - '[[_Standards/WikiData/WD~Ramallah,158119]]'
+  - '[[_Standards/WikiData/WD~Kraków,31487]]'
 different_from:
-  - "[[_Standards/WikiData/WD~Bordeaux_wine_region,168461]]"
+  - '[[_Standards/WikiData/WD~Bordeaux_wine_region,168461]]'
 shares_border_with:
-  - "[[_Standards/WikiData/WD~Bègles,192438]]"
-  - "[[_Standards/WikiData/WD~Le_Bouscat,192461]]"
-  - "[[_Standards/WikiData/WD~Talence,192481]]"
-  - "[[_Standards/WikiData/WD~Floirac,199682]]"
-  - "[[_Standards/WikiData/WD~Mérignac,205551]]"
-  - "[[_Standards/WikiData/WD~Pessac,207156]]"
-  - "[[_Standards/WikiData/WD~Blanquefort,220592]]"
-  - "[[_Standards/WikiData/WD~Lormont,235300]]"
-  - "[[_Standards/WikiData/WD~Bassens,243682]]"
-  - "[[_Standards/WikiData/WD~Bruges,327025]]"
-  - "[[_Standards/WikiData/WD~Eysines,467370]]"
-  - "[[_Standards/WikiData/WD~Cenon,1053472]]"
+  - '[[_Standards/WikiData/WD~Bègles,192438]]'
+  - '[[_Standards/WikiData/WD~Le_Bouscat,192461]]'
+  - '[[_Standards/WikiData/WD~Talence,192481]]'
+  - '[[_Standards/WikiData/WD~Floirac,199682]]'
+  - '[[_Standards/WikiData/WD~Mérignac,205551]]'
+  - '[[_Standards/WikiData/WD~Pessac,207156]]'
+  - '[[_Standards/WikiData/WD~Blanquefort,220592]]'
+  - '[[_Standards/WikiData/WD~Lormont,235300]]'
+  - '[[_Standards/WikiData/WD~Bassens,243682]]'
+  - '[[_Standards/WikiData/WD~Bruges,327025]]'
+  - '[[_Standards/WikiData/WD~Eysines,467370]]'
+  - '[[_Standards/WikiData/WD~Cenon,1053472]]'
 owner_of:
-  - "[[_Standards/WikiData/WD~Stade_Atlantique,252481]]"
-  - "[[_Standards/WikiData/WD~Stade_Chaban_Delmas,386547]]"
-  - "[[_Standards/WikiData/WD~patinoire_de_Mériadeck,3368788]]"
-  - "[[_Standards/WikiData/WD~marché_des_Douves,16964719]]"
-  - "[[_Standards/WikiData/WD~The_Apostle,17347096]]"
+  - '[[_Standards/WikiData/WD~Stade_Atlantique,252481]]'
+  - '[[_Standards/WikiData/WD~Stade_Chaban_Delmas,386547]]'
+  - '[[_Standards/WikiData/WD~patinoire_de_Mériadeck,3368788]]'
+  - '[[_Standards/WikiData/WD~marché_des_Douves,16964719]]'
+  - '[[_Standards/WikiData/WD~The_Apostle,17347096]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~commune_of_France,484170]]"
-  - "[[_Standards/WikiData/WD~big_city,1549591]]"
+  - '[[_Standards/WikiData/WD~commune_of_France,484170]]'
+  - '[[_Standards/WikiData/WD~big_city,1549591]]'
 described_by_source:
-  - "[[../../../../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Pauly_Wissowa,1138524]]"
-  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
-  - "[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Realʹnyj_slovarʹ_klassičeskih_drevnostej_po_Lûbkeru,30059240]]"
-  - "[[_Standards/WikiData/WD~Meyer_s_Universum,_Neunter_Band,131719188]]"
+  - '[[../../../../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+  - '[[_Standards/WikiData/WD~Pauly_Wissowa,1138524]]'
+  - '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
+  - '[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]'
+  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+  - '[[_Standards/WikiData/WD~Realʹnyj_slovarʹ_klassičeskih_drevnostej_po_Lûbkeru,30059240]]'
+  - '[[_Standards/WikiData/WD~Meyer_s_Universum,_Neunter_Band,131719188]]'
 capital_of:
-  - "[[_Standards/WikiData/WD~canton_of_Bordeaux_8,607547]]"
-  - "[[_Standards/WikiData/WD~arrondissement_of_Bordeaux,700697]]"
-  - "[[_Standards/WikiData/WD~canton_of_Bordeaux_2,1724519]]"
-  - "[[_Standards/WikiData/WD~canton_of_Bordeaux_1,1724517]]"
-  - "[[_Standards/WikiData/WD~canton_of_Bordeaux_3,1724521]]"
-  - "[[_Standards/WikiData/WD~canton_of_Bordeaux_5,1724526]]"
-  - "[[_Standards/WikiData/WD~canton_of_Bordeaux_6,1724527]]"
-  - "[[_Standards/WikiData/WD~canton_of_Bordeaux_4,1724524]]"
-  - "[[_Standards/WikiData/WD~canton_of_Bordeaux_7,1724529]]"
-  - "[[_Standards/WikiData/WD~Q11915003,11915003]]"
-  - "[[_Standards/WikiData/WD~Q88077751,88077751]]"
-  - "[[_Standards/WikiData/WD~Q88077748,88077748]]"
-  - "[[_Standards/WikiData/WD~Q88077749,88077749]]"
-  - "[[_Standards/WikiData/WD~Q88077754,88077754]]"
-  - "[[_Standards/WikiData/WD~Q88077752,88077752]]"
-  - "[[_Standards/WikiData/WD~Southwest_defence_and_security_zone,88521119]]"
-  - "[[_Standards/WikiData/WD~Gironde,12526]]"
-  - "[[_Standards/WikiData/WD~France,142]]"
+  - '[[_Standards/WikiData/WD~canton_of_Bordeaux_8,607547]]'
+  - '[[_Standards/WikiData/WD~arrondissement_of_Bordeaux,700697]]'
+  - '[[_Standards/WikiData/WD~canton_of_Bordeaux_2,1724519]]'
+  - '[[_Standards/WikiData/WD~canton_of_Bordeaux_1,1724517]]'
+  - '[[_Standards/WikiData/WD~canton_of_Bordeaux_3,1724521]]'
+  - '[[_Standards/WikiData/WD~canton_of_Bordeaux_5,1724526]]'
+  - '[[_Standards/WikiData/WD~canton_of_Bordeaux_6,1724527]]'
+  - '[[_Standards/WikiData/WD~canton_of_Bordeaux_4,1724524]]'
+  - '[[_Standards/WikiData/WD~canton_of_Bordeaux_7,1724529]]'
+  - '[[_Standards/WikiData/WD~Q11915003,11915003]]'
+  - '[[_Standards/WikiData/WD~Q88077751,88077751]]'
+  - '[[_Standards/WikiData/WD~Q88077748,88077748]]'
+  - '[[_Standards/WikiData/WD~Q88077749,88077749]]'
+  - '[[_Standards/WikiData/WD~Q88077754,88077754]]'
+  - '[[_Standards/WikiData/WD~Q88077752,88077752]]'
+  - '[[_Standards/WikiData/WD~Southwest_defence_and_security_zone,88521119]]'
+  - '[[_Standards/WikiData/WD~Gironde,12526]]'
+  - '[[_Standards/WikiData/WD~France,142]]'
 located_in_the_administrative_territorial_entity:
-  - "[[_Standards/WikiData/WD~arrondissement_of_Bordeaux,700697]]"
-  - "[[_Standards/WikiData/WD~Bordeaux_Métropole,1117116]]"
-  - "[[_Standards/WikiData/WD~Gironde,12526]]"
+  - '[[_Standards/WikiData/WD~arrondissement_of_Bordeaux,700697]]'
+  - '[[_Standards/WikiData/WD~Bordeaux_Métropole,1117116]]'
+  - '[[_Standards/WikiData/WD~Gironde,12526]]'
 member_of:
-  - "[[_Standards/WikiData/WD~Organization_of_World_Heritage_Cities,734958]]"
-  - "[[_Standards/WikiData/WD~League_of_Historical_Cities,9383972]]"
-replaces: "[[_Standards/WikiData/WD~Burdigala,2928315]]"
-list_of_monuments: "[[_Standards/WikiData/WD~list_of_Monuments_historiques_at_Bordeaux,3252021]]"
+  - '[[_Standards/WikiData/WD~Organization_of_World_Heritage_Cities,734958]]'
+  - '[[_Standards/WikiData/WD~League_of_Historical_Cities,9383972]]'
+replaces: '[[_Standards/WikiData/WD~Burdigala,2928315]]'
+list_of_monuments: '[[_Standards/WikiData/WD~list_of_Monuments_historiques_at_Bordeaux,3252021]]'
 located_in_the_statistical_territorial_entity:
-  - "[[_Standards/WikiData/WD~Q3550948,3550948]]"
-  - "[[_Standards/WikiData/WD~Q108921269,108921269]]"
-topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Portal_Bordeaux,15647382]]"
-archives_at: "[[_Standards/WikiData/WD~Municipal_Archives_of_Bordeaux,18384736]]"
-office_held_by_head_of_government: "[[_Standards/WikiData/WD~mayor_of_Bordeaux,27898073]]"
-award_received: "[[_Standards/WikiData/WD~Destination_pour_tous,30283681]]"
-head_of_government: "[[_Standards/WikiData/WD~Pierre_Hurmic,55599019]]"
-open_data_portal: "[[_Standards/WikiData/WD~Open_data_Bordeaux,97104291]]"
-flag: "[[_Standards/WikiData/WD~flag_of_Bordeaux,106680731]]"
+  - '[[_Standards/WikiData/WD~Q3550948,3550948]]'
+  - '[[_Standards/WikiData/WD~Q108921269,108921269]]'
+topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Bordeaux,15647382]]'
+archives_at: '[[_Standards/WikiData/WD~Municipal_Archives_of_Bordeaux,18384736]]'
+office_held_by_head_of_government: '[[_Standards/WikiData/WD~mayor_of_Bordeaux,27898073]]'
+award_received: '[[_Standards/WikiData/WD~Destination_pour_tous,30283681]]'
+head_of_government: '[[_Standards/WikiData/WD~Pierre_Hurmic,55599019]]'
+open_data_portal: '[[_Standards/WikiData/WD~Open_data_Bordeaux,97104291]]'
+flag: '[[_Standards/WikiData/WD~flag_of_Bordeaux,106680731]]'
 located_in_or_next_to_body_of_water:
-  - "[[_Standards/WikiData/WD~Garonne,5077]]"
+  - '[[_Standards/WikiData/WD~Garonne,5077]]'
 located_in_time_zone:
-  - "[[_Standards/WikiData/WD~UTC+01_00,6655]]"
-  - "[[_Standards/WikiData/WD~UTC+02_00,6723]]"
-country: "[[_Standards/WikiData/WD~France,142]]"
+  - '[[_Standards/WikiData/WD~UTC+01_00,6655]]'
+  - '[[_Standards/WikiData/WD~UTC+02_00,6723]]'
+country: '[[_Standards/WikiData/WD~France,142]]'
 elevation_above_sea_level:
   - 1
   - 6
@@ -100,14 +105,14 @@ elevation_above_sea_level:
   - 42
 area: 49.36
 postal_code:
-  - "33300"
-  - "33800"
-  - "33200"
-  - "33100"
-  - "33000"
+  - 33300
+  - 33800
+  - 33200
+  - 33100
+  - 33000
 BHCL_UUID:
   - 2a8c0878-9bc8-48c7-b4a5-91dc911c1f24
-INSEE_municipality_code: "33063"
+INSEE_municipality_code: 33063
 YouTube_handle: villedebordeaux
 Instagram_username: villedebordeaux
 street_address: Place Pey-Berland, 33000 Bordeaux
@@ -120,7 +125,7 @@ male_population: 119724
 female_population: 134712
 social_media_followers: 234939
 population: 265328
-OmegaWiki_Defined_Meaning: "646250"
+OmegaWiki_Defined_Meaning: 646250
 demonym:
   - bordolesi
   - bordeles
@@ -136,10 +141,10 @@ flag_image: http://commons.wikimedia.org/wiki/Special:FilePath/Coat%20of%20Arms%
 webcam_page_URL: http://www.bordeaux.fr/ebx/pgPresStand8.psml?_pageLabel=pgPresStand8&classofcontent=presentationStandard&id=50115
 official_website: https://www.bordeaux.fr
 phone_number: +33-5-56-10-20-30
-ISNI: "0000000123243476"
-U_S_National_Archives_Identifier: "10045167"
+ISNI: 0000000123243476
+U_S_National_Archives_Identifier: 10045167
 Dewey_Decimal_Classification: 2--447144
-P8189: "987007550347105171"
+P8189: 987007550347105171
 Provenio_UUID: a46d0ef2-e911-475a-8c4e-7bfb074a2f10
 Commons_gallery: Bordeaux
 Commons_category: Bordeaux
@@ -148,10 +153,6 @@ subreddit:
 X_Twitter_username: Bordeaux
 Facebook_username: bordeauxmaville
 UN_LOCODE: FRBOD
-aliases:
-  - Bordèu
-  - Bordele
-  - Bordeaux
 ---
 
 # [[Bordeaux,City]] 

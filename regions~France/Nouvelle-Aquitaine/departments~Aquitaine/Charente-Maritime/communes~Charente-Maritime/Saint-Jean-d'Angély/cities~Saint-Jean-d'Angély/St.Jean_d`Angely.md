@@ -1,16 +1,20 @@
 ---
-location: [45.95,-0.52] 
-mapzoom: [7,12] 
-mapmarker: city 
+aliases:
+  - St.Jean_d`Angely
+  - St.Jean d`Angely
+location:
+  - 45.95
+  - -0.52
+mapzoom:
+  - 7
+  - 12
+mapmarker: city
 type: City
 tags:
-- geo/City
-
-
+  - geo/City
 SpocWebEntityId: 34463
 isDeleted: false
 confidential: public
-
 ---
 #is_a_/Place  
 #is_a_ :: [[Place]] 

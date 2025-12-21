@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Département~Maine-et-Loire
+  - Maine-et-Loire
 location:
   - 47.4
   - -0.4
@@ -12,18 +15,16 @@ draft: false
 confidential: public
 tags:
   - geo/Country/Region
-aliases:
-  - Département~Maine-et-Loire
 Languages:
   - de
 cssclasses:
   - geo-Region
 publish: true
-linkTitle:
-keywords:
-layout:
-publishDate:
-expiryDate:
+linkTitle: ''
+keywords: ''
+layout: ''
+publishDate: ''
+expiryDate: ''
 ---
 
 # Département~Maine-et-Loire

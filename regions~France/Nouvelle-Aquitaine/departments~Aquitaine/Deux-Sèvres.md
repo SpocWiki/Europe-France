@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Département~Deux-Sèvres
+  - Deux-Sèvres
 location:
   - 46.5
   - -0.3
@@ -12,18 +15,16 @@ draft: false
 confidential: public
 tags:
   - geo/Country/Region
-aliases:
-  - Département~Deux-Sèvres
 Languages:
   - de
 cssclasses:
   - geo-Region
 publish: true
-linkTitle:
-keywords:
-layout:
-publishDate:
-expiryDate:
+linkTitle: ''
+keywords: ''
+layout: ''
+publishDate: ''
+expiryDate: ''
 ---
 
 # Département~Deux-Sèvres

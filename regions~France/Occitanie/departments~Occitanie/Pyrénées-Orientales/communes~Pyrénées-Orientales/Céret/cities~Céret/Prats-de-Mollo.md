@@ -1,16 +1,19 @@
 ---
-location: [42.42,2.5] 
-mapzoom: [7,12] 
-mapmarker: city 
+aliases:
+  - Prats-de-Mollo
+location:
+  - 42.42
+  - 2.5
+mapzoom:
+  - 7
+  - 12
+mapmarker: city
 type: City
 tags:
-- geo/City
-
-
+  - geo/City
 SpocWebEntityId: 33506
 isDeleted: false
 confidential: public
-
 ---
 #is_a_/Place  
 #is_a_ :: [[Place]] 

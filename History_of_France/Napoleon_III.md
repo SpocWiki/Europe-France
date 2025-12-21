@@ -2,108 +2,109 @@
 aliases:
   - Napoleon III
   - Charles-Louis Napoléon Bonaparte
+  - Napoleon_III
 has_id_wikidata: Q7721
 sibling:
-  - "[[_Standards/WikiData/WD~Napoleon_Louis_Bonaparte,73465]]"
-  - "[[_Standards/WikiData/WD~Napoleon_Charles_Bonaparte,707215]]"
-  - "[[_Standards/WikiData/WD~Charles_de_Morny,_Duke_of_Morny,965335]]"
+  - '[[_Standards/WikiData/WD~Napoleon_Louis_Bonaparte,73465]]'
+  - '[[_Standards/WikiData/WD~Napoleon_Charles_Bonaparte,707215]]'
+  - '[[_Standards/WikiData/WD~Charles_de_Morny,_Duke_of_Morny,965335]]'
 occupation:
-  - "[[_Standards/WikiData/WD~politician,82955]]"
-  - "[[_Standards/WikiData/WD~writer,36180]]"
-family: "[[_Standards/WikiData/WD~House_of_Bonaparte,112581]]"
-place_of_death: "[[_Standards/WikiData/WD~Chislehurst,122917]]"
-student_of: "[[_Standards/WikiData/WD~Guillaume_Henri_Dufour,123238]]"
-spouse: "[[_Standards/WikiData/WD~Eugénie_de_Montijo,157130]]"
-military_or_police_rank: "[[_Standards/WikiData/WD~army_general,160910]]"
+  - '[[_Standards/WikiData/WD~politician,82955]]'
+  - '[[_Standards/WikiData/WD~writer,36180]]'
+family: '[[_Standards/WikiData/WD~House_of_Bonaparte,112581]]'
+place_of_death: '[[_Standards/WikiData/WD~Chislehurst,122917]]'
+student_of: '[[_Standards/WikiData/WD~Guillaume_Henri_Dufour,123238]]'
+spouse: '[[_Standards/WikiData/WD~Eugénie_de_Montijo,157130]]'
+military_or_police_rank: '[[_Standards/WikiData/WD~army_general,160910]]'
 has_works_in_the_collection:
-  - "[[_Standards/WikiData/WD~Archives_nationales,182542]]"
-  - "[[_Standards/WikiData/WD~Musée_Fesch,2483597]]"
-cause_of_death: "[[_Standards/WikiData/WD~sepsis,183134]]"
+  - '[[_Standards/WikiData/WD~Archives_nationales,182542]]'
+  - '[[_Standards/WikiData/WD~Musée_Fesch,2483597]]'
+cause_of_death: '[[_Standards/WikiData/WD~sepsis,183134]]'
 position_held:
-  - "[[_Standards/WikiData/WD~President_of_the_French_Republic,191954]]"
-  - "[[_Standards/WikiData/WD~member_of_the_French_National_Assembly,3044918]]"
-  - "[[_Standards/WikiData/WD~Emperor_of_the_French,5373953]]"
-  - "[[_Standards/WikiData/WD~head_of_government_of_France,15135541]]"
-  - "[[_Standards/WikiData/WD~French_co_prince_of_Andorra,19808845]]"
-  - "[[_Standards/WikiData/WD~Grand_Master_of_the_Legion_of_Honour,20856048]]"
+  - '[[_Standards/WikiData/WD~President_of_the_French_Republic,191954]]'
+  - '[[_Standards/WikiData/WD~member_of_the_French_National_Assembly,3044918]]'
+  - '[[_Standards/WikiData/WD~Emperor_of_the_French,5373953]]'
+  - '[[_Standards/WikiData/WD~head_of_government_of_France,15135541]]'
+  - '[[_Standards/WikiData/WD~French_co_prince_of_Andorra,19808845]]'
+  - '[[_Standards/WikiData/WD~Grand_Master_of_the_Legion_of_Honour,20856048]]'
 child:
-  - "[[_Standards/WikiData/WD~Napoléon,_Prince_Imperial,221549]]"
-  - "[[_Standards/WikiData/WD~Alexandre_Bure,2833506]]"
-  - "[[_Standards/WikiData/WD~Eugène_Bure,3059754]]"
-mother: "[[_Standards/WikiData/WD~Hortense_de_Beauharnais,229875]]"
+  - '[[_Standards/WikiData/WD~Napoléon,_Prince_Imperial,221549]]'
+  - '[[_Standards/WikiData/WD~Alexandre_Bure,2833506]]'
+  - '[[_Standards/WikiData/WD~Eugène_Bure,3059754]]'
+mother: '[[_Standards/WikiData/WD~Hortense_de_Beauharnais,229875]]'
 award_received:
-  - "[[_Standards/WikiData/WD~Order_of_Saint_Stephen_of_Hungary,285071]]"
-  - "[[_Standards/WikiData/WD~Order_of_the_White_Eagle,392204]]"
-  - "[[_Standards/WikiData/WD~Order_of_the_Redeemer,614661]]"
-  - "[[_Standards/WikiData/WD~Order_of_St._Andrew,1126563]]"
-  - "[[_Standards/WikiData/WD~Knight_Grand_Cross_of_the_Military_Order_of_William,2424158]]"
-  - "[[_Standards/WikiData/WD~Albert_Medal,4710826]]"
-  - "[[_Standards/WikiData/WD~Grand_Cross_of_the_Legion_of_Honour,10855226]]"
-  - "[[_Standards/WikiData/WD~Knight_of_the_Order_of_the_Golden_Fleece,15117228]]"
-  - "[[_Standards/WikiData/WD~Knight_of_the_Order_of_St._Alexander_Nevsky,15831432]]"
-  - "[[_Standards/WikiData/WD~Order_of_Saint_Anna,_1st_class,15972369]]"
-  - "[[_Standards/WikiData/WD~Order_of_the_Red_Eagle_1st_Class,18579585]]"
-  - "[[_Standards/WikiData/WD~Knight_Grand_Cross_of_the_Order_of_Saint_Joseph,56376732]]"
+  - '[[_Standards/WikiData/WD~Order_of_Saint_Stephen_of_Hungary,285071]]'
+  - '[[_Standards/WikiData/WD~Order_of_the_White_Eagle,392204]]'
+  - '[[_Standards/WikiData/WD~Order_of_the_Redeemer,614661]]'
+  - '[[_Standards/WikiData/WD~Order_of_St._Andrew,1126563]]'
+  - '[[_Standards/WikiData/WD~Knight_Grand_Cross_of_the_Military_Order_of_William,2424158]]'
+  - '[[_Standards/WikiData/WD~Albert_Medal,4710826]]'
+  - '[[_Standards/WikiData/WD~Grand_Cross_of_the_Legion_of_Honour,10855226]]'
+  - '[[_Standards/WikiData/WD~Knight_of_the_Order_of_the_Golden_Fleece,15117228]]'
+  - '[[_Standards/WikiData/WD~Knight_of_the_Order_of_St._Alexander_Nevsky,15831432]]'
+  - '[[_Standards/WikiData/WD~Order_of_Saint_Anna,_1st_class,15972369]]'
+  - '[[_Standards/WikiData/WD~Order_of_the_Red_Eagle_1st_Class,18579585]]'
+  - '[[_Standards/WikiData/WD~Knight_Grand_Cross_of_the_Order_of_Saint_Joseph,56376732]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Catholic_Encyclopedia,302556]]"
-  - "[[../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]"
+  - '[[_Standards/WikiData/WD~Catholic_Encyclopedia,302556]]'
+  - '[[../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+  - '[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]'
   - "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
-  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
-  - "[[_Standards/WikiData/WD~Yuzhakov_Big_Encyclopedia,4091878]]"
-  - "[[_Standards/WikiData/WD~Sytin_Military_Encyclopedia,4114391]]"
-  - "[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]"
-  - "[[_Standards/WikiData/WD~Napoléon_le_Petit,6965106]]"
+  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
+  - '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
+  - '[[_Standards/WikiData/WD~Yuzhakov_Big_Encyclopedia,4091878]]'
+  - '[[_Standards/WikiData/WD~Sytin_Military_Encyclopedia,4114391]]'
+  - '[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]'
+  - '[[_Standards/WikiData/WD~Napoléon_le_Petit,6965106]]'
   - "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1969_1978),17378135]]"
+  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1969_1978),17378135]]'
   - "[[_Standards/WikiData/WD~Library_of_the_World's_Best_Literature,19098835]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511]]"
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
-  - "[[_Standards/WikiData/WD~BEIC_Digital_Library,51955019]]"
-  - "[[_Standards/WikiData/WD~Obálky_knih,67311526]]"
-  - "[[_Standards/WikiData/WD~Pavlenkov_Encyclopedic_Dictionary,106323898]]"
-  - "[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]"
+  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+  - '[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511]]'
+  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+  - '[[_Standards/WikiData/WD~BEIC_Digital_Library,51955019]]'
+  - '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
+  - '[[_Standards/WikiData/WD~Pavlenkov_Encyclopedic_Dictionary,106323898]]'
+  - '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
   - "[[_Standards/WikiData/WD~Albert_Edelfelt's_letters,116452747]]"
-  - "[[_Standards/WikiData/WD~SourceWatch_List_of_Dictators,121698959]]"
-  - "[[_Standards/WikiData/WD~Meyer_s_Universum,_Fünfzehnter_Band,136385610]]"
+  - '[[_Standards/WikiData/WD~SourceWatch_List_of_Dictators,121698959]]'
+  - '[[_Standards/WikiData/WD~Meyer_s_Universum,_Fünfzehnter_Band,136385610]]'
 owner_of:
   - "[[_Standards/WikiData/WD~Bonaparte_at_the_Pont_d'Arcole,1282978]]"
-  - "[[_Standards/WikiData/WD~Nymph_abducted_by_a_faun,17494548]]"
-place_of_detention: "[[_Standards/WikiData/WD~Château_de_Ham,1405143]]"
-significant_event: "[[_Standards/WikiData/WD~pilgrimage,1644573]]"
+  - '[[_Standards/WikiData/WD~Nymph_abducted_by_a_faun,17494548]]'
+place_of_detention: '[[_Standards/WikiData/WD~Château_de_Ham,1405143]]'
+significant_event: '[[_Standards/WikiData/WD~pilgrimage,1644573]]'
 given_name:
-  - "[[_Standards/WikiData/WD~Louis,2897866]]"
-  - "[[_Standards/WikiData/WD~Charles,2958359]]"
-  - "[[_Standards/WikiData/WD~Napoleon,17522194]]"
-  - "[[_Standards/WikiData/WD~Napoléon,19882955]]"
+  - '[[_Standards/WikiData/WD~Louis,2897866]]'
+  - '[[_Standards/WikiData/WD~Charles,2958359]]'
+  - '[[_Standards/WikiData/WD~Napoleon,17522194]]'
+  - '[[_Standards/WikiData/WD~Napoléon,19882955]]'
 unmarried_partner:
-  - "[[_Standards/WikiData/WD~Eléonore_Vergeot,3051932]]"
-  - "[[_Standards/WikiData/WD~Alice_Ozy,15607140]]"
-manner_of_death: "[[_Standards/WikiData/WD~natural_causes,3739104]]"
-honorific_prefix: "[[_Standards/WikiData/WD~Imperial_Majesty,3843034]]"
-noble_title: "[[_Standards/WikiData/WD~Emperor_of_the_French,5373953]]"
-sex_or_gender: "[[_Standards/WikiData/WD~male,6581097]]"
-social_classification: "[[_Standards/WikiData/WD~royalty,11573099]]"
-family_name: "[[_Standards/WikiData/WD~Bonaparte,24530160]]"
-place_of_burial: "[[_Standards/WikiData/WD~Sarcophagus_of_Emperor_Napoleon_III,59259732]]"
-copyright_status_as_a_creator: "[[_Standards/WikiData/WD~copyrights_on_works_have_expired,71887839]]"
-educated_at: "[[_Standards/WikiData/WD~Waffenplatz_Thun,99547122]]"
+  - '[[_Standards/WikiData/WD~Eléonore_Vergeot,3051932]]'
+  - '[[_Standards/WikiData/WD~Alice_Ozy,15607140]]'
+manner_of_death: '[[_Standards/WikiData/WD~natural_causes,3739104]]'
+honorific_prefix: '[[_Standards/WikiData/WD~Imperial_Majesty,3843034]]'
+noble_title: '[[_Standards/WikiData/WD~Emperor_of_the_French,5373953]]'
+sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
+social_classification: '[[_Standards/WikiData/WD~royalty,11573099]]'
+family_name: '[[_Standards/WikiData/WD~Bonaparte,24530160]]'
+place_of_burial: '[[_Standards/WikiData/WD~Sarcophagus_of_Emperor_Napoleon_III,59259732]]'
+copyright_status_as_a_creator: '[[_Standards/WikiData/WD~copyrights_on_works_have_expired,71887839]]'
+educated_at: '[[_Standards/WikiData/WD~Waffenplatz_Thun,99547122]]'
 date_of_death: 1873-01-09T00:00:00Z
-father: "[[_Standards/WikiData/WD~Louis_Bonaparte,7729]]"
-religion_or_worldview: "[[_Standards/WikiData/WD~Catholic_Church,9592]]"
-instance_of: "[[_Standards/WikiData/WD~human,5]]"
-place_of_birth: "[[_Standards/WikiData/WD~Paris,90]]"
-work_locations: "[[_Standards/WikiData/WD~Paris,90]]"
-country_of_citizenship: "[[_Standards/WikiData/WD~France,142]]"
-writing_language: "[[_Standards/WikiData/WD~French,150]]"
-languages_spoken_written_or_signed: "[[_Standards/WikiData/WD~French,150]]"
+father: '[[_Standards/WikiData/WD~Louis_Bonaparte,7729]]'
+religion_or_worldview: '[[_Standards/WikiData/WD~Catholic_Church,9592]]'
+instance_of: '[[_Standards/WikiData/WD~human,5]]'
+place_of_birth: '[[_Standards/WikiData/WD~Paris,90]]'
+work_locations: '[[_Standards/WikiData/WD~Paris,90]]'
+country_of_citizenship: '[[_Standards/WikiData/WD~France,142]]'
+writing_language: '[[_Standards/WikiData/WD~French,150]]'
+languages_spoken_written_or_signed: '[[_Standards/WikiData/WD~French,150]]'
 described_at_URL:
   - http://www.digiporta.net/index.php?id=553323034
   - http://www.digiporta.net/index.php?id=502077483
-ISNI: "0000000121429066"
+ISNI: 0000000121429066
 Wolfram_Language_entity_code: Entity["Concept", "CharlesLouisNapoleonBonaparte::dc3j6"]
 archival_creator_authority_record_at_the_Archives_nationales: FRAN_NP_051177
 Krugosvet_article_archived_: istoriya/NAPOLEON_III.html
@@ -117,7 +118,7 @@ name_in_native_language: Napoléon III
 Royal_Academy_new_identifier: napoleon-iii
 Commons_category: Napoleon III of France
 Commons_Creator_page: Napoleon III of France
-U_S_National_Archives_Identifier: "10581344"
+U_S_National_Archives_Identifier: 10581344
 date_of_birth: 1808-04-20T00:00:00Z
 image_of_grave: http://commons.wikimedia.org/wiki/Special:FilePath/The%20Sarcophagus%20of%20Emperor%20Napoleon%20III%20of%20France%20%28geograph%203835255%29.jpg
 coat_of_arms_image: http://commons.wikimedia.org/wiki/Special:FilePath/Coat%20of%20Arms%20Second%20French%20Empire%20%281852%E2%80%931870%29-2.svg

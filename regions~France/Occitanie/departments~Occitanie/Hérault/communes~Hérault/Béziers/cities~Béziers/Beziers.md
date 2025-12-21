@@ -1,16 +1,19 @@
 ---
-location: [43.34,3.19] 
-mapzoom: [7,12] 
-mapmarker: city 
+aliases:
+  - Beziers
+location:
+  - 43.34
+  - 3.19
+mapzoom:
+  - 7
+  - 12
+mapmarker: city
 type: City
 tags:
-- geo/City
-
-
+  - geo/City
 SpocWebEntityId: 29167
 isDeleted: false
 confidential: public
-
 ---
 #is_a_/Place  
 #is_a_ :: [[Place]] 

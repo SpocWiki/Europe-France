@@ -1,16 +1,19 @@
 ---
-location: [48.78,2.35] 
-mapzoom: [7,12] 
-mapmarker: city 
+aliases:
+  - Sceaux
+location:
+  - 48.78
+  - 2.35
+mapzoom:
+  - 7
+  - 12
+mapmarker: city
 type: City
 tags:
-- geo/City
-
-
+  - geo/City
 SpocWebEntityId: 33987
 isDeleted: false
 confidential: public
-
 ---
 #is_a_/Place  
 #is_a_ :: [[Place]] 

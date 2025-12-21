@@ -1,16 +1,19 @@
 ---
-location: [47.35,1.75] 
-mapzoom: [7,12] 
-mapmarker: city 
+aliases:
+  - Romorantin
+location:
+  - 47.35
+  - 1.75
+mapzoom:
+  - 7
+  - 12
+mapmarker: city
 type: City
 tags:
-- geo/City
-
-
+  - geo/City
 SpocWebEntityId: 33753
 isDeleted: false
 confidential: public
-
 ---
 #is_a_/Place  
 #is_a_ :: [[Place]] 

@@ -1,16 +1,19 @@
 ---
-location: [47.57,4.4] 
-mapzoom: [7,12] 
-mapmarker: city 
+aliases:
+  - Grignon
+location:
+  - 47.57
+  - 4.4
+mapzoom:
+  - 7
+  - 12
+mapmarker: city
 type: City
 tags:
-- geo/City
-
-
+  - geo/City
 SpocWebEntityId: 30577
 isDeleted: false
 confidential: public
-
 ---
 #is_a_/Place  
 #is_a_ :: [[Place]] 

@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Département~Haute-Rhin
+  - Haut-Rhin
 location:
   - 47.9
   - 7.2
@@ -12,18 +15,16 @@ draft: false
 confidential: public
 tags:
   - geo/Country/Region
-aliases:
-  - Département~Haute-Rhin
 Languages:
   - de
 cssclasses:
   - geo-Region
 publish: true
-linkTitle:
-keywords:
-layout:
-publishDate:
-expiryDate:
+linkTitle: ''
+keywords: ''
+layout: ''
+publishDate: ''
+expiryDate: ''
 ---
 
 # Département~Haute-Rhin

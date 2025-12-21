@@ -1,16 +1,19 @@
 ---
-location: [46.33,6.07] 
-mapzoom: [7,12] 
-mapmarker: city 
+aliases:
+  - Gex
+location:
+  - 46.33
+  - 6.07
+mapzoom:
+  - 7
+  - 12
+mapmarker: city
 type: City
 tags:
-- geo/City
-
-
+  - geo/City
 SpocWebEntityId: 30444
 isDeleted: false
 confidential: public
-
 ---
 #is_a_/Place  
 #is_a_ :: [[Place]] 

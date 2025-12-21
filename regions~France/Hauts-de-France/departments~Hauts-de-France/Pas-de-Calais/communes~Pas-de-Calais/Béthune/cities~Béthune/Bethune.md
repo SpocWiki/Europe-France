@@ -1,16 +1,19 @@
 ---
-location: [50.53,2.63] 
-mapzoom: [7,12] 
-mapmarker: city 
+aliases:
+  - Bethune
+location:
+  - 50.53
+  - 2.63
+mapzoom:
+  - 7
+  - 12
+mapmarker: city
 type: City
 tags:
-- geo/City
-
-
+  - geo/City
 SpocWebEntityId: 29155
 isDeleted: false
 confidential: public
-
 ---
 #is_a_/Place  
 #is_a_ :: [[Place]] 

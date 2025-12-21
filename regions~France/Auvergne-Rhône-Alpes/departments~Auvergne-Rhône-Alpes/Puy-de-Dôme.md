@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Département~Puy-de-Dôme
+  - Puy-de-Dôme
 location:
   - 45.8
   - 3.1
@@ -12,18 +15,16 @@ draft: false
 confidential: public
 tags:
   - geo/Country/Region
-aliases:
-  - Département~Puy-de-Dôme
 Languages:
   - de
 cssclasses:
   - geo-Region
 publish: true
-linkTitle:
-keywords:
-layout:
-publishDate:
-expiryDate:
+linkTitle: ''
+keywords: ''
+layout: ''
+publishDate: ''
+expiryDate: ''
 ---
 
 # Département~Puy-de-Dôme

@@ -1,7 +1,9 @@
 ---
+aliases:
+  - Chateaulin
 mapzoom:
-  - "7"
-  - "12"
+  - 7
+  - 12
 mapmarker: city
 type: City
 tags:
@@ -10,8 +12,8 @@ SpocWebEntityId: 29558
 isDeleted: false
 confidential: public
 location:
-  - "48.1967"
-  - "-4.09"
+  - 48.1967
+  - -4.09
 ---
 #is_a_/Place  
 #is_a_ :: [[Place]] 

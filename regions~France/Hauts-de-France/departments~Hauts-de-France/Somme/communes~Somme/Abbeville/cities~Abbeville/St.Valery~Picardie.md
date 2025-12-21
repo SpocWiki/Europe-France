@@ -1,16 +1,19 @@
 ---
-location: [50.18,1.63] 
-mapzoom: [7,12] 
-mapmarker: city 
+aliases:
+  - St.Valery~Picardie
+location:
+  - 50.18
+  - 1.63
+mapzoom:
+  - 7
+  - 12
+mapmarker: city
 type: City
 tags:
-- geo/City
-
-
+  - geo/City
 SpocWebEntityId: 34496
 isDeleted: false
 confidential: public
-
 ---
 #is_a_/Place  
 #is_a_ :: [[Place]] 

@@ -1,6 +1,7 @@
 ---
 aliases:
   - Normandy
+  - Normandie
 ---
 
 ```leaflet

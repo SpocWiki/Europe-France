@@ -1,16 +1,18 @@
 ---
 aliases:
   - history of France
+  - History_of_France
+  - History of France
 has_id_wikidata: Q7778
 described_by_source:
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
-has_part_s_: "[[_Standards/WikiData/WD~history_of_Auvergne,3136880]]"
-topic_has_template: "[[_Standards/WikiData/WD~Template_History_of_France,6828443]]"
-instance_of: "[[_Standards/WikiData/WD~academic_discipline,11862829]]"
-subclass_of: "[[_Standards/WikiData/WD~history_of_Europe,7787]]"
-facet_of: "[[_Standards/WikiData/WD~France,142]]"
-Dewey_Decimal_Classification: "944"
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
+has_part_s_: '[[_Standards/WikiData/WD~history_of_Auvergne,3136880]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_History_of_France,6828443]]'
+instance_of: '[[_Standards/WikiData/WD~academic_discipline,11862829]]'
+subclass_of: '[[_Standards/WikiData/WD~history_of_Europe,7787]]'
+facet_of: '[[_Standards/WikiData/WD~France,142]]'
+Dewey_Decimal_Classification: 944
 Commons_category: History of France
 ---
 

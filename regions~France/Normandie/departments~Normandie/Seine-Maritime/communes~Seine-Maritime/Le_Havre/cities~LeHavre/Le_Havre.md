@@ -1,16 +1,20 @@
 ---
-location: [49.48,0.11] 
-mapzoom: [7,12] 
-mapmarker: city 
+aliases:
+  - Le_Havre
+  - Le Havre
+location:
+  - 49.48
+  - 0.11
+mapzoom:
+  - 7
+  - 12
+mapmarker: city
 type: City
 tags:
-- geo/City
-
-
+  - geo/City
 SpocWebEntityId: 31893
 isDeleted: false
 confidential: public
-
 ---
 #is_a_/Place  
 #is_a_ :: [[Place]] 

@@ -1,16 +1,20 @@
 ---
-location: [49.28,0.18] 
-mapzoom: [7,12] 
-mapmarker: city 
+aliases:
+  - Pont_l`Evéque
+  - Pont l`Evéque
+location:
+  - 49.28
+  - 0.18
+mapzoom:
+  - 7
+  - 12
+mapmarker: city
 type: City
 tags:
-- geo/City
-
-
+  - geo/City
 SpocWebEntityId: 33444
 isDeleted: false
 confidential: public
-
 ---
 #is_a_/Place  
 #is_a_ :: [[Place]] 

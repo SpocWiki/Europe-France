@@ -1,16 +1,19 @@
 ---
-location: [48,-4.1] 
-mapzoom: [7,12] 
-mapmarker: city 
+aliases:
+  - Quimper
+location:
+  - 48
+  - -4.1
+mapzoom:
+  - 7
+  - 12
+mapmarker: city
 type: City
 tags:
-- geo/City
-
-
+  - geo/City
 SpocWebEntityId: 33583
 isDeleted: false
 confidential: public
-
 ---
 #is_a_/Place  
 #is_a_ :: [[Place]] 

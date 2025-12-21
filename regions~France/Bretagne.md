@@ -1,6 +1,7 @@
 ---
 aliases:
   - Brittany
+  - Bretagne
 ---
 
 ```leaflet

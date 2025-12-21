@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Département~Val-de-Marne
+  - Val-de-Marne
 location:
   - 48.8
   - 2.5
@@ -12,18 +15,16 @@ draft: false
 confidential: public
 tags:
   - geo/Country/Region
-aliases:
-  - Département~Val-de-Marne
 Languages:
   - de
 cssclasses:
   - geo-Region
 publish: true
-linkTitle:
-keywords:
-layout:
-publishDate:
-expiryDate:
+linkTitle: ''
+keywords: ''
+layout: ''
+publishDate: ''
+expiryDate: ''
 ---
 
 # Département~Val-de-Marne

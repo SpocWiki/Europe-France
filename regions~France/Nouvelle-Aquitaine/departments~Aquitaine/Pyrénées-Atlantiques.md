@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Département~Pyrénées-Atlantiques
+  - Pyrénées-Atlantiques
 location:
   - 43.2
   - -0.7
@@ -12,18 +15,16 @@ draft: false
 confidential: public
 tags:
   - geo/Country/Region
-aliases:
-  - Département~Pyrénées-Atlantiques
 Languages:
   - de
 cssclasses:
   - geo-Region
 publish: true
-linkTitle:
-keywords:
-layout:
-publishDate:
-expiryDate:
+linkTitle: ''
+keywords: ''
+layout: ''
+publishDate: ''
+expiryDate: ''
 ---
 
 # Département~Pyrénées-Atlantiques

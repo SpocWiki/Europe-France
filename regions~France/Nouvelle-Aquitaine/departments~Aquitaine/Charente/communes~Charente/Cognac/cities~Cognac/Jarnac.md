@@ -1,16 +1,19 @@
 ---
-location: [45.68,-0.17] 
-mapzoom: [7,12] 
-mapmarker: city 
+aliases:
+  - Jarnac
+location:
+  - 45.68
+  - -0.17
+mapzoom:
+  - 7
+  - 12
+mapmarker: city
 type: City
 tags:
-- geo/City
-
-
+  - geo/City
 SpocWebEntityId: 31163
 isDeleted: false
 confidential: public
-
 ---
 #is_a_/Place  
 #is_a_ :: [[Place]] 

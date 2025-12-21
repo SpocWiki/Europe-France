@@ -1,6 +1,7 @@
 ---
 aliases:
   - Provence-Alpes-Côte d'Azur
+  - Provence-Alpes-Côte_d'Azur
 ---
 
 ```leaflet

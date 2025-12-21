@@ -1,16 +1,20 @@
 ---
-location: [50.02,3.78] 
-mapzoom: [7,12] 
-mapmarker: city 
+aliases:
+  - Nouvion_en_Thierache
+  - Nouvion en Thierache
+location:
+  - 50.02
+  - 3.78
+mapzoom:
+  - 7
+  - 12
+mapmarker: city
 type: City
 tags:
-- geo/City
-
-
+  - geo/City
 SpocWebEntityId: 32968
 isDeleted: false
 confidential: public
-
 ---
 #is_a_/Place  
 #is_a_ :: [[Place]] 

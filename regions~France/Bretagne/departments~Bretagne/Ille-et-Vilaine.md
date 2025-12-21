@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Département~Ille-et-Vilaine
+  - Ille-et-Vilaine
 location:
   - 48.2
   - -1.6
@@ -12,18 +15,16 @@ draft: false
 confidential: public
 tags:
   - geo/Country/Region
-aliases:
-  - Département~Ille-et-Vilaine
 Languages:
   - de
 cssclasses:
   - geo-Region
 publish: true
-linkTitle:
-keywords:
-layout:
-publishDate:
-expiryDate:
+linkTitle: ''
+keywords: ''
+layout: ''
+publishDate: ''
+expiryDate: ''
 ---
 
 # Département~Ille-et-Vilaine

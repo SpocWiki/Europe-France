@@ -1,16 +1,19 @@
 ---
-location: [49.05,3.95] 
-mapzoom: [7,12] 
-mapmarker: city 
+aliases:
+  - Epernay
+location:
+  - 49.05
+  - 3.95
+mapzoom:
+  - 7
+  - 12
+mapmarker: city
 type: City
 tags:
-- geo/City
-
-
+  - geo/City
 SpocWebEntityId: 30037
 isDeleted: false
 confidential: public
-
 ---
 #is_a_/Place  
 #is_a_ :: [[Place]] 

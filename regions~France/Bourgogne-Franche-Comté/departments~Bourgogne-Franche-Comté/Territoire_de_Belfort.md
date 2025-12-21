@@ -1,4 +1,8 @@
 ---
+aliases:
+  - Département~Territoire_de_Belfort
+  - Territoire_de_Belfort
+  - Territoire de Belfort
 location:
   - 47.6
   - 6.9
@@ -12,18 +16,16 @@ draft: false
 confidential: public
 tags:
   - geo/Country/Region
-aliases:
-  - Département~Territoire_de_Belfort
 Languages:
   - de
 cssclasses:
   - geo-Region
 publish: true
-linkTitle:
-keywords:
-layout:
-publishDate:
-expiryDate:
+linkTitle: ''
+keywords: ''
+layout: ''
+publishDate: ''
+expiryDate: ''
 ---
 
 # Département~Territoire_de_Belfort

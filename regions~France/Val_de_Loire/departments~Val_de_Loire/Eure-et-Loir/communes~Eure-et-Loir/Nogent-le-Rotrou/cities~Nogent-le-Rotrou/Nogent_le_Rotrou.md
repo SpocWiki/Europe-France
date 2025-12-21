@@ -1,16 +1,20 @@
 ---
-location: [48.32,0.82] 
-mapzoom: [7,12] 
-mapmarker: city 
+aliases:
+  - Nogent_le_Rotrou
+  - Nogent le Rotrou
+location:
+  - 48.32
+  - 0.82
+mapzoom:
+  - 7
+  - 12
+mapmarker: city
 type: City
 tags:
-- geo/City
-
-
+  - geo/City
 SpocWebEntityId: 32934
 isDeleted: false
 confidential: public
-
 ---
 #is_a_/Place  
 #is_a_ :: [[Place]] 

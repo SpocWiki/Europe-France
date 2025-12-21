@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Département~Eure-et-Loir
+  - Eure-et-Loir
 location:
   - 48.4
   - 1.4
@@ -12,18 +15,16 @@ draft: false
 confidential: public
 tags:
   - geo/Country/Region
-aliases:
-  - Département~Eure-et-Loir
 Languages:
   - de
 cssclasses:
   - geo-Region
 publish: true
-linkTitle:
-keywords:
-layout:
-publishDate:
-expiryDate:
+linkTitle: ''
+keywords: ''
+layout: ''
+publishDate: ''
+expiryDate: ''
 ---
 
 # Département~Eure-et-Loir

@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Département~Seine-Maritime
+  - Seine-Maritime
 location:
   - 49.7
   - 0.9
@@ -12,18 +15,16 @@ draft: false
 confidential: public
 tags:
   - geo/Country/Region
-aliases:
-  - Département~Seine-Maritime
 Languages:
   - de
 cssclasses:
   - geo-Region
 publish: true
-linkTitle:
-keywords:
-layout:
-publishDate:
-expiryDate:
+linkTitle: ''
+keywords: ''
+layout: ''
+publishDate: ''
+expiryDate: ''
 ---
 
 # Département~Seine-Maritime

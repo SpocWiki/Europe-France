@@ -1,7 +1,8 @@
 ---
 aliases:
-  - Musée d'Orsay 
+  - Musée d'Orsay
   - Orsay Museum
+  - Musée_d'Orsay
 has_id_wikidata: Q23402
 archival_creator_authority_record_at_the_Archives_nationales:
   - FRAN_NP_005227
@@ -20,54 +21,54 @@ coordinate_location:
   - Point(2.326527 48.859972)
 AGORHA_UUID: 7d191818-026c-47de-89cb-6ea412e4bb68
 instance_of:
-  - "[[_Standards/WikiData/WD~art_museum,207694]]"
-  - "[[_Standards/WikiData/WD~production_company,11396960]]"
-  - "[[_Standards/WikiData/WD~national_museum,17431399]]"
-located_in_the_administrative_territorial_entity: "[[_Standards/WikiData/WD~7th_arrondissement_of_Paris,259463]]"
+  - '[[_Standards/WikiData/WD~art_museum,207694]]'
+  - '[[_Standards/WikiData/WD~production_company,11396960]]'
+  - '[[_Standards/WikiData/WD~national_museum,17431399]]'
+located_in_the_administrative_territorial_entity: '[[_Standards/WikiData/WD~7th_arrondissement_of_Paris,259463]]'
 chairperson:
-  - "[[_Standards/WikiData/WD~Françoise_Cachin,433981]]"
-  - "[[_Standards/WikiData/WD~Henri_Loyrette,2743768]]"
-  - "[[_Standards/WikiData/WD~Guy_Cogeval,3121665]]"
-  - "[[_Standards/WikiData/WD~Serge_Lemoine,3479410]]"
-  - "[[_Standards/WikiData/WD~Laurence_des_Cars,14626534]]"
-  - "[[_Standards/WikiData/WD~Christophe_Leribault,33104453]]"
+  - '[[_Standards/WikiData/WD~Françoise_Cachin,433981]]'
+  - '[[_Standards/WikiData/WD~Henri_Loyrette,2743768]]'
+  - '[[_Standards/WikiData/WD~Guy_Cogeval,3121665]]'
+  - '[[_Standards/WikiData/WD~Serge_Lemoine,3479410]]'
+  - '[[_Standards/WikiData/WD~Laurence_des_Cars,14626534]]'
+  - '[[_Standards/WikiData/WD~Christophe_Leribault,33104453]]'
 offers_view_on:
-  - "[[_Standards/WikiData/WD~Tuileries_Garden,818517]]"
-  - "[[_Standards/WikiData/WD~Louvre_Palace,1075988]]"
-  - "[[_Standards/WikiData/WD~banks_of_the_Seine,2233532]]"
-architect: "[[_Standards/WikiData/WD~Victor_Laloux,924704]]"
-significant_event: "[[_Standards/WikiData/WD~restitution_of_Nazi_looted_art,2146005]]"
+  - '[[_Standards/WikiData/WD~Tuileries_Garden,818517]]'
+  - '[[_Standards/WikiData/WD~Louvre_Palace,1075988]]'
+  - '[[_Standards/WikiData/WD~banks_of_the_Seine,2233532]]'
+architect: '[[_Standards/WikiData/WD~Victor_Laloux,924704]]'
+significant_event: '[[_Standards/WikiData/WD~restitution_of_Nazi_looted_art,2146005]]'
 award_received:
-  - "[[_Standards/WikiData/WD~musée_de_France,2275045]]"
-  - "[[_Standards/WikiData/WD~label_Tourisme_et_Handicap,30282398]]"
+  - '[[_Standards/WikiData/WD~musée_de_France,2275045]]'
+  - '[[_Standards/WikiData/WD~label_Tourisme_et_Handicap,30282398]]'
 named_after: "[[_Standards/WikiData/WD~Gare_d'Orsay,2698691]]"
 locations: "[[_Standards/WikiData/WD~Gare_d'Orsay,2698691]]"
-legal_form: "[[_Standards/WikiData/WD~public_establishment_of_an_administrative_nature,3244038]]"
+legal_form: '[[_Standards/WikiData/WD~public_establishment_of_an_administrative_nature,3244038]]'
 located_on_street:
-  - "[[_Standards/WikiData/WD~Rue_de_Bellechasse,3450565]]"
-  - "[[_Standards/WikiData/WD~rue_de_Lille,3450813]]"
-operator: "[[_Standards/WikiData/WD~Service_of_the_Museums_of_France,3480397]]"
+  - '[[_Standards/WikiData/WD~Rue_de_Bellechasse,3450565]]'
+  - '[[_Standards/WikiData/WD~rue_de_Lille,3450813]]'
+operator: '[[_Standards/WikiData/WD~Service_of_the_Museums_of_France,3480397]]'
 part_of: "[[_Standards/WikiData/WD~Établissement_public_du_musée_d'Orsay_et_du_musée_de_l'Orangerie,13380294]]"
-topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Portal_Orsay_Museum,15904260]]"
-topic_has_template: "[[_Standards/WikiData/WD~Q26138863,26138863]]"
-activity_policy_in_this_place: "[[_Standards/WikiData/WD~no_photos,51728721]]"
+topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Orsay_Museum,15904260]]'
+topic_has_template: '[[_Standards/WikiData/WD~Q26138863,26138863]]'
+activity_policy_in_this_place: '[[_Standards/WikiData/WD~no_photos,51728721]]'
 owner_of:
-  - "[[_Standards/WikiData/WD~Base_Salons,57548668]]"
-  - "[[_Standards/WikiData/WD~À_nos_grands_hommes,58439381]]"
+  - '[[_Standards/WikiData/WD~Base_Salons,57548668]]'
+  - '[[_Standards/WikiData/WD~À_nos_grands_hommes,58439381]]'
 position_held_by_head_of_the_organization: "[[_Standards/WikiData/WD~President_of_the_Musée_d'Orsay,108552181]]"
 founded_by:
-  - "[[_Standards/WikiData/WD~François_Mitterrand,2038]]"
+  - '[[_Standards/WikiData/WD~François_Mitterrand,2038]]'
   - "[[_Standards/WikiData/WD~Valéry_Giscard_d'Estaing,2124]]"
 Wikidata_property:
   - Musée d'Orsay artist or personality ID
   - Musée d'Orsay artwork ID
-has_part_s_: "[[_Standards/WikiData/WD~restaurant,11707]]"
-headquarters_locations: "[[_Standards/WikiData/WD~Paris,90]]"
-country: "[[_Standards/WikiData/WD~France,142]]"
+has_part_s_: '[[_Standards/WikiData/WD~restaurant,11707]]'
+headquarters_locations: '[[_Standards/WikiData/WD~Paris,90]]'
+country: '[[_Standards/WikiData/WD~France,142]]'
 social_media_followers:
   - 62200
   - 756348
-postal_code: "75343"
+postal_code: 75343
 visitors_per_year: 1044365
 Commons_Institution_page: Musée d'Orsay
 Commons_gallery: Musée d'Orsay
@@ -90,8 +91,8 @@ phone_number:
   - +33 1 40 49 48 14
   - +33-1-40-49-48-14
 ISNI:
-  - "0000000121572575"
-  - "0000000406451902"
+  - 0000000121572575
+  - 0000000406451902
 ---
 
 # [[Musée_d'Orsay]] 

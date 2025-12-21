@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Département~Hautes-Pyrénées
+  - Hautes-Pyrénées
 location:
   - 43.1
   - 0.2
@@ -12,18 +15,16 @@ draft: false
 confidential: public
 tags:
   - geo/Country/Region
-aliases:
-  - Département~Hautes-Pyrénées
 Languages:
   - de
 cssclasses:
   - geo-Region
 publish: true
-linkTitle:
-keywords:
-layout:
-publishDate:
-expiryDate:
+linkTitle: ''
+keywords: ''
+layout: ''
+publishDate: ''
+expiryDate: ''
 ---
 
 # Département~Hautes-Pyrénées

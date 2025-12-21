@@ -1,16 +1,19 @@
 ---
-location: [48.73,4.58] 
-mapzoom: [7,12] 
-mapmarker: city 
+aliases:
+  - Vitry-le-Franc
+location:
+  - 48.73
+  - 4.58
+mapzoom:
+  - 7
+  - 12
+mapmarker: city
 type: City
 tags:
-- geo/City
-
-
+  - geo/City
 SpocWebEntityId: 35330
 isDeleted: false
 confidential: public
-
 ---
 #is_a_/Place  
 #is_a_ :: [[Place]] 

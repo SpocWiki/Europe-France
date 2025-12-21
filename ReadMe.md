@@ -1,8 +1,17 @@
 ---
-title: France
-linkTitle:
-type: Country
+aliases:
+  - France
+  - Francia
+  - فرنسا
+  - 法国
+  - Франция
+  - the French Republic
+  - la República Francesa
+  - ReadMe
 has_id_wikidata: Q142
+title: France
+linkTitle: ''
+type: Country
 location:
   - 46.8944
   - 2.33663
@@ -17,19 +26,11 @@ source: https://datahub.io/core/country-codes
 cssclasses:
   - Country
 publish: true
-keywords:
-layout:
+keywords: ''
+layout: ''
 draft: false
-publishDate:
-expiryDate:
-aliases:
-  - France
-  - Francia
-  - فرنسا
-  - 法国
-  - Франция
-  - the French Republic
-  - la República Francesa
+publishDate: ''
+expiryDate: ''
 Languages:
   - fr-FR
   - frp

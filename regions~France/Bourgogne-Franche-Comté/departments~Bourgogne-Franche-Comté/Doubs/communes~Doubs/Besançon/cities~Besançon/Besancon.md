@@ -1,16 +1,19 @@
 ---
-location: [47.25,5.98] 
-mapzoom: [7,12] 
-mapmarker: city 
+aliases:
+  - Besancon
+location:
+  - 47.25
+  - 5.98
+mapzoom:
+  - 7
+  - 12
+mapmarker: city
 type: City
 tags:
-- geo/City
-
-
+  - geo/City
 SpocWebEntityId: 29151
 isDeleted: false
 confidential: public
-
 ---
 #is_a_/Place  
 #is_a_ :: [[Place]] 

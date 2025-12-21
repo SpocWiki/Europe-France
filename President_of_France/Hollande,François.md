@@ -3,6 +3,7 @@ aliases:
   - François Hollande
   - François_Hollande
   - François Gérard Georges Nicolas Hollande
+  - Hollande,François
 ---
 
 ## #has_/text_of_/abstract 

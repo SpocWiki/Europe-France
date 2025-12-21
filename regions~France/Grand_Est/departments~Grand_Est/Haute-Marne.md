@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Département~Haute-Marne
+  - Haute-Marne
 location:
   - 48.1
   - 5.3
@@ -12,18 +15,16 @@ draft: false
 confidential: public
 tags:
   - geo/Country/Region
-aliases:
-  - Département~Haute-Marne
 Languages:
   - de
 cssclasses:
   - geo-Region
 publish: true
-linkTitle:
-keywords:
-layout:
-publishDate:
-expiryDate:
+linkTitle: ''
+keywords: ''
+layout: ''
+publishDate: ''
+expiryDate: ''
 ---
 
 # Département~Haute-Marne

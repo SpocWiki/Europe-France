@@ -1,39 +1,42 @@
 ---
 aliases:
-  - Sanctuary of Our Lady of Lourdes 
+  - Sanctuary of Our Lady of Lourdes
   - Sanctuaire de Notre-Dame de Lourdes
   - Santuari de Nòstra Senhora de Lorda
+  - Sanctuary_of_Our_Lady_of_Lourdes
 has_id_wikidata: Q7709620
-location: [43.0976, -0.05654]
+location:
+  - 43.0976
+  - -0.05654
 coordinate_location: Point(-0.05654 43.0976)
 inception: 1858-01-01T00:00:00Z
-religion_or_worldview: "[[_Standards/WikiData/WD~Catholicism,1841]]"
-award_received: "[[_Standards/WikiData/WD~Golden_Rose,367484]]"
-Christian_liturgical_rite: "[[_Standards/WikiData/WD~Roman_Rite,730757]]"
+religion_or_worldview: '[[_Standards/WikiData/WD~Catholicism,1841]]'
+award_received: '[[_Standards/WikiData/WD~Golden_Rose,367484]]'
+Christian_liturgical_rite: '[[_Standards/WikiData/WD~Roman_Rite,730757]]'
 has_part_s_:
-  - "[[_Standards/WikiData/WD~Rosary_Basilica,746283]]"
-  - "[[_Standards/WikiData/WD~Basilica_of_St._Pius_X,810101]]"
-  - "[[_Standards/WikiData/WD~Massabielle_Grotto,1918916]]"
-  - "[[_Standards/WikiData/WD~Église_Sainte_Bernadette_de_Lourdes,21416498]]"
-  - "[[_Standards/WikiData/WD~Via_Crucis_of_Lourdes,23021609]]"
+  - '[[_Standards/WikiData/WD~Rosary_Basilica,746283]]'
+  - '[[_Standards/WikiData/WD~Basilica_of_St._Pius_X,810101]]'
+  - '[[_Standards/WikiData/WD~Massabielle_Grotto,1918916]]'
+  - '[[_Standards/WikiData/WD~Église_Sainte_Bernadette_de_Lourdes,21416498]]'
+  - '[[_Standards/WikiData/WD~Via_Crucis_of_Lourdes,23021609]]'
   - "[[_Standards/WikiData/WD~Basilique_de_l'Immaculée_Conception_de_Lourdes,3320]]"
-diocese: "[[_Standards/WikiData/WD~Roman_Catholic_Diocese_of_Tarbes_et_Lourdes,770413]]"
+diocese: '[[_Standards/WikiData/WD~Roman_Catholic_Diocese_of_Tarbes_et_Lourdes,770413]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~shrine_to_the_Virgin_Mary,840482]]"
-  - "[[_Standards/WikiData/WD~international_shrine,25392016]]"
+  - '[[_Standards/WikiData/WD~shrine_to_the_Virgin_Mary,840482]]'
+  - '[[_Standards/WikiData/WD~international_shrine,25392016]]'
 heritage_designation:
-  - "[[_Standards/WikiData/WD~Patrimoine_du_XXe_siècle,3214312]]"
-  - "[[_Standards/WikiData/WD~monument_historique_inscrit,10387575]]"
+  - '[[_Standards/WikiData/WD~Patrimoine_du_XXe_siècle,3214312]]'
+  - '[[_Standards/WikiData/WD~monument_historique_inscrit,10387575]]'
 part_of:
-  - "[[_Standards/WikiData/WD~European_Marian_Network,5412798]]"
-  - "[[_Standards/WikiData/WD~Ruta_mariana,6114470]]"
-located_in_the_administrative_territorial_entity: "[[_Standards/WikiData/WD~Lourdes,3327]]"
-country: "[[_Standards/WikiData/WD~France,142]]"
+  - '[[_Standards/WikiData/WD~European_Marian_Network,5412798]]'
+  - '[[_Standards/WikiData/WD~Ruta_mariana,6114470]]'
+located_in_the_administrative_territorial_entity: '[[_Standards/WikiData/WD~Lourdes,3327]]'
+country: '[[_Standards/WikiData/WD~France,142]]'
 Commons_category: Sanctuary of Our Lady of Lourdes
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Lourdes%20basilique%20vue%20depuis%20ch%C3%A2teau%20%283%29.JPG
 image_of_interior: http://commons.wikimedia.org/wiki/Special:FilePath/Grotto%20of%20Lourdes%20-%20Lourdes%202014%20%283%29.JPG
 official_website: http://fr.lourdes-france.org/
-ISNI: "0000000122921810"
+ISNI: 0000000122921810
 street_address: boulevard de la Grotte
 ---
 

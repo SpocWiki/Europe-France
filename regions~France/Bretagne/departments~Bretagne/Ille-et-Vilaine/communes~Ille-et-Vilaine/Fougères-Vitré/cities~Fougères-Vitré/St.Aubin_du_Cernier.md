@@ -1,16 +1,20 @@
 ---
-location: [48.27,-1.4] 
-mapzoom: [7,12] 
-mapmarker: city 
+aliases:
+  - St.Aubin_du_Cernier
+  - St.Aubin du Cernier
+location:
+  - 48.27
+  - -1.4
+mapzoom:
+  - 7
+  - 12
+mapmarker: city
 type: City
 tags:
-- geo/City
-
-
+  - geo/City
 SpocWebEntityId: 34441
 isDeleted: false
 confidential: public
-
 ---
 #is_a_/Place  
 #is_a_ :: [[Place]] 

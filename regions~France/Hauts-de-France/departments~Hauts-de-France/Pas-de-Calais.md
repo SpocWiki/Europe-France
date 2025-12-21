@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Département~Pas-de-Calais
+  - Pas-de-Calais
 location:
   - 50.5
   - 2.2
@@ -12,18 +15,16 @@ draft: false
 confidential: public
 tags:
   - geo/Country/Region
-aliases:
-  - Département~Pas-de-Calais
 Languages:
   - de
 cssclasses:
   - geo-Region
 publish: true
-linkTitle:
-keywords:
-layout:
-publishDate:
-expiryDate:
+linkTitle: ''
+keywords: ''
+layout: ''
+publishDate: ''
+expiryDate: ''
 ---
 
 # Département~Pas-de-Calais

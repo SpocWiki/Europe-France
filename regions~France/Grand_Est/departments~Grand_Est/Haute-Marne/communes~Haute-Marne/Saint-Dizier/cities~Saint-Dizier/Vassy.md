@@ -1,16 +1,19 @@
 ---
-location: [48.5,4.95] 
-mapzoom: [7,12] 
-mapmarker: city 
+aliases:
+  - Vassy
+location:
+  - 48.5
+  - 4.95
+mapzoom:
+  - 7
+  - 12
+mapmarker: city
 type: City
 tags:
-- geo/City
-
-
+  - geo/City
 SpocWebEntityId: 35221
 isDeleted: false
 confidential: public
-
 ---
 #is_a_/Place  
 #is_a_ :: [[Place]] 

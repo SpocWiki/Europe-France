@@ -1,16 +1,19 @@
 ---
-location: [49.58,5.03] 
-mapzoom: [7,12] 
-mapmarker: city 
+aliases:
+  - Virton
+location:
+  - 49.58
+  - 5.03
+mapzoom:
+  - 7
+  - 12
+mapmarker: city
 type: City
 tags:
-- geo/City
-
-
+  - geo/City
 SpocWebEntityId: 35322
 isDeleted: false
 confidential: public
-
 ---
 #is_a_/Place  
 #is_a_ :: [[Place]] 

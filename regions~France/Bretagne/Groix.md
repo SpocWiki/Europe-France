@@ -1,16 +1,19 @@
 ---
-location: [47.65,-3.52] 
-mapzoom: [7,12] 
-mapmarker: city 
+aliases:
+  - Groix
+location:
+  - 47.65
+  - -3.52
+mapzoom:
+  - 7
+  - 12
+mapmarker: city
 type: City
 tags:
-- geo/City
-
-
+  - geo/City
 SpocWebEntityId: 30588
 isDeleted: false
 confidential: public
-
 ---
 #is_a_/Place  
 #is_a_ :: [[Place]] 

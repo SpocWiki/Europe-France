@@ -1,16 +1,18 @@
 ---
 aliases:
   - French Revolution of 1830, Second French Revolution, or Trois Glorieuses
+  - 1830-July_Revolution
+  - 1830-July Revolution
 has_id_wikidata: Q214028
-part_of: "[[_Standards/WikiData/WD~Bourbon_Restoration_in_France,207162]]"
+part_of: '[[_Standards/WikiData/WD~Bourbon_Restoration_in_France,207162]]'
 described_by_source:
-  - "[[../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._6,124737633]]"
-instance_of: "[[_Standards/WikiData/WD~revolution,10931]]"
-derivative_work: "[[_Standards/WikiData/WD~Liberty_Leading_the_People,29530]]"
-locations: "[[_Standards/WikiData/WD~France,142]]"
+  - '[[../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
+  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._6,124737633]]'
+instance_of: '[[_Standards/WikiData/WD~revolution,10931]]'
+derivative_work: '[[_Standards/WikiData/WD~Liberty_Leading_the_People,29530]]'
+locations: '[[_Standards/WikiData/WD~France,142]]'
 end_time: 1830-07-29T00:00:00Z
 start_time: 1830-07-27T00:00:00Z
 point_in_time: 1830-07-01T00:00:00Z

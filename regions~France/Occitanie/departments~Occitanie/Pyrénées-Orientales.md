@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Département~Pyrénées-Orientales
+  - Pyrénées-Orientales
 location:
   - 42.6
   - 2.5
@@ -12,18 +15,16 @@ draft: false
 confidential: public
 tags:
   - geo/Country/Region
-aliases:
-  - Département~Pyrénées-Orientales
 Languages:
   - de
 cssclasses:
   - geo-Region
 publish: true
-linkTitle:
-keywords:
-layout:
-publishDate:
-expiryDate:
+linkTitle: ''
+keywords: ''
+layout: ''
+publishDate: ''
+expiryDate: ''
 ---
 
 # Département~Pyrénées-Orientales

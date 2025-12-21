@@ -2,32 +2,34 @@
 aliases:
   - National Convention
   - Convention nationale
+  - 1792-National_Convention-1795
+  - 1792-National Convention-1795
 has_id_wikidata: Q219825
 described_by_source:
-  - "[[../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511]]"
-  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632]]"
+  - '[[../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+  - '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
+  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+  - '[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511]]'
+  - '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632]]'
 replaced_by:
-  - "[[_Standards/WikiData/WD~Council_of_Five_Hundred,617290]]"
-  - "[[_Standards/WikiData/WD~Council_of_Ancients,2325988]]"
+  - '[[_Standards/WikiData/WD~Council_of_Five_Hundred,617290]]'
+  - '[[_Standards/WikiData/WD~Council_of_Ancients,2325988]]'
 child_organization_or_unit:
-  - "[[_Standards/WikiData/WD~Committee_of_Public_Safety,724922]]"
-  - "[[_Standards/WikiData/WD~Committee_of_General_Security,1391619]]"
-position_held_by_head_of_the_organization: "[[_Standards/WikiData/WD~President_of_the_National_Convention,3409181]]"
+  - '[[_Standards/WikiData/WD~Committee_of_Public_Safety,724922]]'
+  - '[[_Standards/WikiData/WD~Committee_of_General_Security,1391619]]'
+position_held_by_head_of_the_organization: '[[_Standards/WikiData/WD~President_of_the_National_Convention,3409181]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~regime,5589178]]"
-  - "[[_Standards/WikiData/WD~legislative_term,15238777]]"
-  - "[[_Standards/WikiData/WD~parliament,35749]]"
-has_part_s_: "[[_Standards/WikiData/WD~deputy_to_the_National_Convention,20808382]]"
-country: "[[_Standards/WikiData/WD~France,142]]"
-part_of: "[[_Standards/WikiData/WD~French_First_Republic,58296]]"
+  - '[[_Standards/WikiData/WD~regime,5589178]]'
+  - '[[_Standards/WikiData/WD~legislative_term,15238777]]'
+  - '[[_Standards/WikiData/WD~parliament,35749]]'
+has_part_s_: '[[_Standards/WikiData/WD~deputy_to_the_National_Convention,20808382]]'
+country: '[[_Standards/WikiData/WD~France,142]]'
+part_of: '[[_Standards/WikiData/WD~French_First_Republic,58296]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Paris%20Panth%C3%A9on%20Innen%20La%20Convention%20nationale%202.jpg
-ISNI: "0000000121829537"
+ISNI: 0000000121829537
 Commons_category: National Convention
 native_label: Convention nationale
 official_name: Convention nationale

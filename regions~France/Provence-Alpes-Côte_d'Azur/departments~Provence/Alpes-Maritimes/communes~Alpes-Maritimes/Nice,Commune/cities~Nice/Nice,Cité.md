@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Nizza
+  - Nice,Cité
 location:
   - 43.72
   - 7.3
@@ -9,11 +12,11 @@ mapmarker: city
 type: City
 tags:
   - geo/City
-SpocWebEntityId: [32932,32931]
+SpocWebEntityId:
+  - 32932
+  - 32931
 isDeleted: false
 confidential: public
-aliases:
-  - Nizza
 ---
 
 #is_a_/Place  

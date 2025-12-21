@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Département~Hauts-de-Seine
+  - Hauts-de-Seine
 location:
   - 48.8
   - 2.2
@@ -12,18 +15,16 @@ draft: false
 confidential: public
 tags:
   - geo/Country/Region
-aliases:
-  - Département~Hauts-de-Seine
 Languages:
   - de
 cssclasses:
   - geo-Region
 publish: true
-linkTitle:
-keywords:
-layout:
-publishDate:
-expiryDate:
+linkTitle: ''
+keywords: ''
+layout: ''
+publishDate: ''
+expiryDate: ''
 ---
 
 # Département~Hauts-de-Seine
