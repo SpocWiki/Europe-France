@@ -1,4 +1,6 @@
----
+﻿---
+has_time_started: 1792-09-20 
+has_time_stopped: 1795-10-26 
 aliases:
   - National Convention
   - Convention nationale

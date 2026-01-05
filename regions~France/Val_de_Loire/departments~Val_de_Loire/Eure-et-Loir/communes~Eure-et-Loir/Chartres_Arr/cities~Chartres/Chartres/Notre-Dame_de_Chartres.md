@@ -1,4 +1,5 @@
----
+﻿---
+has_time_started: 1145-01-01 
 aliases:
 has_id_wikidata: Q180274
 location: [ 48.447777777, 1.487777777]

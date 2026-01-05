@@ -1,4 +1,5 @@
----
+﻿---
+has_time_started: 1986-01-01 
 aliases:
   - Musée d'Orsay
   - Orsay Museum

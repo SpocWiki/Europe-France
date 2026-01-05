@@ -1,4 +1,6 @@
----
+﻿---
+has_time_started: 1871-03-18 
+has_time_stopped: 1871-05-28 
 aliases:
 has_id_wikidata: Q133132
 flag: "[[_Standards/WikiData/WD~red_flag,517327]]"

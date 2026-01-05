@@ -1,4 +1,5 @@
----
+﻿---
+has_time_started: 1257-01-01 
 aliases:
 has_id_wikidata: Q214654
 different_from: "[[_Standards/WikiData/WD~University_of_Paris,209842]]"

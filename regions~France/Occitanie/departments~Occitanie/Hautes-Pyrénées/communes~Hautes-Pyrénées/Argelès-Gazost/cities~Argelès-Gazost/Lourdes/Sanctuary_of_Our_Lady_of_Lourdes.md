@@ -1,4 +1,5 @@
----
+﻿---
+has_time_started: 1858-01-01 
 aliases:
   - Sanctuary of Our Lady of Lourdes
   - Sanctuaire de Notre-Dame de Lourdes

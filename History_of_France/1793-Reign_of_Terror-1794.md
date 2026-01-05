@@ -1,4 +1,6 @@
----
+﻿---
+has_time_started: 1793-09-02 
+has_time_stopped: 1794-07-28 
 aliases:
 has_id_wikidata: Q193547
 described_by_source:

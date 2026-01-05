@@ -1,4 +1,5 @@
----
+﻿---
+has_time_started: 1537-01-01 
 aliases:
   - Bibliothèque_nationale_de_France
   - Bibliothèque nationale de France

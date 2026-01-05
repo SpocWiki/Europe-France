@@ -1,4 +1,6 @@
----
+﻿---
+has_time_started: 1971-01-01 
+has_time_stopped: 2017-12-31 
 aliases:
   - Pierre and Marie Curie University
   - Université Pierre-et-Marie-Curie

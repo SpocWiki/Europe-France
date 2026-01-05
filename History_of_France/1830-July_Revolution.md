@@ -1,4 +1,6 @@
----
+﻿---
+has_time_started: 1830-07-27 
+has_time_stopped: 1830-07-29 
 aliases:
   - French Revolution of 1830, Second French Revolution, or Trois Glorieuses
   - 1830-July_Revolution
