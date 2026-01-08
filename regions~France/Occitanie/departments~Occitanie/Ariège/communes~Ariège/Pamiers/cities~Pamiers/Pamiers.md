@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 1.62
 dv_has_place_latitude: 43.12
-dv_name: Pamiers
+dv_has_name_: Pamiers
 dv_Country: "[[../../../../../../../../France]]"
 ---
 #is_a_/Place  

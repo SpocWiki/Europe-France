@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 2.42
 dv_has_place_latitude: 42.62
-dv_name: Prades
+dv_has_name_: Prades
 dv_Country: "[[../../../../../../../../France]]"
 ---
 #is_a_/Place  

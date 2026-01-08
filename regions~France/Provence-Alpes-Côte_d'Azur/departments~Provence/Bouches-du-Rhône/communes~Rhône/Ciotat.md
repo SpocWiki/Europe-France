@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 5.62
 dv_has_place_latitude: 43.18
-dv_name: Ciotat
+dv_has_name_: Ciotat
 dv_Country: "[[../../../../../../France]]"
 ---
 

@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: -0.25
 dv_has_place_latitude: 46.65
-dv_name: Parthenay
+dv_has_name_: Parthenay
 dv_Country: "[[../../../../../../../../France]]"
 ---
 #is_a_/Place  

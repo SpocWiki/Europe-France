@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 2.42
 dv_has_place_latitude: 50.75
-dv_name: St.Otmar
+dv_has_name_: St.Otmar
 dv_Country: "[[../../../../../../../../France]]"
 ---
 #is_a_/Place  

@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 2.63
 dv_has_place_latitude: 50.53
-dv_name: Bethune
+dv_has_name_: Bethune
 dv_Country: "[[../../../../../../../../France]]"
 ---
 #is_a_/Place  

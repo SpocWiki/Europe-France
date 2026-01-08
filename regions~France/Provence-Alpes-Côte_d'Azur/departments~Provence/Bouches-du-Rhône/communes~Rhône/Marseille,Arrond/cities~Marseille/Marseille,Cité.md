@@ -266,7 +266,7 @@ Dewey_Decimal_Classification: 2--44912
 dv_is_a_: "[[../../../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 5.4
 dv_has_place_latitude: 43.3
-dv_name: Marseille
+dv_has_name_: Marseille
 dv_is_:
   same_as: "[[../../../../../../../../../../../../WikiData/WD~Marseille,23482|WD~Marseille,23482]]"
 dv_is_same_as: "[[../../../../../../../../../../../../WikiData/WD~Marseille,23482|WD~Marseille,23482]]"

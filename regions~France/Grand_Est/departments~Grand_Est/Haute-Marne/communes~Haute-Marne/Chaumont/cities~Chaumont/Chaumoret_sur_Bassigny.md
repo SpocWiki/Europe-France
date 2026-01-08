@@ -18,7 +18,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 5.13
 dv_has_place_latitude: 48.12
-dv_name: Chaumoret sur Bassigny
+dv_has_name_: Chaumoret sur Bassigny
 dv_Country: "[[../../../../../../../../France]]"
 ---
 #is_a_/Place  

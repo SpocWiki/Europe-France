@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 2.9
 dv_has_place_latitude: 42.7
-dv_name: Perpignan
+dv_has_name_: Perpignan
 dv_Country: "[[../../../../../../../../France]]"
 ---
 #is_a_/Place  

@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: -0.6
 dv_has_place_latitude: 43.2
-dv_name: Oloron
+dv_has_name_: Oloron
 dv_Country: "[[../../../../../../../../France]]"
 ---
 #is_a_/Place  

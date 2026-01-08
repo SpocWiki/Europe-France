@@ -18,7 +18,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 0.7
 dv_has_place_latitude: 44.42
-dv_name: Villeneuve s. Lot.
+dv_has_name_: Villeneuve s. Lot.
 dv_Country: "[[../../../../../../../../France]]"
 ---
 #is_a_/Place  

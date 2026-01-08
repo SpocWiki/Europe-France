@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 1.87
 dv_has_place_latitude: 46.17
-dv_name: Guéret
+dv_has_name_: Guéret
 dv_Country: "[[../../../../../../../../France]]"
 ---
 #is_a_/Place  

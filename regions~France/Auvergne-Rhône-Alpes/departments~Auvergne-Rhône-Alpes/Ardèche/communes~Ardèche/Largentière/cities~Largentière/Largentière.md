@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 4.28
 dv_has_place_latitude: 44.55
-dv_name: Largentière
+dv_has_name_: Largentière
 dv_Country: "[[../../../../../../../../France]]"
 ---
 #is_a_/Place  

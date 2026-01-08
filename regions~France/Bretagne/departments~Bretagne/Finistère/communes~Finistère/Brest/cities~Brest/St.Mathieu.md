@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: -4.77
 dv_has_place_latitude: 48.33
-dv_name: St.Mathieu
+dv_has_name_: St.Mathieu
 dv_Country: "[[../../../../../../../../France]]"
 ---
 #is_a_/Place  

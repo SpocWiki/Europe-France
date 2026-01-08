@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: -2.75
 dv_has_place_latitude: 48.52
-dv_name: St.Brieuc
+dv_has_name_: St.Brieuc
 dv_Country: "[[../../../../../../../../France]]"
 ---
 #is_a_/Place  

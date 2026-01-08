@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 5.32
 dv_has_place_latitude: 45.15
-dv_name: St.Marcellin
+dv_has_name_: St.Marcellin
 dv_Country: "[[../../../../../../../../France]]"
 ---
 #is_a_/Place  

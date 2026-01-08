@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 2.23
 dv_has_place_latitude: 48.8
-dv_name: Meudon
+dv_has_name_: Meudon
 dv_Country: "[[../../../../../../../../France]]"
 ---
 #is_a_/Place  

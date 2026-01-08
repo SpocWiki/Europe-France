@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 0.75
 dv_has_place_latitude: 47.92
-dv_name: St.Calais
+dv_has_name_: St.Calais
 dv_Country: "[[../../../../../../../../France]]"
 ---
 #is_a_/Place  

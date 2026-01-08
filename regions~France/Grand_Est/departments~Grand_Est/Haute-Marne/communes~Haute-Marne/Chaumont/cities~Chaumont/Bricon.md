@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 5.02
 dv_has_place_latitude: 48.08
-dv_name: Bricon
+dv_has_name_: Bricon
 dv_Country: "[[../../../../../../../../France]]"
 ---
 #is_a_/Place  

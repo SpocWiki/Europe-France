@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 5.43
 dv_has_place_latitude: 47.37
-dv_name: Talmay
+dv_has_name_: Talmay
 dv_Country: "[[../../../../../../../../France]]"
 ---
 #is_a_/Place  

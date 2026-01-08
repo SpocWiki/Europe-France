@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 5.6
 dv_has_place_latitude: 47.45
-dv_name: Gray
+dv_has_name_: Gray
 dv_Country: "[[../../../../../../../../France]]"
 ---
 #is_a_/Place  

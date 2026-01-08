@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 3.4
 dv_has_place_latitude: 49.05
-dv_name: Chateau-Thierry
+dv_has_name_: Chateau-Thierry
 dv_Country: "[[../../../../../../../../France]]"
 ---
 #is_a_/Place  

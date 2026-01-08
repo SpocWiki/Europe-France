@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 0.07
 dv_has_place_latitude: 43.57
-dv_name: Aiguesmorth
+dv_has_name_: Aiguesmorth
 dv_Country: "[[../../../../../../../../France]]"
 ---
 #is_a_/Place  

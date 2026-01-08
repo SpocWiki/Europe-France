@@ -18,7 +18,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 2.13
 dv_has_place_latitude: 48.9
-dv_name: Le Vesinet
+dv_has_name_: Le Vesinet
 dv_Country: "[[../../../../../../../../France]]"
 ---
 #is_a_/Place  

@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 1.77
 dv_has_place_latitude: 50.47
-dv_name: Montreuil
+dv_has_name_: Montreuil
 dv_Country: "[[../../../../../../../../France]]"
 ---
 #is_a_/Place  

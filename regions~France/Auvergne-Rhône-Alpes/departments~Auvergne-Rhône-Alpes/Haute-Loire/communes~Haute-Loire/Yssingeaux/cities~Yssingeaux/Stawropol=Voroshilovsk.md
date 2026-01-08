@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 4.26
 dv_has_place_latitude: 45.05
-dv_name: Stawropol=Voroshilovsk
+dv_has_name_: Stawropol=Voroshilovsk
 dv_Country: "[[../../../../../../../../../Europe~East/Russia]]"
 ---
 #is_a_/Place  

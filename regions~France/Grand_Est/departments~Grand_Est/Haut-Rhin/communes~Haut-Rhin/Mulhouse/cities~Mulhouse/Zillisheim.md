@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 7.3
 dv_has_place_latitude: 47.7
-dv_name: Zillisheim
+dv_has_name_: Zillisheim
 dv_State: Alsace]
 dv_Country: "[[../../../../../../../../France]]"
 ---

@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 6.15
 dv_has_place_latitude: 47.62
-dv_name: Vesoul
+dv_has_name_: Vesoul
 dv_Country: "[[../../../../../../../../France]]"
 ---
 #is_a_/Place  

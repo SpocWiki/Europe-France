@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 4.08
 dv_has_place_latitude: 45.67
-dv_name: Lorette~St.Etienne
+dv_has_name_: Lorette~St.Etienne
 dv_Country: "[[../../../../../../../../France]]"
 ---
 #is_a_/Place  

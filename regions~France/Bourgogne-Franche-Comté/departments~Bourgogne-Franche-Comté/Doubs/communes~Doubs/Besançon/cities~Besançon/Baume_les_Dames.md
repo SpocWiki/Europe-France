@@ -18,7 +18,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 6.37
 dv_has_place_latitude: 47.37
-dv_name: Baume les Dames
+dv_has_name_: Baume les Dames
 dv_Country: "[[../../../../../../../../France]]"
 ---
 #is_a_/Place  

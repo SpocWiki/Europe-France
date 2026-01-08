@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 3.92
 dv_has_place_latitude: 49.83
-dv_name: Vervins
+dv_has_name_: Vervins
 dv_Country: "[[../../../../../../../../France]]"
 ---
 #is_a_/Place  

@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: -0.22
 dv_has_place_latitude: 44.43
-dv_name: Bazas
+dv_has_name_: Bazas
 dv_Country: "[[../../../../../../../../France]]"
 ---
 #is_a_/Place  

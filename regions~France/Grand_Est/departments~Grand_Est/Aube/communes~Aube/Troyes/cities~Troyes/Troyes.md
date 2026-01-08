@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 4.08
 dv_has_place_latitude: 48.3
-dv_name: Troyes
+dv_has_name_: Troyes
 dv_Country: "[[../../../../../../../../France]]"
 ---
 #is_a_/Place  

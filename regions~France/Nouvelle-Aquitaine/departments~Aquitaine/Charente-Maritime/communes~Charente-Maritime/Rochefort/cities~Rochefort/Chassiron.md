@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: -1.4
 dv_has_place_latitude: 46.03
-dv_name: Chassiron
+dv_has_name_: Chassiron
 dv_Country: "[[../../../../../../../../France]]"
 ---
 #is_a_/Place  

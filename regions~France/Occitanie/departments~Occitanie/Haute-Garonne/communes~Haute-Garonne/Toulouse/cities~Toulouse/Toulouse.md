@@ -196,7 +196,7 @@ contact_page_URL: https://metropole.toulouse.fr/nous-contacter
 dv_is_a_: "[[../../../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 1.47
 dv_has_place_latitude: 43.62
-dv_name: Toulouse
+dv_has_name_: Toulouse
 dv_is_:
   same_as: "[[../../../../../../../../../../../../WikiData/WD~Toulouse,7880|WD~Toulouse,7880]]"
 dv_is_same_as: "[[../../../../../../../../../../../../WikiData/WD~Toulouse,7880|WD~Toulouse,7880]]"

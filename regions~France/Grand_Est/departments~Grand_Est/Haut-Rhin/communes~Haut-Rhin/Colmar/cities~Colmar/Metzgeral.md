@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 7.57
 dv_has_place_latitude: 48
-dv_name: Metzgeral
+dv_has_name_: Metzgeral
 dv_Country: "[[../../../../../../../../France]]"
 ---
 #is_a_/Place  

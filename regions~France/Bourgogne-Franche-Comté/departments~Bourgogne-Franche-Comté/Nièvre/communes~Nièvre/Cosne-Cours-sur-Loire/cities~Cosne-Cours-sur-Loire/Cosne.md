@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 2.92
 dv_has_place_latitude: 47.4
-dv_name: Cosne
+dv_has_name_: Cosne
 dv_Country: "[[../../../../../../../../France]]"
 ---
 #is_a_/Place  

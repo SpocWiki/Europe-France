@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 1.83
 dv_has_place_latitude: 50.12
-dv_name: Abbéville
+dv_has_name_: Abbéville
 dv_Country: "[[../../../../../../../../France]]"
 ---
 #is_a_/Place  

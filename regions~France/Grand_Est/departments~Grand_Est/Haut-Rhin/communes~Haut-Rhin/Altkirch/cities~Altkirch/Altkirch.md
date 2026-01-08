@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 7.22
 dv_has_place_latitude: 47.63
-dv_name: Altkirch
+dv_has_name_: Altkirch
 dv_Country: "[[../../../../../../../../France]]"
 ---
 #is_a_/Place  

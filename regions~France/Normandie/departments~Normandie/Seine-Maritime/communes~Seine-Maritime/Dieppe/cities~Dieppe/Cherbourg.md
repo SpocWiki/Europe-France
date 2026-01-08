@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 1.63
 dv_has_place_latitude: 49.65
-dv_name: Cherbourg
+dv_has_name_: Cherbourg
 dv_Country: "[[../../../../../../../../France]]"
 ---
 #is_a_/Place  

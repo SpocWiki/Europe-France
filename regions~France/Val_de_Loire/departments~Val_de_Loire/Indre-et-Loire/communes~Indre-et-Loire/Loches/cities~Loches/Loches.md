@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 1
 dv_has_place_latitude: 47.13
-dv_name: Loches
+dv_has_name_: Loches
 dv_Country: "[[../../../../../../../../France]]"
 ---
 #is_a_/Place  

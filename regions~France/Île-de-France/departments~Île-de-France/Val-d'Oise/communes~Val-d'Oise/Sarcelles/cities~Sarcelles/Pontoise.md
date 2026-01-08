@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 2.58
 dv_has_place_latitude: 49.05
-dv_name: Pontoise
+dv_has_name_: Pontoise
 dv_Country: "[[../../../../../../../../France]]"
 ---
 #is_a_/Place  

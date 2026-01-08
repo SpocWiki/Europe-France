@@ -18,7 +18,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: -0.52
 dv_has_place_latitude: 45.95
-dv_name: St.Jean d`Angely
+dv_has_name_: St.Jean d`Angely
 dv_Country: "[[../../../../../../../../France]]"
 ---
 #is_a_/Place  

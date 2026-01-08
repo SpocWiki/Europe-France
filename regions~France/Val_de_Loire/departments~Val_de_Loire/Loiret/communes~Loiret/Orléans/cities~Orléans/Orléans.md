@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 1.92
 dv_has_place_latitude: 47.98
-dv_name: Orléans
+dv_has_name_: Orléans
 dv_Country: "[[../../../../../../../../France]]"
 ---
 #is_a_/Place  

@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 5.37
 dv_has_place_latitude: 44.75
-dv_name: Die
+dv_has_name_: Die
 dv_Country: "[[../../../../../../../../France]]"
 ---
 #is_a_/Place  

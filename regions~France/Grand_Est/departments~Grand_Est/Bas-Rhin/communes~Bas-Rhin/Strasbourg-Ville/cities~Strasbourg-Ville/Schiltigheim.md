@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 7.75
 dv_has_place_latitude: 48.6
-dv_name: Schiltigheim
+dv_has_name_: Schiltigheim
 dv_Country: "[[../../../../../../../../../Europe~Central/Germany]]"
 dv_State: "[[../../Baden-Wuerttemberg]]"
 ---

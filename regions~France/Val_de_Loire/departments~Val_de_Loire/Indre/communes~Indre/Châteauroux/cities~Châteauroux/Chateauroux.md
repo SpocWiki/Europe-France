@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 1.7
 dv_has_place_latitude: 46.82
-dv_name: Chateauroux
+dv_has_name_: Chateauroux
 dv_Country: "[[../../../../../../../../France]]"
 ---
 #is_a_/Place  

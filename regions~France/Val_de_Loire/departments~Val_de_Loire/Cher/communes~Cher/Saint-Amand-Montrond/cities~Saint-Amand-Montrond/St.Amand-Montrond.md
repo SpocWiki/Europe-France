@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 2.52
 dv_has_place_latitude: 46.72
-dv_name: St.Amand-Montrond
+dv_has_name_: St.Amand-Montrond
 dv_Country: "[[../../../../../../../../France]]"
 ---
 #is_a_/Place  

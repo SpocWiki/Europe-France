@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: -0.7
 dv_has_place_latitude: 47.83
-dv_name: Chateau-Gontier
+dv_has_name_: Chateau-Gontier
 dv_Country: "[[../../../../../../../../France]]"
 ---
 #is_a_/Place  

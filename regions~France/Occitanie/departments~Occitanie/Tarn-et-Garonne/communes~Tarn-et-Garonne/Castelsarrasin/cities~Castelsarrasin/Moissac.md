@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 1.08
 dv_has_place_latitude: 44.1
-dv_name: Moissac
+dv_has_name_: Moissac
 dv_Country: "[[../../../../../../../../France]]"
 ---
 #is_a_/Place  

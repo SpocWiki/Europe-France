@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 1.95
 dv_has_place_latitude: 43.32
-dv_name: Castelnaudary
+dv_has_name_: Castelnaudary
 dv_Country: "[[../../../../../../../../France]]"
 ---
 #is_a_/Place  

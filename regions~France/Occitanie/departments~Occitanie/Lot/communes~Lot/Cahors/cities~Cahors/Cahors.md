@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 1.45
 dv_has_place_latitude: 44.45
-dv_name: Cahors
+dv_has_name_: Cahors
 dv_Country: "[[../../../../../../../../France]]"
 ---
 #is_a_/Place  

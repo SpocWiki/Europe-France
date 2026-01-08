@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 0.55
 dv_has_place_latitude: 46.82
-dv_name: Chatelleroult
+dv_has_name_: Chatelleroult
 dv_Country: "[[../../../../../../../../France]]"
 ---
 #is_a_/Place  

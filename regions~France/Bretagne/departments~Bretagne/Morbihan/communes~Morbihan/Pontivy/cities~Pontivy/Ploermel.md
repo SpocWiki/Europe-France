@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: -2.48
 dv_has_place_latitude: 47.93
-dv_name: Ploermel
+dv_has_name_: Ploermel
 dv_Country: "[[../../../../../../../../France]]"
 ---
 #is_a_/Place  

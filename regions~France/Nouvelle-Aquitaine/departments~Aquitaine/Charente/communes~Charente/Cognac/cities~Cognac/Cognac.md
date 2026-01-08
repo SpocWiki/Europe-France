@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: -0.33
 dv_has_place_latitude: 45.7
-dv_name: Cognac
+dv_has_name_: Cognac
 dv_Country: "[[../../../../../../../../France]]"
 ---
 #is_a_/Place  

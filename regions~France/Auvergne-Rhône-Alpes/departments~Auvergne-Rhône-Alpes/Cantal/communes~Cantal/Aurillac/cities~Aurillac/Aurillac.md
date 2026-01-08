@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 2.45
 dv_has_place_latitude: 44.93
-dv_name: Aurillac
+dv_has_name_: Aurillac
 dv_Country: "[[../../../../../../../../France]]"
 ---
 #is_a_/Place  

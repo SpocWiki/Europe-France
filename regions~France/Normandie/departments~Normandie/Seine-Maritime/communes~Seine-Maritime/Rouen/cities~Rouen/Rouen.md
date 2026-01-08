@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 1.1
 dv_has_place_latitude: 49.43
-dv_name: Rouen
+dv_has_name_: Rouen
 dv_Country: "[[../../../../../../../../France]]"
 ---
 #is_a_/Place  

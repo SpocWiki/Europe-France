@@ -18,7 +18,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 1.53
 dv_has_place_latitude: 45.17
-dv_name: Brive=La Gaillarde
+dv_has_name_: Brive=La Gaillarde
 dv_Country: "[[../../../../../../../../France]]"
 ---
 #is_a_/Place  

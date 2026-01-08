@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 4.08
 dv_has_place_latitude: 44.12
-dv_name: Ales
+dv_has_name_: Ales
 dv_Country: "[[../../../../../../../../France]]"
 ---
 #is_a_/Place  

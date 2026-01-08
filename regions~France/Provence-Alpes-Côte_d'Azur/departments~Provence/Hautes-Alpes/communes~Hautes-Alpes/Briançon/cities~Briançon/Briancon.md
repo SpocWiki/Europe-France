@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 6.65
 dv_has_place_latitude: 44.9
-dv_name: Briancon
+dv_has_name_: Briancon
 dv_Country: "[[../../../../../../../../France]]"
 ---
 #is_a_/Place  

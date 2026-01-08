@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 2.88
 dv_has_place_latitude: 43.97
-dv_name: St.Affrique
+dv_has_name_: St.Affrique
 dv_Country: "[[../../../../../../../../France]]"
 ---
 #is_a_/Place  

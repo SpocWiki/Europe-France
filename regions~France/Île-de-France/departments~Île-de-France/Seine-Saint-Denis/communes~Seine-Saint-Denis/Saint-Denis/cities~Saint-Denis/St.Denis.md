@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 2.37
 dv_has_place_latitude: 48.95
-dv_name: St.Denis
+dv_has_name_: St.Denis
 dv_Country: "[[../../../../../../../../France]]"
 ---
 #is_a_/Place  

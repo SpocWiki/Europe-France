@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 3.1
 dv_has_place_latitude: 45.03
-dv_name: St.Fleur
+dv_has_name_: St.Fleur
 dv_Country: "[[../../../../../../../../France]]"
 ---
 #is_a_/Place  

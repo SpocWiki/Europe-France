@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: -0.03
 dv_has_place_latitude: 43.11
-dv_name: Lourdes
+dv_has_name_: Lourdes
 dv_Country: "[[../../../../../../../../France]]"
 ---
 

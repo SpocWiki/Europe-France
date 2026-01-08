@@ -20,7 +20,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 7.7
 dv_has_place_latitude: 48.58
-dv_name: Strassburg~Elsass
+dv_has_name_: Strassburg~Elsass
 dv_Country: "[[../../../../../../../../France]]"
 dv_is_:
   same_as: "[[../../../../../../../../../../../../WikiData/WD~Strasbourg,6602|WD~Strasbourg,6602]]"

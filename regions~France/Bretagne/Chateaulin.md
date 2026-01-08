@@ -17,7 +17,7 @@ location:
 dv_is_a_: "[[../../../../../../Geography/Place]]"
 dv_has_place_longitude: -4.09
 dv_has_place_latitude: 48.1967
-dv_name: Chateaulin
+dv_has_name_: Chateaulin
 dv_Country: "[[../../../France]]"
 ---
 #is_a_/Place  

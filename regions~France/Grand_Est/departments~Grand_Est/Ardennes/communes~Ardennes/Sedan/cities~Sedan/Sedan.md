@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 4.95
 dv_has_place_latitude: 49.7
-dv_name: Sedan
+dv_has_name_: Sedan
 dv_Country: "[[../../../../../../../../France]]"
 ---
 #is_a_/Place  

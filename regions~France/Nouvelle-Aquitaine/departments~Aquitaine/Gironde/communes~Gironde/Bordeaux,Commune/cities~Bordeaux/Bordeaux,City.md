@@ -156,7 +156,7 @@ UN_LOCODE: FRBOD
 dv_is_a_: "[[../../../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: -0.52
 dv_has_place_latitude: 44.83
-dv_name: Bordeaux
+dv_has_name_: Bordeaux
 dv_is_:
   same_as: "[[../../../../../../../../../../../../WikiData/WD~Bordeaux,1479|WD~Bordeaux,1479]]"
 dv_is_same_as: "[[../../../../../../../../../../../../WikiData/WD~Bordeaux,1479|WD~Bordeaux,1479]]"

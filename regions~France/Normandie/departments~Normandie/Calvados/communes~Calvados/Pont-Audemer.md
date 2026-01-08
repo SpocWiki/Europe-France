@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: -0.52
 dv_has_place_latitude: 49.35
-dv_name: Pont-Audemer
+dv_has_name_: Pont-Audemer
 dv_Country: "[[../../../../../../France]]"
 ---
 #is_a_/Place  

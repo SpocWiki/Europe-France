@@ -18,7 +18,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 1.62
 dv_has_place_latitude: 50.72
-dv_name: Boulogne sur mer
+dv_has_name_: Boulogne sur mer
 dv_Country: "[[../../../../../../../../France]]"
 ---
 #is_a_/Place  

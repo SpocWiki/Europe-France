@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 4.87
 dv_has_place_latitude: 45.53
-dv_name: Vienne
+dv_has_name_: Vienne
 dv_Country: "[[../../../../../../../../France]]"
 ---
 #is_a_/Place  

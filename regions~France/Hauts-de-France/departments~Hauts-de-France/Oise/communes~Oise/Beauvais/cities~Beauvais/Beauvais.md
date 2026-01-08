@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 2.13
 dv_has_place_latitude: 49.43
-dv_name: Beauvais
+dv_has_name_: Beauvais
 dv_Country: "[[../../../../../../../../France]]"
 ---
 #is_a_/Place  

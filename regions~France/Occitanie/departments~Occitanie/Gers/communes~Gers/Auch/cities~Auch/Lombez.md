@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 0.9
 dv_has_place_latitude: 43.48
-dv_name: Lombez
+dv_has_name_: Lombez
 dv_Country: "[[../../../../../../../../France]]"
 ---
 #is_a_/Place  

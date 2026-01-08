@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: -3.97
 dv_has_place_latitude: 48.75
-dv_name: Roscoff
+dv_has_name_: Roscoff
 dv_Country: "[[../../../../../France]]"
 ---
 #is_a_/Place  

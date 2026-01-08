@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: -0.65
 dv_has_place_latitude: 48.6
-dv_name: Domfront
+dv_has_name_: Domfront
 dv_Country: "[[../../../../../../../../France]]"
 ---
 #is_a_/Place  

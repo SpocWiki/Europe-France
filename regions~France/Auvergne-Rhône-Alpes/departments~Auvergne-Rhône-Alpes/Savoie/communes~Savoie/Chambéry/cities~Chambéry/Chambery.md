@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 5.97
 dv_has_place_latitude: 45.55
-dv_name: Chambery
+dv_has_name_: Chambery
 dv_Country: "[[../../../../../../../../France]]"
 ---
 #is_a_/Place  

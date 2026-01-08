@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: -0.08
 dv_has_place_latitude: 47.7
-dv_name: Fléche
+dv_has_name_: Fléche
 dv_Country: "[[../../../../../../../../France]]"
 ---
 #is_a_/Place  

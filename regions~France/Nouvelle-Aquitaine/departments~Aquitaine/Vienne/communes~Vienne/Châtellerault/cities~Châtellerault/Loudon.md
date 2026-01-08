@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 0.08
 dv_has_place_latitude: 47.02
-dv_name: Loudon
+dv_has_name_: Loudon
 dv_Country: "[[../../../../../../../../France]]"
 ---
 #is_a_/Place  

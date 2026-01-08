@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 4.9
 dv_has_place_latitude: 44.93
-dv_name: Valence
+dv_has_name_: Valence
 dv_Country: "[[../../../../../../../../France]]"
 ---
 

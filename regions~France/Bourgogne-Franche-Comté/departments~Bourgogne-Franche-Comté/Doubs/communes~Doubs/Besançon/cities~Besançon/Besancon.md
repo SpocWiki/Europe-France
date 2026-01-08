@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 5.98
 dv_has_place_latitude: 47.25
-dv_name: Besancon
+dv_has_name_: Besancon
 dv_Country: "[[../../../../../../../../France]]"
 ---
 #is_a_/Place  

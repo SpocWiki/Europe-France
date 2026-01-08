@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 6.53
 dv_has_place_latitude: 45.48
-dv_name: Moutiers
+dv_has_name_: Moutiers
 dv_Country: "[[../../../../../../../../France]]"
 ---
 #is_a_/Place  

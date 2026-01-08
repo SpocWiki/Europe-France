@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: -1.38
 dv_has_place_latitude: 47.72
-dv_name: Chateaubriant
+dv_has_name_: Chateaubriant
 dv_Country: "[[../../../../../../../../France]]"
 ---
 #is_a_/Place  

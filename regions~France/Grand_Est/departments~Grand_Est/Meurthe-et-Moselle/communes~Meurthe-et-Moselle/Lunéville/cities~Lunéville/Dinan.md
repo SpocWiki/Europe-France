@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 6.72
 dv_has_place_latitude: 48.45
-dv_name: Dinan
+dv_has_name_: Dinan
 dv_Country: "[[../../../../../../../../France]]"
 ---
 #is_a_/Place  

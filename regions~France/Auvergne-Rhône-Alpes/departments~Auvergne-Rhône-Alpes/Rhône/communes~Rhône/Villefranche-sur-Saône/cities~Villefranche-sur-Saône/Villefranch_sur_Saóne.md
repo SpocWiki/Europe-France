@@ -18,7 +18,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 4.75
 dv_has_place_latitude: 45.98
-dv_name: Villefranch sur Saóne
+dv_has_name_: Villefranch sur Saóne
 dv_Country: "[[../../../../../../../../France]]"
 ---
 #is_a_/Place  

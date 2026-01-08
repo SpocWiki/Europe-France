@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: -0.03
 dv_has_place_latitude: 44.58
-dv_name: Reole
+dv_has_name_: Reole
 dv_Country: "[[../../../../../../../../France]]"
 ---
 #is_a_/Place  

@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 1.35
 dv_has_place_latitude: 44.02
-dv_name: Montauban
+dv_has_name_: Montauban
 dv_Country: "[[../../../../../../../../France]]"
 ---
 #is_a_/Place  

@@ -18,7 +18,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../Geography/Place]]"
 dv_has_place_longitude: 3.07
 dv_has_place_latitude: 43.02
-dv_name: La Nouvelle
+dv_has_name_: La Nouvelle
 dv_Country: "[[../../../France]]"
 ---
 #is_a_/Place  

@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 1.33
 dv_has_place_latitude: 48.07
-dv_name: Chateaudun
+dv_has_name_: Chateaudun
 dv_Country: "[[../../../../../../../../France]]"
 ---
 #is_a_/Place  

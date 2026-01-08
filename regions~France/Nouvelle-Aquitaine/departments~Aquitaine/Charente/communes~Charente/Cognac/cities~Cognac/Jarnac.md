@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: -0.17
 dv_has_place_latitude: 45.68
-dv_name: Jarnac
+dv_has_name_: Jarnac
 dv_Country: "[[../../../../../../../../France]]"
 ---
 #is_a_/Place  

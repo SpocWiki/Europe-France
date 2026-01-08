@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 4.77
 dv_has_place_latitude: 49.08
-dv_name: Valmy
+dv_has_name_: Valmy
 dv_Country: "[[../../../../../../../../France]]"
 ---
 #is_a_/Place  

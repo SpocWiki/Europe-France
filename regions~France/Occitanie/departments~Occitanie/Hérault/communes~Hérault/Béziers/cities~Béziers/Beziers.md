@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 3.19
 dv_has_place_latitude: 43.34
-dv_name: Beziers
+dv_has_name_: Beziers
 dv_Country: "[[../../../../../../../../France]]"
 ---
 #is_a_/Place  

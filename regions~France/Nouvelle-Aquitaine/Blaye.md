@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../Geography/Place]]"
 dv_has_place_longitude: -0.67
 dv_has_place_latitude: 45.13
-dv_name: Blaye
+dv_has_name_: Blaye
 dv_Country: "[[../../../France]]"
 ---
 #is_a_/Place  

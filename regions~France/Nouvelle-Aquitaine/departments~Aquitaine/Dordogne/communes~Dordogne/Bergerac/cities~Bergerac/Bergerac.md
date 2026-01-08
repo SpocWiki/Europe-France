@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 0.48
 dv_has_place_latitude: 44.85
-dv_name: Bergerac
+dv_has_name_: Bergerac
 dv_Country: "[[../../../../../../../../France]]"
 ---
 #is_a_/Place  

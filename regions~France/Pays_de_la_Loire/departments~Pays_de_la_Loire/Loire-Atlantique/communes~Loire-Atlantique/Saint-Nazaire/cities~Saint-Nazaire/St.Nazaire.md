@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: -2.2
 dv_has_place_latitude: 47.27
-dv_name: St.Nazaire
+dv_has_name_: St.Nazaire
 dv_Country: "[[../../../../../../../../France]]"
 ---
 #is_a_/Place  

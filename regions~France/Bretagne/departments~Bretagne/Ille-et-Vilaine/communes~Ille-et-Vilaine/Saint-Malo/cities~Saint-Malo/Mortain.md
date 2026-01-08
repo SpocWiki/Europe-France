@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: -1.93
 dv_has_place_latitude: 48.65
-dv_name: Mortain
+dv_has_name_: Mortain
 dv_Country: "[[../../../../../../../../France]]"
 ---
 #is_a_/Place  

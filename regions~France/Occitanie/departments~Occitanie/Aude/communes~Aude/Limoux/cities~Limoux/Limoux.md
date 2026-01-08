@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 2.22
 dv_has_place_latitude: 43.05
-dv_name: Limoux
+dv_has_name_: Limoux
 dv_Country: "[[../../../../../../../../France]]"
 ---
 #is_a_/Place  

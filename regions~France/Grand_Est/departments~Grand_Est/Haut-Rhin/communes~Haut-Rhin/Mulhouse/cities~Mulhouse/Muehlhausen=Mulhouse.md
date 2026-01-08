@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 7.33
 dv_has_place_latitude: 47.75
-dv_name: Muehlhausen=Mulhouse
+dv_has_name_: Muehlhausen=Mulhouse
 dv_Country: "[[../../../../../../../../France]]"
 ---
 #is_a_/Place  

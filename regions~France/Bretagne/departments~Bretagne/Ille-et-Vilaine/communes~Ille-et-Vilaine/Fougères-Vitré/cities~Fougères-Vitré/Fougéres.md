@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: -1.2
 dv_has_place_latitude: 48.35
-dv_name: Fougéres
+dv_has_name_: Fougéres
 dv_Country: "[[../../../../../../../../France]]"
 ---
 #is_a_/Place  

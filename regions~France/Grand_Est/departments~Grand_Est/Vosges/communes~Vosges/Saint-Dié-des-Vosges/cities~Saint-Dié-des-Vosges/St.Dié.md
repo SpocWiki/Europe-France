@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 6.95
 dv_has_place_latitude: 48.28
-dv_name: St.Dié
+dv_has_name_: St.Dié
 dv_Country: "[[../../../../../../../../France]]"
 ---
 #is_a_/Place  

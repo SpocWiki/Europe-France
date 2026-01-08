@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 3.7
 dv_has_place_latitude: 43.4
-dv_name: Cette
+dv_has_name_: Cette
 dv_Country: "[[../../../../../../../../France]]"
 ---
 #is_a_/Place  

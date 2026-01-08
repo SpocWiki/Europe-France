@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 0.72
 dv_has_place_latitude: 45.18
-dv_name: Perigueux
+dv_has_name_: Perigueux
 dv_Country: "[[../../../../../../../../France]]"
 ---
 #is_a_/Place  

@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 6.73
 dv_has_place_latitude: 43.43
-dv_name: Fréjus
+dv_has_name_: Fréjus
 dv_Country: "[[../../../../../../../../France]]"
 ---
 #is_a_/Place  

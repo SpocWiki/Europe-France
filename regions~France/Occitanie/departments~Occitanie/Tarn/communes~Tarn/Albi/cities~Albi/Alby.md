@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 2.15
 dv_has_place_latitude: 43.93
-dv_name: Alby
+dv_has_name_: Alby
 dv_Country: "[[../../../../../../../../France]]"
 ---
 #is_a_/Place  

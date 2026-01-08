@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 2.75
 dv_has_place_latitude: 42.48
-dv_name: Céret
+dv_has_name_: Céret
 dv_Country: "[[../../../../../../../../France]]"
 ---
 #is_a_/Place  

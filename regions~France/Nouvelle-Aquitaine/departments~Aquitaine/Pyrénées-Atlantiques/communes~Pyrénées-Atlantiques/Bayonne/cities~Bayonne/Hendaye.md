@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: -1.73
 dv_has_place_latitude: 43.37
-dv_name: Hendaye
+dv_has_name_: Hendaye
 dv_Country: "[[../../../../../../../../France]]"
 ---
 #is_a_/Place  

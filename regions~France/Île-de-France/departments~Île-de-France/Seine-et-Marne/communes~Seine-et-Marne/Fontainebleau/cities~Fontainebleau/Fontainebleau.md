@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 2.7
 dv_has_place_latitude: 48.4
-dv_name: Fontainebleau
+dv_has_name_: Fontainebleau
 dv_Country: "[[../../../../../../../../France]]"
 ---
 #is_a_/Place  

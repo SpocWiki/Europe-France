@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: -3.02
 dv_has_place_latitude: 47.67
-dv_name: Auray
+dv_has_name_: Auray
 dv_Country: "[[../../../../../../../../France]]"
 ---
 #is_a_/Place  

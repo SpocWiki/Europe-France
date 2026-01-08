@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 6.18
 dv_has_place_latitude: 48.7
-dv_name: Nancy
+dv_has_name_: Nancy
 dv_Country: "[[../../../../../../../../France]]"
 ---
 #is_a_/Place  

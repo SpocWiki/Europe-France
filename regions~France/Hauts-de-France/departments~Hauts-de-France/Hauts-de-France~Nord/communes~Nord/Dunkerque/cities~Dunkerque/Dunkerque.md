@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 2.38
 dv_has_place_latitude: 51.05
-dv_name: Dunkerque
+dv_has_name_: Dunkerque
 dv_Country: "[[../../../../../../../../France]]"
 ---
 #is_a_/Place  

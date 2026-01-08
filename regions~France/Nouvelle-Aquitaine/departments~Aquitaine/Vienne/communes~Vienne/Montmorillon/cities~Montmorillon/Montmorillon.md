@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 0.87
 dv_has_place_latitude: 46.42
-dv_name: Montmorillon
+dv_has_name_: Montmorillon
 dv_Country: "[[../../../../../../../../France]]"
 ---
 #is_a_/Place  

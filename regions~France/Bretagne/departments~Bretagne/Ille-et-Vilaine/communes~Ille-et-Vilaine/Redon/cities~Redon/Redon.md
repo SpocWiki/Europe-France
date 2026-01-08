@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: -2.08
 dv_has_place_latitude: 47.65
-dv_name: Redon
+dv_has_name_: Redon
 dv_Country: "[[../../../../../../../../France]]"
 ---
 #is_a_/Place  

@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 4.57
 dv_has_place_latitude: 47.87
-dv_name: Chatillon-sur-Seine
+dv_has_name_: Chatillon-sur-Seine
 dv_Country: "[[../../../../../../../../France]]"
 ---
 #is_a_/Place  

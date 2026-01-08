@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 4.83
 dv_has_place_latitude: 45.07
-dv_name: Tournon
+dv_has_name_: Tournon
 dv_Country: "[[../../../../../../../../France]]"
 ---
 #is_a_/Place  

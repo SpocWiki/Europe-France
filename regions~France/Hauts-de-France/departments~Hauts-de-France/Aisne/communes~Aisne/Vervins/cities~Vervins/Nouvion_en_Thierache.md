@@ -18,7 +18,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 3.78
 dv_has_place_latitude: 50.02
-dv_name: Nouvion en Thierache
+dv_has_name_: Nouvion en Thierache
 dv_Country: "[[../../../../../../../../France]]"
 ---
 #is_a_/Place  

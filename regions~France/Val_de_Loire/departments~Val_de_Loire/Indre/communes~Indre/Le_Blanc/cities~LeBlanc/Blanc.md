@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 1.05
 dv_has_place_latitude: 46.63
-dv_name: Blanc
+dv_has_name_: Blanc
 dv_Country: "[[../../../../../../../../France]]"
 ---
 #is_a_/Place  

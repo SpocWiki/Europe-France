@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 3.3
 dv_has_place_latitude: 48.57
-dv_name: Provins
+dv_has_name_: Provins
 dv_Country: "[[../../../../../../../../France]]"
 ---
 #is_a_/Place  

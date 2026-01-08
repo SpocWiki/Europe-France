@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 6.17
 dv_has_place_latitude: 49.1
-dv_name: Montigny
+dv_has_name_: Montigny
 dv_Country: "[[../../../../../../../../France]]"
 ---
 #is_a_/Place  

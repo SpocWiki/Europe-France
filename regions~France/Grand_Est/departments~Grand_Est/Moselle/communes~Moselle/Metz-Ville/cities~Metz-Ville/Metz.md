@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 6.18
 dv_has_place_latitude: 49.12
-dv_name: Metz
+dv_has_name_: Metz
 dv_Country: "[[../../../../../../../../France]]"
 ---
 #is_a_/Place  

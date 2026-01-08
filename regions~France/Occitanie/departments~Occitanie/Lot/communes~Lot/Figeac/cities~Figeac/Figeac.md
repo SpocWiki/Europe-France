@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 2.03
 dv_has_place_latitude: 44.62
-dv_name: Figeac
+dv_has_name_: Figeac
 dv_Country: "[[../../../../../../../../France]]"
 ---
 #is_a_/Place  

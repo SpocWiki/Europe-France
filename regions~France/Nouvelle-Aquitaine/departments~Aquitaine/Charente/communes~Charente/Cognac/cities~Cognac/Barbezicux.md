@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: -0.15
 dv_has_place_latitude: 45.47
-dv_name: Barbezicux
+dv_has_name_: Barbezicux
 dv_Country: "[[../../../../../../../../France]]"
 ---
 #is_a_/Place  

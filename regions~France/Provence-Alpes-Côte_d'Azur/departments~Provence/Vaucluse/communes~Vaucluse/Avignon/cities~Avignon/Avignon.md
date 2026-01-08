@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 4.8
 dv_has_place_latitude: 43.95
-dv_name: Avignon
+dv_has_name_: Avignon
 dv_Country: "[[../../../../../../../../France]]"
 ---
 #is_a_/Place  

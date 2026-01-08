@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 7.5
 dv_has_place_latitude: 43.78
-dv_name: Menton
+dv_has_name_: Menton
 dv_Country: "[[../../../../../../../../France]]"
 ---
 #is_a_/Place  

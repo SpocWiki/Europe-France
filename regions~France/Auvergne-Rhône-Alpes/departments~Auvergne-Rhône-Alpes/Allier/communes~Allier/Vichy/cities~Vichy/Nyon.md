@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 3.9
 dv_has_place_latitude: 46.38
-dv_name: Nyon
+dv_has_name_: Nyon
 dv_Country: "[[../../../../../../Europe~Central/Switzerland]]"
 ---
 #is_a_/Place  

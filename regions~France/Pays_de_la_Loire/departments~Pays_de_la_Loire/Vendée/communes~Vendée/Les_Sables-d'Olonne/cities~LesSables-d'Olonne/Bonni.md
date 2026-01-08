@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: -2
 dv_has_place_latitude: 46.97
-dv_name: Bonni
+dv_has_name_: Bonni
 dv_Country: "[[../../../../../../../../France]]"
 ---
 #is_a_/Place  

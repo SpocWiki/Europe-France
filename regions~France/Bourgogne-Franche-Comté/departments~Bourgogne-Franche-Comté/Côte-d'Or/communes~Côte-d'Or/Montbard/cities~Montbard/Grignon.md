@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 4.4
 dv_has_place_latitude: 47.57
-dv_name: Grignon
+dv_has_name_: Grignon
 dv_Country: "[[../../../../../../../../France]]"
 ---
 #is_a_/Place  

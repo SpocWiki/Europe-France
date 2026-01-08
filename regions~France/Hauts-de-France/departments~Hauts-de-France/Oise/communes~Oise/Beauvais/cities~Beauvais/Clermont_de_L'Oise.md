@@ -18,7 +18,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 2.08
 dv_has_place_latitude: 49.38
-dv_name: Clermont de L'Oise
+dv_has_name_: Clermont de L'Oise
 dv_Country: "[[../../../../../../../../France]]"
 ---
 #is_a_/Place  

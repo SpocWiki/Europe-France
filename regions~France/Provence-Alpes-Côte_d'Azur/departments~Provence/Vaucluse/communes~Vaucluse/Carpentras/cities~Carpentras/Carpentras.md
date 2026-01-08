@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 5.05
 dv_has_place_latitude: 44.05
-dv_name: Carpentras
+dv_has_name_: Carpentras
 dv_Country: "[[../../../../../../../../France]]"
 ---
 #is_a_/Place  

@@ -18,7 +18,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: -1.67
 dv_has_place_latitude: 43.38
-dv_name: St.Jean de Luz
+dv_has_name_: St.Jean de Luz
 dv_Country: "[[../../../../../../../../France]]"
 ---
 #is_a_/Place  

@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 1.07
 dv_has_place_latitude: 49.87
-dv_name: St.Valery~Normandie
+dv_has_name_: St.Valery~Normandie
 dv_Country: "[[../../../../../../../../France]]"
 ---
 #is_a_/Place  

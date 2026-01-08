@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 3.28
 dv_has_place_latitude: 48.2
-dv_name: Sens
+dv_has_name_: Sens
 dv_Country: "[[../../../../../../../../France]]"
 ---
 #is_a_/Place  

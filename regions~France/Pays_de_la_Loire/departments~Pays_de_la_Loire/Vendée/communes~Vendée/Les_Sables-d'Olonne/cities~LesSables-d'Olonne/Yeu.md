@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: -2.33
 dv_has_place_latitude: 46.7
-dv_name: Yeu
+dv_has_name_: Yeu
 dv_Country: "[[../../../../../../../../France]]"
 ---
 #is_a_/Place  

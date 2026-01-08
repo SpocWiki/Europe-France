@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 1.73
 dv_has_place_latitude: 50.62
-dv_name: Samer
+dv_has_name_: Samer
 dv_Country: "[[../../../../../../../../France]]"
 ---
 #is_a_/Place  

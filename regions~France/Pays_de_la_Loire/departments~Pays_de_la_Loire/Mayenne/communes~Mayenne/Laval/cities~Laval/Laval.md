@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: -0.77
 dv_has_place_latitude: 48.07
-dv_name: Laval
+dv_has_name_: Laval
 dv_Country: "[[../../../../../../../../France]]"
 ---
 #is_a_/Place  

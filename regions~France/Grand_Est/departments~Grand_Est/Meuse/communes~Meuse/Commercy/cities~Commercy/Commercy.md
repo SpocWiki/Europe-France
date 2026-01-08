@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 5.58
 dv_has_place_latitude: 48.77
-dv_name: Commercy
+dv_has_name_: Commercy
 dv_Country: "[[../../../../../../../../France]]"
 ---
 #is_a_/Place  

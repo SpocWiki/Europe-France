@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: -0.02
 dv_has_place_latitude: 48.75
-dv_name: Argentan
+dv_has_name_: Argentan
 dv_Country: "[[../../../../../../../../France]]"
 ---
 #is_a_/Place  

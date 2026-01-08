@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 2.4
 dv_has_place_latitude: 47.08
-dv_name: Bourges
+dv_has_name_: Bourges
 dv_Country: "[[../../../../../../../../France]]"
 ---
 #is_a_/Place  

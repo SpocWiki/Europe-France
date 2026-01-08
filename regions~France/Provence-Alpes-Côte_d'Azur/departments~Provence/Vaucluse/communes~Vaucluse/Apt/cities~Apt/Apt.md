@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 5.4
 dv_has_place_latitude: 43.88
-dv_name: Apt
+dv_has_name_: Apt
 dv_Country: "[[../../../../../../../../France]]"
 ---
 #is_a_/Place  

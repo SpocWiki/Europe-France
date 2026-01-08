@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 4.42
 dv_has_place_latitude: 44.02
-dv_name: Uzés
+dv_has_name_: Uzés
 dv_Country: "[[../../../../../../../../France]]"
 ---
 #is_a_/Place  

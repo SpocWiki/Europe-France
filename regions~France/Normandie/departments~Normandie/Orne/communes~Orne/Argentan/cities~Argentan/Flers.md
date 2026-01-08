@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: -0.55
 dv_has_place_latitude: 48.75
-dv_name: Flers
+dv_has_name_: Flers
 dv_Country: "[[../../../../../../../../France]]"
 ---
 #is_a_/Place  

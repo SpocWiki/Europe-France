@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 4.58
 dv_has_place_latitude: 48.73
-dv_name: Vitry-le-Franc
+dv_has_name_: Vitry-le-Franc
 dv_Country: "[[../../../../../../../../France]]"
 ---
 #is_a_/Place  

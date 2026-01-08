@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: -2.97
 dv_has_place_latitude: 48.07
-dv_name: Pontivy
+dv_has_name_: Pontivy
 dv_Country: "[[../../../../../../../../France]]"
 ---
 #is_a_/Place  

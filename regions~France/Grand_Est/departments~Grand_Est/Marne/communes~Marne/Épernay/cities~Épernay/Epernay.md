@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 3.95
 dv_has_place_latitude: 49.05
-dv_name: Epernay
+dv_has_name_: Epernay
 dv_Country: "[[../../../../../../../../France]]"
 ---
 #is_a_/Place  

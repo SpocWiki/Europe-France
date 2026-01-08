@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 2.35
 dv_has_place_latitude: 43.22
-dv_name: Carcasonne
+dv_has_name_: Carcasonne
 dv_Country: "[[../../../../../../../../France]]"
 ---
 #is_a_/Place  

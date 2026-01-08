@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 4.72
 dv_has_place_latitude: 49.75
-dv_name: Méziers
+dv_has_name_: Méziers
 dv_Country: "[[../../../../../../../../France]]"
 ---
 #is_a_/Place  

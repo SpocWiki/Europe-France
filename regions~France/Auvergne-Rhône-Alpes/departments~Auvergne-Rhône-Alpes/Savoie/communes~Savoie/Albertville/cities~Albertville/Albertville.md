@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 6.4
 dv_has_place_latitude: 45.67
-dv_name: Albertville
+dv_has_name_: Albertville
 dv_Country: "[[../../../../../../../../France]]"
 ---
 #is_a_/Place  

@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 0.72
 dv_has_place_latitude: 49.87
-dv_name: St.Valery-en-Caux
+dv_has_name_: St.Valery-en-Caux
 dv_Country: "[[../../../../../../../../France]]"
 ---
 #is_a_/Place  

@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 7.3
 dv_has_place_latitude: 48.42
-dv_name: Melkerei
+dv_has_name_: Melkerei
 dv_State: Alsace]
 dv_Country: "[[../../../../../../../../France]]"
 ---

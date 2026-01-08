@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 3.63
 dv_has_place_latitude: 46.25
-dv_name: Palisse
+dv_has_name_: Palisse
 dv_Country: "[[../../../../../../../../France]]"
 ---
 #is_a_/Place  

@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 6.92
 dv_has_place_latitude: 43.65
-dv_name: Grasse
+dv_has_name_: Grasse
 dv_Country: "[[../../../../../../../../France]]"
 ---
 #is_a_/Place  

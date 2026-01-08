@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: -3.55
 dv_has_place_latitude: 47.87
-dv_name: Quimperlé
+dv_has_name_: Quimperlé
 dv_Country: "[[../../../../../../../../France]]"
 ---
 #is_a_/Place  

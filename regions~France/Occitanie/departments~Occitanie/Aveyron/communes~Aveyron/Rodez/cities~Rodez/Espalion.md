@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 2.77
 dv_has_place_latitude: 44.52
-dv_name: Espalion
+dv_has_name_: Espalion
 dv_Country: "[[../../../../../../../../France]]"
 ---
 #is_a_/Place  

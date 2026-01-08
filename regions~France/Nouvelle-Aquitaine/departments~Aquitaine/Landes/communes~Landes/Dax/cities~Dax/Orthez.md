@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: -0.78
 dv_has_place_latitude: 43.82
-dv_name: Orthez
+dv_has_name_: Orthez
 dv_Country: "[[../../../../../../../../France]]"
 ---
 #is_a_/Place  

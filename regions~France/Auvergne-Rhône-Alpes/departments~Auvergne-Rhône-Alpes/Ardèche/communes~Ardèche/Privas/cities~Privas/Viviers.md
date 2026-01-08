@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 4.63
 dv_has_place_latitude: 44.48
-dv_name: Viviers
+dv_has_name_: Viviers
 dv_Country: "[[../../../../../../../../France]]"
 ---
 #is_a_/Place  

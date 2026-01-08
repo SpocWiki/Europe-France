@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: -0.88
 dv_has_place_latitude: 48.83
-dv_name: Vire
+dv_has_name_: Vire
 dv_Country: "[[../../../../../../../../France]]"
 ---
 #is_a_/Place  

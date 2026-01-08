@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../Geography/Place]]"
 dv_has_place_longitude: -2.87
 dv_has_place_latitude: 47.35
-dv_name: Hoedic
+dv_has_name_: Hoedic
 dv_Country: "[[../../../France]]"
 ---
 #is_a_/Place  

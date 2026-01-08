@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 0.53
 dv_has_place_latitude: 49.47
-dv_name: Quilleboeuf
+dv_has_name_: Quilleboeuf
 dv_Country: "[[../../../../../../../../France]]"
 ---
 #is_a_/Place  

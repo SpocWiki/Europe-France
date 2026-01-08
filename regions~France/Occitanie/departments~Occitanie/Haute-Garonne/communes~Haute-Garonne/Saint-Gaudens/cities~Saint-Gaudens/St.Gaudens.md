@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 0.72
 dv_has_place_latitude: 43.1
-dv_name: St.Gaudens
+dv_has_name_: St.Gaudens
 dv_Country: "[[../../../../../../../../France]]"
 ---
 #is_a_/Place  

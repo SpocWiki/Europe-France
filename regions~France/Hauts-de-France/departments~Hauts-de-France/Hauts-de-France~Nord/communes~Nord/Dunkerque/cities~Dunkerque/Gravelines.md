@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 2.13
 dv_has_place_latitude: 50.98
-dv_name: Gravelines
+dv_has_name_: Gravelines
 dv_Country: "[[../../../../../../../../France]]"
 ---
 #is_a_/Place  

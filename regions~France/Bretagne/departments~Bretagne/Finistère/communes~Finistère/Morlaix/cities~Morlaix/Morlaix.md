@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: -3.9
 dv_has_place_latitude: 48.58
-dv_name: Morlaix
+dv_has_name_: Morlaix
 dv_Country: "[[../../../../../../../../France]]"
 ---
 #is_a_/Place  

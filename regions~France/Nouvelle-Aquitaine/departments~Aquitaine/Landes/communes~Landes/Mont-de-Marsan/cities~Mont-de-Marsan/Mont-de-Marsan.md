@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: -0.5
 dv_has_place_latitude: 43.9
-dv_name: Mont-de-Marsan
+dv_has_name_: Mont-de-Marsan
 dv_Country: "[[../../../../../../../../France]]"
 ---
 #is_a_/Place  

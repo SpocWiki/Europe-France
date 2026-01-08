@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: -3.15
 dv_has_place_latitude: 48.57
-dv_name: Guingamp
+dv_has_name_: Guingamp
 dv_Country: "[[../../../../../../../../France]]"
 ---
 #is_a_/Place  

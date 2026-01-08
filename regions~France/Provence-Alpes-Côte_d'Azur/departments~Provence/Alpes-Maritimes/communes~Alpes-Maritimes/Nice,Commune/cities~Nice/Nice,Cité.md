@@ -20,7 +20,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 7.3
 dv_has_place_latitude: 43.72
-dv_name: Nizza=Nice
+dv_has_name_: Nizza=Nice
 dv_Country: "[[../../../../../../../../France]]"
 ---
 

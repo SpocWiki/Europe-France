@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 3.88
 dv_has_place_latitude: 43.62
-dv_name: Montpellier
+dv_has_name_: Montpellier
 dv_Country: "[[../../../../../../../../France]]"
 ---
 #is_a_/Place  

@@ -18,7 +18,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 4.63
 dv_has_place_latitude: 43.68
-dv_name: Arles sur Rhone
+dv_has_name_: Arles sur Rhone
 dv_Country: "[[../../../../../../../../France]]"
 ---
 #is_a_/Place  
