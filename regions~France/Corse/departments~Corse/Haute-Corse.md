@@ -40,17 +40,17 @@ markerFolder: ./Haute-Corse/
 
 ## Confidential Links & Embeds: 
 
-### [Haute-Corse](/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Corse/departments~Corse/Haute-Corse.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Corse/departments~Corse/Haute-Corse|Haute-Corse]] 
 
-### [Haute-Corse.public](/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Corse/departments~Corse/Haute-Corse.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Corse/departments~Corse/Haute-Corse.public|Haute-Corse.public]] 
 
-### [Haute-Corse.internal](/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Corse/departments~Corse/Haute-Corse.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Corse/departments~Corse/Haute-Corse.internal|Haute-Corse.internal]] 
 
-### [Haute-Corse.protect](/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Corse/departments~Corse/Haute-Corse.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Corse/departments~Corse/Haute-Corse.protect|Haute-Corse.protect]] 
 
-### [Haute-Corse.private](/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Corse/departments~Corse/Haute-Corse.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Corse/departments~Corse/Haute-Corse.private|Haute-Corse.private]] 
 
-### [Haute-Corse.personal](/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Corse/departments~Corse/Haute-Corse.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Corse/departments~Corse/Haute-Corse.personal|Haute-Corse.personal]] 
 
-### [Haute-Corse.secret](/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Corse/departments~Corse/Haute-Corse.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Corse/departments~Corse/Haute-Corse.secret|Haute-Corse.secret]] 
 

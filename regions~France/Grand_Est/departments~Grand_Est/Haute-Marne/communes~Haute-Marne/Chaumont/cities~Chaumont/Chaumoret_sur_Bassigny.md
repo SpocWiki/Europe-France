@@ -15,14 +15,19 @@ tags:
 SpocWebEntityId: 29565
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 5.13
+dv_has_place_latitude: 48.12
+dv_name: Chaumoret sur Bassigny
+dv_Country: "[[../../../../../../../../France]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::5.13] 
-[has_place_latitude::48.12] 
-[name::Chaumoret sur Bassigny] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[France]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -39,17 +44,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Chaumoret_sur_Bassigny](/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Grand_Est/departments~Grand_Est/Haute-Marne/communes~Haute-Marne/Chaumont/cities~Chaumont/Chaumoret_sur_Bassigny.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Grand_Est/departments~Grand_Est/Haute-Marne/communes~Haute-Marne/Chaumont/cities~Chaumont/Chaumoret_sur_Bassigny|Chaumoret_sur_Bassigny]] 
 
-### [Chaumoret_sur_Bassigny.public](/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Grand_Est/departments~Grand_Est/Haute-Marne/communes~Haute-Marne/Chaumont/cities~Chaumont/Chaumoret_sur_Bassigny.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Grand_Est/departments~Grand_Est/Haute-Marne/communes~Haute-Marne/Chaumont/cities~Chaumont/Chaumoret_sur_Bassigny.public|Chaumoret_sur_Bassigny.public]] 
 
-### [Chaumoret_sur_Bassigny.internal](/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Grand_Est/departments~Grand_Est/Haute-Marne/communes~Haute-Marne/Chaumont/cities~Chaumont/Chaumoret_sur_Bassigny.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Grand_Est/departments~Grand_Est/Haute-Marne/communes~Haute-Marne/Chaumont/cities~Chaumont/Chaumoret_sur_Bassigny.internal|Chaumoret_sur_Bassigny.internal]] 
 
-### [Chaumoret_sur_Bassigny.protect](/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Grand_Est/departments~Grand_Est/Haute-Marne/communes~Haute-Marne/Chaumont/cities~Chaumont/Chaumoret_sur_Bassigny.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Grand_Est/departments~Grand_Est/Haute-Marne/communes~Haute-Marne/Chaumont/cities~Chaumont/Chaumoret_sur_Bassigny.protect|Chaumoret_sur_Bassigny.protect]] 
 
-### [Chaumoret_sur_Bassigny.private](/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Grand_Est/departments~Grand_Est/Haute-Marne/communes~Haute-Marne/Chaumont/cities~Chaumont/Chaumoret_sur_Bassigny.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Grand_Est/departments~Grand_Est/Haute-Marne/communes~Haute-Marne/Chaumont/cities~Chaumont/Chaumoret_sur_Bassigny.private|Chaumoret_sur_Bassigny.private]] 
 
-### [Chaumoret_sur_Bassigny.personal](/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Grand_Est/departments~Grand_Est/Haute-Marne/communes~Haute-Marne/Chaumont/cities~Chaumont/Chaumoret_sur_Bassigny.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Grand_Est/departments~Grand_Est/Haute-Marne/communes~Haute-Marne/Chaumont/cities~Chaumont/Chaumoret_sur_Bassigny.personal|Chaumoret_sur_Bassigny.personal]] 
 
-### [Chaumoret_sur_Bassigny.secret](/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Grand_Est/departments~Grand_Est/Haute-Marne/communes~Haute-Marne/Chaumont/cities~Chaumont/Chaumoret_sur_Bassigny.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Grand_Est/departments~Grand_Est/Haute-Marne/communes~Haute-Marne/Chaumont/cities~Chaumont/Chaumoret_sur_Bassigny.secret|Chaumoret_sur_Bassigny.secret]] 
 

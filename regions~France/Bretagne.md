@@ -28,17 +28,17 @@ markerFolder: ./Bretagne//
 
 ## Confidential Links & Embeds: 
 
-### [Bretagne](/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Bretagne.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Bretagne|Bretagne]] 
 
-### [Bretagne.public](/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Bretagne.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Bretagne.public|Bretagne.public]] 
 
-### [Bretagne.internal](/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Bretagne.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Bretagne.internal|Bretagne.internal]] 
 
-### [Bretagne.protect](/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Bretagne.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Bretagne.protect|Bretagne.protect]] 
 
-### [Bretagne.private](/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Bretagne.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Bretagne.private|Bretagne.private]] 
 
-### [Bretagne.personal](/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Bretagne.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Bretagne.personal|Bretagne.personal]] 
 
-### [Bretagne.secret](/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Bretagne.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Bretagne.secret|Bretagne.secret]] 
 

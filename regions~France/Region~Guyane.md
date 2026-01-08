@@ -5,17 +5,17 @@
 
 ## Confidential Links & Embeds: 
 
-### [Region~Guyane](/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Region~Guyane.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Region~Guyane|Region~Guyane]] 
 
-### [Region~Guyane.public](/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Region~Guyane.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Region~Guyane.public|Region~Guyane.public]] 
 
-### [Region~Guyane.internal](/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Region~Guyane.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Region~Guyane.internal|Region~Guyane.internal]] 
 
-### [Region~Guyane.protect](/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Region~Guyane.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Region~Guyane.protect|Region~Guyane.protect]] 
 
-### [Region~Guyane.private](/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Region~Guyane.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Region~Guyane.private|Region~Guyane.private]] 
 
-### [Region~Guyane.personal](/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Region~Guyane.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Region~Guyane.personal|Region~Guyane.personal]] 
 
-### [Region~Guyane.secret](/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Region~Guyane.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Region~Guyane.secret|Region~Guyane.secret]] 
 

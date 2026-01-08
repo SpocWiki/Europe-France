@@ -27,17 +27,17 @@
 
 ## Confidential Links & Embeds: 
 
-### [regions~France](/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France|regions~France]] 
 
-### [regions~France.public](/_public/Earth/Continent/Europe/Europe~West/France/regions~France.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~West/France/regions~France.public|regions~France.public]] 
 
-### [regions~France.internal](/_internal/Earth/Continent/Europe/Europe~West/France/regions~France.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~West/France/regions~France.internal|regions~France.internal]] 
 
-### [regions~France.protect](/_protect/Earth/Continent/Europe/Europe~West/France/regions~France.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~West/France/regions~France.protect|regions~France.protect]] 
 
-### [regions~France.private](/_private/Earth/Continent/Europe/Europe~West/France/regions~France.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~West/France/regions~France.private|regions~France.private]] 
 
-### [regions~France.personal](/_personal/Earth/Continent/Europe/Europe~West/France/regions~France.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~West/France/regions~France.personal|regions~France.personal]] 
 
-### [regions~France.secret](/_secret/Earth/Continent/Europe/Europe~West/France/regions~France.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~West/France/regions~France.secret|regions~France.secret]] 
 

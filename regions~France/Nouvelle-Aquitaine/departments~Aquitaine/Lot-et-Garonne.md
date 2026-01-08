@@ -41,17 +41,17 @@ markerFolder: ./Département~Lot-et-Garonne/
 
 ## Confidential Links & Embeds: 
 
-### [Lot-et-Garonne](/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Nouvelle-Aquitaine/departments~Aquitaine/Lot-et-Garonne.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Nouvelle-Aquitaine/departments~Aquitaine/Lot-et-Garonne|Lot-et-Garonne]] 
 
-### [Lot-et-Garonne.public](/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Nouvelle-Aquitaine/departments~Aquitaine/Lot-et-Garonne.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Nouvelle-Aquitaine/departments~Aquitaine/Lot-et-Garonne.public|Lot-et-Garonne.public]] 
 
-### [Lot-et-Garonne.internal](/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Nouvelle-Aquitaine/departments~Aquitaine/Lot-et-Garonne.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Nouvelle-Aquitaine/departments~Aquitaine/Lot-et-Garonne.internal|Lot-et-Garonne.internal]] 
 
-### [Lot-et-Garonne.protect](/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Nouvelle-Aquitaine/departments~Aquitaine/Lot-et-Garonne.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Nouvelle-Aquitaine/departments~Aquitaine/Lot-et-Garonne.protect|Lot-et-Garonne.protect]] 
 
-### [Lot-et-Garonne.private](/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Nouvelle-Aquitaine/departments~Aquitaine/Lot-et-Garonne.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Nouvelle-Aquitaine/departments~Aquitaine/Lot-et-Garonne.private|Lot-et-Garonne.private]] 
 
-### [Lot-et-Garonne.personal](/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Nouvelle-Aquitaine/departments~Aquitaine/Lot-et-Garonne.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Nouvelle-Aquitaine/departments~Aquitaine/Lot-et-Garonne.personal|Lot-et-Garonne.personal]] 
 
-### [Lot-et-Garonne.secret](/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Nouvelle-Aquitaine/departments~Aquitaine/Lot-et-Garonne.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Nouvelle-Aquitaine/departments~Aquitaine/Lot-et-Garonne.secret|Lot-et-Garonne.secret]] 
 

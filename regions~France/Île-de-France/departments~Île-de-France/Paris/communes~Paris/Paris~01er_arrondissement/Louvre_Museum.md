@@ -1,4 +1,10 @@
-﻿---
+---
+dv_"Museum", "TheLouvre: 728c5"
+dv_is_:
+  same_as: "[[../../../../../../../../../../../WikiData/WD~Louvre_Museum,19675]]"
+dv_museum-thelouvre: 728c5"
+dv_is_same_as: "[[../../../../../../../../../../../WikiData/WD~Louvre_Museum,19675]]"
+
 has_time_started: 1793-08-10 
 aliases:
 has_id_wikidata: Q19675
@@ -95,7 +101,7 @@ social_media_followers:
   - 126000
   - 1579945
 visitors_per_year: 2825000
-Wolfram_Language_entity_code: Entity["Museum", "TheLouvre::728c5"]
+Wolfram_Language_entity_code: Entity"Museum", "TheLouvre = `=this.dv_"Museum", "TheLouvre`
 Libris_URI: fcrtrjdz1nzsgcx
 archival_creator_authority_record_at_the_Archives_nationales: FRAN_NP_005223
 DPLA_subject_term: Louvre (Paris, France)
@@ -147,7 +153,7 @@ ISNI: 000000012260177X
 
 # [[Louvre_Museum]] 
 
-#is_/same_as :: [[WD~Louvre_Museum,19675]] 
+is_same_as = `=this.dv_is_same_as`
 
 ## #has_/map 
 
@@ -186,4 +192,21 @@ markerFile: [[Louvre_Museum]]
 > The Musée du Louvre contains approximately 500,000 objects and displays 35,000 works of art in eight curatorial departments with more than 60,600 m2 (652,000 sq ft) dedicated to the permanent collection. The Louvre exhibits sculptures, objets d'art, paintings, drawings, and archaeological finds. At any given point in time, approximately 38,000 objects from prehistory to the 21st century are being exhibited over an area of 72,735 m2 (782,910 sq ft), making it the largest museum in the world. It received 8.7 million visitors in 2024,  ranking it as the most-visited art museum, and most-visited museum of any category, in the world.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Louvre) 
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Île-de-France/departments~Île-de-France/Paris/communes~Paris/Paris~01er_arrondissement/Louvre_Museum|Louvre_Museum]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Île-de-France/departments~Île-de-France/Paris/communes~Paris/Paris~01er_arrondissement/Louvre_Museum.public|Louvre_Museum.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Île-de-France/departments~Île-de-France/Paris/communes~Paris/Paris~01er_arrondissement/Louvre_Museum.internal|Louvre_Museum.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Île-de-France/departments~Île-de-France/Paris/communes~Paris/Paris~01er_arrondissement/Louvre_Museum.protect|Louvre_Museum.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Île-de-France/departments~Île-de-France/Paris/communes~Paris/Paris~01er_arrondissement/Louvre_Museum.private|Louvre_Museum.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Île-de-France/departments~Île-de-France/Paris/communes~Paris/Paris~01er_arrondissement/Louvre_Museum.personal|Louvre_Museum.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Île-de-France/departments~Île-de-France/Paris/communes~Paris/Paris~01er_arrondissement/Louvre_Museum.secret|Louvre_Museum.secret]] 
 

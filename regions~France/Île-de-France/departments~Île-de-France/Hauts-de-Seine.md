@@ -41,17 +41,17 @@ markerFolder: ./Département~Hauts-de-Seine/
 
 ## Confidential Links & Embeds: 
 
-### [Hauts-de-Seine](/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Île-de-France/departments~Île-de-France/Hauts-de-Seine.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Île-de-France/departments~Île-de-France/Hauts-de-Seine|Hauts-de-Seine]] 
 
-### [Hauts-de-Seine.public](/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Île-de-France/departments~Île-de-France/Hauts-de-Seine.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Île-de-France/departments~Île-de-France/Hauts-de-Seine.public|Hauts-de-Seine.public]] 
 
-### [Hauts-de-Seine.internal](/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Île-de-France/departments~Île-de-France/Hauts-de-Seine.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Île-de-France/departments~Île-de-France/Hauts-de-Seine.internal|Hauts-de-Seine.internal]] 
 
-### [Hauts-de-Seine.protect](/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Île-de-France/departments~Île-de-France/Hauts-de-Seine.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Île-de-France/departments~Île-de-France/Hauts-de-Seine.protect|Hauts-de-Seine.protect]] 
 
-### [Hauts-de-Seine.private](/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Île-de-France/departments~Île-de-France/Hauts-de-Seine.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Île-de-France/departments~Île-de-France/Hauts-de-Seine.private|Hauts-de-Seine.private]] 
 
-### [Hauts-de-Seine.personal](/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Île-de-France/departments~Île-de-France/Hauts-de-Seine.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Île-de-France/departments~Île-de-France/Hauts-de-Seine.personal|Hauts-de-Seine.personal]] 
 
-### [Hauts-de-Seine.secret](/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Île-de-France/departments~Île-de-France/Hauts-de-Seine.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Île-de-France/departments~Île-de-France/Hauts-de-Seine.secret|Hauts-de-Seine.secret]] 
 

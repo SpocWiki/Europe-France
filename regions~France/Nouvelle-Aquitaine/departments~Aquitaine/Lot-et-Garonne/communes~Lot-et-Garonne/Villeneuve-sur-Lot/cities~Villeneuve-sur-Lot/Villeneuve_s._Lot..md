@@ -15,14 +15,19 @@ tags:
 SpocWebEntityId: 35303
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 0.7
+dv_has_place_latitude: 44.42
+dv_name: Villeneuve s. Lot.
+dv_Country: "[[../../../../../../../../France]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::0.7] 
-[has_place_latitude::44.42] 
-[name::Villeneuve s. Lot.] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[France]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -39,17 +44,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Villeneuve_s._Lot.](/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Nouvelle-Aquitaine/departments~Aquitaine/Lot-et-Garonne/communes~Lot-et-Garonne/Villeneuve-sur-Lot/cities~Villeneuve-sur-Lot/Villeneuve_s._Lot..md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Nouvelle-Aquitaine/departments~Aquitaine/Lot-et-Garonne/communes~Lot-et-Garonne/Villeneuve-sur-Lot/cities~Villeneuve-sur-Lot/Villeneuve_s._Lot.|Villeneuve_s._Lot.]] 
 
-### [Villeneuve_s._Lot..public](/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Nouvelle-Aquitaine/departments~Aquitaine/Lot-et-Garonne/communes~Lot-et-Garonne/Villeneuve-sur-Lot/cities~Villeneuve-sur-Lot/Villeneuve_s._Lot..public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Nouvelle-Aquitaine/departments~Aquitaine/Lot-et-Garonne/communes~Lot-et-Garonne/Villeneuve-sur-Lot/cities~Villeneuve-sur-Lot/Villeneuve_s._Lot..public|Villeneuve_s._Lot..public]] 
 
-### [Villeneuve_s._Lot..internal](/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Nouvelle-Aquitaine/departments~Aquitaine/Lot-et-Garonne/communes~Lot-et-Garonne/Villeneuve-sur-Lot/cities~Villeneuve-sur-Lot/Villeneuve_s._Lot..internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Nouvelle-Aquitaine/departments~Aquitaine/Lot-et-Garonne/communes~Lot-et-Garonne/Villeneuve-sur-Lot/cities~Villeneuve-sur-Lot/Villeneuve_s._Lot..internal|Villeneuve_s._Lot..internal]] 
 
-### [Villeneuve_s._Lot..protect](/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Nouvelle-Aquitaine/departments~Aquitaine/Lot-et-Garonne/communes~Lot-et-Garonne/Villeneuve-sur-Lot/cities~Villeneuve-sur-Lot/Villeneuve_s._Lot..protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Nouvelle-Aquitaine/departments~Aquitaine/Lot-et-Garonne/communes~Lot-et-Garonne/Villeneuve-sur-Lot/cities~Villeneuve-sur-Lot/Villeneuve_s._Lot..protect|Villeneuve_s._Lot..protect]] 
 
-### [Villeneuve_s._Lot..private](/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Nouvelle-Aquitaine/departments~Aquitaine/Lot-et-Garonne/communes~Lot-et-Garonne/Villeneuve-sur-Lot/cities~Villeneuve-sur-Lot/Villeneuve_s._Lot..private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Nouvelle-Aquitaine/departments~Aquitaine/Lot-et-Garonne/communes~Lot-et-Garonne/Villeneuve-sur-Lot/cities~Villeneuve-sur-Lot/Villeneuve_s._Lot..private|Villeneuve_s._Lot..private]] 
 
-### [Villeneuve_s._Lot..personal](/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Nouvelle-Aquitaine/departments~Aquitaine/Lot-et-Garonne/communes~Lot-et-Garonne/Villeneuve-sur-Lot/cities~Villeneuve-sur-Lot/Villeneuve_s._Lot..personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Nouvelle-Aquitaine/departments~Aquitaine/Lot-et-Garonne/communes~Lot-et-Garonne/Villeneuve-sur-Lot/cities~Villeneuve-sur-Lot/Villeneuve_s._Lot..personal|Villeneuve_s._Lot..personal]] 
 
-### [Villeneuve_s._Lot..secret](/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Nouvelle-Aquitaine/departments~Aquitaine/Lot-et-Garonne/communes~Lot-et-Garonne/Villeneuve-sur-Lot/cities~Villeneuve-sur-Lot/Villeneuve_s._Lot..secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Nouvelle-Aquitaine/departments~Aquitaine/Lot-et-Garonne/communes~Lot-et-Garonne/Villeneuve-sur-Lot/cities~Villeneuve-sur-Lot/Villeneuve_s._Lot..secret|Villeneuve_s._Lot..secret]] 
 

@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 30038
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 6.45
+dv_has_place_latitude: 48.17
+dv_name: Epinal
+dv_Country: "[[../../../../../../../../France]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::6.45] 
-[has_place_latitude::48.17] 
-[name::Epinal] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[France]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Epinal](/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Grand_Est/departments~Grand_Est/Vosges/communes~Vosges/Épinal/cities~Épinal/Epinal.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Grand_Est/departments~Grand_Est/Vosges/communes~Vosges/Épinal/cities~Épinal/Epinal|Epinal]] 
 
-### [Epinal.public](/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Grand_Est/departments~Grand_Est/Vosges/communes~Vosges/Épinal/cities~Épinal/Epinal.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Grand_Est/departments~Grand_Est/Vosges/communes~Vosges/Épinal/cities~Épinal/Epinal.public|Epinal.public]] 
 
-### [Epinal.internal](/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Grand_Est/departments~Grand_Est/Vosges/communes~Vosges/Épinal/cities~Épinal/Epinal.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Grand_Est/departments~Grand_Est/Vosges/communes~Vosges/Épinal/cities~Épinal/Epinal.internal|Epinal.internal]] 
 
-### [Epinal.protect](/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Grand_Est/departments~Grand_Est/Vosges/communes~Vosges/Épinal/cities~Épinal/Epinal.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Grand_Est/departments~Grand_Est/Vosges/communes~Vosges/Épinal/cities~Épinal/Epinal.protect|Epinal.protect]] 
 
-### [Epinal.private](/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Grand_Est/departments~Grand_Est/Vosges/communes~Vosges/Épinal/cities~Épinal/Epinal.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Grand_Est/departments~Grand_Est/Vosges/communes~Vosges/Épinal/cities~Épinal/Epinal.private|Epinal.private]] 
 
-### [Epinal.personal](/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Grand_Est/departments~Grand_Est/Vosges/communes~Vosges/Épinal/cities~Épinal/Epinal.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Grand_Est/departments~Grand_Est/Vosges/communes~Vosges/Épinal/cities~Épinal/Epinal.personal|Epinal.personal]] 
 
-### [Epinal.secret](/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Grand_Est/departments~Grand_Est/Vosges/communes~Vosges/Épinal/cities~Épinal/Epinal.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Grand_Est/departments~Grand_Est/Vosges/communes~Vosges/Épinal/cities~Épinal/Epinal.secret|Epinal.secret]] 
 

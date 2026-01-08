@@ -15,14 +15,19 @@ tags:
 SpocWebEntityId: 32088
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 5.55
+dv_has_place_latitude: 46.67
+dv_name: Lons Le Saulnier
+dv_Country: "[[../../../../../../../../France]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::5.55] 
-[has_place_latitude::46.67] 
-[name::Lons Le Saulnier] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[France]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -39,17 +44,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Lons_Le_Saulnier](/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Bourgogne-Franche-Comté/departments~Bourgogne-Franche-Comté/Jura/communes~Jura/Lons-le-Saunier/cities~Lons-le-Saunier/Lons_Le_Saulnier.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Bourgogne-Franche-Comté/departments~Bourgogne-Franche-Comté/Jura/communes~Jura/Lons-le-Saunier/cities~Lons-le-Saunier/Lons_Le_Saulnier|Lons_Le_Saulnier]] 
 
-### [Lons_Le_Saulnier.public](/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Bourgogne-Franche-Comté/departments~Bourgogne-Franche-Comté/Jura/communes~Jura/Lons-le-Saunier/cities~Lons-le-Saunier/Lons_Le_Saulnier.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Bourgogne-Franche-Comté/departments~Bourgogne-Franche-Comté/Jura/communes~Jura/Lons-le-Saunier/cities~Lons-le-Saunier/Lons_Le_Saulnier.public|Lons_Le_Saulnier.public]] 
 
-### [Lons_Le_Saulnier.internal](/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Bourgogne-Franche-Comté/departments~Bourgogne-Franche-Comté/Jura/communes~Jura/Lons-le-Saunier/cities~Lons-le-Saunier/Lons_Le_Saulnier.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Bourgogne-Franche-Comté/departments~Bourgogne-Franche-Comté/Jura/communes~Jura/Lons-le-Saunier/cities~Lons-le-Saunier/Lons_Le_Saulnier.internal|Lons_Le_Saulnier.internal]] 
 
-### [Lons_Le_Saulnier.protect](/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Bourgogne-Franche-Comté/departments~Bourgogne-Franche-Comté/Jura/communes~Jura/Lons-le-Saunier/cities~Lons-le-Saunier/Lons_Le_Saulnier.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Bourgogne-Franche-Comté/departments~Bourgogne-Franche-Comté/Jura/communes~Jura/Lons-le-Saunier/cities~Lons-le-Saunier/Lons_Le_Saulnier.protect|Lons_Le_Saulnier.protect]] 
 
-### [Lons_Le_Saulnier.private](/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Bourgogne-Franche-Comté/departments~Bourgogne-Franche-Comté/Jura/communes~Jura/Lons-le-Saunier/cities~Lons-le-Saunier/Lons_Le_Saulnier.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Bourgogne-Franche-Comté/departments~Bourgogne-Franche-Comté/Jura/communes~Jura/Lons-le-Saunier/cities~Lons-le-Saunier/Lons_Le_Saulnier.private|Lons_Le_Saulnier.private]] 
 
-### [Lons_Le_Saulnier.personal](/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Bourgogne-Franche-Comté/departments~Bourgogne-Franche-Comté/Jura/communes~Jura/Lons-le-Saunier/cities~Lons-le-Saunier/Lons_Le_Saulnier.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Bourgogne-Franche-Comté/departments~Bourgogne-Franche-Comté/Jura/communes~Jura/Lons-le-Saunier/cities~Lons-le-Saunier/Lons_Le_Saulnier.personal|Lons_Le_Saulnier.personal]] 
 
-### [Lons_Le_Saulnier.secret](/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Bourgogne-Franche-Comté/departments~Bourgogne-Franche-Comté/Jura/communes~Jura/Lons-le-Saunier/cities~Lons-le-Saunier/Lons_Le_Saulnier.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Bourgogne-Franche-Comté/departments~Bourgogne-Franche-Comté/Jura/communes~Jura/Lons-le-Saunier/cities~Lons-le-Saunier/Lons_Le_Saulnier.secret|Lons_Le_Saulnier.secret]] 
 

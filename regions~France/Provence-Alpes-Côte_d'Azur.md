@@ -16,17 +16,17 @@ markerFolder: ./Provence-Alpes-Côte d'Azur//
 
 ## Confidential Links & Embeds: 
 
-### [Provence-Alpes-Côte_d'Azur](/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Provence-Alpes-Côte_d'Azur.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Provence-Alpes-Côte_d'Azur|Provence-Alpes-Côte_d'Azur]] 
 
-### [Provence-Alpes-Côte_d'Azur.public](/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Provence-Alpes-Côte_d'Azur.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Provence-Alpes-Côte_d'Azur.public|Provence-Alpes-Côte_d'Azur.public]] 
 
-### [Provence-Alpes-Côte_d'Azur.internal](/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Provence-Alpes-Côte_d'Azur.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Provence-Alpes-Côte_d'Azur.internal|Provence-Alpes-Côte_d'Azur.internal]] 
 
-### [Provence-Alpes-Côte_d'Azur.protect](/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Provence-Alpes-Côte_d'Azur.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Provence-Alpes-Côte_d'Azur.protect|Provence-Alpes-Côte_d'Azur.protect]] 
 
-### [Provence-Alpes-Côte_d'Azur.private](/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Provence-Alpes-Côte_d'Azur.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Provence-Alpes-Côte_d'Azur.private|Provence-Alpes-Côte_d'Azur.private]] 
 
-### [Provence-Alpes-Côte_d'Azur.personal](/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Provence-Alpes-Côte_d'Azur.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Provence-Alpes-Côte_d'Azur.personal|Provence-Alpes-Côte_d'Azur.personal]] 
 
-### [Provence-Alpes-Côte_d'Azur.secret](/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Provence-Alpes-Côte_d'Azur.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Provence-Alpes-Côte_d'Azur.secret|Provence-Alpes-Côte_d'Azur.secret]] 
 

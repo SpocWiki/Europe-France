@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 15748
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 6.48
+dv_has_place_latitude: 47.68
+dv_name: Lure
+dv_Country: "[[../../../../../../../../France]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::6.48] 
-[has_place_latitude::47.68] 
-[name::Lure] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[France]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Lure](/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Bourgogne-Franche-Comté/departments~Bourgogne-Franche-Comté/Haute-Saône/communes~Haute-Saône/Lure/cities~Lure/Lure.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Bourgogne-Franche-Comté/departments~Bourgogne-Franche-Comté/Haute-Saône/communes~Haute-Saône/Lure/cities~Lure/Lure|Lure]] 
 
-### [Lure.public](/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Bourgogne-Franche-Comté/departments~Bourgogne-Franche-Comté/Haute-Saône/communes~Haute-Saône/Lure/cities~Lure/Lure.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Bourgogne-Franche-Comté/departments~Bourgogne-Franche-Comté/Haute-Saône/communes~Haute-Saône/Lure/cities~Lure/Lure.public|Lure.public]] 
 
-### [Lure.internal](/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Bourgogne-Franche-Comté/departments~Bourgogne-Franche-Comté/Haute-Saône/communes~Haute-Saône/Lure/cities~Lure/Lure.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Bourgogne-Franche-Comté/departments~Bourgogne-Franche-Comté/Haute-Saône/communes~Haute-Saône/Lure/cities~Lure/Lure.internal|Lure.internal]] 
 
-### [Lure.protect](/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Bourgogne-Franche-Comté/departments~Bourgogne-Franche-Comté/Haute-Saône/communes~Haute-Saône/Lure/cities~Lure/Lure.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Bourgogne-Franche-Comté/departments~Bourgogne-Franche-Comté/Haute-Saône/communes~Haute-Saône/Lure/cities~Lure/Lure.protect|Lure.protect]] 
 
-### [Lure.private](/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Bourgogne-Franche-Comté/departments~Bourgogne-Franche-Comté/Haute-Saône/communes~Haute-Saône/Lure/cities~Lure/Lure.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Bourgogne-Franche-Comté/departments~Bourgogne-Franche-Comté/Haute-Saône/communes~Haute-Saône/Lure/cities~Lure/Lure.private|Lure.private]] 
 
-### [Lure.personal](/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Bourgogne-Franche-Comté/departments~Bourgogne-Franche-Comté/Haute-Saône/communes~Haute-Saône/Lure/cities~Lure/Lure.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Bourgogne-Franche-Comté/departments~Bourgogne-Franche-Comté/Haute-Saône/communes~Haute-Saône/Lure/cities~Lure/Lure.personal|Lure.personal]] 
 
-### [Lure.secret](/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Bourgogne-Franche-Comté/departments~Bourgogne-Franche-Comté/Haute-Saône/communes~Haute-Saône/Lure/cities~Lure/Lure.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Bourgogne-Franche-Comté/departments~Bourgogne-Franche-Comté/Haute-Saône/communes~Haute-Saône/Lure/cities~Lure/Lure.secret|Lure.secret]] 
 

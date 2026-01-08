@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 30162
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 2.03
+dv_has_place_latitude: 44.62
+dv_name: Figeac
+dv_Country: "[[../../../../../../../../France]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::2.03] 
-[has_place_latitude::44.62] 
-[name::Figeac] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[France]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Figeac](/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Lot/communes~Lot/Figeac/cities~Figeac/Figeac.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Lot/communes~Lot/Figeac/cities~Figeac/Figeac|Figeac]] 
 
-### [Figeac.public](/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Lot/communes~Lot/Figeac/cities~Figeac/Figeac.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Lot/communes~Lot/Figeac/cities~Figeac/Figeac.public|Figeac.public]] 
 
-### [Figeac.internal](/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Lot/communes~Lot/Figeac/cities~Figeac/Figeac.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Lot/communes~Lot/Figeac/cities~Figeac/Figeac.internal|Figeac.internal]] 
 
-### [Figeac.protect](/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Lot/communes~Lot/Figeac/cities~Figeac/Figeac.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Lot/communes~Lot/Figeac/cities~Figeac/Figeac.protect|Figeac.protect]] 
 
-### [Figeac.private](/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Lot/communes~Lot/Figeac/cities~Figeac/Figeac.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Lot/communes~Lot/Figeac/cities~Figeac/Figeac.private|Figeac.private]] 
 
-### [Figeac.personal](/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Lot/communes~Lot/Figeac/cities~Figeac/Figeac.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Lot/communes~Lot/Figeac/cities~Figeac/Figeac.personal|Figeac.personal]] 
 
-### [Figeac.secret](/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Lot/communes~Lot/Figeac/cities~Figeac/Figeac.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Lot/communes~Lot/Figeac/cities~Figeac/Figeac.secret|Figeac.secret]] 
 

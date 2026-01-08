@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 32820
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 5.7
+dv_has_place_latitude: 48.35
+dv_name: Neufcháteau
+dv_Country: "[[../../../../../../../../France]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::5.7] 
-[has_place_latitude::48.35] 
-[name::Neufcháteau] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[France]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Neufcháteau](/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Grand_Est/departments~Grand_Est/Vosges/communes~Vosges/Neufchâteau/cities~Neufchâteau/Neufcháteau.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Grand_Est/departments~Grand_Est/Vosges/communes~Vosges/Neufchâteau/cities~Neufchâteau/Neufcháteau|Neufcháteau]] 
 
-### [Neufcháteau.public](/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Grand_Est/departments~Grand_Est/Vosges/communes~Vosges/Neufchâteau/cities~Neufchâteau/Neufcháteau.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Grand_Est/departments~Grand_Est/Vosges/communes~Vosges/Neufchâteau/cities~Neufchâteau/Neufcháteau.public|Neufcháteau.public]] 
 
-### [Neufcháteau.internal](/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Grand_Est/departments~Grand_Est/Vosges/communes~Vosges/Neufchâteau/cities~Neufchâteau/Neufcháteau.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Grand_Est/departments~Grand_Est/Vosges/communes~Vosges/Neufchâteau/cities~Neufchâteau/Neufcháteau.internal|Neufcháteau.internal]] 
 
-### [Neufcháteau.protect](/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Grand_Est/departments~Grand_Est/Vosges/communes~Vosges/Neufchâteau/cities~Neufchâteau/Neufcháteau.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Grand_Est/departments~Grand_Est/Vosges/communes~Vosges/Neufchâteau/cities~Neufchâteau/Neufcháteau.protect|Neufcháteau.protect]] 
 
-### [Neufcháteau.private](/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Grand_Est/departments~Grand_Est/Vosges/communes~Vosges/Neufchâteau/cities~Neufchâteau/Neufcháteau.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Grand_Est/departments~Grand_Est/Vosges/communes~Vosges/Neufchâteau/cities~Neufchâteau/Neufcháteau.private|Neufcháteau.private]] 
 
-### [Neufcháteau.personal](/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Grand_Est/departments~Grand_Est/Vosges/communes~Vosges/Neufchâteau/cities~Neufchâteau/Neufcháteau.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Grand_Est/departments~Grand_Est/Vosges/communes~Vosges/Neufchâteau/cities~Neufchâteau/Neufcháteau.personal|Neufcháteau.personal]] 
 
-### [Neufcháteau.secret](/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Grand_Est/departments~Grand_Est/Vosges/communes~Vosges/Neufchâteau/cities~Neufchâteau/Neufcháteau.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Grand_Est/departments~Grand_Est/Vosges/communes~Vosges/Neufchâteau/cities~Neufchâteau/Neufcháteau.secret|Neufcháteau.secret]] 
 

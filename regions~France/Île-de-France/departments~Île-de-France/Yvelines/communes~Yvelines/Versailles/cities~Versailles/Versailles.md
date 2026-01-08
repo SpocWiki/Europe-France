@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 35254
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 2.13
+dv_has_place_latitude: 48.8
+dv_name: Versailles
+dv_Country: "[[../../../../../../../../France]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::2.13] 
-[has_place_latitude::48.8] 
-[name::Versailles] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[France]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Versailles](/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Île-de-France/departments~Île-de-France/Yvelines/communes~Yvelines/Versailles/cities~Versailles/Versailles.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Île-de-France/departments~Île-de-France/Yvelines/communes~Yvelines/Versailles/cities~Versailles/Versailles|Versailles]] 
 
-### [Versailles.public](/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Île-de-France/departments~Île-de-France/Yvelines/communes~Yvelines/Versailles/cities~Versailles/Versailles.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Île-de-France/departments~Île-de-France/Yvelines/communes~Yvelines/Versailles/cities~Versailles/Versailles.public|Versailles.public]] 
 
-### [Versailles.internal](/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Île-de-France/departments~Île-de-France/Yvelines/communes~Yvelines/Versailles/cities~Versailles/Versailles.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Île-de-France/departments~Île-de-France/Yvelines/communes~Yvelines/Versailles/cities~Versailles/Versailles.internal|Versailles.internal]] 
 
-### [Versailles.protect](/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Île-de-France/departments~Île-de-France/Yvelines/communes~Yvelines/Versailles/cities~Versailles/Versailles.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Île-de-France/departments~Île-de-France/Yvelines/communes~Yvelines/Versailles/cities~Versailles/Versailles.protect|Versailles.protect]] 
 
-### [Versailles.private](/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Île-de-France/departments~Île-de-France/Yvelines/communes~Yvelines/Versailles/cities~Versailles/Versailles.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Île-de-France/departments~Île-de-France/Yvelines/communes~Yvelines/Versailles/cities~Versailles/Versailles.private|Versailles.private]] 
 
-### [Versailles.personal](/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Île-de-France/departments~Île-de-France/Yvelines/communes~Yvelines/Versailles/cities~Versailles/Versailles.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Île-de-France/departments~Île-de-France/Yvelines/communes~Yvelines/Versailles/cities~Versailles/Versailles.personal|Versailles.personal]] 
 
-### [Versailles.secret](/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Île-de-France/departments~Île-de-France/Yvelines/communes~Yvelines/Versailles/cities~Versailles/Versailles.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Île-de-France/departments~Île-de-France/Yvelines/communes~Yvelines/Versailles/cities~Versailles/Versailles.secret|Versailles.secret]] 
 

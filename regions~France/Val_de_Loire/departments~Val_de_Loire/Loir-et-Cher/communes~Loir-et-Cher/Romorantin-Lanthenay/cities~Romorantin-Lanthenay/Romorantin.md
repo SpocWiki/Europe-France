@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 33753
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 1.75
+dv_has_place_latitude: 47.35
+dv_name: Romorantin
+dv_Country: "[[../../../../../../../../France]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::1.75] 
-[has_place_latitude::47.35] 
-[name::Romorantin] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[France]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Romorantin](/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Val_de_Loire/departments~Val_de_Loire/Loir-et-Cher/communes~Loir-et-Cher/Romorantin-Lanthenay/cities~Romorantin-Lanthenay/Romorantin.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Val_de_Loire/departments~Val_de_Loire/Loir-et-Cher/communes~Loir-et-Cher/Romorantin-Lanthenay/cities~Romorantin-Lanthenay/Romorantin|Romorantin]] 
 
-### [Romorantin.public](/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Val_de_Loire/departments~Val_de_Loire/Loir-et-Cher/communes~Loir-et-Cher/Romorantin-Lanthenay/cities~Romorantin-Lanthenay/Romorantin.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Val_de_Loire/departments~Val_de_Loire/Loir-et-Cher/communes~Loir-et-Cher/Romorantin-Lanthenay/cities~Romorantin-Lanthenay/Romorantin.public|Romorantin.public]] 
 
-### [Romorantin.internal](/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Val_de_Loire/departments~Val_de_Loire/Loir-et-Cher/communes~Loir-et-Cher/Romorantin-Lanthenay/cities~Romorantin-Lanthenay/Romorantin.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Val_de_Loire/departments~Val_de_Loire/Loir-et-Cher/communes~Loir-et-Cher/Romorantin-Lanthenay/cities~Romorantin-Lanthenay/Romorantin.internal|Romorantin.internal]] 
 
-### [Romorantin.protect](/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Val_de_Loire/departments~Val_de_Loire/Loir-et-Cher/communes~Loir-et-Cher/Romorantin-Lanthenay/cities~Romorantin-Lanthenay/Romorantin.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Val_de_Loire/departments~Val_de_Loire/Loir-et-Cher/communes~Loir-et-Cher/Romorantin-Lanthenay/cities~Romorantin-Lanthenay/Romorantin.protect|Romorantin.protect]] 
 
-### [Romorantin.private](/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Val_de_Loire/departments~Val_de_Loire/Loir-et-Cher/communes~Loir-et-Cher/Romorantin-Lanthenay/cities~Romorantin-Lanthenay/Romorantin.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Val_de_Loire/departments~Val_de_Loire/Loir-et-Cher/communes~Loir-et-Cher/Romorantin-Lanthenay/cities~Romorantin-Lanthenay/Romorantin.private|Romorantin.private]] 
 
-### [Romorantin.personal](/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Val_de_Loire/departments~Val_de_Loire/Loir-et-Cher/communes~Loir-et-Cher/Romorantin-Lanthenay/cities~Romorantin-Lanthenay/Romorantin.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Val_de_Loire/departments~Val_de_Loire/Loir-et-Cher/communes~Loir-et-Cher/Romorantin-Lanthenay/cities~Romorantin-Lanthenay/Romorantin.personal|Romorantin.personal]] 
 
-### [Romorantin.secret](/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Val_de_Loire/departments~Val_de_Loire/Loir-et-Cher/communes~Loir-et-Cher/Romorantin-Lanthenay/cities~Romorantin-Lanthenay/Romorantin.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Val_de_Loire/departments~Val_de_Loire/Loir-et-Cher/communes~Loir-et-Cher/Romorantin-Lanthenay/cities~Romorantin-Lanthenay/Romorantin.secret|Romorantin.secret]] 
 

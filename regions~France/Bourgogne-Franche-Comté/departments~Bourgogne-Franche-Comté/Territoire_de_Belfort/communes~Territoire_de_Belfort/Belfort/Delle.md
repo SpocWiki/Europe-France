@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 29741
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 7
+dv_has_place_latitude: 47.5
+dv_name: Delle
+dv_Country: "[[../../../../../../../France]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::7] 
-[has_place_latitude::47.5] 
-[name::Delle] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[France]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Delle](/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Bourgogne-Franche-Comté/departments~Bourgogne-Franche-Comté/Territoire_de_Belfort/communes~Territoire_de_Belfort/Belfort/Delle.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Bourgogne-Franche-Comté/departments~Bourgogne-Franche-Comté/Territoire_de_Belfort/communes~Territoire_de_Belfort/Belfort/Delle|Delle]] 
 
-### [Delle.public](/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Bourgogne-Franche-Comté/departments~Bourgogne-Franche-Comté/Territoire_de_Belfort/communes~Territoire_de_Belfort/Belfort/Delle.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Bourgogne-Franche-Comté/departments~Bourgogne-Franche-Comté/Territoire_de_Belfort/communes~Territoire_de_Belfort/Belfort/Delle.public|Delle.public]] 
 
-### [Delle.internal](/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Bourgogne-Franche-Comté/departments~Bourgogne-Franche-Comté/Territoire_de_Belfort/communes~Territoire_de_Belfort/Belfort/Delle.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Bourgogne-Franche-Comté/departments~Bourgogne-Franche-Comté/Territoire_de_Belfort/communes~Territoire_de_Belfort/Belfort/Delle.internal|Delle.internal]] 
 
-### [Delle.protect](/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Bourgogne-Franche-Comté/departments~Bourgogne-Franche-Comté/Territoire_de_Belfort/communes~Territoire_de_Belfort/Belfort/Delle.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Bourgogne-Franche-Comté/departments~Bourgogne-Franche-Comté/Territoire_de_Belfort/communes~Territoire_de_Belfort/Belfort/Delle.protect|Delle.protect]] 
 
-### [Delle.private](/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Bourgogne-Franche-Comté/departments~Bourgogne-Franche-Comté/Territoire_de_Belfort/communes~Territoire_de_Belfort/Belfort/Delle.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Bourgogne-Franche-Comté/departments~Bourgogne-Franche-Comté/Territoire_de_Belfort/communes~Territoire_de_Belfort/Belfort/Delle.private|Delle.private]] 
 
-### [Delle.personal](/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Bourgogne-Franche-Comté/departments~Bourgogne-Franche-Comté/Territoire_de_Belfort/communes~Territoire_de_Belfort/Belfort/Delle.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Bourgogne-Franche-Comté/departments~Bourgogne-Franche-Comté/Territoire_de_Belfort/communes~Territoire_de_Belfort/Belfort/Delle.personal|Delle.personal]] 
 
-### [Delle.secret](/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Bourgogne-Franche-Comté/departments~Bourgogne-Franche-Comté/Territoire_de_Belfort/communes~Territoire_de_Belfort/Belfort/Delle.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Bourgogne-Franche-Comté/departments~Bourgogne-Franche-Comté/Territoire_de_Belfort/communes~Territoire_de_Belfort/Belfort/Delle.secret|Delle.secret]] 
 

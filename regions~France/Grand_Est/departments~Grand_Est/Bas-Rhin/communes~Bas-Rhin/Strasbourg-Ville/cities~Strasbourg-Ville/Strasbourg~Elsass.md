@@ -17,21 +17,29 @@ tags:
 SpocWebEntityId: 34614
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 7.7
+dv_has_place_latitude: 48.58
+dv_name: Strassburg~Elsass
+dv_Country: "[[../../../../../../../../France]]"
+dv_is_:
+  same_as: "[[../../../../../../../../../../../../WikiData/WD~Strasbourg,6602|WD~Strasbourg,6602]]"
+dv_is_same_as: "[[../../../../../../../../../../../../WikiData/WD~Strasbourg,6602|WD~Strasbourg,6602]]"
 ---
 
 # [[Strasbourg~Elsass]] 
 
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::7.7] 
-[has_place_latitude::48.58] 
-[name::Strassburg~Elsass] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[France]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
-#is_/same_as :: [[../../../../../../../../../../../../WikiData/WD~Strasbourg,6602|WD~Strasbourg,6602]] 
+is_same_as = `=this.dv_is_same_as`
 
 ## #has_/map 
 
@@ -70,17 +78,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Strasbourg~Elsass](/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Grand_Est/departments~Grand_Est/Bas-Rhin/communes~Bas-Rhin/Strasbourg-Ville/cities~Strasbourg-Ville/Strasbourg~Elsass.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Grand_Est/departments~Grand_Est/Bas-Rhin/communes~Bas-Rhin/Strasbourg-Ville/cities~Strasbourg-Ville/Strasbourg~Elsass|Strasbourg~Elsass]] 
 
-### [Strasbourg~Elsass.public](/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Grand_Est/departments~Grand_Est/Bas-Rhin/communes~Bas-Rhin/Strasbourg-Ville/cities~Strasbourg-Ville/Strasbourg~Elsass.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Grand_Est/departments~Grand_Est/Bas-Rhin/communes~Bas-Rhin/Strasbourg-Ville/cities~Strasbourg-Ville/Strasbourg~Elsass.public|Strasbourg~Elsass.public]] 
 
-### [Strasbourg~Elsass.internal](/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Grand_Est/departments~Grand_Est/Bas-Rhin/communes~Bas-Rhin/Strasbourg-Ville/cities~Strasbourg-Ville/Strasbourg~Elsass.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Grand_Est/departments~Grand_Est/Bas-Rhin/communes~Bas-Rhin/Strasbourg-Ville/cities~Strasbourg-Ville/Strasbourg~Elsass.internal|Strasbourg~Elsass.internal]] 
 
-### [Strasbourg~Elsass.protect](/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Grand_Est/departments~Grand_Est/Bas-Rhin/communes~Bas-Rhin/Strasbourg-Ville/cities~Strasbourg-Ville/Strasbourg~Elsass.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Grand_Est/departments~Grand_Est/Bas-Rhin/communes~Bas-Rhin/Strasbourg-Ville/cities~Strasbourg-Ville/Strasbourg~Elsass.protect|Strasbourg~Elsass.protect]] 
 
-### [Strasbourg~Elsass.private](/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Grand_Est/departments~Grand_Est/Bas-Rhin/communes~Bas-Rhin/Strasbourg-Ville/cities~Strasbourg-Ville/Strasbourg~Elsass.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Grand_Est/departments~Grand_Est/Bas-Rhin/communes~Bas-Rhin/Strasbourg-Ville/cities~Strasbourg-Ville/Strasbourg~Elsass.private|Strasbourg~Elsass.private]] 
 
-### [Strasbourg~Elsass.personal](/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Grand_Est/departments~Grand_Est/Bas-Rhin/communes~Bas-Rhin/Strasbourg-Ville/cities~Strasbourg-Ville/Strasbourg~Elsass.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Grand_Est/departments~Grand_Est/Bas-Rhin/communes~Bas-Rhin/Strasbourg-Ville/cities~Strasbourg-Ville/Strasbourg~Elsass.personal|Strasbourg~Elsass.personal]] 
 
-### [Strasbourg~Elsass.secret](/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Grand_Est/departments~Grand_Est/Bas-Rhin/communes~Bas-Rhin/Strasbourg-Ville/cities~Strasbourg-Ville/Strasbourg~Elsass.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Grand_Est/departments~Grand_Est/Bas-Rhin/communes~Bas-Rhin/Strasbourg-Ville/cities~Strasbourg-Ville/Strasbourg~Elsass.secret|Strasbourg~Elsass.secret]] 
 

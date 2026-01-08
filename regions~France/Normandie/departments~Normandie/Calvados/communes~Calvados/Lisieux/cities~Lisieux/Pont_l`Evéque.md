@@ -15,14 +15,19 @@ tags:
 SpocWebEntityId: 33444
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 0.18
+dv_has_place_latitude: 49.28
+dv_name: Pont l`Evéque
+dv_Country: "[[../../../../../../../../France]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::0.18] 
-[has_place_latitude::49.28] 
-[name::Pont l`Evéque] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[France]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -39,17 +44,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Pont_l`Evéque](/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Normandie/departments~Normandie/Calvados/communes~Calvados/Lisieux/cities~Lisieux/Pont_l`Evéque.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Normandie/departments~Normandie/Calvados/communes~Calvados/Lisieux/cities~Lisieux/Pont_l`Evéque|Pont_l`Evéque]] 
 
-### [Pont_l`Evéque.public](/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Normandie/departments~Normandie/Calvados/communes~Calvados/Lisieux/cities~Lisieux/Pont_l`Evéque.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Normandie/departments~Normandie/Calvados/communes~Calvados/Lisieux/cities~Lisieux/Pont_l`Evéque.public|Pont_l`Evéque.public]] 
 
-### [Pont_l`Evéque.internal](/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Normandie/departments~Normandie/Calvados/communes~Calvados/Lisieux/cities~Lisieux/Pont_l`Evéque.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Normandie/departments~Normandie/Calvados/communes~Calvados/Lisieux/cities~Lisieux/Pont_l`Evéque.internal|Pont_l`Evéque.internal]] 
 
-### [Pont_l`Evéque.protect](/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Normandie/departments~Normandie/Calvados/communes~Calvados/Lisieux/cities~Lisieux/Pont_l`Evéque.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Normandie/departments~Normandie/Calvados/communes~Calvados/Lisieux/cities~Lisieux/Pont_l`Evéque.protect|Pont_l`Evéque.protect]] 
 
-### [Pont_l`Evéque.private](/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Normandie/departments~Normandie/Calvados/communes~Calvados/Lisieux/cities~Lisieux/Pont_l`Evéque.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Normandie/departments~Normandie/Calvados/communes~Calvados/Lisieux/cities~Lisieux/Pont_l`Evéque.private|Pont_l`Evéque.private]] 
 
-### [Pont_l`Evéque.personal](/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Normandie/departments~Normandie/Calvados/communes~Calvados/Lisieux/cities~Lisieux/Pont_l`Evéque.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Normandie/departments~Normandie/Calvados/communes~Calvados/Lisieux/cities~Lisieux/Pont_l`Evéque.personal|Pont_l`Evéque.personal]] 
 
-### [Pont_l`Evéque.secret](/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Normandie/departments~Normandie/Calvados/communes~Calvados/Lisieux/cities~Lisieux/Pont_l`Evéque.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Normandie/departments~Normandie/Calvados/communes~Calvados/Lisieux/cities~Lisieux/Pont_l`Evéque.secret|Pont_l`Evéque.secret]] 
 

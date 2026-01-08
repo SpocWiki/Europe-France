@@ -44,17 +44,17 @@ noteOnly: true
 
 ## Confidential Links & Embeds: 
 
-### [Regions](/_Standards/Earth/Continent/Europe/Europe~West/France/Regions.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~West/France/Regions|Regions]] 
 
-### [Regions.public](/_public/Earth/Continent/Europe/Europe~West/France/Regions.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~West/France/Regions.public|Regions.public]] 
 
-### [Regions.internal](/_internal/Earth/Continent/Europe/Europe~West/France/Regions.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~West/France/Regions.internal|Regions.internal]] 
 
-### [Regions.protect](/_protect/Earth/Continent/Europe/Europe~West/France/Regions.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~West/France/Regions.protect|Regions.protect]] 
 
-### [Regions.private](/_private/Earth/Continent/Europe/Europe~West/France/Regions.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~West/France/Regions.private|Regions.private]] 
 
-### [Regions.personal](/_personal/Earth/Continent/Europe/Europe~West/France/Regions.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~West/France/Regions.personal|Regions.personal]] 
 
-### [Regions.secret](/_secret/Earth/Continent/Europe/Europe~West/France/Regions.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~West/France/Regions.secret|Regions.secret]] 
 

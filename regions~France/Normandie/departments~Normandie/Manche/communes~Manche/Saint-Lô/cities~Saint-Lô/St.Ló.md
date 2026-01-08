@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 34470
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: -1.1
+dv_has_place_latitude: 49.12
+dv_name: St.Ló
+dv_Country: "[[../../../../../../../../France]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::-1.1] 
-[has_place_latitude::49.12] 
-[name::St.Ló] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[France]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [St.Ló](/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Normandie/departments~Normandie/Manche/communes~Manche/Saint-Lô/cities~Saint-Lô/St.Ló.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Normandie/departments~Normandie/Manche/communes~Manche/Saint-Lô/cities~Saint-Lô/St.Ló|St.Ló]] 
 
-### [St.Ló.public](/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Normandie/departments~Normandie/Manche/communes~Manche/Saint-Lô/cities~Saint-Lô/St.Ló.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Normandie/departments~Normandie/Manche/communes~Manche/Saint-Lô/cities~Saint-Lô/St.Ló.public|St.Ló.public]] 
 
-### [St.Ló.internal](/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Normandie/departments~Normandie/Manche/communes~Manche/Saint-Lô/cities~Saint-Lô/St.Ló.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Normandie/departments~Normandie/Manche/communes~Manche/Saint-Lô/cities~Saint-Lô/St.Ló.internal|St.Ló.internal]] 
 
-### [St.Ló.protect](/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Normandie/departments~Normandie/Manche/communes~Manche/Saint-Lô/cities~Saint-Lô/St.Ló.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Normandie/departments~Normandie/Manche/communes~Manche/Saint-Lô/cities~Saint-Lô/St.Ló.protect|St.Ló.protect]] 
 
-### [St.Ló.private](/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Normandie/departments~Normandie/Manche/communes~Manche/Saint-Lô/cities~Saint-Lô/St.Ló.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Normandie/departments~Normandie/Manche/communes~Manche/Saint-Lô/cities~Saint-Lô/St.Ló.private|St.Ló.private]] 
 
-### [St.Ló.personal](/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Normandie/departments~Normandie/Manche/communes~Manche/Saint-Lô/cities~Saint-Lô/St.Ló.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Normandie/departments~Normandie/Manche/communes~Manche/Saint-Lô/cities~Saint-Lô/St.Ló.personal|St.Ló.personal]] 
 
-### [St.Ló.secret](/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Normandie/departments~Normandie/Manche/communes~Manche/Saint-Lô/cities~Saint-Lô/St.Ló.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Normandie/departments~Normandie/Manche/communes~Manche/Saint-Lô/cities~Saint-Lô/St.Ló.secret|St.Ló.secret]] 
 

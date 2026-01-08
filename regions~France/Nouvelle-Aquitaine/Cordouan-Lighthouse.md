@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 29662
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../Geography/Place]]"
+dv_has_place_longitude: -1.17
+dv_has_place_latitude: 45.58
+dv_name: Coudouan
+dv_Country: "[[../../../France]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::-1.17] 
-[has_place_latitude::45.58] 
-[name::Coudouan] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[France]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -53,17 +58,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Cordouan-Lighthouse](/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Nouvelle-Aquitaine/Cordouan-Lighthouse.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Nouvelle-Aquitaine/Cordouan-Lighthouse|Cordouan-Lighthouse]] 
 
-### [Cordouan-Lighthouse.public](/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Nouvelle-Aquitaine/Cordouan-Lighthouse.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Nouvelle-Aquitaine/Cordouan-Lighthouse.public|Cordouan-Lighthouse.public]] 
 
-### [Cordouan-Lighthouse.internal](/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Nouvelle-Aquitaine/Cordouan-Lighthouse.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Nouvelle-Aquitaine/Cordouan-Lighthouse.internal|Cordouan-Lighthouse.internal]] 
 
-### [Cordouan-Lighthouse.protect](/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Nouvelle-Aquitaine/Cordouan-Lighthouse.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Nouvelle-Aquitaine/Cordouan-Lighthouse.protect|Cordouan-Lighthouse.protect]] 
 
-### [Cordouan-Lighthouse.private](/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Nouvelle-Aquitaine/Cordouan-Lighthouse.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Nouvelle-Aquitaine/Cordouan-Lighthouse.private|Cordouan-Lighthouse.private]] 
 
-### [Cordouan-Lighthouse.personal](/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Nouvelle-Aquitaine/Cordouan-Lighthouse.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Nouvelle-Aquitaine/Cordouan-Lighthouse.personal|Cordouan-Lighthouse.personal]] 
 
-### [Cordouan-Lighthouse.secret](/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Nouvelle-Aquitaine/Cordouan-Lighthouse.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Nouvelle-Aquitaine/Cordouan-Lighthouse.secret|Cordouan-Lighthouse.secret]] 
 

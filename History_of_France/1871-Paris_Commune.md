@@ -1,4 +1,8 @@
-﻿---
+---
+dv_is_:
+  same_as: "[[../../../../../../WikiData/WD~Paris_Commune,133132]]"
+dv_is_same_as: "[[../../../../../../WikiData/WD~Paris_Commune,133132]]"
+
 has_time_started: 1871-03-18 
 has_time_stopped: 1871-05-28 
 aliases:
@@ -55,7 +59,7 @@ Krugosvet_article_archived_: istoriya/parizhskaya-kommuna
 
 # [[1871-Paris_Commune]] 
 
-#is_/same_as :: [[WD~Paris_Commune,133132]] 
+is_same_as = `=this.dv_is_same_as`
 
 ## #has_/text_of_/abstract 
 
@@ -120,4 +124,21 @@ Krugosvet_article_archived_: istoriya/parizhskaya-kommuna
 > Look at the Paris Commune. That was the Dictatorship of the Proletariat."
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Paris%20Commune) 
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~West/France/History_of_France/1871-Paris_Commune|1871-Paris_Commune]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~West/France/History_of_France/1871-Paris_Commune.public|1871-Paris_Commune.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~West/France/History_of_France/1871-Paris_Commune.internal|1871-Paris_Commune.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~West/France/History_of_France/1871-Paris_Commune.protect|1871-Paris_Commune.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~West/France/History_of_France/1871-Paris_Commune.private|1871-Paris_Commune.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~West/France/History_of_France/1871-Paris_Commune.personal|1871-Paris_Commune.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~West/France/History_of_France/1871-Paris_Commune.secret|1871-Paris_Commune.secret]] 
 

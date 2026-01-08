@@ -11,17 +11,17 @@ markerFolder: ./Auvergne-Rhône-Alpes//
 
 ## Confidential Links & Embeds: 
 
-### [Auvergne-Rhône-Alpes](/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Auvergne-Rhône-Alpes.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Auvergne-Rhône-Alpes|Auvergne-Rhône-Alpes]] 
 
-### [Auvergne-Rhône-Alpes.public](/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Auvergne-Rhône-Alpes.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Auvergne-Rhône-Alpes.public|Auvergne-Rhône-Alpes.public]] 
 
-### [Auvergne-Rhône-Alpes.internal](/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Auvergne-Rhône-Alpes.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Auvergne-Rhône-Alpes.internal|Auvergne-Rhône-Alpes.internal]] 
 
-### [Auvergne-Rhône-Alpes.protect](/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Auvergne-Rhône-Alpes.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Auvergne-Rhône-Alpes.protect|Auvergne-Rhône-Alpes.protect]] 
 
-### [Auvergne-Rhône-Alpes.private](/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Auvergne-Rhône-Alpes.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Auvergne-Rhône-Alpes.private|Auvergne-Rhône-Alpes.private]] 
 
-### [Auvergne-Rhône-Alpes.personal](/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Auvergne-Rhône-Alpes.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Auvergne-Rhône-Alpes.personal|Auvergne-Rhône-Alpes.personal]] 
 
-### [Auvergne-Rhône-Alpes.secret](/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Auvergne-Rhône-Alpes.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Auvergne-Rhône-Alpes.secret|Auvergne-Rhône-Alpes.secret]] 
 

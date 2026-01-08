@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 32347
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 3.98
+dv_has_place_latitude: 50.28
+dv_name: Maubeuge
+dv_Country: "[[../../../../../../../../France]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::3.98] 
-[has_place_latitude::50.28] 
-[name::Maubeuge] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[France]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Maubeuge](/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Hauts-de-France/departments~Hauts-de-France/Hauts-de-France~Nord/communes~Nord/Avesnes-sur-Helpe/cities~Avesnes-sur-Helpe/Maubeuge.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Hauts-de-France/departments~Hauts-de-France/Hauts-de-France~Nord/communes~Nord/Avesnes-sur-Helpe/cities~Avesnes-sur-Helpe/Maubeuge|Maubeuge]] 
 
-### [Maubeuge.public](/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Hauts-de-France/departments~Hauts-de-France/Hauts-de-France~Nord/communes~Nord/Avesnes-sur-Helpe/cities~Avesnes-sur-Helpe/Maubeuge.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Hauts-de-France/departments~Hauts-de-France/Hauts-de-France~Nord/communes~Nord/Avesnes-sur-Helpe/cities~Avesnes-sur-Helpe/Maubeuge.public|Maubeuge.public]] 
 
-### [Maubeuge.internal](/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Hauts-de-France/departments~Hauts-de-France/Hauts-de-France~Nord/communes~Nord/Avesnes-sur-Helpe/cities~Avesnes-sur-Helpe/Maubeuge.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Hauts-de-France/departments~Hauts-de-France/Hauts-de-France~Nord/communes~Nord/Avesnes-sur-Helpe/cities~Avesnes-sur-Helpe/Maubeuge.internal|Maubeuge.internal]] 
 
-### [Maubeuge.protect](/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Hauts-de-France/departments~Hauts-de-France/Hauts-de-France~Nord/communes~Nord/Avesnes-sur-Helpe/cities~Avesnes-sur-Helpe/Maubeuge.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Hauts-de-France/departments~Hauts-de-France/Hauts-de-France~Nord/communes~Nord/Avesnes-sur-Helpe/cities~Avesnes-sur-Helpe/Maubeuge.protect|Maubeuge.protect]] 
 
-### [Maubeuge.private](/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Hauts-de-France/departments~Hauts-de-France/Hauts-de-France~Nord/communes~Nord/Avesnes-sur-Helpe/cities~Avesnes-sur-Helpe/Maubeuge.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Hauts-de-France/departments~Hauts-de-France/Hauts-de-France~Nord/communes~Nord/Avesnes-sur-Helpe/cities~Avesnes-sur-Helpe/Maubeuge.private|Maubeuge.private]] 
 
-### [Maubeuge.personal](/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Hauts-de-France/departments~Hauts-de-France/Hauts-de-France~Nord/communes~Nord/Avesnes-sur-Helpe/cities~Avesnes-sur-Helpe/Maubeuge.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Hauts-de-France/departments~Hauts-de-France/Hauts-de-France~Nord/communes~Nord/Avesnes-sur-Helpe/cities~Avesnes-sur-Helpe/Maubeuge.personal|Maubeuge.personal]] 
 
-### [Maubeuge.secret](/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Hauts-de-France/departments~Hauts-de-France/Hauts-de-France~Nord/communes~Nord/Avesnes-sur-Helpe/cities~Avesnes-sur-Helpe/Maubeuge.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Hauts-de-France/departments~Hauts-de-France/Hauts-de-France~Nord/communes~Nord/Avesnes-sur-Helpe/cities~Avesnes-sur-Helpe/Maubeuge.secret|Maubeuge.secret]] 
 

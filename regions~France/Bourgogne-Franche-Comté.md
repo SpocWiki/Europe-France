@@ -11,17 +11,17 @@ markerFolder: ./Bourgogne-Franche-Comté//
 
 ## Confidential Links & Embeds: 
 
-### [Bourgogne-Franche-Comté](/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Bourgogne-Franche-Comté.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Bourgogne-Franche-Comté|Bourgogne-Franche-Comté]] 
 
-### [Bourgogne-Franche-Comté.public](/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Bourgogne-Franche-Comté.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Bourgogne-Franche-Comté.public|Bourgogne-Franche-Comté.public]] 
 
-### [Bourgogne-Franche-Comté.internal](/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Bourgogne-Franche-Comté.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Bourgogne-Franche-Comté.internal|Bourgogne-Franche-Comté.internal]] 
 
-### [Bourgogne-Franche-Comté.protect](/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Bourgogne-Franche-Comté.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Bourgogne-Franche-Comté.protect|Bourgogne-Franche-Comté.protect]] 
 
-### [Bourgogne-Franche-Comté.private](/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Bourgogne-Franche-Comté.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Bourgogne-Franche-Comté.private|Bourgogne-Franche-Comté.private]] 
 
-### [Bourgogne-Franche-Comté.personal](/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Bourgogne-Franche-Comté.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Bourgogne-Franche-Comté.personal|Bourgogne-Franche-Comté.personal]] 
 
-### [Bourgogne-Franche-Comté.secret](/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Bourgogne-Franche-Comté.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Bourgogne-Franche-Comté.secret|Bourgogne-Franche-Comté.secret]] 
 

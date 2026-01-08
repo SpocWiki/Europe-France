@@ -1,4 +1,8 @@
-﻿---
+---
+dv_is_:
+  same_as: "[[../../../../../../../../../../../WikiData/WD~Bibliothèque_nationale_de_France,193563|WD~Bibliothèque_nationale_de_France,193563]]"
+dv_is_same_as: "[[../../../../../../../../../../../WikiData/WD~Bibliothèque_nationale_de_France,193563|WD~Bibliothèque_nationale_de_France,193563]]"
+
 has_time_started: 1537-01-01 
 aliases:
   - Bibliothèque_nationale_de_France
@@ -119,7 +123,7 @@ described_at_URL: http://viaf.org/viaf/partnerpages/BNF.html
 
 # [[BnF(Bibliothèque_nationale_de_France)]] 
 
-#is_/same_as :: [[../../../../../../../../../../../WikiData/WD~Bibliothèque_nationale_de_France,193563|WD~Bibliothèque_nationale_de_France,193563]] 
+is_same_as = `=this.dv_is_same_as`
 
 ## #has_/text_of_/abstract 
 
@@ -143,4 +147,21 @@ described_at_URL: http://viaf.org/viaf/partnerpages/BNF.html
 > as well as participates in research programs.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Biblioth%C3%A8que%20nationale%20de%20France) 
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Île-de-France/departments~Île-de-France/Paris/communes~Paris/Paris~13e_arrondissement/BnF(Bibliothèque_nationale_de_France)|BnF(Bibliothèque_nationale_de_France)]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Île-de-France/departments~Île-de-France/Paris/communes~Paris/Paris~13e_arrondissement/BnF(Bibliothèque_nationale_de_France).public|BnF(Bibliothèque_nationale_de_France).public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Île-de-France/departments~Île-de-France/Paris/communes~Paris/Paris~13e_arrondissement/BnF(Bibliothèque_nationale_de_France).internal|BnF(Bibliothèque_nationale_de_France).internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Île-de-France/departments~Île-de-France/Paris/communes~Paris/Paris~13e_arrondissement/BnF(Bibliothèque_nationale_de_France).protect|BnF(Bibliothèque_nationale_de_France).protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Île-de-France/departments~Île-de-France/Paris/communes~Paris/Paris~13e_arrondissement/BnF(Bibliothèque_nationale_de_France).private|BnF(Bibliothèque_nationale_de_France).private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Île-de-France/departments~Île-de-France/Paris/communes~Paris/Paris~13e_arrondissement/BnF(Bibliothèque_nationale_de_France).personal|BnF(Bibliothèque_nationale_de_France).personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Île-de-France/departments~Île-de-France/Paris/communes~Paris/Paris~13e_arrondissement/BnF(Bibliothèque_nationale_de_France).secret|BnF(Bibliothèque_nationale_de_France).secret]] 
 

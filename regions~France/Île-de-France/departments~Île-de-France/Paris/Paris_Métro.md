@@ -1,4 +1,8 @@
-﻿---
+---
+dv_is_:
+  same_as: "[[../../../../../../../../../WikiData/WD~Paris_Métro,50716|WD~Paris_Métro,50716]]"
+dv_is_same_as: "[[../../../../../../../../../WikiData/WD~Paris_Métro,50716|WD~Paris_Métro,50716]]"
+
 has_time_started: 1900-07-19 
 aliases:
 has_id_wikidata: Q50716
@@ -75,7 +79,7 @@ official_name: Métro de Paris
 
 # [[Paris_Métro]] 
 
-#is_/same_as :: [[../../../../../../../../../WikiData/WD~Paris_Métro,50716|WD~Paris_Métro,50716]] 
+is_same_as = `=this.dv_is_same_as`
 
 ## #has_/text_of_/abstract 
 
@@ -125,3 +129,21 @@ official_name: Métro de Paris
 > Besides the Métro, central Paris and its urban area are served by five RER lines (602 km or 374 mi with 257 stations), fourteen tramway lines (186.6 km or 115.9 mi with 278 stations), nine Transilien suburban trains (1,299 km or 807 mi with 392 stations), in addition to three VAL lines at Charles de Gaulle Airport and Orly Airport. This makes Paris one of the cities in the world best served by public transportation. Despite the network's uniform architecture, several of its stations stand out at the hand of their unique design. The Métro itself has become an icon in popular culture, being frequently featured in cinema and mentioned in music. In 2021, the RATP started offering an umbrella lending service at several Métro and RER stations, highlighting the Métro's own rabbit mascot, which advises children on staying away from the closing doors.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Paris%20M%C3%A9tro)
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Île-de-France/departments~Île-de-France/Paris/Paris_Métro|Paris_Métro]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Île-de-France/departments~Île-de-France/Paris/Paris_Métro.public|Paris_Métro.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Île-de-France/departments~Île-de-France/Paris/Paris_Métro.internal|Paris_Métro.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Île-de-France/departments~Île-de-France/Paris/Paris_Métro.protect|Paris_Métro.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Île-de-France/departments~Île-de-France/Paris/Paris_Métro.private|Paris_Métro.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Île-de-France/departments~Île-de-France/Paris/Paris_Métro.personal|Paris_Métro.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Île-de-France/departments~Île-de-France/Paris/Paris_Métro.secret|Paris_Métro.secret]] 
+

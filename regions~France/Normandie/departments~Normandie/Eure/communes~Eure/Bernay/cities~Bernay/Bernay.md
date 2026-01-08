@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 29134
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 0.6
+dv_has_place_latitude: 49.1
+dv_name: Bernay
+dv_Country: "[[../../../../../../../../France]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::0.6] 
-[has_place_latitude::49.1] 
-[name::Bernay] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[France]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Bernay](/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Normandie/departments~Normandie/Eure/communes~Eure/Bernay/cities~Bernay/Bernay.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Normandie/departments~Normandie/Eure/communes~Eure/Bernay/cities~Bernay/Bernay|Bernay]] 
 
-### [Bernay.public](/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Normandie/departments~Normandie/Eure/communes~Eure/Bernay/cities~Bernay/Bernay.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Normandie/departments~Normandie/Eure/communes~Eure/Bernay/cities~Bernay/Bernay.public|Bernay.public]] 
 
-### [Bernay.internal](/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Normandie/departments~Normandie/Eure/communes~Eure/Bernay/cities~Bernay/Bernay.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Normandie/departments~Normandie/Eure/communes~Eure/Bernay/cities~Bernay/Bernay.internal|Bernay.internal]] 
 
-### [Bernay.protect](/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Normandie/departments~Normandie/Eure/communes~Eure/Bernay/cities~Bernay/Bernay.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Normandie/departments~Normandie/Eure/communes~Eure/Bernay/cities~Bernay/Bernay.protect|Bernay.protect]] 
 
-### [Bernay.private](/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Normandie/departments~Normandie/Eure/communes~Eure/Bernay/cities~Bernay/Bernay.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Normandie/departments~Normandie/Eure/communes~Eure/Bernay/cities~Bernay/Bernay.private|Bernay.private]] 
 
-### [Bernay.personal](/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Normandie/departments~Normandie/Eure/communes~Eure/Bernay/cities~Bernay/Bernay.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Normandie/departments~Normandie/Eure/communes~Eure/Bernay/cities~Bernay/Bernay.personal|Bernay.personal]] 
 
-### [Bernay.secret](/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Normandie/departments~Normandie/Eure/communes~Eure/Bernay/cities~Bernay/Bernay.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Normandie/departments~Normandie/Eure/communes~Eure/Bernay/cities~Bernay/Bernay.secret|Bernay.secret]] 
 

@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 29268
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 6.57
+dv_has_place_latitude: 46.07
+dv_name: Bonneville
+dv_Country: "[[../../../../../../../../France]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::6.57] 
-[has_place_latitude::46.07] 
-[name::Bonneville] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[France]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Bonneville](/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Auvergne-Rhône-Alpes/departments~Auvergne-Rhône-Alpes/Haute-Savoie/communes~Haute-Savoie/Bonneville/cities~Bonneville/Bonneville.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Auvergne-Rhône-Alpes/departments~Auvergne-Rhône-Alpes/Haute-Savoie/communes~Haute-Savoie/Bonneville/cities~Bonneville/Bonneville|Bonneville]] 
 
-### [Bonneville.public](/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Auvergne-Rhône-Alpes/departments~Auvergne-Rhône-Alpes/Haute-Savoie/communes~Haute-Savoie/Bonneville/cities~Bonneville/Bonneville.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Auvergne-Rhône-Alpes/departments~Auvergne-Rhône-Alpes/Haute-Savoie/communes~Haute-Savoie/Bonneville/cities~Bonneville/Bonneville.public|Bonneville.public]] 
 
-### [Bonneville.internal](/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Auvergne-Rhône-Alpes/departments~Auvergne-Rhône-Alpes/Haute-Savoie/communes~Haute-Savoie/Bonneville/cities~Bonneville/Bonneville.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Auvergne-Rhône-Alpes/departments~Auvergne-Rhône-Alpes/Haute-Savoie/communes~Haute-Savoie/Bonneville/cities~Bonneville/Bonneville.internal|Bonneville.internal]] 
 
-### [Bonneville.protect](/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Auvergne-Rhône-Alpes/departments~Auvergne-Rhône-Alpes/Haute-Savoie/communes~Haute-Savoie/Bonneville/cities~Bonneville/Bonneville.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Auvergne-Rhône-Alpes/departments~Auvergne-Rhône-Alpes/Haute-Savoie/communes~Haute-Savoie/Bonneville/cities~Bonneville/Bonneville.protect|Bonneville.protect]] 
 
-### [Bonneville.private](/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Auvergne-Rhône-Alpes/departments~Auvergne-Rhône-Alpes/Haute-Savoie/communes~Haute-Savoie/Bonneville/cities~Bonneville/Bonneville.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Auvergne-Rhône-Alpes/departments~Auvergne-Rhône-Alpes/Haute-Savoie/communes~Haute-Savoie/Bonneville/cities~Bonneville/Bonneville.private|Bonneville.private]] 
 
-### [Bonneville.personal](/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Auvergne-Rhône-Alpes/departments~Auvergne-Rhône-Alpes/Haute-Savoie/communes~Haute-Savoie/Bonneville/cities~Bonneville/Bonneville.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Auvergne-Rhône-Alpes/departments~Auvergne-Rhône-Alpes/Haute-Savoie/communes~Haute-Savoie/Bonneville/cities~Bonneville/Bonneville.personal|Bonneville.personal]] 
 
-### [Bonneville.secret](/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Auvergne-Rhône-Alpes/departments~Auvergne-Rhône-Alpes/Haute-Savoie/communes~Haute-Savoie/Bonneville/cities~Bonneville/Bonneville.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Auvergne-Rhône-Alpes/departments~Auvergne-Rhône-Alpes/Haute-Savoie/communes~Haute-Savoie/Bonneville/cities~Bonneville/Bonneville.secret|Bonneville.secret]] 
 

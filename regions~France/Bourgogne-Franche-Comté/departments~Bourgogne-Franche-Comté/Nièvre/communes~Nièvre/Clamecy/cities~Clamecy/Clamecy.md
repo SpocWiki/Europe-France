@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 29618
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 3.52
+dv_has_place_latitude: 47.47
+dv_name: Clamecy
+dv_Country: "[[../../../../../../../../France]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::3.52] 
-[has_place_latitude::47.47] 
-[name::Clamecy] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[France]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Clamecy](/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Bourgogne-Franche-Comté/departments~Bourgogne-Franche-Comté/Nièvre/communes~Nièvre/Clamecy/cities~Clamecy/Clamecy.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Bourgogne-Franche-Comté/departments~Bourgogne-Franche-Comté/Nièvre/communes~Nièvre/Clamecy/cities~Clamecy/Clamecy|Clamecy]] 
 
-### [Clamecy.public](/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Bourgogne-Franche-Comté/departments~Bourgogne-Franche-Comté/Nièvre/communes~Nièvre/Clamecy/cities~Clamecy/Clamecy.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Bourgogne-Franche-Comté/departments~Bourgogne-Franche-Comté/Nièvre/communes~Nièvre/Clamecy/cities~Clamecy/Clamecy.public|Clamecy.public]] 
 
-### [Clamecy.internal](/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Bourgogne-Franche-Comté/departments~Bourgogne-Franche-Comté/Nièvre/communes~Nièvre/Clamecy/cities~Clamecy/Clamecy.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Bourgogne-Franche-Comté/departments~Bourgogne-Franche-Comté/Nièvre/communes~Nièvre/Clamecy/cities~Clamecy/Clamecy.internal|Clamecy.internal]] 
 
-### [Clamecy.protect](/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Bourgogne-Franche-Comté/departments~Bourgogne-Franche-Comté/Nièvre/communes~Nièvre/Clamecy/cities~Clamecy/Clamecy.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Bourgogne-Franche-Comté/departments~Bourgogne-Franche-Comté/Nièvre/communes~Nièvre/Clamecy/cities~Clamecy/Clamecy.protect|Clamecy.protect]] 
 
-### [Clamecy.private](/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Bourgogne-Franche-Comté/departments~Bourgogne-Franche-Comté/Nièvre/communes~Nièvre/Clamecy/cities~Clamecy/Clamecy.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Bourgogne-Franche-Comté/departments~Bourgogne-Franche-Comté/Nièvre/communes~Nièvre/Clamecy/cities~Clamecy/Clamecy.private|Clamecy.private]] 
 
-### [Clamecy.personal](/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Bourgogne-Franche-Comté/departments~Bourgogne-Franche-Comté/Nièvre/communes~Nièvre/Clamecy/cities~Clamecy/Clamecy.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Bourgogne-Franche-Comté/departments~Bourgogne-Franche-Comté/Nièvre/communes~Nièvre/Clamecy/cities~Clamecy/Clamecy.personal|Clamecy.personal]] 
 
-### [Clamecy.secret](/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Bourgogne-Franche-Comté/departments~Bourgogne-Franche-Comté/Nièvre/communes~Nièvre/Clamecy/cities~Clamecy/Clamecy.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Bourgogne-Franche-Comté/departments~Bourgogne-Franche-Comté/Nièvre/communes~Nièvre/Clamecy/cities~Clamecy/Clamecy.secret|Clamecy.secret]] 
 

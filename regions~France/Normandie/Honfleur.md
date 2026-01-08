@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 31014
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../Geography/Place]]"
+dv_has_place_longitude: 0.23
+dv_has_place_latitude: 49.43
+dv_name: Honfleur
+dv_Country: "[[../../../France]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::0.23] 
-[has_place_latitude::49.43] 
-[name::Honfleur] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[France]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Honfleur](/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Normandie/Honfleur.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Normandie/Honfleur|Honfleur]] 
 
-### [Honfleur.public](/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Normandie/Honfleur.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Normandie/Honfleur.public|Honfleur.public]] 
 
-### [Honfleur.internal](/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Normandie/Honfleur.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Normandie/Honfleur.internal|Honfleur.internal]] 
 
-### [Honfleur.protect](/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Normandie/Honfleur.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Normandie/Honfleur.protect|Honfleur.protect]] 
 
-### [Honfleur.private](/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Normandie/Honfleur.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Normandie/Honfleur.private|Honfleur.private]] 
 
-### [Honfleur.personal](/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Normandie/Honfleur.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Normandie/Honfleur.personal|Honfleur.personal]] 
 
-### [Honfleur.secret](/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Normandie/Honfleur.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Normandie/Honfleur.secret|Honfleur.secret]] 
 

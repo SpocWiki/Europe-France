@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 32336
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 3.28
+dv_has_place_latitude: 44.55
+dv_name: Marvejols
+dv_Country: "[[../../../../../../../../France]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::3.28] 
-[has_place_latitude::44.55] 
-[name::Marvejols] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[France]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Marvejols](/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Lozère/communes~Lozère/Mende/cities~Mende/Marvejols.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Lozère/communes~Lozère/Mende/cities~Mende/Marvejols|Marvejols]] 
 
-### [Marvejols.public](/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Lozère/communes~Lozère/Mende/cities~Mende/Marvejols.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Lozère/communes~Lozère/Mende/cities~Mende/Marvejols.public|Marvejols.public]] 
 
-### [Marvejols.internal](/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Lozère/communes~Lozère/Mende/cities~Mende/Marvejols.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Lozère/communes~Lozère/Mende/cities~Mende/Marvejols.internal|Marvejols.internal]] 
 
-### [Marvejols.protect](/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Lozère/communes~Lozère/Mende/cities~Mende/Marvejols.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Lozère/communes~Lozère/Mende/cities~Mende/Marvejols.protect|Marvejols.protect]] 
 
-### [Marvejols.private](/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Lozère/communes~Lozère/Mende/cities~Mende/Marvejols.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Lozère/communes~Lozère/Mende/cities~Mende/Marvejols.private|Marvejols.private]] 
 
-### [Marvejols.personal](/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Lozère/communes~Lozère/Mende/cities~Mende/Marvejols.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Lozère/communes~Lozère/Mende/cities~Mende/Marvejols.personal|Marvejols.personal]] 
 
-### [Marvejols.secret](/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Lozère/communes~Lozère/Mende/cities~Mende/Marvejols.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Lozère/communes~Lozère/Mende/cities~Mende/Marvejols.secret|Marvejols.secret]] 
 

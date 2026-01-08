@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 35191
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 4.77
+dv_has_place_latitude: 49.08
+dv_name: Valmy
+dv_Country: "[[../../../../../../../../France]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::4.77] 
-[has_place_latitude::49.08] 
-[name::Valmy] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[France]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Valmy](/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Grand_Est/departments~Grand_Est/Marne/communes~Marne/Sainte-Menehould/cities~Sainte-Menehould/Valmy.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Grand_Est/departments~Grand_Est/Marne/communes~Marne/Sainte-Menehould/cities~Sainte-Menehould/Valmy|Valmy]] 
 
-### [Valmy.public](/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Grand_Est/departments~Grand_Est/Marne/communes~Marne/Sainte-Menehould/cities~Sainte-Menehould/Valmy.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Grand_Est/departments~Grand_Est/Marne/communes~Marne/Sainte-Menehould/cities~Sainte-Menehould/Valmy.public|Valmy.public]] 
 
-### [Valmy.internal](/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Grand_Est/departments~Grand_Est/Marne/communes~Marne/Sainte-Menehould/cities~Sainte-Menehould/Valmy.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Grand_Est/departments~Grand_Est/Marne/communes~Marne/Sainte-Menehould/cities~Sainte-Menehould/Valmy.internal|Valmy.internal]] 
 
-### [Valmy.protect](/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Grand_Est/departments~Grand_Est/Marne/communes~Marne/Sainte-Menehould/cities~Sainte-Menehould/Valmy.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Grand_Est/departments~Grand_Est/Marne/communes~Marne/Sainte-Menehould/cities~Sainte-Menehould/Valmy.protect|Valmy.protect]] 
 
-### [Valmy.private](/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Grand_Est/departments~Grand_Est/Marne/communes~Marne/Sainte-Menehould/cities~Sainte-Menehould/Valmy.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Grand_Est/departments~Grand_Est/Marne/communes~Marne/Sainte-Menehould/cities~Sainte-Menehould/Valmy.private|Valmy.private]] 
 
-### [Valmy.personal](/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Grand_Est/departments~Grand_Est/Marne/communes~Marne/Sainte-Menehould/cities~Sainte-Menehould/Valmy.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Grand_Est/departments~Grand_Est/Marne/communes~Marne/Sainte-Menehould/cities~Sainte-Menehould/Valmy.personal|Valmy.personal]] 
 
-### [Valmy.secret](/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Grand_Est/departments~Grand_Est/Marne/communes~Marne/Sainte-Menehould/cities~Sainte-Menehould/Valmy.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Grand_Est/departments~Grand_Est/Marne/communes~Marne/Sainte-Menehould/cities~Sainte-Menehould/Valmy.secret|Valmy.secret]] 
 

@@ -1,4 +1,12 @@
-﻿---
+---
+dv_is_:
+  same_as:
+    - "[[../../../../../../../../../WikiData/WD~Sorbonne,214654|WD~Sorbonne,214654]]"
+    - "[[University_of_Paris]]"
+dv_is_same_as:
+  - "[[../../../../../../../../../WikiData/WD~Sorbonne,214654|WD~Sorbonne,214654]]"
+  - "[[University_of_Paris]]"
+
 has_time_started: 1257-01-01 
 aliases:
 has_id_wikidata: Q214654
@@ -57,4 +65,21 @@ inception: 1257-01-01T00:00:00Z
 > Sorbonne University is also now the university resulting from the merger on 1 January 2018 of UPMC (Paris VI) and Paris-Sorbonne University (Paris IV).
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Sorbonne%20(building)) 
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Île-de-France/departments~Île-de-France/Paris/Sorbonne|Sorbonne]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Île-de-France/departments~Île-de-France/Paris/Sorbonne.public|Sorbonne.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Île-de-France/departments~Île-de-France/Paris/Sorbonne.internal|Sorbonne.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Île-de-France/departments~Île-de-France/Paris/Sorbonne.protect|Sorbonne.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Île-de-France/departments~Île-de-France/Paris/Sorbonne.private|Sorbonne.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Île-de-France/departments~Île-de-France/Paris/Sorbonne.personal|Sorbonne.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Île-de-France/departments~Île-de-France/Paris/Sorbonne.secret|Sorbonne.secret]] 
 

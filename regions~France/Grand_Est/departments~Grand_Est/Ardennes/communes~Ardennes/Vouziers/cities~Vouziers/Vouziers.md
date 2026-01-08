@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 35358
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 4.7
+dv_has_place_latitude: 49.4
+dv_name: Vouziers
+dv_Country: "[[../../../../../../../../France]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::4.7] 
-[has_place_latitude::49.4] 
-[name::Vouziers] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[France]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Vouziers](/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Grand_Est/departments~Grand_Est/Ardennes/communes~Ardennes/Vouziers/cities~Vouziers/Vouziers.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Grand_Est/departments~Grand_Est/Ardennes/communes~Ardennes/Vouziers/cities~Vouziers/Vouziers|Vouziers]] 
 
-### [Vouziers.public](/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Grand_Est/departments~Grand_Est/Ardennes/communes~Ardennes/Vouziers/cities~Vouziers/Vouziers.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Grand_Est/departments~Grand_Est/Ardennes/communes~Ardennes/Vouziers/cities~Vouziers/Vouziers.public|Vouziers.public]] 
 
-### [Vouziers.internal](/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Grand_Est/departments~Grand_Est/Ardennes/communes~Ardennes/Vouziers/cities~Vouziers/Vouziers.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Grand_Est/departments~Grand_Est/Ardennes/communes~Ardennes/Vouziers/cities~Vouziers/Vouziers.internal|Vouziers.internal]] 
 
-### [Vouziers.protect](/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Grand_Est/departments~Grand_Est/Ardennes/communes~Ardennes/Vouziers/cities~Vouziers/Vouziers.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Grand_Est/departments~Grand_Est/Ardennes/communes~Ardennes/Vouziers/cities~Vouziers/Vouziers.protect|Vouziers.protect]] 
 
-### [Vouziers.private](/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Grand_Est/departments~Grand_Est/Ardennes/communes~Ardennes/Vouziers/cities~Vouziers/Vouziers.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Grand_Est/departments~Grand_Est/Ardennes/communes~Ardennes/Vouziers/cities~Vouziers/Vouziers.private|Vouziers.private]] 
 
-### [Vouziers.personal](/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Grand_Est/departments~Grand_Est/Ardennes/communes~Ardennes/Vouziers/cities~Vouziers/Vouziers.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Grand_Est/departments~Grand_Est/Ardennes/communes~Ardennes/Vouziers/cities~Vouziers/Vouziers.personal|Vouziers.personal]] 
 
-### [Vouziers.secret](/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Grand_Est/departments~Grand_Est/Ardennes/communes~Ardennes/Vouziers/cities~Vouziers/Vouziers.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Grand_Est/departments~Grand_Est/Ardennes/communes~Ardennes/Vouziers/cities~Vouziers/Vouziers.secret|Vouziers.secret]] 
 

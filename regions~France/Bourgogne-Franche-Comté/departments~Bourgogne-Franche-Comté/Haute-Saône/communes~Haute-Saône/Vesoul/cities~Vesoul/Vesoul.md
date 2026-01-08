@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 35258
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 6.15
+dv_has_place_latitude: 47.62
+dv_name: Vesoul
+dv_Country: "[[../../../../../../../../France]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::6.15] 
-[has_place_latitude::47.62] 
-[name::Vesoul] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[France]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Vesoul](/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Bourgogne-Franche-Comté/departments~Bourgogne-Franche-Comté/Haute-Saône/communes~Haute-Saône/Vesoul/cities~Vesoul/Vesoul.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Bourgogne-Franche-Comté/departments~Bourgogne-Franche-Comté/Haute-Saône/communes~Haute-Saône/Vesoul/cities~Vesoul/Vesoul|Vesoul]] 
 
-### [Vesoul.public](/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Bourgogne-Franche-Comté/departments~Bourgogne-Franche-Comté/Haute-Saône/communes~Haute-Saône/Vesoul/cities~Vesoul/Vesoul.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Bourgogne-Franche-Comté/departments~Bourgogne-Franche-Comté/Haute-Saône/communes~Haute-Saône/Vesoul/cities~Vesoul/Vesoul.public|Vesoul.public]] 
 
-### [Vesoul.internal](/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Bourgogne-Franche-Comté/departments~Bourgogne-Franche-Comté/Haute-Saône/communes~Haute-Saône/Vesoul/cities~Vesoul/Vesoul.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Bourgogne-Franche-Comté/departments~Bourgogne-Franche-Comté/Haute-Saône/communes~Haute-Saône/Vesoul/cities~Vesoul/Vesoul.internal|Vesoul.internal]] 
 
-### [Vesoul.protect](/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Bourgogne-Franche-Comté/departments~Bourgogne-Franche-Comté/Haute-Saône/communes~Haute-Saône/Vesoul/cities~Vesoul/Vesoul.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Bourgogne-Franche-Comté/departments~Bourgogne-Franche-Comté/Haute-Saône/communes~Haute-Saône/Vesoul/cities~Vesoul/Vesoul.protect|Vesoul.protect]] 
 
-### [Vesoul.private](/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Bourgogne-Franche-Comté/departments~Bourgogne-Franche-Comté/Haute-Saône/communes~Haute-Saône/Vesoul/cities~Vesoul/Vesoul.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Bourgogne-Franche-Comté/departments~Bourgogne-Franche-Comté/Haute-Saône/communes~Haute-Saône/Vesoul/cities~Vesoul/Vesoul.private|Vesoul.private]] 
 
-### [Vesoul.personal](/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Bourgogne-Franche-Comté/departments~Bourgogne-Franche-Comté/Haute-Saône/communes~Haute-Saône/Vesoul/cities~Vesoul/Vesoul.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Bourgogne-Franche-Comté/departments~Bourgogne-Franche-Comté/Haute-Saône/communes~Haute-Saône/Vesoul/cities~Vesoul/Vesoul.personal|Vesoul.personal]] 
 
-### [Vesoul.secret](/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Bourgogne-Franche-Comté/departments~Bourgogne-Franche-Comté/Haute-Saône/communes~Haute-Saône/Vesoul/cities~Vesoul/Vesoul.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Bourgogne-Franche-Comté/departments~Bourgogne-Franche-Comté/Haute-Saône/communes~Haute-Saône/Vesoul/cities~Vesoul/Vesoul.secret|Vesoul.secret]] 
 

@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 32477
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 3.08
+dv_has_place_latitude: 44.1
+dv_name: Milau
+dv_Country: "[[../../../../../../../../France]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::3.08] 
-[has_place_latitude::44.1] 
-[name::Milau] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[France]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Milau](/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Aveyron/communes~Aveyron/Millau/cities~Millau/Milau.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Aveyron/communes~Aveyron/Millau/cities~Millau/Milau|Milau]] 
 
-### [Milau.public](/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Aveyron/communes~Aveyron/Millau/cities~Millau/Milau.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Aveyron/communes~Aveyron/Millau/cities~Millau/Milau.public|Milau.public]] 
 
-### [Milau.internal](/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Aveyron/communes~Aveyron/Millau/cities~Millau/Milau.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Aveyron/communes~Aveyron/Millau/cities~Millau/Milau.internal|Milau.internal]] 
 
-### [Milau.protect](/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Aveyron/communes~Aveyron/Millau/cities~Millau/Milau.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Aveyron/communes~Aveyron/Millau/cities~Millau/Milau.protect|Milau.protect]] 
 
-### [Milau.private](/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Aveyron/communes~Aveyron/Millau/cities~Millau/Milau.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Aveyron/communes~Aveyron/Millau/cities~Millau/Milau.private|Milau.private]] 
 
-### [Milau.personal](/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Aveyron/communes~Aveyron/Millau/cities~Millau/Milau.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Aveyron/communes~Aveyron/Millau/cities~Millau/Milau.personal|Milau.personal]] 
 
-### [Milau.secret](/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Aveyron/communes~Aveyron/Millau/cities~Millau/Milau.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Aveyron/communes~Aveyron/Millau/cities~Millau/Milau.secret|Milau.secret]] 
 

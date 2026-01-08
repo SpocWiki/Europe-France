@@ -1,7 +1,12 @@
+---
+dv_is_:
+  same_as: "[[../../../../../../WikiData/WD~May_1968_protests_in_France,6743]]"
+dv_is_same_as: "[[../../../../../../WikiData/WD~May_1968_protests_in_France,6743]]"
+---
 
 # [[1968_Protests_in_France]] 
 
-#is_/same_as :: [[WD~May_1968_protests_in_France,6743]] 
+is_same_as = `=this.dv_is_same_as`
 
 ## #has_/text_of_/abstract 
 
@@ -48,4 +53,21 @@
 > Though it failed to bring about a revolution, May 68 had profound long-term consequences. The events weakened de Gaulle's authority, and he resigned the following year. The movement led to increased state investment in education and social policies, though radical leftist politics declined in electoral influence. The strikes forced major concessions in labor rights, including wage increases, better working conditions, and expanded social protections. The May 68 movement also contributed to the growth of feminist, environmentalist, and LGBTQ activism, and inspired radical thought in philosophy, media, and academia, influencing figures like Michel Foucault and Jean Baudrillard. In France, the movement's slogans and imagery remain touchstones of political and social discourse.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/May%2068) 
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~West/France/History_of_France/1968_Protests_in_France|1968_Protests_in_France]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~West/France/History_of_France/1968_Protests_in_France.public|1968_Protests_in_France.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~West/France/History_of_France/1968_Protests_in_France.internal|1968_Protests_in_France.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~West/France/History_of_France/1968_Protests_in_France.protect|1968_Protests_in_France.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~West/France/History_of_France/1968_Protests_in_France.private|1968_Protests_in_France.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~West/France/History_of_France/1968_Protests_in_France.personal|1968_Protests_in_France.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~West/France/History_of_France/1968_Protests_in_France.secret|1968_Protests_in_France.secret]] 
 

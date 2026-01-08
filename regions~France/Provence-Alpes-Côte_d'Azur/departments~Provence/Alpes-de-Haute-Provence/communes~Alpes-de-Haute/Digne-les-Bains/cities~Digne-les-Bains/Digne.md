@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 29793
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 6.23
+dv_has_place_latitude: 44.1
+dv_name: Digne
+dv_Country: "[[../../../../../../../../France]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::6.23] 
-[has_place_latitude::44.1] 
-[name::Digne] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[France]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Digne](/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Provence-Alpes-Côte_d'Azur/departments~Provence/Alpes-de-Haute-Provence/communes~Alpes-de-Haute/Digne-les-Bains/cities~Digne-les-Bains/Digne.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Provence-Alpes-Côte_d'Azur/departments~Provence/Alpes-de-Haute-Provence/communes~Alpes-de-Haute/Digne-les-Bains/cities~Digne-les-Bains/Digne|Digne]] 
 
-### [Digne.public](/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Provence-Alpes-Côte_d'Azur/departments~Provence/Alpes-de-Haute-Provence/communes~Alpes-de-Haute/Digne-les-Bains/cities~Digne-les-Bains/Digne.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Provence-Alpes-Côte_d'Azur/departments~Provence/Alpes-de-Haute-Provence/communes~Alpes-de-Haute/Digne-les-Bains/cities~Digne-les-Bains/Digne.public|Digne.public]] 
 
-### [Digne.internal](/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Provence-Alpes-Côte_d'Azur/departments~Provence/Alpes-de-Haute-Provence/communes~Alpes-de-Haute/Digne-les-Bains/cities~Digne-les-Bains/Digne.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Provence-Alpes-Côte_d'Azur/departments~Provence/Alpes-de-Haute-Provence/communes~Alpes-de-Haute/Digne-les-Bains/cities~Digne-les-Bains/Digne.internal|Digne.internal]] 
 
-### [Digne.protect](/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Provence-Alpes-Côte_d'Azur/departments~Provence/Alpes-de-Haute-Provence/communes~Alpes-de-Haute/Digne-les-Bains/cities~Digne-les-Bains/Digne.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Provence-Alpes-Côte_d'Azur/departments~Provence/Alpes-de-Haute-Provence/communes~Alpes-de-Haute/Digne-les-Bains/cities~Digne-les-Bains/Digne.protect|Digne.protect]] 
 
-### [Digne.private](/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Provence-Alpes-Côte_d'Azur/departments~Provence/Alpes-de-Haute-Provence/communes~Alpes-de-Haute/Digne-les-Bains/cities~Digne-les-Bains/Digne.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Provence-Alpes-Côte_d'Azur/departments~Provence/Alpes-de-Haute-Provence/communes~Alpes-de-Haute/Digne-les-Bains/cities~Digne-les-Bains/Digne.private|Digne.private]] 
 
-### [Digne.personal](/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Provence-Alpes-Côte_d'Azur/departments~Provence/Alpes-de-Haute-Provence/communes~Alpes-de-Haute/Digne-les-Bains/cities~Digne-les-Bains/Digne.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Provence-Alpes-Côte_d'Azur/departments~Provence/Alpes-de-Haute-Provence/communes~Alpes-de-Haute/Digne-les-Bains/cities~Digne-les-Bains/Digne.personal|Digne.personal]] 
 
-### [Digne.secret](/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Provence-Alpes-Côte_d'Azur/departments~Provence/Alpes-de-Haute-Provence/communes~Alpes-de-Haute/Digne-les-Bains/cities~Digne-les-Bains/Digne.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Provence-Alpes-Côte_d'Azur/departments~Provence/Alpes-de-Haute-Provence/communes~Alpes-de-Haute/Digne-les-Bains/cities~Digne-les-Bains/Digne.secret|Digne.secret]] 
 

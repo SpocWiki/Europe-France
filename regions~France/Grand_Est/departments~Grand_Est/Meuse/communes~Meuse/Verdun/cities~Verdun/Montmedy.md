@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 32585
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 5.37
+dv_has_place_latitude: 49.52
+dv_name: Montmedy
+dv_Country: "[[../../../../../../../../France]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::5.37] 
-[has_place_latitude::49.52] 
-[name::Montmedy] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[France]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Montmedy](/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Grand_Est/departments~Grand_Est/Meuse/communes~Meuse/Verdun/cities~Verdun/Montmedy.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Grand_Est/departments~Grand_Est/Meuse/communes~Meuse/Verdun/cities~Verdun/Montmedy|Montmedy]] 
 
-### [Montmedy.public](/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Grand_Est/departments~Grand_Est/Meuse/communes~Meuse/Verdun/cities~Verdun/Montmedy.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Grand_Est/departments~Grand_Est/Meuse/communes~Meuse/Verdun/cities~Verdun/Montmedy.public|Montmedy.public]] 
 
-### [Montmedy.internal](/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Grand_Est/departments~Grand_Est/Meuse/communes~Meuse/Verdun/cities~Verdun/Montmedy.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Grand_Est/departments~Grand_Est/Meuse/communes~Meuse/Verdun/cities~Verdun/Montmedy.internal|Montmedy.internal]] 
 
-### [Montmedy.protect](/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Grand_Est/departments~Grand_Est/Meuse/communes~Meuse/Verdun/cities~Verdun/Montmedy.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Grand_Est/departments~Grand_Est/Meuse/communes~Meuse/Verdun/cities~Verdun/Montmedy.protect|Montmedy.protect]] 
 
-### [Montmedy.private](/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Grand_Est/departments~Grand_Est/Meuse/communes~Meuse/Verdun/cities~Verdun/Montmedy.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Grand_Est/departments~Grand_Est/Meuse/communes~Meuse/Verdun/cities~Verdun/Montmedy.private|Montmedy.private]] 
 
-### [Montmedy.personal](/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Grand_Est/departments~Grand_Est/Meuse/communes~Meuse/Verdun/cities~Verdun/Montmedy.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Grand_Est/departments~Grand_Est/Meuse/communes~Meuse/Verdun/cities~Verdun/Montmedy.personal|Montmedy.personal]] 
 
-### [Montmedy.secret](/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Grand_Est/departments~Grand_Est/Meuse/communes~Meuse/Verdun/cities~Verdun/Montmedy.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Grand_Est/departments~Grand_Est/Meuse/communes~Meuse/Verdun/cities~Verdun/Montmedy.secret|Montmedy.secret]] 
 

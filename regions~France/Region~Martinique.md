@@ -5,17 +5,17 @@
 
 ## Confidential Links & Embeds: 
 
-### [Region~Martinique](/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Region~Martinique.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Region~Martinique|Region~Martinique]] 
 
-### [Region~Martinique.public](/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Region~Martinique.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Region~Martinique.public|Region~Martinique.public]] 
 
-### [Region~Martinique.internal](/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Region~Martinique.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Region~Martinique.internal|Region~Martinique.internal]] 
 
-### [Region~Martinique.protect](/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Region~Martinique.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Region~Martinique.protect|Region~Martinique.protect]] 
 
-### [Region~Martinique.private](/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Region~Martinique.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Region~Martinique.private|Region~Martinique.private]] 
 
-### [Region~Martinique.personal](/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Region~Martinique.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Region~Martinique.personal|Region~Martinique.personal]] 
 
-### [Region~Martinique.secret](/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Region~Martinique.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Region~Martinique.secret|Region~Martinique.secret]] 
 

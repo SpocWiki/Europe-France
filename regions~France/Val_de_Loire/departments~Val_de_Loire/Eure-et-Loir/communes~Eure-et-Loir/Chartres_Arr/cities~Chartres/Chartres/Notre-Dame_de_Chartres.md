@@ -1,4 +1,8 @@
-﻿---
+---
+dv_is_:
+  same_as: "[[../../../../../../../../../../../../../WikiData/WD~Notre-Dame_de_Chartres,180274]]"
+dv_is_same_as: "[[../../../../../../../../../../../../../WikiData/WD~Notre-Dame_de_Chartres,180274]]"
+
 has_time_started: 1145-01-01 
 aliases:
 has_id_wikidata: Q180274
@@ -57,7 +61,7 @@ native_label: Cathédrale Notre-Dame de Chartres
 
 # [[Notre-Dame_de_Chartres]] 
 
-#is_/same_as :: [[WD~Notre-Dame_de_Chartres,180274]] 
+is_same_as = `=this.dv_is_same_as`
 
 ## #has_/text_of_/abstract 
 
@@ -72,4 +76,21 @@ native_label: Cathédrale Notre-Dame de Chartres
 > Since at least the 12th century the cathedral has been an important destination for travellers. It attracts large numbers of Christian pilgrims, many of whom come to venerate its famous relic, the Sancta Camisa, said to be the tunic worn by the Virgin Mary at Christ's birth, as well as large numbers of secular tourists who come to admire the cathedral's architecture and art. A venerated Black Madonna statue enshrined within was crowned by Pope Pius IX on 31 May 1855.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Chartres%20Cathedral) 
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Val_de_Loire/departments~Val_de_Loire/Eure-et-Loir/communes~Eure-et-Loir/Chartres_Arr/cities~Chartres/Chartres/Notre-Dame_de_Chartres|Notre-Dame_de_Chartres]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Val_de_Loire/departments~Val_de_Loire/Eure-et-Loir/communes~Eure-et-Loir/Chartres_Arr/cities~Chartres/Chartres/Notre-Dame_de_Chartres.public|Notre-Dame_de_Chartres.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Val_de_Loire/departments~Val_de_Loire/Eure-et-Loir/communes~Eure-et-Loir/Chartres_Arr/cities~Chartres/Chartres/Notre-Dame_de_Chartres.internal|Notre-Dame_de_Chartres.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Val_de_Loire/departments~Val_de_Loire/Eure-et-Loir/communes~Eure-et-Loir/Chartres_Arr/cities~Chartres/Chartres/Notre-Dame_de_Chartres.protect|Notre-Dame_de_Chartres.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Val_de_Loire/departments~Val_de_Loire/Eure-et-Loir/communes~Eure-et-Loir/Chartres_Arr/cities~Chartres/Chartres/Notre-Dame_de_Chartres.private|Notre-Dame_de_Chartres.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Val_de_Loire/departments~Val_de_Loire/Eure-et-Loir/communes~Eure-et-Loir/Chartres_Arr/cities~Chartres/Chartres/Notre-Dame_de_Chartres.personal|Notre-Dame_de_Chartres.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Val_de_Loire/departments~Val_de_Loire/Eure-et-Loir/communes~Eure-et-Loir/Chartres_Arr/cities~Chartres/Chartres/Notre-Dame_de_Chartres.secret|Notre-Dame_de_Chartres.secret]] 
 

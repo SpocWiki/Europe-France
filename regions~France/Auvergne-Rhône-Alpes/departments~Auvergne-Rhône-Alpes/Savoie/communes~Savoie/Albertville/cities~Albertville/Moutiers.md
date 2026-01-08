@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 32615
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 6.53
+dv_has_place_latitude: 45.48
+dv_name: Moutiers
+dv_Country: "[[../../../../../../../../France]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::6.53] 
-[has_place_latitude::45.48] 
-[name::Moutiers] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[France]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Moutiers](/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Auvergne-Rhône-Alpes/departments~Auvergne-Rhône-Alpes/Savoie/communes~Savoie/Albertville/cities~Albertville/Moutiers.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Auvergne-Rhône-Alpes/departments~Auvergne-Rhône-Alpes/Savoie/communes~Savoie/Albertville/cities~Albertville/Moutiers|Moutiers]] 
 
-### [Moutiers.public](/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Auvergne-Rhône-Alpes/departments~Auvergne-Rhône-Alpes/Savoie/communes~Savoie/Albertville/cities~Albertville/Moutiers.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Auvergne-Rhône-Alpes/departments~Auvergne-Rhône-Alpes/Savoie/communes~Savoie/Albertville/cities~Albertville/Moutiers.public|Moutiers.public]] 
 
-### [Moutiers.internal](/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Auvergne-Rhône-Alpes/departments~Auvergne-Rhône-Alpes/Savoie/communes~Savoie/Albertville/cities~Albertville/Moutiers.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Auvergne-Rhône-Alpes/departments~Auvergne-Rhône-Alpes/Savoie/communes~Savoie/Albertville/cities~Albertville/Moutiers.internal|Moutiers.internal]] 
 
-### [Moutiers.protect](/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Auvergne-Rhône-Alpes/departments~Auvergne-Rhône-Alpes/Savoie/communes~Savoie/Albertville/cities~Albertville/Moutiers.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Auvergne-Rhône-Alpes/departments~Auvergne-Rhône-Alpes/Savoie/communes~Savoie/Albertville/cities~Albertville/Moutiers.protect|Moutiers.protect]] 
 
-### [Moutiers.private](/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Auvergne-Rhône-Alpes/departments~Auvergne-Rhône-Alpes/Savoie/communes~Savoie/Albertville/cities~Albertville/Moutiers.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Auvergne-Rhône-Alpes/departments~Auvergne-Rhône-Alpes/Savoie/communes~Savoie/Albertville/cities~Albertville/Moutiers.private|Moutiers.private]] 
 
-### [Moutiers.personal](/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Auvergne-Rhône-Alpes/departments~Auvergne-Rhône-Alpes/Savoie/communes~Savoie/Albertville/cities~Albertville/Moutiers.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Auvergne-Rhône-Alpes/departments~Auvergne-Rhône-Alpes/Savoie/communes~Savoie/Albertville/cities~Albertville/Moutiers.personal|Moutiers.personal]] 
 
-### [Moutiers.secret](/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Auvergne-Rhône-Alpes/departments~Auvergne-Rhône-Alpes/Savoie/communes~Savoie/Albertville/cities~Albertville/Moutiers.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Auvergne-Rhône-Alpes/departments~Auvergne-Rhône-Alpes/Savoie/communes~Savoie/Albertville/cities~Albertville/Moutiers.secret|Moutiers.secret]] 
 

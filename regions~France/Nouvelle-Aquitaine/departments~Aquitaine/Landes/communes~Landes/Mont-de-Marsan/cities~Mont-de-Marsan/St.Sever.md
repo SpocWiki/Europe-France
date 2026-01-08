@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 34490
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: -0.57
+dv_has_place_latitude: 43.77
+dv_name: St.Sever
+dv_Country: "[[../../../../../../../../France]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::-0.57] 
-[has_place_latitude::43.77] 
-[name::St.Sever] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[France]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [St.Sever](/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Nouvelle-Aquitaine/departments~Aquitaine/Landes/communes~Landes/Mont-de-Marsan/cities~Mont-de-Marsan/St.Sever.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Nouvelle-Aquitaine/departments~Aquitaine/Landes/communes~Landes/Mont-de-Marsan/cities~Mont-de-Marsan/St.Sever|St.Sever]] 
 
-### [St.Sever.public](/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Nouvelle-Aquitaine/departments~Aquitaine/Landes/communes~Landes/Mont-de-Marsan/cities~Mont-de-Marsan/St.Sever.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Nouvelle-Aquitaine/departments~Aquitaine/Landes/communes~Landes/Mont-de-Marsan/cities~Mont-de-Marsan/St.Sever.public|St.Sever.public]] 
 
-### [St.Sever.internal](/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Nouvelle-Aquitaine/departments~Aquitaine/Landes/communes~Landes/Mont-de-Marsan/cities~Mont-de-Marsan/St.Sever.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Nouvelle-Aquitaine/departments~Aquitaine/Landes/communes~Landes/Mont-de-Marsan/cities~Mont-de-Marsan/St.Sever.internal|St.Sever.internal]] 
 
-### [St.Sever.protect](/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Nouvelle-Aquitaine/departments~Aquitaine/Landes/communes~Landes/Mont-de-Marsan/cities~Mont-de-Marsan/St.Sever.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Nouvelle-Aquitaine/departments~Aquitaine/Landes/communes~Landes/Mont-de-Marsan/cities~Mont-de-Marsan/St.Sever.protect|St.Sever.protect]] 
 
-### [St.Sever.private](/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Nouvelle-Aquitaine/departments~Aquitaine/Landes/communes~Landes/Mont-de-Marsan/cities~Mont-de-Marsan/St.Sever.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Nouvelle-Aquitaine/departments~Aquitaine/Landes/communes~Landes/Mont-de-Marsan/cities~Mont-de-Marsan/St.Sever.private|St.Sever.private]] 
 
-### [St.Sever.personal](/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Nouvelle-Aquitaine/departments~Aquitaine/Landes/communes~Landes/Mont-de-Marsan/cities~Mont-de-Marsan/St.Sever.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Nouvelle-Aquitaine/departments~Aquitaine/Landes/communes~Landes/Mont-de-Marsan/cities~Mont-de-Marsan/St.Sever.personal|St.Sever.personal]] 
 
-### [St.Sever.secret](/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Nouvelle-Aquitaine/departments~Aquitaine/Landes/communes~Landes/Mont-de-Marsan/cities~Mont-de-Marsan/St.Sever.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Nouvelle-Aquitaine/departments~Aquitaine/Landes/communes~Landes/Mont-de-Marsan/cities~Mont-de-Marsan/St.Sever.secret|St.Sever.secret]] 
 

@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 32534
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 1.08
+dv_has_place_latitude: 44.1
+dv_name: Moissac
+dv_Country: "[[../../../../../../../../France]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::1.08] 
-[has_place_latitude::44.1] 
-[name::Moissac] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[France]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Moissac](/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Tarn-et-Garonne/communes~Tarn-et-Garonne/Castelsarrasin/cities~Castelsarrasin/Moissac.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Tarn-et-Garonne/communes~Tarn-et-Garonne/Castelsarrasin/cities~Castelsarrasin/Moissac|Moissac]] 
 
-### [Moissac.public](/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Tarn-et-Garonne/communes~Tarn-et-Garonne/Castelsarrasin/cities~Castelsarrasin/Moissac.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Tarn-et-Garonne/communes~Tarn-et-Garonne/Castelsarrasin/cities~Castelsarrasin/Moissac.public|Moissac.public]] 
 
-### [Moissac.internal](/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Tarn-et-Garonne/communes~Tarn-et-Garonne/Castelsarrasin/cities~Castelsarrasin/Moissac.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Tarn-et-Garonne/communes~Tarn-et-Garonne/Castelsarrasin/cities~Castelsarrasin/Moissac.internal|Moissac.internal]] 
 
-### [Moissac.protect](/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Tarn-et-Garonne/communes~Tarn-et-Garonne/Castelsarrasin/cities~Castelsarrasin/Moissac.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Tarn-et-Garonne/communes~Tarn-et-Garonne/Castelsarrasin/cities~Castelsarrasin/Moissac.protect|Moissac.protect]] 
 
-### [Moissac.private](/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Tarn-et-Garonne/communes~Tarn-et-Garonne/Castelsarrasin/cities~Castelsarrasin/Moissac.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Tarn-et-Garonne/communes~Tarn-et-Garonne/Castelsarrasin/cities~Castelsarrasin/Moissac.private|Moissac.private]] 
 
-### [Moissac.personal](/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Tarn-et-Garonne/communes~Tarn-et-Garonne/Castelsarrasin/cities~Castelsarrasin/Moissac.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Tarn-et-Garonne/communes~Tarn-et-Garonne/Castelsarrasin/cities~Castelsarrasin/Moissac.personal|Moissac.personal]] 
 
-### [Moissac.secret](/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Tarn-et-Garonne/communes~Tarn-et-Garonne/Castelsarrasin/cities~Castelsarrasin/Moissac.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Tarn-et-Garonne/communes~Tarn-et-Garonne/Castelsarrasin/cities~Castelsarrasin/Moissac.secret|Moissac.secret]] 
 

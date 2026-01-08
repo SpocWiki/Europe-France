@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 34936
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 4.83
+dv_has_place_latitude: 45.07
+dv_name: Tournon
+dv_Country: "[[../../../../../../../../France]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::4.83] 
-[has_place_latitude::45.07] 
-[name::Tournon] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[France]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Tournon](/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Auvergne-Rhône-Alpes/departments~Auvergne-Rhône-Alpes/Ardèche/communes~Ardèche/Tournon-sur-Rhône/cities~Tournon-sur-Rhône/Tournon.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Auvergne-Rhône-Alpes/departments~Auvergne-Rhône-Alpes/Ardèche/communes~Ardèche/Tournon-sur-Rhône/cities~Tournon-sur-Rhône/Tournon|Tournon]] 
 
-### [Tournon.public](/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Auvergne-Rhône-Alpes/departments~Auvergne-Rhône-Alpes/Ardèche/communes~Ardèche/Tournon-sur-Rhône/cities~Tournon-sur-Rhône/Tournon.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Auvergne-Rhône-Alpes/departments~Auvergne-Rhône-Alpes/Ardèche/communes~Ardèche/Tournon-sur-Rhône/cities~Tournon-sur-Rhône/Tournon.public|Tournon.public]] 
 
-### [Tournon.internal](/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Auvergne-Rhône-Alpes/departments~Auvergne-Rhône-Alpes/Ardèche/communes~Ardèche/Tournon-sur-Rhône/cities~Tournon-sur-Rhône/Tournon.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Auvergne-Rhône-Alpes/departments~Auvergne-Rhône-Alpes/Ardèche/communes~Ardèche/Tournon-sur-Rhône/cities~Tournon-sur-Rhône/Tournon.internal|Tournon.internal]] 
 
-### [Tournon.protect](/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Auvergne-Rhône-Alpes/departments~Auvergne-Rhône-Alpes/Ardèche/communes~Ardèche/Tournon-sur-Rhône/cities~Tournon-sur-Rhône/Tournon.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Auvergne-Rhône-Alpes/departments~Auvergne-Rhône-Alpes/Ardèche/communes~Ardèche/Tournon-sur-Rhône/cities~Tournon-sur-Rhône/Tournon.protect|Tournon.protect]] 
 
-### [Tournon.private](/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Auvergne-Rhône-Alpes/departments~Auvergne-Rhône-Alpes/Ardèche/communes~Ardèche/Tournon-sur-Rhône/cities~Tournon-sur-Rhône/Tournon.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Auvergne-Rhône-Alpes/departments~Auvergne-Rhône-Alpes/Ardèche/communes~Ardèche/Tournon-sur-Rhône/cities~Tournon-sur-Rhône/Tournon.private|Tournon.private]] 
 
-### [Tournon.personal](/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Auvergne-Rhône-Alpes/departments~Auvergne-Rhône-Alpes/Ardèche/communes~Ardèche/Tournon-sur-Rhône/cities~Tournon-sur-Rhône/Tournon.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Auvergne-Rhône-Alpes/departments~Auvergne-Rhône-Alpes/Ardèche/communes~Ardèche/Tournon-sur-Rhône/cities~Tournon-sur-Rhône/Tournon.personal|Tournon.personal]] 
 
-### [Tournon.secret](/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Auvergne-Rhône-Alpes/departments~Auvergne-Rhône-Alpes/Ardèche/communes~Ardèche/Tournon-sur-Rhône/cities~Tournon-sur-Rhône/Tournon.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Auvergne-Rhône-Alpes/departments~Auvergne-Rhône-Alpes/Ardèche/communes~Ardèche/Tournon-sur-Rhône/cities~Tournon-sur-Rhône/Tournon.secret|Tournon.secret]] 
 

@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 34433
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 2.52
+dv_has_place_latitude: 46.72
+dv_name: St.Amand-Montrond
+dv_Country: "[[../../../../../../../../France]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::2.52] 
-[has_place_latitude::46.72] 
-[name::St.Amand-Montrond] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[France]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [St.Amand-Montrond](/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Val_de_Loire/departments~Val_de_Loire/Cher/communes~Cher/Saint-Amand-Montrond/cities~Saint-Amand-Montrond/St.Amand-Montrond.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Val_de_Loire/departments~Val_de_Loire/Cher/communes~Cher/Saint-Amand-Montrond/cities~Saint-Amand-Montrond/St.Amand-Montrond|St.Amand-Montrond]] 
 
-### [St.Amand-Montrond.public](/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Val_de_Loire/departments~Val_de_Loire/Cher/communes~Cher/Saint-Amand-Montrond/cities~Saint-Amand-Montrond/St.Amand-Montrond.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Val_de_Loire/departments~Val_de_Loire/Cher/communes~Cher/Saint-Amand-Montrond/cities~Saint-Amand-Montrond/St.Amand-Montrond.public|St.Amand-Montrond.public]] 
 
-### [St.Amand-Montrond.internal](/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Val_de_Loire/departments~Val_de_Loire/Cher/communes~Cher/Saint-Amand-Montrond/cities~Saint-Amand-Montrond/St.Amand-Montrond.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Val_de_Loire/departments~Val_de_Loire/Cher/communes~Cher/Saint-Amand-Montrond/cities~Saint-Amand-Montrond/St.Amand-Montrond.internal|St.Amand-Montrond.internal]] 
 
-### [St.Amand-Montrond.protect](/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Val_de_Loire/departments~Val_de_Loire/Cher/communes~Cher/Saint-Amand-Montrond/cities~Saint-Amand-Montrond/St.Amand-Montrond.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Val_de_Loire/departments~Val_de_Loire/Cher/communes~Cher/Saint-Amand-Montrond/cities~Saint-Amand-Montrond/St.Amand-Montrond.protect|St.Amand-Montrond.protect]] 
 
-### [St.Amand-Montrond.private](/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Val_de_Loire/departments~Val_de_Loire/Cher/communes~Cher/Saint-Amand-Montrond/cities~Saint-Amand-Montrond/St.Amand-Montrond.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Val_de_Loire/departments~Val_de_Loire/Cher/communes~Cher/Saint-Amand-Montrond/cities~Saint-Amand-Montrond/St.Amand-Montrond.private|St.Amand-Montrond.private]] 
 
-### [St.Amand-Montrond.personal](/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Val_de_Loire/departments~Val_de_Loire/Cher/communes~Cher/Saint-Amand-Montrond/cities~Saint-Amand-Montrond/St.Amand-Montrond.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Val_de_Loire/departments~Val_de_Loire/Cher/communes~Cher/Saint-Amand-Montrond/cities~Saint-Amand-Montrond/St.Amand-Montrond.personal|St.Amand-Montrond.personal]] 
 
-### [St.Amand-Montrond.secret](/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Val_de_Loire/departments~Val_de_Loire/Cher/communes~Cher/Saint-Amand-Montrond/cities~Saint-Amand-Montrond/St.Amand-Montrond.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Val_de_Loire/departments~Val_de_Loire/Cher/communes~Cher/Saint-Amand-Montrond/cities~Saint-Amand-Montrond/St.Amand-Montrond.secret|St.Amand-Montrond.secret]] 
 

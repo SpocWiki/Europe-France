@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 30340
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 1.9
+dv_has_place_latitude: 43.9
+dv_name: Gaillac
+dv_Country: "[[../../../../../../../../France]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::1.9] 
-[has_place_latitude::43.9] 
-[name::Gaillac] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[France]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Gaillac](/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Tarn/communes~Tarn/Albi/cities~Albi/Gaillac.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Tarn/communes~Tarn/Albi/cities~Albi/Gaillac|Gaillac]] 
 
-### [Gaillac.public](/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Tarn/communes~Tarn/Albi/cities~Albi/Gaillac.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Tarn/communes~Tarn/Albi/cities~Albi/Gaillac.public|Gaillac.public]] 
 
-### [Gaillac.internal](/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Tarn/communes~Tarn/Albi/cities~Albi/Gaillac.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Tarn/communes~Tarn/Albi/cities~Albi/Gaillac.internal|Gaillac.internal]] 
 
-### [Gaillac.protect](/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Tarn/communes~Tarn/Albi/cities~Albi/Gaillac.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Tarn/communes~Tarn/Albi/cities~Albi/Gaillac.protect|Gaillac.protect]] 
 
-### [Gaillac.private](/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Tarn/communes~Tarn/Albi/cities~Albi/Gaillac.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Tarn/communes~Tarn/Albi/cities~Albi/Gaillac.private|Gaillac.private]] 
 
-### [Gaillac.personal](/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Tarn/communes~Tarn/Albi/cities~Albi/Gaillac.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Tarn/communes~Tarn/Albi/cities~Albi/Gaillac.personal|Gaillac.personal]] 
 
-### [Gaillac.secret](/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Tarn/communes~Tarn/Albi/cities~Albi/Gaillac.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Tarn/communes~Tarn/Albi/cities~Albi/Gaillac.secret|Gaillac.secret]] 
 

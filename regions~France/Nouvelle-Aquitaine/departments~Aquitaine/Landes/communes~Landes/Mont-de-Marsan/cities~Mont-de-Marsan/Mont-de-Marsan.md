@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 32558
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: -0.5
+dv_has_place_latitude: 43.9
+dv_name: Mont-de-Marsan
+dv_Country: "[[../../../../../../../../France]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::-0.5] 
-[has_place_latitude::43.9] 
-[name::Mont-de-Marsan] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[France]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Mont-de-Marsan](/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Nouvelle-Aquitaine/departments~Aquitaine/Landes/communes~Landes/Mont-de-Marsan/cities~Mont-de-Marsan/Mont-de-Marsan.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Nouvelle-Aquitaine/departments~Aquitaine/Landes/communes~Landes/Mont-de-Marsan/cities~Mont-de-Marsan/Mont-de-Marsan|Mont-de-Marsan]] 
 
-### [Mont-de-Marsan.public](/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Nouvelle-Aquitaine/departments~Aquitaine/Landes/communes~Landes/Mont-de-Marsan/cities~Mont-de-Marsan/Mont-de-Marsan.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Nouvelle-Aquitaine/departments~Aquitaine/Landes/communes~Landes/Mont-de-Marsan/cities~Mont-de-Marsan/Mont-de-Marsan.public|Mont-de-Marsan.public]] 
 
-### [Mont-de-Marsan.internal](/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Nouvelle-Aquitaine/departments~Aquitaine/Landes/communes~Landes/Mont-de-Marsan/cities~Mont-de-Marsan/Mont-de-Marsan.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Nouvelle-Aquitaine/departments~Aquitaine/Landes/communes~Landes/Mont-de-Marsan/cities~Mont-de-Marsan/Mont-de-Marsan.internal|Mont-de-Marsan.internal]] 
 
-### [Mont-de-Marsan.protect](/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Nouvelle-Aquitaine/departments~Aquitaine/Landes/communes~Landes/Mont-de-Marsan/cities~Mont-de-Marsan/Mont-de-Marsan.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Nouvelle-Aquitaine/departments~Aquitaine/Landes/communes~Landes/Mont-de-Marsan/cities~Mont-de-Marsan/Mont-de-Marsan.protect|Mont-de-Marsan.protect]] 
 
-### [Mont-de-Marsan.private](/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Nouvelle-Aquitaine/departments~Aquitaine/Landes/communes~Landes/Mont-de-Marsan/cities~Mont-de-Marsan/Mont-de-Marsan.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Nouvelle-Aquitaine/departments~Aquitaine/Landes/communes~Landes/Mont-de-Marsan/cities~Mont-de-Marsan/Mont-de-Marsan.private|Mont-de-Marsan.private]] 
 
-### [Mont-de-Marsan.personal](/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Nouvelle-Aquitaine/departments~Aquitaine/Landes/communes~Landes/Mont-de-Marsan/cities~Mont-de-Marsan/Mont-de-Marsan.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Nouvelle-Aquitaine/departments~Aquitaine/Landes/communes~Landes/Mont-de-Marsan/cities~Mont-de-Marsan/Mont-de-Marsan.personal|Mont-de-Marsan.personal]] 
 
-### [Mont-de-Marsan.secret](/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Nouvelle-Aquitaine/departments~Aquitaine/Landes/communes~Landes/Mont-de-Marsan/cities~Mont-de-Marsan/Mont-de-Marsan.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Nouvelle-Aquitaine/departments~Aquitaine/Landes/communes~Landes/Mont-de-Marsan/cities~Mont-de-Marsan/Mont-de-Marsan.secret|Mont-de-Marsan.secret]] 
 

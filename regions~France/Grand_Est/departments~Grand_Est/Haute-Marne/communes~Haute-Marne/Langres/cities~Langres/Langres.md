@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 31840
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 5.33
+dv_has_place_latitude: 47.87
+dv_name: Langres
+dv_Country: "[[../../../../../../../../France]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::5.33] 
-[has_place_latitude::47.87] 
-[name::Langres] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[France]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Langres](/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Grand_Est/departments~Grand_Est/Haute-Marne/communes~Haute-Marne/Langres/cities~Langres/Langres.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Grand_Est/departments~Grand_Est/Haute-Marne/communes~Haute-Marne/Langres/cities~Langres/Langres|Langres]] 
 
-### [Langres.public](/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Grand_Est/departments~Grand_Est/Haute-Marne/communes~Haute-Marne/Langres/cities~Langres/Langres.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Grand_Est/departments~Grand_Est/Haute-Marne/communes~Haute-Marne/Langres/cities~Langres/Langres.public|Langres.public]] 
 
-### [Langres.internal](/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Grand_Est/departments~Grand_Est/Haute-Marne/communes~Haute-Marne/Langres/cities~Langres/Langres.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Grand_Est/departments~Grand_Est/Haute-Marne/communes~Haute-Marne/Langres/cities~Langres/Langres.internal|Langres.internal]] 
 
-### [Langres.protect](/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Grand_Est/departments~Grand_Est/Haute-Marne/communes~Haute-Marne/Langres/cities~Langres/Langres.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Grand_Est/departments~Grand_Est/Haute-Marne/communes~Haute-Marne/Langres/cities~Langres/Langres.protect|Langres.protect]] 
 
-### [Langres.private](/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Grand_Est/departments~Grand_Est/Haute-Marne/communes~Haute-Marne/Langres/cities~Langres/Langres.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Grand_Est/departments~Grand_Est/Haute-Marne/communes~Haute-Marne/Langres/cities~Langres/Langres.private|Langres.private]] 
 
-### [Langres.personal](/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Grand_Est/departments~Grand_Est/Haute-Marne/communes~Haute-Marne/Langres/cities~Langres/Langres.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Grand_Est/departments~Grand_Est/Haute-Marne/communes~Haute-Marne/Langres/cities~Langres/Langres.personal|Langres.personal]] 
 
-### [Langres.secret](/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Grand_Est/departments~Grand_Est/Haute-Marne/communes~Haute-Marne/Langres/cities~Langres/Langres.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Grand_Est/departments~Grand_Est/Haute-Marne/communes~Haute-Marne/Langres/cities~Langres/Langres.secret|Langres.secret]] 
 

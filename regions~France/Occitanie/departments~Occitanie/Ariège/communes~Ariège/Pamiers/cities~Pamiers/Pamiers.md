@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 33229
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 1.62
+dv_has_place_latitude: 43.12
+dv_name: Pamiers
+dv_Country: "[[../../../../../../../../France]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::1.62] 
-[has_place_latitude::43.12] 
-[name::Pamiers] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[France]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Pamiers](/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Ariège/communes~Ariège/Pamiers/cities~Pamiers/Pamiers.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Ariège/communes~Ariège/Pamiers/cities~Pamiers/Pamiers|Pamiers]] 
 
-### [Pamiers.public](/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Ariège/communes~Ariège/Pamiers/cities~Pamiers/Pamiers.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Ariège/communes~Ariège/Pamiers/cities~Pamiers/Pamiers.public|Pamiers.public]] 
 
-### [Pamiers.internal](/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Ariège/communes~Ariège/Pamiers/cities~Pamiers/Pamiers.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Ariège/communes~Ariège/Pamiers/cities~Pamiers/Pamiers.internal|Pamiers.internal]] 
 
-### [Pamiers.protect](/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Ariège/communes~Ariège/Pamiers/cities~Pamiers/Pamiers.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Ariège/communes~Ariège/Pamiers/cities~Pamiers/Pamiers.protect|Pamiers.protect]] 
 
-### [Pamiers.private](/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Ariège/communes~Ariège/Pamiers/cities~Pamiers/Pamiers.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Ariège/communes~Ariège/Pamiers/cities~Pamiers/Pamiers.private|Pamiers.private]] 
 
-### [Pamiers.personal](/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Ariège/communes~Ariège/Pamiers/cities~Pamiers/Pamiers.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Ariège/communes~Ariège/Pamiers/cities~Pamiers/Pamiers.personal|Pamiers.personal]] 
 
-### [Pamiers.secret](/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Ariège/communes~Ariège/Pamiers/cities~Pamiers/Pamiers.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Ariège/communes~Ariège/Pamiers/cities~Pamiers/Pamiers.secret|Pamiers.secret]] 
 

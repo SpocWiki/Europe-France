@@ -1,4 +1,8 @@
-﻿---
+---
+dv_is_:
+  same_as: "[[../../../../../../WikiData/WD~Corsica,14112|WD~Corsica,14112]]"
+dv_is_same_as: "[[../../../../../../WikiData/WD~Corsica,14112|WD~Corsica,14112]]"
+
 has_time_started: 1970-01-11 
 aliases:
   - Corsica
@@ -109,7 +113,7 @@ native_label: Corsica
 
 # [[Corse]] 
 
-#is_/same_as :: [[../../../../../../WikiData/WD~Corsica,14112|WD~Corsica,14112]] 
+is_same_as = `=this.dv_is_same_as`
 
 ```leaflet
 id: Corse
@@ -159,17 +163,17 @@ markerFolder: ./Corse//
 
 ## Confidential Links & Embeds: 
 
-### [Corse](/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Corse.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Corse|Corse]] 
 
-### [Corse.public](/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Corse.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Corse.public|Corse.public]] 
 
-### [Corse.internal](/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Corse.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Corse.internal|Corse.internal]] 
 
-### [Corse.protect](/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Corse.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Corse.protect|Corse.protect]] 
 
-### [Corse.private](/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Corse.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Corse.private|Corse.private]] 
 
-### [Corse.personal](/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Corse.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Corse.personal|Corse.personal]] 
 
-### [Corse.secret](/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Corse.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Corse.secret|Corse.secret]] 
 

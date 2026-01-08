@@ -11,17 +11,17 @@ markerFolder: ./Occitanie//
 
 ## Confidential Links & Embeds: 
 
-### [Occitanie](/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie|Occitanie]] 
 
-### [Occitanie.public](/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie.public|Occitanie.public]] 
 
-### [Occitanie.internal](/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie.internal|Occitanie.internal]] 
 
-### [Occitanie.protect](/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie.protect|Occitanie.protect]] 
 
-### [Occitanie.private](/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie.private|Occitanie.private]] 
 
-### [Occitanie.personal](/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie.personal|Occitanie.personal]] 
 
-### [Occitanie.secret](/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie.secret|Occitanie.secret]] 
 

@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 33582
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 0.53
+dv_has_place_latitude: 49.47
+dv_name: Quilleboeuf
+dv_Country: "[[../../../../../../../../France]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::0.53] 
-[has_place_latitude::49.47] 
-[name::Quilleboeuf] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[France]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Quilleboeuf](/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Normandie/departments~Normandie/Eure/communes~Eure/Bernay/cities~Bernay/Quilleboeuf.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Normandie/departments~Normandie/Eure/communes~Eure/Bernay/cities~Bernay/Quilleboeuf|Quilleboeuf]] 
 
-### [Quilleboeuf.public](/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Normandie/departments~Normandie/Eure/communes~Eure/Bernay/cities~Bernay/Quilleboeuf.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Normandie/departments~Normandie/Eure/communes~Eure/Bernay/cities~Bernay/Quilleboeuf.public|Quilleboeuf.public]] 
 
-### [Quilleboeuf.internal](/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Normandie/departments~Normandie/Eure/communes~Eure/Bernay/cities~Bernay/Quilleboeuf.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Normandie/departments~Normandie/Eure/communes~Eure/Bernay/cities~Bernay/Quilleboeuf.internal|Quilleboeuf.internal]] 
 
-### [Quilleboeuf.protect](/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Normandie/departments~Normandie/Eure/communes~Eure/Bernay/cities~Bernay/Quilleboeuf.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Normandie/departments~Normandie/Eure/communes~Eure/Bernay/cities~Bernay/Quilleboeuf.protect|Quilleboeuf.protect]] 
 
-### [Quilleboeuf.private](/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Normandie/departments~Normandie/Eure/communes~Eure/Bernay/cities~Bernay/Quilleboeuf.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Normandie/departments~Normandie/Eure/communes~Eure/Bernay/cities~Bernay/Quilleboeuf.private|Quilleboeuf.private]] 
 
-### [Quilleboeuf.personal](/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Normandie/departments~Normandie/Eure/communes~Eure/Bernay/cities~Bernay/Quilleboeuf.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Normandie/departments~Normandie/Eure/communes~Eure/Bernay/cities~Bernay/Quilleboeuf.personal|Quilleboeuf.personal]] 
 
-### [Quilleboeuf.secret](/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Normandie/departments~Normandie/Eure/communes~Eure/Bernay/cities~Bernay/Quilleboeuf.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Normandie/departments~Normandie/Eure/communes~Eure/Bernay/cities~Bernay/Quilleboeuf.secret|Quilleboeuf.secret]] 
 

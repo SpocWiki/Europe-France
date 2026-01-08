@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 29299
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 2.4
+dv_has_place_latitude: 47.08
+dv_name: Bourges
+dv_Country: "[[../../../../../../../../France]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::2.4] 
-[has_place_latitude::47.08] 
-[name::Bourges] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[France]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Bourges](/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Val_de_Loire/departments~Val_de_Loire/Cher/communes~Cher/Bourges/cities~Bourges/Bourges.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Val_de_Loire/departments~Val_de_Loire/Cher/communes~Cher/Bourges/cities~Bourges/Bourges|Bourges]] 
 
-### [Bourges.public](/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Val_de_Loire/departments~Val_de_Loire/Cher/communes~Cher/Bourges/cities~Bourges/Bourges.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Val_de_Loire/departments~Val_de_Loire/Cher/communes~Cher/Bourges/cities~Bourges/Bourges.public|Bourges.public]] 
 
-### [Bourges.internal](/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Val_de_Loire/departments~Val_de_Loire/Cher/communes~Cher/Bourges/cities~Bourges/Bourges.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Val_de_Loire/departments~Val_de_Loire/Cher/communes~Cher/Bourges/cities~Bourges/Bourges.internal|Bourges.internal]] 
 
-### [Bourges.protect](/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Val_de_Loire/departments~Val_de_Loire/Cher/communes~Cher/Bourges/cities~Bourges/Bourges.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Val_de_Loire/departments~Val_de_Loire/Cher/communes~Cher/Bourges/cities~Bourges/Bourges.protect|Bourges.protect]] 
 
-### [Bourges.private](/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Val_de_Loire/departments~Val_de_Loire/Cher/communes~Cher/Bourges/cities~Bourges/Bourges.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Val_de_Loire/departments~Val_de_Loire/Cher/communes~Cher/Bourges/cities~Bourges/Bourges.private|Bourges.private]] 
 
-### [Bourges.personal](/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Val_de_Loire/departments~Val_de_Loire/Cher/communes~Cher/Bourges/cities~Bourges/Bourges.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Val_de_Loire/departments~Val_de_Loire/Cher/communes~Cher/Bourges/cities~Bourges/Bourges.personal|Bourges.personal]] 
 
-### [Bourges.secret](/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Val_de_Loire/departments~Val_de_Loire/Cher/communes~Cher/Bourges/cities~Bourges/Bourges.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Val_de_Loire/departments~Val_de_Loire/Cher/communes~Cher/Bourges/cities~Bourges/Bourges.secret|Bourges.secret]] 
 

@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 32627
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 2.87
+dv_has_place_latitude: 45.12
+dv_name: Murat
+dv_Country: "[[../../../../../../../../France]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::2.87] 
-[has_place_latitude::45.12] 
-[name::Murat] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[France]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Murat](/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Auvergne-Rhône-Alpes/departments~Auvergne-Rhône-Alpes/Cantal/communes~Cantal/Saint-Flour/cities~Saint-Flour/Murat.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Auvergne-Rhône-Alpes/departments~Auvergne-Rhône-Alpes/Cantal/communes~Cantal/Saint-Flour/cities~Saint-Flour/Murat|Murat]] 
 
-### [Murat.public](/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Auvergne-Rhône-Alpes/departments~Auvergne-Rhône-Alpes/Cantal/communes~Cantal/Saint-Flour/cities~Saint-Flour/Murat.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Auvergne-Rhône-Alpes/departments~Auvergne-Rhône-Alpes/Cantal/communes~Cantal/Saint-Flour/cities~Saint-Flour/Murat.public|Murat.public]] 
 
-### [Murat.internal](/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Auvergne-Rhône-Alpes/departments~Auvergne-Rhône-Alpes/Cantal/communes~Cantal/Saint-Flour/cities~Saint-Flour/Murat.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Auvergne-Rhône-Alpes/departments~Auvergne-Rhône-Alpes/Cantal/communes~Cantal/Saint-Flour/cities~Saint-Flour/Murat.internal|Murat.internal]] 
 
-### [Murat.protect](/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Auvergne-Rhône-Alpes/departments~Auvergne-Rhône-Alpes/Cantal/communes~Cantal/Saint-Flour/cities~Saint-Flour/Murat.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Auvergne-Rhône-Alpes/departments~Auvergne-Rhône-Alpes/Cantal/communes~Cantal/Saint-Flour/cities~Saint-Flour/Murat.protect|Murat.protect]] 
 
-### [Murat.private](/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Auvergne-Rhône-Alpes/departments~Auvergne-Rhône-Alpes/Cantal/communes~Cantal/Saint-Flour/cities~Saint-Flour/Murat.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Auvergne-Rhône-Alpes/departments~Auvergne-Rhône-Alpes/Cantal/communes~Cantal/Saint-Flour/cities~Saint-Flour/Murat.private|Murat.private]] 
 
-### [Murat.personal](/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Auvergne-Rhône-Alpes/departments~Auvergne-Rhône-Alpes/Cantal/communes~Cantal/Saint-Flour/cities~Saint-Flour/Murat.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Auvergne-Rhône-Alpes/departments~Auvergne-Rhône-Alpes/Cantal/communes~Cantal/Saint-Flour/cities~Saint-Flour/Murat.personal|Murat.personal]] 
 
-### [Murat.secret](/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Auvergne-Rhône-Alpes/departments~Auvergne-Rhône-Alpes/Cantal/communes~Cantal/Saint-Flour/cities~Saint-Flour/Murat.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Auvergne-Rhône-Alpes/departments~Auvergne-Rhône-Alpes/Cantal/communes~Cantal/Saint-Flour/cities~Saint-Flour/Murat.secret|Murat.secret]] 
 

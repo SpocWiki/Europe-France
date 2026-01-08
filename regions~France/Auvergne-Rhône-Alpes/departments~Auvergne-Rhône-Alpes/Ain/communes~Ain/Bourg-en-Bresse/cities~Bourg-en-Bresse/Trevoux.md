@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 34972
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 4.78
+dv_has_place_latitude: 45.95
+dv_name: Trevoux
+dv_Country: "[[../../../../../../../../France]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::4.78] 
-[has_place_latitude::45.95] 
-[name::Trevoux] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[France]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Trevoux](/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Auvergne-Rhône-Alpes/departments~Auvergne-Rhône-Alpes/Ain/communes~Ain/Bourg-en-Bresse/cities~Bourg-en-Bresse/Trevoux.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Auvergne-Rhône-Alpes/departments~Auvergne-Rhône-Alpes/Ain/communes~Ain/Bourg-en-Bresse/cities~Bourg-en-Bresse/Trevoux|Trevoux]] 
 
-### [Trevoux.public](/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Auvergne-Rhône-Alpes/departments~Auvergne-Rhône-Alpes/Ain/communes~Ain/Bourg-en-Bresse/cities~Bourg-en-Bresse/Trevoux.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Auvergne-Rhône-Alpes/departments~Auvergne-Rhône-Alpes/Ain/communes~Ain/Bourg-en-Bresse/cities~Bourg-en-Bresse/Trevoux.public|Trevoux.public]] 
 
-### [Trevoux.internal](/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Auvergne-Rhône-Alpes/departments~Auvergne-Rhône-Alpes/Ain/communes~Ain/Bourg-en-Bresse/cities~Bourg-en-Bresse/Trevoux.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Auvergne-Rhône-Alpes/departments~Auvergne-Rhône-Alpes/Ain/communes~Ain/Bourg-en-Bresse/cities~Bourg-en-Bresse/Trevoux.internal|Trevoux.internal]] 
 
-### [Trevoux.protect](/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Auvergne-Rhône-Alpes/departments~Auvergne-Rhône-Alpes/Ain/communes~Ain/Bourg-en-Bresse/cities~Bourg-en-Bresse/Trevoux.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Auvergne-Rhône-Alpes/departments~Auvergne-Rhône-Alpes/Ain/communes~Ain/Bourg-en-Bresse/cities~Bourg-en-Bresse/Trevoux.protect|Trevoux.protect]] 
 
-### [Trevoux.private](/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Auvergne-Rhône-Alpes/departments~Auvergne-Rhône-Alpes/Ain/communes~Ain/Bourg-en-Bresse/cities~Bourg-en-Bresse/Trevoux.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Auvergne-Rhône-Alpes/departments~Auvergne-Rhône-Alpes/Ain/communes~Ain/Bourg-en-Bresse/cities~Bourg-en-Bresse/Trevoux.private|Trevoux.private]] 
 
-### [Trevoux.personal](/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Auvergne-Rhône-Alpes/departments~Auvergne-Rhône-Alpes/Ain/communes~Ain/Bourg-en-Bresse/cities~Bourg-en-Bresse/Trevoux.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Auvergne-Rhône-Alpes/departments~Auvergne-Rhône-Alpes/Ain/communes~Ain/Bourg-en-Bresse/cities~Bourg-en-Bresse/Trevoux.personal|Trevoux.personal]] 
 
-### [Trevoux.secret](/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Auvergne-Rhône-Alpes/departments~Auvergne-Rhône-Alpes/Ain/communes~Ain/Bourg-en-Bresse/cities~Bourg-en-Bresse/Trevoux.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Auvergne-Rhône-Alpes/departments~Auvergne-Rhône-Alpes/Ain/communes~Ain/Bourg-en-Bresse/cities~Bourg-en-Bresse/Trevoux.secret|Trevoux.secret]] 
 

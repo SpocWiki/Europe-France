@@ -28,11 +28,14 @@ Commons_category: Vercingetorix
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Statue-vercingetorix-jaude-clermont.jpg
 P1015: "90777324"
 Krugosvet_article_archived_: istoriya/VERTSINGETORIG.html
+dv_is_:
+  same_as: "[[../../../../../../WikiData/WD~Vercingetorix,178953|WD~Vercingetorix,178953]]"
+dv_is_same_as: "[[../../../../../../WikiData/WD~Vercingetorix,178953|WD~Vercingetorix,178953]]"
 ---
 
 # [[Vercingetorix]] 
 
-#is_/same_as :: [[../../../../../../WikiData/WD~Vercingetorix,178953|WD~Vercingetorix,178953]]  
+is_same_as = `=this.dv_is_same_as`
 
 ## #has_/text_of_/abstract 
 
@@ -73,4 +76,21 @@ Krugosvet_article_archived_: istoriya/VERTSINGETORIG.html
 > He is considered a folk hero in France, and especially in Auvergne, his native region.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Vercingetorix) 
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~West/France/History_of_France/Vercingetorix|Vercingetorix]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~West/France/History_of_France/Vercingetorix.public|Vercingetorix.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~West/France/History_of_France/Vercingetorix.internal|Vercingetorix.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~West/France/History_of_France/Vercingetorix.protect|Vercingetorix.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~West/France/History_of_France/Vercingetorix.private|Vercingetorix.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~West/France/History_of_France/Vercingetorix.personal|Vercingetorix.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~West/France/History_of_France/Vercingetorix.secret|Vercingetorix.secret]] 
 

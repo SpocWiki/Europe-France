@@ -15,14 +15,19 @@ tags:
 SpocWebEntityId: 29046
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 6.37
+dv_has_place_latitude: 47.37
+dv_name: Baume les Dames
+dv_Country: "[[../../../../../../../../France]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::6.37] 
-[has_place_latitude::47.37] 
-[name::Baume les Dames] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[France]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -39,17 +44,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Baume_les_Dames](/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Bourgogne-Franche-Comté/departments~Bourgogne-Franche-Comté/Doubs/communes~Doubs/Besançon/cities~Besançon/Baume_les_Dames.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Bourgogne-Franche-Comté/departments~Bourgogne-Franche-Comté/Doubs/communes~Doubs/Besançon/cities~Besançon/Baume_les_Dames|Baume_les_Dames]] 
 
-### [Baume_les_Dames.public](/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Bourgogne-Franche-Comté/departments~Bourgogne-Franche-Comté/Doubs/communes~Doubs/Besançon/cities~Besançon/Baume_les_Dames.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Bourgogne-Franche-Comté/departments~Bourgogne-Franche-Comté/Doubs/communes~Doubs/Besançon/cities~Besançon/Baume_les_Dames.public|Baume_les_Dames.public]] 
 
-### [Baume_les_Dames.internal](/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Bourgogne-Franche-Comté/departments~Bourgogne-Franche-Comté/Doubs/communes~Doubs/Besançon/cities~Besançon/Baume_les_Dames.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Bourgogne-Franche-Comté/departments~Bourgogne-Franche-Comté/Doubs/communes~Doubs/Besançon/cities~Besançon/Baume_les_Dames.internal|Baume_les_Dames.internal]] 
 
-### [Baume_les_Dames.protect](/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Bourgogne-Franche-Comté/departments~Bourgogne-Franche-Comté/Doubs/communes~Doubs/Besançon/cities~Besançon/Baume_les_Dames.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Bourgogne-Franche-Comté/departments~Bourgogne-Franche-Comté/Doubs/communes~Doubs/Besançon/cities~Besançon/Baume_les_Dames.protect|Baume_les_Dames.protect]] 
 
-### [Baume_les_Dames.private](/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Bourgogne-Franche-Comté/departments~Bourgogne-Franche-Comté/Doubs/communes~Doubs/Besançon/cities~Besançon/Baume_les_Dames.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Bourgogne-Franche-Comté/departments~Bourgogne-Franche-Comté/Doubs/communes~Doubs/Besançon/cities~Besançon/Baume_les_Dames.private|Baume_les_Dames.private]] 
 
-### [Baume_les_Dames.personal](/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Bourgogne-Franche-Comté/departments~Bourgogne-Franche-Comté/Doubs/communes~Doubs/Besançon/cities~Besançon/Baume_les_Dames.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Bourgogne-Franche-Comté/departments~Bourgogne-Franche-Comté/Doubs/communes~Doubs/Besançon/cities~Besançon/Baume_les_Dames.personal|Baume_les_Dames.personal]] 
 
-### [Baume_les_Dames.secret](/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Bourgogne-Franche-Comté/departments~Bourgogne-Franche-Comté/Doubs/communes~Doubs/Besançon/cities~Besançon/Baume_les_Dames.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Bourgogne-Franche-Comté/departments~Bourgogne-Franche-Comté/Doubs/communes~Doubs/Besançon/cities~Besançon/Baume_les_Dames.secret|Baume_les_Dames.secret]] 
 

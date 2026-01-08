@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 32020
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 2.22
+dv_has_place_latitude: 43.05
+dv_name: Limoux
+dv_Country: "[[../../../../../../../../France]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::2.22] 
-[has_place_latitude::43.05] 
-[name::Limoux] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[France]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Limoux](/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Aude/communes~Aude/Limoux/cities~Limoux/Limoux.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Aude/communes~Aude/Limoux/cities~Limoux/Limoux|Limoux]] 
 
-### [Limoux.public](/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Aude/communes~Aude/Limoux/cities~Limoux/Limoux.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Aude/communes~Aude/Limoux/cities~Limoux/Limoux.public|Limoux.public]] 
 
-### [Limoux.internal](/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Aude/communes~Aude/Limoux/cities~Limoux/Limoux.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Aude/communes~Aude/Limoux/cities~Limoux/Limoux.internal|Limoux.internal]] 
 
-### [Limoux.protect](/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Aude/communes~Aude/Limoux/cities~Limoux/Limoux.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Aude/communes~Aude/Limoux/cities~Limoux/Limoux.protect|Limoux.protect]] 
 
-### [Limoux.private](/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Aude/communes~Aude/Limoux/cities~Limoux/Limoux.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Aude/communes~Aude/Limoux/cities~Limoux/Limoux.private|Limoux.private]] 
 
-### [Limoux.personal](/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Aude/communes~Aude/Limoux/cities~Limoux/Limoux.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Aude/communes~Aude/Limoux/cities~Limoux/Limoux.personal|Limoux.personal]] 
 
-### [Limoux.secret](/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Aude/communes~Aude/Limoux/cities~Limoux/Limoux.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Aude/communes~Aude/Limoux/cities~Limoux/Limoux.secret|Limoux.secret]] 
 

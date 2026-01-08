@@ -62,17 +62,17 @@ markerFolder: ./Grand_Est//
 
 ## Confidential Links & Embeds: 
 
-### [Grand_Est](/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Grand_Est.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Grand_Est|Grand_Est]] 
 
-### [Grand_Est.public](/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Grand_Est.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Grand_Est.public|Grand_Est.public]] 
 
-### [Grand_Est.internal](/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Grand_Est.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Grand_Est.internal|Grand_Est.internal]] 
 
-### [Grand_Est.protect](/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Grand_Est.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Grand_Est.protect|Grand_Est.protect]] 
 
-### [Grand_Est.private](/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Grand_Est.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Grand_Est.private|Grand_Est.private]] 
 
-### [Grand_Est.personal](/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Grand_Est.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Grand_Est.personal|Grand_Est.personal]] 
 
-### [Grand_Est.secret](/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Grand_Est.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Grand_Est.secret|Grand_Est.secret]] 
 

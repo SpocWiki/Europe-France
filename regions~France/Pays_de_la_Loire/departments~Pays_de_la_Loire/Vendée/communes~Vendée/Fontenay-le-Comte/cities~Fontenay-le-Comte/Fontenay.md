@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 30208
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: -0.82
+dv_has_place_latitude: 46.47
+dv_name: Fontenay
+dv_Country: "[[../../../../../../../../France]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::-0.82] 
-[has_place_latitude::46.47] 
-[name::Fontenay] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[France]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Fontenay](/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Pays_de_la_Loire/departments~Pays_de_la_Loire/Vendée/communes~Vendée/Fontenay-le-Comte/cities~Fontenay-le-Comte/Fontenay.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Pays_de_la_Loire/departments~Pays_de_la_Loire/Vendée/communes~Vendée/Fontenay-le-Comte/cities~Fontenay-le-Comte/Fontenay|Fontenay]] 
 
-### [Fontenay.public](/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Pays_de_la_Loire/departments~Pays_de_la_Loire/Vendée/communes~Vendée/Fontenay-le-Comte/cities~Fontenay-le-Comte/Fontenay.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Pays_de_la_Loire/departments~Pays_de_la_Loire/Vendée/communes~Vendée/Fontenay-le-Comte/cities~Fontenay-le-Comte/Fontenay.public|Fontenay.public]] 
 
-### [Fontenay.internal](/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Pays_de_la_Loire/departments~Pays_de_la_Loire/Vendée/communes~Vendée/Fontenay-le-Comte/cities~Fontenay-le-Comte/Fontenay.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Pays_de_la_Loire/departments~Pays_de_la_Loire/Vendée/communes~Vendée/Fontenay-le-Comte/cities~Fontenay-le-Comte/Fontenay.internal|Fontenay.internal]] 
 
-### [Fontenay.protect](/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Pays_de_la_Loire/departments~Pays_de_la_Loire/Vendée/communes~Vendée/Fontenay-le-Comte/cities~Fontenay-le-Comte/Fontenay.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Pays_de_la_Loire/departments~Pays_de_la_Loire/Vendée/communes~Vendée/Fontenay-le-Comte/cities~Fontenay-le-Comte/Fontenay.protect|Fontenay.protect]] 
 
-### [Fontenay.private](/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Pays_de_la_Loire/departments~Pays_de_la_Loire/Vendée/communes~Vendée/Fontenay-le-Comte/cities~Fontenay-le-Comte/Fontenay.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Pays_de_la_Loire/departments~Pays_de_la_Loire/Vendée/communes~Vendée/Fontenay-le-Comte/cities~Fontenay-le-Comte/Fontenay.private|Fontenay.private]] 
 
-### [Fontenay.personal](/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Pays_de_la_Loire/departments~Pays_de_la_Loire/Vendée/communes~Vendée/Fontenay-le-Comte/cities~Fontenay-le-Comte/Fontenay.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Pays_de_la_Loire/departments~Pays_de_la_Loire/Vendée/communes~Vendée/Fontenay-le-Comte/cities~Fontenay-le-Comte/Fontenay.personal|Fontenay.personal]] 
 
-### [Fontenay.secret](/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Pays_de_la_Loire/departments~Pays_de_la_Loire/Vendée/communes~Vendée/Fontenay-le-Comte/cities~Fontenay-le-Comte/Fontenay.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Pays_de_la_Loire/departments~Pays_de_la_Loire/Vendée/communes~Vendée/Fontenay-le-Comte/cities~Fontenay-le-Comte/Fontenay.secret|Fontenay.secret]] 
 

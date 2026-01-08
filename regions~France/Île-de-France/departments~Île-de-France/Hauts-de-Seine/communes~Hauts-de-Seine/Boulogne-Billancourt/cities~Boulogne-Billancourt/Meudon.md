@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 32452
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 2.23
+dv_has_place_latitude: 48.8
+dv_name: Meudon
+dv_Country: "[[../../../../../../../../France]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::2.23] 
-[has_place_latitude::48.8] 
-[name::Meudon] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[France]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Meudon](/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Île-de-France/departments~Île-de-France/Hauts-de-Seine/communes~Hauts-de-Seine/Boulogne-Billancourt/cities~Boulogne-Billancourt/Meudon.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Île-de-France/departments~Île-de-France/Hauts-de-Seine/communes~Hauts-de-Seine/Boulogne-Billancourt/cities~Boulogne-Billancourt/Meudon|Meudon]] 
 
-### [Meudon.public](/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Île-de-France/departments~Île-de-France/Hauts-de-Seine/communes~Hauts-de-Seine/Boulogne-Billancourt/cities~Boulogne-Billancourt/Meudon.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Île-de-France/departments~Île-de-France/Hauts-de-Seine/communes~Hauts-de-Seine/Boulogne-Billancourt/cities~Boulogne-Billancourt/Meudon.public|Meudon.public]] 
 
-### [Meudon.internal](/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Île-de-France/departments~Île-de-France/Hauts-de-Seine/communes~Hauts-de-Seine/Boulogne-Billancourt/cities~Boulogne-Billancourt/Meudon.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Île-de-France/departments~Île-de-France/Hauts-de-Seine/communes~Hauts-de-Seine/Boulogne-Billancourt/cities~Boulogne-Billancourt/Meudon.internal|Meudon.internal]] 
 
-### [Meudon.protect](/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Île-de-France/departments~Île-de-France/Hauts-de-Seine/communes~Hauts-de-Seine/Boulogne-Billancourt/cities~Boulogne-Billancourt/Meudon.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Île-de-France/departments~Île-de-France/Hauts-de-Seine/communes~Hauts-de-Seine/Boulogne-Billancourt/cities~Boulogne-Billancourt/Meudon.protect|Meudon.protect]] 
 
-### [Meudon.private](/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Île-de-France/departments~Île-de-France/Hauts-de-Seine/communes~Hauts-de-Seine/Boulogne-Billancourt/cities~Boulogne-Billancourt/Meudon.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Île-de-France/departments~Île-de-France/Hauts-de-Seine/communes~Hauts-de-Seine/Boulogne-Billancourt/cities~Boulogne-Billancourt/Meudon.private|Meudon.private]] 
 
-### [Meudon.personal](/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Île-de-France/departments~Île-de-France/Hauts-de-Seine/communes~Hauts-de-Seine/Boulogne-Billancourt/cities~Boulogne-Billancourt/Meudon.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Île-de-France/departments~Île-de-France/Hauts-de-Seine/communes~Hauts-de-Seine/Boulogne-Billancourt/cities~Boulogne-Billancourt/Meudon.personal|Meudon.personal]] 
 
-### [Meudon.secret](/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Île-de-France/departments~Île-de-France/Hauts-de-Seine/communes~Hauts-de-Seine/Boulogne-Billancourt/cities~Boulogne-Billancourt/Meudon.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Île-de-France/departments~Île-de-France/Hauts-de-Seine/communes~Hauts-de-Seine/Boulogne-Billancourt/cities~Boulogne-Billancourt/Meudon.secret|Meudon.secret]] 
 

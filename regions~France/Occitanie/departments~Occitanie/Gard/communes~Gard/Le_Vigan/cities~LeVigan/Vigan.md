@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 35282
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 3.6
+dv_has_place_latitude: 43.98
+dv_name: Vigan
+dv_Country: "[[../../../../../../../../France]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::3.6] 
-[has_place_latitude::43.98] 
-[name::Vigan] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[France]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Vigan](/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Gard/communes~Gard/Le_Vigan/cities~LeVigan/Vigan.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Gard/communes~Gard/Le_Vigan/cities~LeVigan/Vigan|Vigan]] 
 
-### [Vigan.public](/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Gard/communes~Gard/Le_Vigan/cities~LeVigan/Vigan.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Gard/communes~Gard/Le_Vigan/cities~LeVigan/Vigan.public|Vigan.public]] 
 
-### [Vigan.internal](/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Gard/communes~Gard/Le_Vigan/cities~LeVigan/Vigan.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Gard/communes~Gard/Le_Vigan/cities~LeVigan/Vigan.internal|Vigan.internal]] 
 
-### [Vigan.protect](/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Gard/communes~Gard/Le_Vigan/cities~LeVigan/Vigan.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Gard/communes~Gard/Le_Vigan/cities~LeVigan/Vigan.protect|Vigan.protect]] 
 
-### [Vigan.private](/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Gard/communes~Gard/Le_Vigan/cities~LeVigan/Vigan.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Gard/communes~Gard/Le_Vigan/cities~LeVigan/Vigan.private|Vigan.private]] 
 
-### [Vigan.personal](/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Gard/communes~Gard/Le_Vigan/cities~LeVigan/Vigan.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Gard/communes~Gard/Le_Vigan/cities~LeVigan/Vigan.personal|Vigan.personal]] 
 
-### [Vigan.secret](/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Gard/communes~Gard/Le_Vigan/cities~LeVigan/Vigan.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Gard/communes~Gard/Le_Vigan/cities~LeVigan/Vigan.secret|Vigan.secret]] 
 

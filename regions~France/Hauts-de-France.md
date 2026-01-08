@@ -11,17 +11,17 @@ markerFolder: ./Hauts-de-France//
 
 ## Confidential Links & Embeds: 
 
-### [Hauts-de-France](/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Hauts-de-France.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Hauts-de-France|Hauts-de-France]] 
 
-### [Hauts-de-France.public](/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Hauts-de-France.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Hauts-de-France.public|Hauts-de-France.public]] 
 
-### [Hauts-de-France.internal](/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Hauts-de-France.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Hauts-de-France.internal|Hauts-de-France.internal]] 
 
-### [Hauts-de-France.protect](/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Hauts-de-France.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Hauts-de-France.protect|Hauts-de-France.protect]] 
 
-### [Hauts-de-France.private](/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Hauts-de-France.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Hauts-de-France.private|Hauts-de-France.private]] 
 
-### [Hauts-de-France.personal](/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Hauts-de-France.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Hauts-de-France.personal|Hauts-de-France.personal]] 
 
-### [Hauts-de-France.secret](/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Hauts-de-France.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Hauts-de-France.secret|Hauts-de-France.secret]] 
 

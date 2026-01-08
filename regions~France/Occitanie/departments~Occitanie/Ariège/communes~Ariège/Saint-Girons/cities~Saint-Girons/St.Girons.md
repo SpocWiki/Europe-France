@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 34457
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 1.15
+dv_has_place_latitude: 42.98
+dv_name: St.Girons
+dv_Country: "[[../../../../../../../../France]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::1.15] 
-[has_place_latitude::42.98] 
-[name::St.Girons] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[France]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [St.Girons](/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Ariège/communes~Ariège/Saint-Girons/cities~Saint-Girons/St.Girons.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Ariège/communes~Ariège/Saint-Girons/cities~Saint-Girons/St.Girons|St.Girons]] 
 
-### [St.Girons.public](/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Ariège/communes~Ariège/Saint-Girons/cities~Saint-Girons/St.Girons.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Ariège/communes~Ariège/Saint-Girons/cities~Saint-Girons/St.Girons.public|St.Girons.public]] 
 
-### [St.Girons.internal](/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Ariège/communes~Ariège/Saint-Girons/cities~Saint-Girons/St.Girons.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Ariège/communes~Ariège/Saint-Girons/cities~Saint-Girons/St.Girons.internal|St.Girons.internal]] 
 
-### [St.Girons.protect](/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Ariège/communes~Ariège/Saint-Girons/cities~Saint-Girons/St.Girons.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Ariège/communes~Ariège/Saint-Girons/cities~Saint-Girons/St.Girons.protect|St.Girons.protect]] 
 
-### [St.Girons.private](/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Ariège/communes~Ariège/Saint-Girons/cities~Saint-Girons/St.Girons.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Ariège/communes~Ariège/Saint-Girons/cities~Saint-Girons/St.Girons.private|St.Girons.private]] 
 
-### [St.Girons.personal](/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Ariège/communes~Ariège/Saint-Girons/cities~Saint-Girons/St.Girons.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Ariège/communes~Ariège/Saint-Girons/cities~Saint-Girons/St.Girons.personal|St.Girons.personal]] 
 
-### [St.Girons.secret](/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Ariège/communes~Ariège/Saint-Girons/cities~Saint-Girons/St.Girons.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Ariège/communes~Ariège/Saint-Girons/cities~Saint-Girons/St.Girons.secret|St.Girons.secret]] 
 

@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 34444
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: -2.75
+dv_has_place_latitude: 48.52
+dv_name: St.Brieuc
+dv_Country: "[[../../../../../../../../France]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::-2.75] 
-[has_place_latitude::48.52] 
-[name::St.Brieuc] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[France]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [St.Brieuc](/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Bretagne/departments~Bretagne/Côtes-d'Armor/communes~Côtes-d'Armor/Saint-Brieuc/cities~Saint-Brieuc/St.Brieuc.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Bretagne/departments~Bretagne/Côtes-d'Armor/communes~Côtes-d'Armor/Saint-Brieuc/cities~Saint-Brieuc/St.Brieuc|St.Brieuc]] 
 
-### [St.Brieuc.public](/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Bretagne/departments~Bretagne/Côtes-d'Armor/communes~Côtes-d'Armor/Saint-Brieuc/cities~Saint-Brieuc/St.Brieuc.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Bretagne/departments~Bretagne/Côtes-d'Armor/communes~Côtes-d'Armor/Saint-Brieuc/cities~Saint-Brieuc/St.Brieuc.public|St.Brieuc.public]] 
 
-### [St.Brieuc.internal](/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Bretagne/departments~Bretagne/Côtes-d'Armor/communes~Côtes-d'Armor/Saint-Brieuc/cities~Saint-Brieuc/St.Brieuc.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Bretagne/departments~Bretagne/Côtes-d'Armor/communes~Côtes-d'Armor/Saint-Brieuc/cities~Saint-Brieuc/St.Brieuc.internal|St.Brieuc.internal]] 
 
-### [St.Brieuc.protect](/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Bretagne/departments~Bretagne/Côtes-d'Armor/communes~Côtes-d'Armor/Saint-Brieuc/cities~Saint-Brieuc/St.Brieuc.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Bretagne/departments~Bretagne/Côtes-d'Armor/communes~Côtes-d'Armor/Saint-Brieuc/cities~Saint-Brieuc/St.Brieuc.protect|St.Brieuc.protect]] 
 
-### [St.Brieuc.private](/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Bretagne/departments~Bretagne/Côtes-d'Armor/communes~Côtes-d'Armor/Saint-Brieuc/cities~Saint-Brieuc/St.Brieuc.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Bretagne/departments~Bretagne/Côtes-d'Armor/communes~Côtes-d'Armor/Saint-Brieuc/cities~Saint-Brieuc/St.Brieuc.private|St.Brieuc.private]] 
 
-### [St.Brieuc.personal](/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Bretagne/departments~Bretagne/Côtes-d'Armor/communes~Côtes-d'Armor/Saint-Brieuc/cities~Saint-Brieuc/St.Brieuc.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Bretagne/departments~Bretagne/Côtes-d'Armor/communes~Côtes-d'Armor/Saint-Brieuc/cities~Saint-Brieuc/St.Brieuc.personal|St.Brieuc.personal]] 
 
-### [St.Brieuc.secret](/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Bretagne/departments~Bretagne/Côtes-d'Armor/communes~Côtes-d'Armor/Saint-Brieuc/cities~Saint-Brieuc/St.Brieuc.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Bretagne/departments~Bretagne/Côtes-d'Armor/communes~Côtes-d'Armor/Saint-Brieuc/cities~Saint-Brieuc/St.Brieuc.secret|St.Brieuc.secret]] 
 

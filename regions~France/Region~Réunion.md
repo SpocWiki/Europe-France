@@ -5,17 +5,17 @@
 
 ## Confidential Links & Embeds: 
 
-### [Region~Réunion](/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Region~Réunion.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Region~Réunion|Region~Réunion]] 
 
-### [Region~Réunion.public](/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Region~Réunion.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Region~Réunion.public|Region~Réunion.public]] 
 
-### [Region~Réunion.internal](/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Region~Réunion.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Region~Réunion.internal|Region~Réunion.internal]] 
 
-### [Region~Réunion.protect](/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Region~Réunion.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Region~Réunion.protect|Region~Réunion.protect]] 
 
-### [Region~Réunion.private](/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Region~Réunion.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Region~Réunion.private|Region~Réunion.private]] 
 
-### [Region~Réunion.personal](/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Region~Réunion.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Region~Réunion.personal|Region~Réunion.personal]] 
 
-### [Region~Réunion.secret](/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Region~Réunion.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Region~Réunion.secret|Region~Réunion.secret]] 
 

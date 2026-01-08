@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 33961
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 7.05
+dv_has_place_latitude: 48.73
+dv_name: Sarrebourg
+dv_Country: "[[../../../../../../../../France]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::7.05] 
-[has_place_latitude::48.73] 
-[name::Sarrebourg] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[France]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Sarrebourg](/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Grand_Est/departments~Grand_Est/Moselle/communes~Moselle/Sarrebourg/cities~Sarrebourg/Sarrebourg.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Grand_Est/departments~Grand_Est/Moselle/communes~Moselle/Sarrebourg/cities~Sarrebourg/Sarrebourg|Sarrebourg]] 
 
-### [Sarrebourg.public](/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Grand_Est/departments~Grand_Est/Moselle/communes~Moselle/Sarrebourg/cities~Sarrebourg/Sarrebourg.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Grand_Est/departments~Grand_Est/Moselle/communes~Moselle/Sarrebourg/cities~Sarrebourg/Sarrebourg.public|Sarrebourg.public]] 
 
-### [Sarrebourg.internal](/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Grand_Est/departments~Grand_Est/Moselle/communes~Moselle/Sarrebourg/cities~Sarrebourg/Sarrebourg.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Grand_Est/departments~Grand_Est/Moselle/communes~Moselle/Sarrebourg/cities~Sarrebourg/Sarrebourg.internal|Sarrebourg.internal]] 
 
-### [Sarrebourg.protect](/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Grand_Est/departments~Grand_Est/Moselle/communes~Moselle/Sarrebourg/cities~Sarrebourg/Sarrebourg.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Grand_Est/departments~Grand_Est/Moselle/communes~Moselle/Sarrebourg/cities~Sarrebourg/Sarrebourg.protect|Sarrebourg.protect]] 
 
-### [Sarrebourg.private](/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Grand_Est/departments~Grand_Est/Moselle/communes~Moselle/Sarrebourg/cities~Sarrebourg/Sarrebourg.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Grand_Est/departments~Grand_Est/Moselle/communes~Moselle/Sarrebourg/cities~Sarrebourg/Sarrebourg.private|Sarrebourg.private]] 
 
-### [Sarrebourg.personal](/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Grand_Est/departments~Grand_Est/Moselle/communes~Moselle/Sarrebourg/cities~Sarrebourg/Sarrebourg.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Grand_Est/departments~Grand_Est/Moselle/communes~Moselle/Sarrebourg/cities~Sarrebourg/Sarrebourg.personal|Sarrebourg.personal]] 
 
-### [Sarrebourg.secret](/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Grand_Est/departments~Grand_Est/Moselle/communes~Moselle/Sarrebourg/cities~Sarrebourg/Sarrebourg.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Grand_Est/departments~Grand_Est/Moselle/communes~Moselle/Sarrebourg/cities~Sarrebourg/Sarrebourg.secret|Sarrebourg.secret]] 
 

@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 29595
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: -0.98
+dv_has_place_latitude: 47.05
+dv_name: Chobt
+dv_Country: "[[../../../../../../../../France]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::-0.98] 
-[has_place_latitude::47.05] 
-[name::Chobt] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[France]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Chobt](/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Pays_de_la_Loire/departments~Pays_de_la_Loire/Maine-et-Loire/communes~Maine-et-Loire/Cholet/cities~Cholet/Chobt.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Pays_de_la_Loire/departments~Pays_de_la_Loire/Maine-et-Loire/communes~Maine-et-Loire/Cholet/cities~Cholet/Chobt|Chobt]] 
 
-### [Chobt.public](/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Pays_de_la_Loire/departments~Pays_de_la_Loire/Maine-et-Loire/communes~Maine-et-Loire/Cholet/cities~Cholet/Chobt.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Pays_de_la_Loire/departments~Pays_de_la_Loire/Maine-et-Loire/communes~Maine-et-Loire/Cholet/cities~Cholet/Chobt.public|Chobt.public]] 
 
-### [Chobt.internal](/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Pays_de_la_Loire/departments~Pays_de_la_Loire/Maine-et-Loire/communes~Maine-et-Loire/Cholet/cities~Cholet/Chobt.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Pays_de_la_Loire/departments~Pays_de_la_Loire/Maine-et-Loire/communes~Maine-et-Loire/Cholet/cities~Cholet/Chobt.internal|Chobt.internal]] 
 
-### [Chobt.protect](/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Pays_de_la_Loire/departments~Pays_de_la_Loire/Maine-et-Loire/communes~Maine-et-Loire/Cholet/cities~Cholet/Chobt.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Pays_de_la_Loire/departments~Pays_de_la_Loire/Maine-et-Loire/communes~Maine-et-Loire/Cholet/cities~Cholet/Chobt.protect|Chobt.protect]] 
 
-### [Chobt.private](/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Pays_de_la_Loire/departments~Pays_de_la_Loire/Maine-et-Loire/communes~Maine-et-Loire/Cholet/cities~Cholet/Chobt.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Pays_de_la_Loire/departments~Pays_de_la_Loire/Maine-et-Loire/communes~Maine-et-Loire/Cholet/cities~Cholet/Chobt.private|Chobt.private]] 
 
-### [Chobt.personal](/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Pays_de_la_Loire/departments~Pays_de_la_Loire/Maine-et-Loire/communes~Maine-et-Loire/Cholet/cities~Cholet/Chobt.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Pays_de_la_Loire/departments~Pays_de_la_Loire/Maine-et-Loire/communes~Maine-et-Loire/Cholet/cities~Cholet/Chobt.personal|Chobt.personal]] 
 
-### [Chobt.secret](/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Pays_de_la_Loire/departments~Pays_de_la_Loire/Maine-et-Loire/communes~Maine-et-Loire/Cholet/cities~Cholet/Chobt.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Pays_de_la_Loire/departments~Pays_de_la_Loire/Maine-et-Loire/communes~Maine-et-Loire/Cholet/cities~Cholet/Chobt.secret|Chobt.secret]] 
 

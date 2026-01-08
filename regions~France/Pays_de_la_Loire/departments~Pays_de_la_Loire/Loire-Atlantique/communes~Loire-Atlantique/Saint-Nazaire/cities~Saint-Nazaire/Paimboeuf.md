@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 33213
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: -2.03
+dv_has_place_latitude: 47.28
+dv_name: Paimboeuf
+dv_Country: "[[../../../../../../../../France]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::-2.03] 
-[has_place_latitude::47.28] 
-[name::Paimboeuf] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[France]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Paimboeuf](/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Pays_de_la_Loire/departments~Pays_de_la_Loire/Loire-Atlantique/communes~Loire-Atlantique/Saint-Nazaire/cities~Saint-Nazaire/Paimboeuf.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Pays_de_la_Loire/departments~Pays_de_la_Loire/Loire-Atlantique/communes~Loire-Atlantique/Saint-Nazaire/cities~Saint-Nazaire/Paimboeuf|Paimboeuf]] 
 
-### [Paimboeuf.public](/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Pays_de_la_Loire/departments~Pays_de_la_Loire/Loire-Atlantique/communes~Loire-Atlantique/Saint-Nazaire/cities~Saint-Nazaire/Paimboeuf.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Pays_de_la_Loire/departments~Pays_de_la_Loire/Loire-Atlantique/communes~Loire-Atlantique/Saint-Nazaire/cities~Saint-Nazaire/Paimboeuf.public|Paimboeuf.public]] 
 
-### [Paimboeuf.internal](/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Pays_de_la_Loire/departments~Pays_de_la_Loire/Loire-Atlantique/communes~Loire-Atlantique/Saint-Nazaire/cities~Saint-Nazaire/Paimboeuf.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Pays_de_la_Loire/departments~Pays_de_la_Loire/Loire-Atlantique/communes~Loire-Atlantique/Saint-Nazaire/cities~Saint-Nazaire/Paimboeuf.internal|Paimboeuf.internal]] 
 
-### [Paimboeuf.protect](/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Pays_de_la_Loire/departments~Pays_de_la_Loire/Loire-Atlantique/communes~Loire-Atlantique/Saint-Nazaire/cities~Saint-Nazaire/Paimboeuf.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Pays_de_la_Loire/departments~Pays_de_la_Loire/Loire-Atlantique/communes~Loire-Atlantique/Saint-Nazaire/cities~Saint-Nazaire/Paimboeuf.protect|Paimboeuf.protect]] 
 
-### [Paimboeuf.private](/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Pays_de_la_Loire/departments~Pays_de_la_Loire/Loire-Atlantique/communes~Loire-Atlantique/Saint-Nazaire/cities~Saint-Nazaire/Paimboeuf.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Pays_de_la_Loire/departments~Pays_de_la_Loire/Loire-Atlantique/communes~Loire-Atlantique/Saint-Nazaire/cities~Saint-Nazaire/Paimboeuf.private|Paimboeuf.private]] 
 
-### [Paimboeuf.personal](/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Pays_de_la_Loire/departments~Pays_de_la_Loire/Loire-Atlantique/communes~Loire-Atlantique/Saint-Nazaire/cities~Saint-Nazaire/Paimboeuf.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Pays_de_la_Loire/departments~Pays_de_la_Loire/Loire-Atlantique/communes~Loire-Atlantique/Saint-Nazaire/cities~Saint-Nazaire/Paimboeuf.personal|Paimboeuf.personal]] 
 
-### [Paimboeuf.secret](/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Pays_de_la_Loire/departments~Pays_de_la_Loire/Loire-Atlantique/communes~Loire-Atlantique/Saint-Nazaire/cities~Saint-Nazaire/Paimboeuf.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Pays_de_la_Loire/departments~Pays_de_la_Loire/Loire-Atlantique/communes~Loire-Atlantique/Saint-Nazaire/cities~Saint-Nazaire/Paimboeuf.secret|Paimboeuf.secret]] 
 

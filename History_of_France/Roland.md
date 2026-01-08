@@ -1,7 +1,12 @@
+---
+dv_is_:
+  same_as: "[[../../../../../../WikiData/WD~Roland,207535|WD~Roland,207535]]"
+dv_is_same_as: "[[../../../../../../WikiData/WD~Roland,207535|WD~Roland,207535]]"
+---
 
 # [[Roland]] 
 
-#is_/same_as :: [[../../../../../../WikiData/WD~Roland,207535|WD~Roland,207535]]   
+is_same_as = `=this.dv_is_same_as`
 
 ## #has_/text_of_/abstract 
 
@@ -34,4 +39,21 @@
 > wrote an opera titled Roland, based on the story of the title character.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Roland) 
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~West/France/History_of_France/Roland|Roland]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~West/France/History_of_France/Roland.public|Roland.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~West/France/History_of_France/Roland.internal|Roland.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~West/France/History_of_France/Roland.protect|Roland.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~West/France/History_of_France/Roland.private|Roland.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~West/France/History_of_France/Roland.personal|Roland.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~West/France/History_of_France/Roland.secret|Roland.secret]] 
 

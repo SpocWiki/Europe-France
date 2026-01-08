@@ -15,14 +15,19 @@ tags:
 SpocWebEntityId: 29361
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 1.53
+dv_has_place_latitude: 45.17
+dv_name: Brive=La Gaillarde
+dv_Country: "[[../../../../../../../../France]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::1.53] 
-[has_place_latitude::45.17] 
-[name::Brive=La Gaillarde] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[France]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -39,17 +44,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Brive=La_Gaillarde](/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Nouvelle-Aquitaine/departments~Aquitaine/Corrèze/communes~Corrèze/Brive-la-Gaillarde/cities~Brive-la-Gaillarde/Brive=La_Gaillarde.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Nouvelle-Aquitaine/departments~Aquitaine/Corrèze/communes~Corrèze/Brive-la-Gaillarde/cities~Brive-la-Gaillarde/Brive=La_Gaillarde|Brive=La_Gaillarde]] 
 
-### [Brive=La_Gaillarde.public](/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Nouvelle-Aquitaine/departments~Aquitaine/Corrèze/communes~Corrèze/Brive-la-Gaillarde/cities~Brive-la-Gaillarde/Brive=La_Gaillarde.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Nouvelle-Aquitaine/departments~Aquitaine/Corrèze/communes~Corrèze/Brive-la-Gaillarde/cities~Brive-la-Gaillarde/Brive=La_Gaillarde.public|Brive=La_Gaillarde.public]] 
 
-### [Brive=La_Gaillarde.internal](/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Nouvelle-Aquitaine/departments~Aquitaine/Corrèze/communes~Corrèze/Brive-la-Gaillarde/cities~Brive-la-Gaillarde/Brive=La_Gaillarde.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Nouvelle-Aquitaine/departments~Aquitaine/Corrèze/communes~Corrèze/Brive-la-Gaillarde/cities~Brive-la-Gaillarde/Brive=La_Gaillarde.internal|Brive=La_Gaillarde.internal]] 
 
-### [Brive=La_Gaillarde.protect](/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Nouvelle-Aquitaine/departments~Aquitaine/Corrèze/communes~Corrèze/Brive-la-Gaillarde/cities~Brive-la-Gaillarde/Brive=La_Gaillarde.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Nouvelle-Aquitaine/departments~Aquitaine/Corrèze/communes~Corrèze/Brive-la-Gaillarde/cities~Brive-la-Gaillarde/Brive=La_Gaillarde.protect|Brive=La_Gaillarde.protect]] 
 
-### [Brive=La_Gaillarde.private](/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Nouvelle-Aquitaine/departments~Aquitaine/Corrèze/communes~Corrèze/Brive-la-Gaillarde/cities~Brive-la-Gaillarde/Brive=La_Gaillarde.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Nouvelle-Aquitaine/departments~Aquitaine/Corrèze/communes~Corrèze/Brive-la-Gaillarde/cities~Brive-la-Gaillarde/Brive=La_Gaillarde.private|Brive=La_Gaillarde.private]] 
 
-### [Brive=La_Gaillarde.personal](/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Nouvelle-Aquitaine/departments~Aquitaine/Corrèze/communes~Corrèze/Brive-la-Gaillarde/cities~Brive-la-Gaillarde/Brive=La_Gaillarde.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Nouvelle-Aquitaine/departments~Aquitaine/Corrèze/communes~Corrèze/Brive-la-Gaillarde/cities~Brive-la-Gaillarde/Brive=La_Gaillarde.personal|Brive=La_Gaillarde.personal]] 
 
-### [Brive=La_Gaillarde.secret](/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Nouvelle-Aquitaine/departments~Aquitaine/Corrèze/communes~Corrèze/Brive-la-Gaillarde/cities~Brive-la-Gaillarde/Brive=La_Gaillarde.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Nouvelle-Aquitaine/departments~Aquitaine/Corrèze/communes~Corrèze/Brive-la-Gaillarde/cities~Brive-la-Gaillarde/Brive=La_Gaillarde.secret|Brive=La_Gaillarde.secret]] 
 

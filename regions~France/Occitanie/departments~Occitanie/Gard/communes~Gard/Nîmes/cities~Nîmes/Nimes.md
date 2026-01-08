@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 32922
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 4.35
+dv_has_place_latitude: 43.85
+dv_name: Nimes
+dv_Country: "[[../../../../../../../../France]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::4.35] 
-[has_place_latitude::43.85] 
-[name::Nimes] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[France]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Nimes](/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Gard/communes~Gard/Nîmes/cities~Nîmes/Nimes.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Gard/communes~Gard/Nîmes/cities~Nîmes/Nimes|Nimes]] 
 
-### [Nimes.public](/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Gard/communes~Gard/Nîmes/cities~Nîmes/Nimes.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Gard/communes~Gard/Nîmes/cities~Nîmes/Nimes.public|Nimes.public]] 
 
-### [Nimes.internal](/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Gard/communes~Gard/Nîmes/cities~Nîmes/Nimes.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Gard/communes~Gard/Nîmes/cities~Nîmes/Nimes.internal|Nimes.internal]] 
 
-### [Nimes.protect](/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Gard/communes~Gard/Nîmes/cities~Nîmes/Nimes.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Gard/communes~Gard/Nîmes/cities~Nîmes/Nimes.protect|Nimes.protect]] 
 
-### [Nimes.private](/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Gard/communes~Gard/Nîmes/cities~Nîmes/Nimes.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Gard/communes~Gard/Nîmes/cities~Nîmes/Nimes.private|Nimes.private]] 
 
-### [Nimes.personal](/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Gard/communes~Gard/Nîmes/cities~Nîmes/Nimes.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Gard/communes~Gard/Nîmes/cities~Nîmes/Nimes.personal|Nimes.personal]] 
 
-### [Nimes.secret](/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Gard/communes~Gard/Nîmes/cities~Nîmes/Nimes.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Gard/communes~Gard/Nîmes/cities~Nîmes/Nimes.secret|Nimes.secret]] 
 

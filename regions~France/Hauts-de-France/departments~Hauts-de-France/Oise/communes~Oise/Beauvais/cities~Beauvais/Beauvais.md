@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 29058
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 2.13
+dv_has_place_latitude: 49.43
+dv_name: Beauvais
+dv_Country: "[[../../../../../../../../France]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::2.13] 
-[has_place_latitude::49.43] 
-[name::Beauvais] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[France]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Beauvais](/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Hauts-de-France/departments~Hauts-de-France/Oise/communes~Oise/Beauvais/cities~Beauvais/Beauvais.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Hauts-de-France/departments~Hauts-de-France/Oise/communes~Oise/Beauvais/cities~Beauvais/Beauvais|Beauvais]] 
 
-### [Beauvais.public](/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Hauts-de-France/departments~Hauts-de-France/Oise/communes~Oise/Beauvais/cities~Beauvais/Beauvais.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Hauts-de-France/departments~Hauts-de-France/Oise/communes~Oise/Beauvais/cities~Beauvais/Beauvais.public|Beauvais.public]] 
 
-### [Beauvais.internal](/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Hauts-de-France/departments~Hauts-de-France/Oise/communes~Oise/Beauvais/cities~Beauvais/Beauvais.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Hauts-de-France/departments~Hauts-de-France/Oise/communes~Oise/Beauvais/cities~Beauvais/Beauvais.internal|Beauvais.internal]] 
 
-### [Beauvais.protect](/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Hauts-de-France/departments~Hauts-de-France/Oise/communes~Oise/Beauvais/cities~Beauvais/Beauvais.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Hauts-de-France/departments~Hauts-de-France/Oise/communes~Oise/Beauvais/cities~Beauvais/Beauvais.protect|Beauvais.protect]] 
 
-### [Beauvais.private](/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Hauts-de-France/departments~Hauts-de-France/Oise/communes~Oise/Beauvais/cities~Beauvais/Beauvais.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Hauts-de-France/departments~Hauts-de-France/Oise/communes~Oise/Beauvais/cities~Beauvais/Beauvais.private|Beauvais.private]] 
 
-### [Beauvais.personal](/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Hauts-de-France/departments~Hauts-de-France/Oise/communes~Oise/Beauvais/cities~Beauvais/Beauvais.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Hauts-de-France/departments~Hauts-de-France/Oise/communes~Oise/Beauvais/cities~Beauvais/Beauvais.personal|Beauvais.personal]] 
 
-### [Beauvais.secret](/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Hauts-de-France/departments~Hauts-de-France/Oise/communes~Oise/Beauvais/cities~Beauvais/Beauvais.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Hauts-de-France/departments~Hauts-de-France/Oise/communes~Oise/Beauvais/cities~Beauvais/Beauvais.secret|Beauvais.secret]] 
 

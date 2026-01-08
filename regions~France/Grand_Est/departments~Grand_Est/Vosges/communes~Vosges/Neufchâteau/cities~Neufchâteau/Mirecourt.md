@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 32501
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 6.13
+dv_has_place_latitude: 48.28
+dv_name: Mirecourt
+dv_Country: "[[../../../../../../../../France]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::6.13] 
-[has_place_latitude::48.28] 
-[name::Mirecourt] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[France]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Mirecourt](/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Grand_Est/departments~Grand_Est/Vosges/communes~Vosges/Neufchâteau/cities~Neufchâteau/Mirecourt.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Grand_Est/departments~Grand_Est/Vosges/communes~Vosges/Neufchâteau/cities~Neufchâteau/Mirecourt|Mirecourt]] 
 
-### [Mirecourt.public](/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Grand_Est/departments~Grand_Est/Vosges/communes~Vosges/Neufchâteau/cities~Neufchâteau/Mirecourt.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Grand_Est/departments~Grand_Est/Vosges/communes~Vosges/Neufchâteau/cities~Neufchâteau/Mirecourt.public|Mirecourt.public]] 
 
-### [Mirecourt.internal](/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Grand_Est/departments~Grand_Est/Vosges/communes~Vosges/Neufchâteau/cities~Neufchâteau/Mirecourt.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Grand_Est/departments~Grand_Est/Vosges/communes~Vosges/Neufchâteau/cities~Neufchâteau/Mirecourt.internal|Mirecourt.internal]] 
 
-### [Mirecourt.protect](/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Grand_Est/departments~Grand_Est/Vosges/communes~Vosges/Neufchâteau/cities~Neufchâteau/Mirecourt.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Grand_Est/departments~Grand_Est/Vosges/communes~Vosges/Neufchâteau/cities~Neufchâteau/Mirecourt.protect|Mirecourt.protect]] 
 
-### [Mirecourt.private](/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Grand_Est/departments~Grand_Est/Vosges/communes~Vosges/Neufchâteau/cities~Neufchâteau/Mirecourt.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Grand_Est/departments~Grand_Est/Vosges/communes~Vosges/Neufchâteau/cities~Neufchâteau/Mirecourt.private|Mirecourt.private]] 
 
-### [Mirecourt.personal](/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Grand_Est/departments~Grand_Est/Vosges/communes~Vosges/Neufchâteau/cities~Neufchâteau/Mirecourt.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Grand_Est/departments~Grand_Est/Vosges/communes~Vosges/Neufchâteau/cities~Neufchâteau/Mirecourt.personal|Mirecourt.personal]] 
 
-### [Mirecourt.secret](/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Grand_Est/departments~Grand_Est/Vosges/communes~Vosges/Neufchâteau/cities~Neufchâteau/Mirecourt.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Grand_Est/departments~Grand_Est/Vosges/communes~Vosges/Neufchâteau/cities~Neufchâteau/Mirecourt.secret|Mirecourt.secret]] 
 

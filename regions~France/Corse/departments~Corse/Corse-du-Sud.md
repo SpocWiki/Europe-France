@@ -40,17 +40,17 @@ markerFolder: ./Corse-du-Sud/
 
 ## Confidential Links & Embeds: 
 
-### [Corse-du-Sud](/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Corse/departments~Corse/Corse-du-Sud.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Corse/departments~Corse/Corse-du-Sud|Corse-du-Sud]] 
 
-### [Corse-du-Sud.public](/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Corse/departments~Corse/Corse-du-Sud.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Corse/departments~Corse/Corse-du-Sud.public|Corse-du-Sud.public]] 
 
-### [Corse-du-Sud.internal](/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Corse/departments~Corse/Corse-du-Sud.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Corse/departments~Corse/Corse-du-Sud.internal|Corse-du-Sud.internal]] 
 
-### [Corse-du-Sud.protect](/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Corse/departments~Corse/Corse-du-Sud.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Corse/departments~Corse/Corse-du-Sud.protect|Corse-du-Sud.protect]] 
 
-### [Corse-du-Sud.private](/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Corse/departments~Corse/Corse-du-Sud.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Corse/departments~Corse/Corse-du-Sud.private|Corse-du-Sud.private]] 
 
-### [Corse-du-Sud.personal](/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Corse/departments~Corse/Corse-du-Sud.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Corse/departments~Corse/Corse-du-Sud.personal|Corse-du-Sud.personal]] 
 
-### [Corse-du-Sud.secret](/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Corse/departments~Corse/Corse-du-Sud.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Corse/departments~Corse/Corse-du-Sud.secret|Corse-du-Sud.secret]] 
 

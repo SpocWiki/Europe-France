@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 31958
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: -0.95
+dv_has_place_latitude: 45.32
+dv_name: Lesparre
+dv_Country: "[[../../../../../../../../France]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::-0.95] 
-[has_place_latitude::45.32] 
-[name::Lesparre] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[France]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Lesparre](/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Nouvelle-Aquitaine/departments~Aquitaine/Gironde/communes~Gironde/Lesparre-Médoc/cities~Lesparre-Médoc/Lesparre.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Nouvelle-Aquitaine/departments~Aquitaine/Gironde/communes~Gironde/Lesparre-Médoc/cities~Lesparre-Médoc/Lesparre|Lesparre]] 
 
-### [Lesparre.public](/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Nouvelle-Aquitaine/departments~Aquitaine/Gironde/communes~Gironde/Lesparre-Médoc/cities~Lesparre-Médoc/Lesparre.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Nouvelle-Aquitaine/departments~Aquitaine/Gironde/communes~Gironde/Lesparre-Médoc/cities~Lesparre-Médoc/Lesparre.public|Lesparre.public]] 
 
-### [Lesparre.internal](/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Nouvelle-Aquitaine/departments~Aquitaine/Gironde/communes~Gironde/Lesparre-Médoc/cities~Lesparre-Médoc/Lesparre.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Nouvelle-Aquitaine/departments~Aquitaine/Gironde/communes~Gironde/Lesparre-Médoc/cities~Lesparre-Médoc/Lesparre.internal|Lesparre.internal]] 
 
-### [Lesparre.protect](/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Nouvelle-Aquitaine/departments~Aquitaine/Gironde/communes~Gironde/Lesparre-Médoc/cities~Lesparre-Médoc/Lesparre.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Nouvelle-Aquitaine/departments~Aquitaine/Gironde/communes~Gironde/Lesparre-Médoc/cities~Lesparre-Médoc/Lesparre.protect|Lesparre.protect]] 
 
-### [Lesparre.private](/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Nouvelle-Aquitaine/departments~Aquitaine/Gironde/communes~Gironde/Lesparre-Médoc/cities~Lesparre-Médoc/Lesparre.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Nouvelle-Aquitaine/departments~Aquitaine/Gironde/communes~Gironde/Lesparre-Médoc/cities~Lesparre-Médoc/Lesparre.private|Lesparre.private]] 
 
-### [Lesparre.personal](/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Nouvelle-Aquitaine/departments~Aquitaine/Gironde/communes~Gironde/Lesparre-Médoc/cities~Lesparre-Médoc/Lesparre.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Nouvelle-Aquitaine/departments~Aquitaine/Gironde/communes~Gironde/Lesparre-Médoc/cities~Lesparre-Médoc/Lesparre.personal|Lesparre.personal]] 
 
-### [Lesparre.secret](/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Nouvelle-Aquitaine/departments~Aquitaine/Gironde/communes~Gironde/Lesparre-Médoc/cities~Lesparre-Médoc/Lesparre.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Nouvelle-Aquitaine/departments~Aquitaine/Gironde/communes~Gironde/Lesparre-Médoc/cities~Lesparre-Médoc/Lesparre.secret|Lesparre.secret]] 
 

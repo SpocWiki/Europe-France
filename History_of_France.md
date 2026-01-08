@@ -5,20 +5,23 @@ aliases:
   - History of France
 has_id_wikidata: Q7778
 described_by_source:
-  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
-has_part_s_: '[[_Standards/WikiData/WD~history_of_Auvergne,3136880]]'
-topic_has_template: '[[_Standards/WikiData/WD~Template_History_of_France,6828443]]'
-instance_of: '[[_Standards/WikiData/WD~academic_discipline,11862829]]'
-subclass_of: '[[_Standards/WikiData/WD~history_of_Europe,7787]]'
-facet_of: '[[_Standards/WikiData/WD~France,142]]'
+  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
+has_part_s_: "[[_Standards/WikiData/WD~history_of_Auvergne,3136880]]"
+topic_has_template: "[[_Standards/WikiData/WD~Template_History_of_France,6828443]]"
+instance_of: "[[_Standards/WikiData/WD~academic_discipline,11862829]]"
+subclass_of: "[[_Standards/WikiData/WD~history_of_Europe,7787]]"
+facet_of: "[[_Standards/WikiData/WD~France,142]]"
 Dewey_Decimal_Classification: 944
 Commons_category: History of France
+dv_is_:
+  same_as: "[[../../../../../WikiData/WD~History_of_France,7778]]"
+dv_is_same_as: "[[../../../../../WikiData/WD~History_of_France,7778]]"
 ---
 
 # [[History_of_France]] 
 
-#is_/same_as :: [[WD~History_of_France,7778]] 
+is_same_as = `=this.dv_is_same_as`
 
 ## #has_/text_of_/abstract 
 
@@ -36,4 +39,21 @@ Commons_category: History of France
 > France was one of the Triple Entente powers in World War I against the Central Powers. France was one of the Allied Powers in World War II, but was conquered by Nazi Germany in 1940. The Third Republic was dismantled, and most of the country was controlled directly by Germany, while the south was controlled until 1942 by the collaborationist Vichy government. Following liberation in 1944, the Fourth Republic was established. France slowly recovered, and enjoyed a baby boom that reversed its low fertility rate. Long wars in Indochina and Algeria drained French resources and ended in political defeat. In the wake of the 1958 Algerian Crisis, Charles de Gaulle set up the French Fifth Republic. Into the 1960s most of the French colonial empire became independent, while smaller parts were incorporated into the French state as overseas departments and collectivities. Since World War II France has been a permanent member in the UN Security Council and NATO. It played a central role in the unification process after 1945 that led to the European Union. It remains a strong economic, cultural, military and political factor in the 21st century.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/History%20of%20France) 
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~West/France/History_of_France|History_of_France]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~West/France/History_of_France.public|History_of_France.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~West/France/History_of_France.internal|History_of_France.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~West/France/History_of_France.protect|History_of_France.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~West/France/History_of_France.private|History_of_France.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~West/France/History_of_France.personal|History_of_France.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~West/France/History_of_France.secret|History_of_France.secret]] 
 

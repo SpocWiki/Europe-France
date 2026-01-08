@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 28920
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 2.17
+dv_has_place_latitude: 45.95
+dv_name: Aubusson
+dv_Country: "[[../../../../../../../../France]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::2.17] 
-[has_place_latitude::45.95] 
-[name::Aubusson] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[France]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Aubusson](/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Nouvelle-Aquitaine/departments~Aquitaine/Creuse/communes~Creuse/Aubusson/cities~Aubusson/Aubusson.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Nouvelle-Aquitaine/departments~Aquitaine/Creuse/communes~Creuse/Aubusson/cities~Aubusson/Aubusson|Aubusson]] 
 
-### [Aubusson.public](/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Nouvelle-Aquitaine/departments~Aquitaine/Creuse/communes~Creuse/Aubusson/cities~Aubusson/Aubusson.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Nouvelle-Aquitaine/departments~Aquitaine/Creuse/communes~Creuse/Aubusson/cities~Aubusson/Aubusson.public|Aubusson.public]] 
 
-### [Aubusson.internal](/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Nouvelle-Aquitaine/departments~Aquitaine/Creuse/communes~Creuse/Aubusson/cities~Aubusson/Aubusson.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Nouvelle-Aquitaine/departments~Aquitaine/Creuse/communes~Creuse/Aubusson/cities~Aubusson/Aubusson.internal|Aubusson.internal]] 
 
-### [Aubusson.protect](/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Nouvelle-Aquitaine/departments~Aquitaine/Creuse/communes~Creuse/Aubusson/cities~Aubusson/Aubusson.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Nouvelle-Aquitaine/departments~Aquitaine/Creuse/communes~Creuse/Aubusson/cities~Aubusson/Aubusson.protect|Aubusson.protect]] 
 
-### [Aubusson.private](/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Nouvelle-Aquitaine/departments~Aquitaine/Creuse/communes~Creuse/Aubusson/cities~Aubusson/Aubusson.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Nouvelle-Aquitaine/departments~Aquitaine/Creuse/communes~Creuse/Aubusson/cities~Aubusson/Aubusson.private|Aubusson.private]] 
 
-### [Aubusson.personal](/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Nouvelle-Aquitaine/departments~Aquitaine/Creuse/communes~Creuse/Aubusson/cities~Aubusson/Aubusson.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Nouvelle-Aquitaine/departments~Aquitaine/Creuse/communes~Creuse/Aubusson/cities~Aubusson/Aubusson.personal|Aubusson.personal]] 
 
-### [Aubusson.secret](/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Nouvelle-Aquitaine/departments~Aquitaine/Creuse/communes~Creuse/Aubusson/cities~Aubusson/Aubusson.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Nouvelle-Aquitaine/departments~Aquitaine/Creuse/communes~Creuse/Aubusson/cities~Aubusson/Aubusson.secret|Aubusson.secret]] 
 

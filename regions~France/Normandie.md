@@ -29,17 +29,17 @@ markerFolder: ./Normandie//
 
 ## Confidential Links & Embeds: 
 
-### [Normandie](/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Normandie.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Normandie|Normandie]] 
 
-### [Normandie.public](/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Normandie.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Normandie.public|Normandie.public]] 
 
-### [Normandie.internal](/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Normandie.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Normandie.internal|Normandie.internal]] 
 
-### [Normandie.protect](/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Normandie.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Normandie.protect|Normandie.protect]] 
 
-### [Normandie.private](/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Normandie.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Normandie.private|Normandie.private]] 
 
-### [Normandie.personal](/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Normandie.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Normandie.personal|Normandie.personal]] 
 
-### [Normandie.secret](/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Normandie.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Normandie.secret|Normandie.secret]] 
 

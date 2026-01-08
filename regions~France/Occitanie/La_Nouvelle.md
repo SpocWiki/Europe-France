@@ -15,14 +15,19 @@ tags:
 SpocWebEntityId: 31766
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../Geography/Place]]"
+dv_has_place_longitude: 3.07
+dv_has_place_latitude: 43.02
+dv_name: La Nouvelle
+dv_Country: "[[../../../France]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::3.07] 
-[has_place_latitude::43.02] 
-[name::La Nouvelle] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[France]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -39,17 +44,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [La_Nouvelle](/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/La_Nouvelle.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/La_Nouvelle|La_Nouvelle]] 
 
-### [La_Nouvelle.public](/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/La_Nouvelle.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/La_Nouvelle.public|La_Nouvelle.public]] 
 
-### [La_Nouvelle.internal](/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/La_Nouvelle.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/La_Nouvelle.internal|La_Nouvelle.internal]] 
 
-### [La_Nouvelle.protect](/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/La_Nouvelle.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/La_Nouvelle.protect|La_Nouvelle.protect]] 
 
-### [La_Nouvelle.private](/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/La_Nouvelle.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/La_Nouvelle.private|La_Nouvelle.private]] 
 
-### [La_Nouvelle.personal](/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/La_Nouvelle.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/La_Nouvelle.personal|La_Nouvelle.personal]] 
 
-### [La_Nouvelle.secret](/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/La_Nouvelle.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/La_Nouvelle.secret|La_Nouvelle.secret]] 
 

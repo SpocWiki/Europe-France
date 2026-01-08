@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 34197
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 2.58
+dv_has_place_latitude: 49.2
+dv_name: Seneis
+dv_Country: "[[../../../../../../../../France]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::2.58] 
-[has_place_latitude::49.2] 
-[name::Seneis] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[France]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Seneis](/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Hauts-de-France/departments~Hauts-de-France/Oise/communes~Oise/Senlis/cities~Senlis/Seneis.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Hauts-de-France/departments~Hauts-de-France/Oise/communes~Oise/Senlis/cities~Senlis/Seneis|Seneis]] 
 
-### [Seneis.public](/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Hauts-de-France/departments~Hauts-de-France/Oise/communes~Oise/Senlis/cities~Senlis/Seneis.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Hauts-de-France/departments~Hauts-de-France/Oise/communes~Oise/Senlis/cities~Senlis/Seneis.public|Seneis.public]] 
 
-### [Seneis.internal](/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Hauts-de-France/departments~Hauts-de-France/Oise/communes~Oise/Senlis/cities~Senlis/Seneis.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Hauts-de-France/departments~Hauts-de-France/Oise/communes~Oise/Senlis/cities~Senlis/Seneis.internal|Seneis.internal]] 
 
-### [Seneis.protect](/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Hauts-de-France/departments~Hauts-de-France/Oise/communes~Oise/Senlis/cities~Senlis/Seneis.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Hauts-de-France/departments~Hauts-de-France/Oise/communes~Oise/Senlis/cities~Senlis/Seneis.protect|Seneis.protect]] 
 
-### [Seneis.private](/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Hauts-de-France/departments~Hauts-de-France/Oise/communes~Oise/Senlis/cities~Senlis/Seneis.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Hauts-de-France/departments~Hauts-de-France/Oise/communes~Oise/Senlis/cities~Senlis/Seneis.private|Seneis.private]] 
 
-### [Seneis.personal](/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Hauts-de-France/departments~Hauts-de-France/Oise/communes~Oise/Senlis/cities~Senlis/Seneis.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Hauts-de-France/departments~Hauts-de-France/Oise/communes~Oise/Senlis/cities~Senlis/Seneis.personal|Seneis.personal]] 
 
-### [Seneis.secret](/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Hauts-de-France/departments~Hauts-de-France/Oise/communes~Oise/Senlis/cities~Senlis/Seneis.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Hauts-de-France/departments~Hauts-de-France/Oise/communes~Oise/Senlis/cities~Senlis/Seneis.secret|Seneis.secret]] 
 

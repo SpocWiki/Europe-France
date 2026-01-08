@@ -21,3 +21,20 @@ aliases:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Fran%C3%A7ois%20Hollande) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~West/France/President_of_France/Hollande,François|Hollande,François]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~West/France/President_of_France/Hollande,François.public|Hollande,François.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~West/France/President_of_France/Hollande,François.internal|Hollande,François.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~West/France/President_of_France/Hollande,François.protect|Hollande,François.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~West/France/President_of_France/Hollande,François.private|Hollande,François.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~West/France/President_of_France/Hollande,François.personal|Hollande,François.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~West/France/President_of_France/Hollande,François.secret|Hollande,François.secret]] 
+

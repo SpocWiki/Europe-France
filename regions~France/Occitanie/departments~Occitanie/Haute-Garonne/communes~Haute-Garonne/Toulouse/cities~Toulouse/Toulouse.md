@@ -193,20 +193,27 @@ nighttime_view: http://commons.wikimedia.org/wiki/Special:FilePath/Toulouse%20by
 locator_map_image: http://commons.wikimedia.org/wiki/Special:FilePath/Toulouse%20map.png
 aerial_view: http://commons.wikimedia.org/wiki/Special:FilePath/Toulouse%20SPOT%201159.jpg
 contact_page_URL: https://metropole.toulouse.fr/nous-contacter
+dv_is_a_: "[[../../../../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 1.47
+dv_has_place_latitude: 43.62
+dv_name: Toulouse
+dv_is_:
+  same_as: "[[../../../../../../../../../../../../WikiData/WD~Toulouse,7880|WD~Toulouse,7880]]"
+dv_is_same_as: "[[../../../../../../../../../../../../WikiData/WD~Toulouse,7880|WD~Toulouse,7880]]"
 ---
 
 # [[Toulouse]] 
 
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::1.47] 
-[has_place_latitude::43.62] 
-[name::Toulouse] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
 Country :: [[France]]  
 [StateId::] 
 [Population::] 
-#is_/same_as :: [[../../../../../../../../../../../../WikiData/WD~Toulouse,7880|WD~Toulouse,7880]] 
+is_same_as = `=this.dv_is_same_as`
 
 ## #has_/map 
 
@@ -282,20 +289,19 @@ maxZoom: 18
 > [Wikipedia](https://en.wikipedia.org/wiki/Toulouse) 
 
 
-
 ## Confidential Links & Embeds: 
 
-### [Toulouse](/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Haute-Garonne/communes~Haute-Garonne/Toulouse/cities~Toulouse/Toulouse.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Haute-Garonne/communes~Haute-Garonne/Toulouse/cities~Toulouse/Toulouse|Toulouse]] 
 
-### [Toulouse.public](/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Haute-Garonne/communes~Haute-Garonne/Toulouse/cities~Toulouse/Toulouse.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Haute-Garonne/communes~Haute-Garonne/Toulouse/cities~Toulouse/Toulouse.public|Toulouse.public]] 
 
-### [Toulouse.internal](/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Haute-Garonne/communes~Haute-Garonne/Toulouse/cities~Toulouse/Toulouse.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Haute-Garonne/communes~Haute-Garonne/Toulouse/cities~Toulouse/Toulouse.internal|Toulouse.internal]] 
 
-### [Toulouse.protect](/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Haute-Garonne/communes~Haute-Garonne/Toulouse/cities~Toulouse/Toulouse.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Haute-Garonne/communes~Haute-Garonne/Toulouse/cities~Toulouse/Toulouse.protect|Toulouse.protect]] 
 
-### [Toulouse.private](/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Haute-Garonne/communes~Haute-Garonne/Toulouse/cities~Toulouse/Toulouse.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Haute-Garonne/communes~Haute-Garonne/Toulouse/cities~Toulouse/Toulouse.private|Toulouse.private]] 
 
-### [Toulouse.personal](/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Haute-Garonne/communes~Haute-Garonne/Toulouse/cities~Toulouse/Toulouse.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Haute-Garonne/communes~Haute-Garonne/Toulouse/cities~Toulouse/Toulouse.personal|Toulouse.personal]] 
 
-### [Toulouse.secret](/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Haute-Garonne/communes~Haute-Garonne/Toulouse/cities~Toulouse/Toulouse.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Haute-Garonne/communes~Haute-Garonne/Toulouse/cities~Toulouse/Toulouse.secret|Toulouse.secret]] 
 

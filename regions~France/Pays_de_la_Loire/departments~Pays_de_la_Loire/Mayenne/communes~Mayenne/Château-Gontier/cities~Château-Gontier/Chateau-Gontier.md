@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 29552
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: -0.7
+dv_has_place_latitude: 47.83
+dv_name: Chateau-Gontier
+dv_Country: "[[../../../../../../../../France]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::-0.7] 
-[has_place_latitude::47.83] 
-[name::Chateau-Gontier] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[France]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Chateau-Gontier](/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Pays_de_la_Loire/departments~Pays_de_la_Loire/Mayenne/communes~Mayenne/Château-Gontier/cities~Château-Gontier/Chateau-Gontier.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Pays_de_la_Loire/departments~Pays_de_la_Loire/Mayenne/communes~Mayenne/Château-Gontier/cities~Château-Gontier/Chateau-Gontier|Chateau-Gontier]] 
 
-### [Chateau-Gontier.public](/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Pays_de_la_Loire/departments~Pays_de_la_Loire/Mayenne/communes~Mayenne/Château-Gontier/cities~Château-Gontier/Chateau-Gontier.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Pays_de_la_Loire/departments~Pays_de_la_Loire/Mayenne/communes~Mayenne/Château-Gontier/cities~Château-Gontier/Chateau-Gontier.public|Chateau-Gontier.public]] 
 
-### [Chateau-Gontier.internal](/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Pays_de_la_Loire/departments~Pays_de_la_Loire/Mayenne/communes~Mayenne/Château-Gontier/cities~Château-Gontier/Chateau-Gontier.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Pays_de_la_Loire/departments~Pays_de_la_Loire/Mayenne/communes~Mayenne/Château-Gontier/cities~Château-Gontier/Chateau-Gontier.internal|Chateau-Gontier.internal]] 
 
-### [Chateau-Gontier.protect](/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Pays_de_la_Loire/departments~Pays_de_la_Loire/Mayenne/communes~Mayenne/Château-Gontier/cities~Château-Gontier/Chateau-Gontier.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Pays_de_la_Loire/departments~Pays_de_la_Loire/Mayenne/communes~Mayenne/Château-Gontier/cities~Château-Gontier/Chateau-Gontier.protect|Chateau-Gontier.protect]] 
 
-### [Chateau-Gontier.private](/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Pays_de_la_Loire/departments~Pays_de_la_Loire/Mayenne/communes~Mayenne/Château-Gontier/cities~Château-Gontier/Chateau-Gontier.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Pays_de_la_Loire/departments~Pays_de_la_Loire/Mayenne/communes~Mayenne/Château-Gontier/cities~Château-Gontier/Chateau-Gontier.private|Chateau-Gontier.private]] 
 
-### [Chateau-Gontier.personal](/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Pays_de_la_Loire/departments~Pays_de_la_Loire/Mayenne/communes~Mayenne/Château-Gontier/cities~Château-Gontier/Chateau-Gontier.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Pays_de_la_Loire/departments~Pays_de_la_Loire/Mayenne/communes~Mayenne/Château-Gontier/cities~Château-Gontier/Chateau-Gontier.personal|Chateau-Gontier.personal]] 
 
-### [Chateau-Gontier.secret](/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Pays_de_la_Loire/departments~Pays_de_la_Loire/Mayenne/communes~Mayenne/Château-Gontier/cities~Château-Gontier/Chateau-Gontier.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Pays_de_la_Loire/departments~Pays_de_la_Loire/Mayenne/communes~Mayenne/Château-Gontier/cities~Château-Gontier/Chateau-Gontier.secret|Chateau-Gontier.secret]] 
 

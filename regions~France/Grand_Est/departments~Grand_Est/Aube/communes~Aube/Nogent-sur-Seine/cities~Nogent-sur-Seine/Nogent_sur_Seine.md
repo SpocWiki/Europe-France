@@ -15,14 +15,19 @@ tags:
 SpocWebEntityId: 32935
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 3.5
+dv_has_place_latitude: 48.5
+dv_name: Nogent sur Seine
+dv_Country: "[[../../../../../../../../France]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::3.5] 
-[has_place_latitude::48.5] 
-[name::Nogent sur Seine] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[France]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -39,17 +44,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Nogent_sur_Seine](/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Grand_Est/departments~Grand_Est/Aube/communes~Aube/Nogent-sur-Seine/cities~Nogent-sur-Seine/Nogent_sur_Seine.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Grand_Est/departments~Grand_Est/Aube/communes~Aube/Nogent-sur-Seine/cities~Nogent-sur-Seine/Nogent_sur_Seine|Nogent_sur_Seine]] 
 
-### [Nogent_sur_Seine.public](/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Grand_Est/departments~Grand_Est/Aube/communes~Aube/Nogent-sur-Seine/cities~Nogent-sur-Seine/Nogent_sur_Seine.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Grand_Est/departments~Grand_Est/Aube/communes~Aube/Nogent-sur-Seine/cities~Nogent-sur-Seine/Nogent_sur_Seine.public|Nogent_sur_Seine.public]] 
 
-### [Nogent_sur_Seine.internal](/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Grand_Est/departments~Grand_Est/Aube/communes~Aube/Nogent-sur-Seine/cities~Nogent-sur-Seine/Nogent_sur_Seine.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Grand_Est/departments~Grand_Est/Aube/communes~Aube/Nogent-sur-Seine/cities~Nogent-sur-Seine/Nogent_sur_Seine.internal|Nogent_sur_Seine.internal]] 
 
-### [Nogent_sur_Seine.protect](/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Grand_Est/departments~Grand_Est/Aube/communes~Aube/Nogent-sur-Seine/cities~Nogent-sur-Seine/Nogent_sur_Seine.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Grand_Est/departments~Grand_Est/Aube/communes~Aube/Nogent-sur-Seine/cities~Nogent-sur-Seine/Nogent_sur_Seine.protect|Nogent_sur_Seine.protect]] 
 
-### [Nogent_sur_Seine.private](/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Grand_Est/departments~Grand_Est/Aube/communes~Aube/Nogent-sur-Seine/cities~Nogent-sur-Seine/Nogent_sur_Seine.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Grand_Est/departments~Grand_Est/Aube/communes~Aube/Nogent-sur-Seine/cities~Nogent-sur-Seine/Nogent_sur_Seine.private|Nogent_sur_Seine.private]] 
 
-### [Nogent_sur_Seine.personal](/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Grand_Est/departments~Grand_Est/Aube/communes~Aube/Nogent-sur-Seine/cities~Nogent-sur-Seine/Nogent_sur_Seine.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Grand_Est/departments~Grand_Est/Aube/communes~Aube/Nogent-sur-Seine/cities~Nogent-sur-Seine/Nogent_sur_Seine.personal|Nogent_sur_Seine.personal]] 
 
-### [Nogent_sur_Seine.secret](/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Grand_Est/departments~Grand_Est/Aube/communes~Aube/Nogent-sur-Seine/cities~Nogent-sur-Seine/Nogent_sur_Seine.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Grand_Est/departments~Grand_Est/Aube/communes~Aube/Nogent-sur-Seine/cities~Nogent-sur-Seine/Nogent_sur_Seine.secret|Nogent_sur_Seine.secret]] 
 

@@ -14,17 +14,22 @@ tags:
 SpocWebEntityId: 7608
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 4.82
+dv_has_place_latitude: 44.13
+dv_name: Orange
+dv_Country: "[[../../../../../../../../France]]"
 ---
 
 # [[Orange]]
 
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::4.82] 
-[has_place_latitude::44.13] 
-[name::Orange] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[France]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -41,17 +46,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Orange](/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Provence-Alpes-Côte_d'Azur/departments~Provence/Vaucluse/communes~Vaucluse/Avignon/cities~Avignon/Orange.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Provence-Alpes-Côte_d'Azur/departments~Provence/Vaucluse/communes~Vaucluse/Avignon/cities~Avignon/Orange|Orange]] 
 
-### [Orange.public](/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Provence-Alpes-Côte_d'Azur/departments~Provence/Vaucluse/communes~Vaucluse/Avignon/cities~Avignon/Orange.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Provence-Alpes-Côte_d'Azur/departments~Provence/Vaucluse/communes~Vaucluse/Avignon/cities~Avignon/Orange.public|Orange.public]] 
 
-### [Orange.internal](/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Provence-Alpes-Côte_d'Azur/departments~Provence/Vaucluse/communes~Vaucluse/Avignon/cities~Avignon/Orange.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Provence-Alpes-Côte_d'Azur/departments~Provence/Vaucluse/communes~Vaucluse/Avignon/cities~Avignon/Orange.internal|Orange.internal]] 
 
-### [Orange.protect](/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Provence-Alpes-Côte_d'Azur/departments~Provence/Vaucluse/communes~Vaucluse/Avignon/cities~Avignon/Orange.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Provence-Alpes-Côte_d'Azur/departments~Provence/Vaucluse/communes~Vaucluse/Avignon/cities~Avignon/Orange.protect|Orange.protect]] 
 
-### [Orange.private](/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Provence-Alpes-Côte_d'Azur/departments~Provence/Vaucluse/communes~Vaucluse/Avignon/cities~Avignon/Orange.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Provence-Alpes-Côte_d'Azur/departments~Provence/Vaucluse/communes~Vaucluse/Avignon/cities~Avignon/Orange.private|Orange.private]] 
 
-### [Orange.personal](/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Provence-Alpes-Côte_d'Azur/departments~Provence/Vaucluse/communes~Vaucluse/Avignon/cities~Avignon/Orange.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Provence-Alpes-Côte_d'Azur/departments~Provence/Vaucluse/communes~Vaucluse/Avignon/cities~Avignon/Orange.personal|Orange.personal]] 
 
-### [Orange.secret](/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Provence-Alpes-Côte_d'Azur/departments~Provence/Vaucluse/communes~Vaucluse/Avignon/cities~Avignon/Orange.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Provence-Alpes-Côte_d'Azur/departments~Provence/Vaucluse/communes~Vaucluse/Avignon/cities~Avignon/Orange.secret|Orange.secret]] 
 

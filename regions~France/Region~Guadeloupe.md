@@ -6,17 +6,17 @@
 
 ## Confidential Links & Embeds: 
 
-### [Region~Guadeloupe](/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Region~Guadeloupe.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Region~Guadeloupe|Region~Guadeloupe]] 
 
-### [Region~Guadeloupe.public](/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Region~Guadeloupe.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Region~Guadeloupe.public|Region~Guadeloupe.public]] 
 
-### [Region~Guadeloupe.internal](/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Region~Guadeloupe.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Region~Guadeloupe.internal|Region~Guadeloupe.internal]] 
 
-### [Region~Guadeloupe.protect](/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Region~Guadeloupe.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Region~Guadeloupe.protect|Region~Guadeloupe.protect]] 
 
-### [Region~Guadeloupe.private](/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Region~Guadeloupe.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Region~Guadeloupe.private|Region~Guadeloupe.private]] 
 
-### [Region~Guadeloupe.personal](/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Region~Guadeloupe.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Region~Guadeloupe.personal|Region~Guadeloupe.personal]] 
 
-### [Region~Guadeloupe.secret](/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Region~Guadeloupe.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Region~Guadeloupe.secret|Region~Guadeloupe.secret]] 
 

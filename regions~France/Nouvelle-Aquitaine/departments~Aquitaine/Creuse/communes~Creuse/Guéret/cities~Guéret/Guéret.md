@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 30652
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 1.87
+dv_has_place_latitude: 46.17
+dv_name: Guéret
+dv_Country: "[[../../../../../../../../France]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::1.87] 
-[has_place_latitude::46.17] 
-[name::Guéret] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[France]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Guéret](/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Nouvelle-Aquitaine/departments~Aquitaine/Creuse/communes~Creuse/Guéret/cities~Guéret/Guéret.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Nouvelle-Aquitaine/departments~Aquitaine/Creuse/communes~Creuse/Guéret/cities~Guéret/Guéret|Guéret]] 
 
-### [Guéret.public](/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Nouvelle-Aquitaine/departments~Aquitaine/Creuse/communes~Creuse/Guéret/cities~Guéret/Guéret.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Nouvelle-Aquitaine/departments~Aquitaine/Creuse/communes~Creuse/Guéret/cities~Guéret/Guéret.public|Guéret.public]] 
 
-### [Guéret.internal](/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Nouvelle-Aquitaine/departments~Aquitaine/Creuse/communes~Creuse/Guéret/cities~Guéret/Guéret.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Nouvelle-Aquitaine/departments~Aquitaine/Creuse/communes~Creuse/Guéret/cities~Guéret/Guéret.internal|Guéret.internal]] 
 
-### [Guéret.protect](/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Nouvelle-Aquitaine/departments~Aquitaine/Creuse/communes~Creuse/Guéret/cities~Guéret/Guéret.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Nouvelle-Aquitaine/departments~Aquitaine/Creuse/communes~Creuse/Guéret/cities~Guéret/Guéret.protect|Guéret.protect]] 
 
-### [Guéret.private](/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Nouvelle-Aquitaine/departments~Aquitaine/Creuse/communes~Creuse/Guéret/cities~Guéret/Guéret.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Nouvelle-Aquitaine/departments~Aquitaine/Creuse/communes~Creuse/Guéret/cities~Guéret/Guéret.private|Guéret.private]] 
 
-### [Guéret.personal](/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Nouvelle-Aquitaine/departments~Aquitaine/Creuse/communes~Creuse/Guéret/cities~Guéret/Guéret.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Nouvelle-Aquitaine/departments~Aquitaine/Creuse/communes~Creuse/Guéret/cities~Guéret/Guéret.personal|Guéret.personal]] 
 
-### [Guéret.secret](/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Nouvelle-Aquitaine/departments~Aquitaine/Creuse/communes~Creuse/Guéret/cities~Guéret/Guéret.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Nouvelle-Aquitaine/departments~Aquitaine/Creuse/communes~Creuse/Guéret/cities~Guéret/Guéret.secret|Guéret.secret]] 
 

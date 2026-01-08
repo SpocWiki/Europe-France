@@ -14,17 +14,17 @@ defaultZoom: 11
 
 ## Confidential Links & Embeds: 
 
-### [lakes~France](/_Standards/Earth/Continent/Europe/Europe~West/France/lakes~France.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~West/France/lakes~France|lakes~France]] 
 
-### [lakes~France.public](/_public/Earth/Continent/Europe/Europe~West/France/lakes~France.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~West/France/lakes~France.public|lakes~France.public]] 
 
-### [lakes~France.internal](/_internal/Earth/Continent/Europe/Europe~West/France/lakes~France.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~West/France/lakes~France.internal|lakes~France.internal]] 
 
-### [lakes~France.protect](/_protect/Earth/Continent/Europe/Europe~West/France/lakes~France.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~West/France/lakes~France.protect|lakes~France.protect]] 
 
-### [lakes~France.private](/_private/Earth/Continent/Europe/Europe~West/France/lakes~France.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~West/France/lakes~France.private|lakes~France.private]] 
 
-### [lakes~France.personal](/_personal/Earth/Continent/Europe/Europe~West/France/lakes~France.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~West/France/lakes~France.personal|lakes~France.personal]] 
 
-### [lakes~France.secret](/_secret/Earth/Continent/Europe/Europe~West/France/lakes~France.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~West/France/lakes~France.secret|lakes~France.secret]] 
 

@@ -15,14 +15,19 @@ tags:
 SpocWebEntityId: 29014
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 5.17
+dv_has_place_latitude: 48.77
+dv_name: Bar le Duc
+dv_Country: "[[../../../../../../../../France]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::5.17] 
-[has_place_latitude::48.77] 
-[name::Bar le Duc] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[France]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -39,17 +44,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Bar_le_Duc](/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Grand_Est/departments~Grand_Est/Meuse/communes~Meuse/Bar-le-Duc/cities~Bar-le-Duc/Bar_le_Duc.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Grand_Est/departments~Grand_Est/Meuse/communes~Meuse/Bar-le-Duc/cities~Bar-le-Duc/Bar_le_Duc|Bar_le_Duc]] 
 
-### [Bar_le_Duc.public](/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Grand_Est/departments~Grand_Est/Meuse/communes~Meuse/Bar-le-Duc/cities~Bar-le-Duc/Bar_le_Duc.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Grand_Est/departments~Grand_Est/Meuse/communes~Meuse/Bar-le-Duc/cities~Bar-le-Duc/Bar_le_Duc.public|Bar_le_Duc.public]] 
 
-### [Bar_le_Duc.internal](/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Grand_Est/departments~Grand_Est/Meuse/communes~Meuse/Bar-le-Duc/cities~Bar-le-Duc/Bar_le_Duc.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Grand_Est/departments~Grand_Est/Meuse/communes~Meuse/Bar-le-Duc/cities~Bar-le-Duc/Bar_le_Duc.internal|Bar_le_Duc.internal]] 
 
-### [Bar_le_Duc.protect](/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Grand_Est/departments~Grand_Est/Meuse/communes~Meuse/Bar-le-Duc/cities~Bar-le-Duc/Bar_le_Duc.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Grand_Est/departments~Grand_Est/Meuse/communes~Meuse/Bar-le-Duc/cities~Bar-le-Duc/Bar_le_Duc.protect|Bar_le_Duc.protect]] 
 
-### [Bar_le_Duc.private](/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Grand_Est/departments~Grand_Est/Meuse/communes~Meuse/Bar-le-Duc/cities~Bar-le-Duc/Bar_le_Duc.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Grand_Est/departments~Grand_Est/Meuse/communes~Meuse/Bar-le-Duc/cities~Bar-le-Duc/Bar_le_Duc.private|Bar_le_Duc.private]] 
 
-### [Bar_le_Duc.personal](/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Grand_Est/departments~Grand_Est/Meuse/communes~Meuse/Bar-le-Duc/cities~Bar-le-Duc/Bar_le_Duc.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Grand_Est/departments~Grand_Est/Meuse/communes~Meuse/Bar-le-Duc/cities~Bar-le-Duc/Bar_le_Duc.personal|Bar_le_Duc.personal]] 
 
-### [Bar_le_Duc.secret](/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Grand_Est/departments~Grand_Est/Meuse/communes~Meuse/Bar-le-Duc/cities~Bar-le-Duc/Bar_le_Duc.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Grand_Est/departments~Grand_Est/Meuse/communes~Meuse/Bar-le-Duc/cities~Bar-le-Duc/Bar_le_Duc.secret|Bar_le_Duc.secret]] 
 

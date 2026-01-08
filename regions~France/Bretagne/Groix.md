@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 30588
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../Geography/Place]]"
+dv_has_place_longitude: -3.52
+dv_has_place_latitude: 47.65
+dv_name: Groix
+dv_Country: "[[../../../France]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::-3.52] 
-[has_place_latitude::47.65] 
-[name::Groix] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[France]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Groix](/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Bretagne/Groix.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Bretagne/Groix|Groix]] 
 
-### [Groix.public](/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Bretagne/Groix.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Bretagne/Groix.public|Groix.public]] 
 
-### [Groix.internal](/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Bretagne/Groix.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Bretagne/Groix.internal|Groix.internal]] 
 
-### [Groix.protect](/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Bretagne/Groix.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Bretagne/Groix.protect|Groix.protect]] 
 
-### [Groix.private](/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Bretagne/Groix.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Bretagne/Groix.private|Groix.private]] 
 
-### [Groix.personal](/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Bretagne/Groix.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Bretagne/Groix.personal|Groix.personal]] 
 
-### [Groix.secret](/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Bretagne/Groix.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Bretagne/Groix.secret|Groix.secret]] 
 

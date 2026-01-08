@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 29167
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 3.19
+dv_has_place_latitude: 43.34
+dv_name: Beziers
+dv_Country: "[[../../../../../../../../France]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::3.19] 
-[has_place_latitude::43.34] 
-[name::Beziers] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[France]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Beziers](/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Hérault/communes~Hérault/Béziers/cities~Béziers/Beziers.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Hérault/communes~Hérault/Béziers/cities~Béziers/Beziers|Beziers]] 
 
-### [Beziers.public](/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Hérault/communes~Hérault/Béziers/cities~Béziers/Beziers.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Hérault/communes~Hérault/Béziers/cities~Béziers/Beziers.public|Beziers.public]] 
 
-### [Beziers.internal](/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Hérault/communes~Hérault/Béziers/cities~Béziers/Beziers.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Hérault/communes~Hérault/Béziers/cities~Béziers/Beziers.internal|Beziers.internal]] 
 
-### [Beziers.protect](/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Hérault/communes~Hérault/Béziers/cities~Béziers/Beziers.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Hérault/communes~Hérault/Béziers/cities~Béziers/Beziers.protect|Beziers.protect]] 
 
-### [Beziers.private](/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Hérault/communes~Hérault/Béziers/cities~Béziers/Beziers.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Hérault/communes~Hérault/Béziers/cities~Béziers/Beziers.private|Beziers.private]] 
 
-### [Beziers.personal](/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Hérault/communes~Hérault/Béziers/cities~Béziers/Beziers.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Hérault/communes~Hérault/Béziers/cities~Béziers/Beziers.personal|Beziers.personal]] 
 
-### [Beziers.secret](/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Hérault/communes~Hérault/Béziers/cities~Béziers/Beziers.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Hérault/communes~Hérault/Béziers/cities~Béziers/Beziers.secret|Beziers.secret]] 
 

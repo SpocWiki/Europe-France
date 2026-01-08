@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 34716
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 0.17
+dv_has_place_latitude: 48.6
+dv_name: Sées
+dv_Country: "[[../../../../../../../../France]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::0.17] 
-[has_place_latitude::48.6] 
-[name::Sées] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[France]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Sées](/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Normandie/departments~Normandie/Orne/communes~Orne/Alençon/cities~Alençon/Sées.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Normandie/departments~Normandie/Orne/communes~Orne/Alençon/cities~Alençon/Sées|Sées]] 
 
-### [Sées.public](/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Normandie/departments~Normandie/Orne/communes~Orne/Alençon/cities~Alençon/Sées.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Normandie/departments~Normandie/Orne/communes~Orne/Alençon/cities~Alençon/Sées.public|Sées.public]] 
 
-### [Sées.internal](/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Normandie/departments~Normandie/Orne/communes~Orne/Alençon/cities~Alençon/Sées.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Normandie/departments~Normandie/Orne/communes~Orne/Alençon/cities~Alençon/Sées.internal|Sées.internal]] 
 
-### [Sées.protect](/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Normandie/departments~Normandie/Orne/communes~Orne/Alençon/cities~Alençon/Sées.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Normandie/departments~Normandie/Orne/communes~Orne/Alençon/cities~Alençon/Sées.protect|Sées.protect]] 
 
-### [Sées.private](/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Normandie/departments~Normandie/Orne/communes~Orne/Alençon/cities~Alençon/Sées.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Normandie/departments~Normandie/Orne/communes~Orne/Alençon/cities~Alençon/Sées.private|Sées.private]] 
 
-### [Sées.personal](/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Normandie/departments~Normandie/Orne/communes~Orne/Alençon/cities~Alençon/Sées.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Normandie/departments~Normandie/Orne/communes~Orne/Alençon/cities~Alençon/Sées.personal|Sées.personal]] 
 
-### [Sées.secret](/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Normandie/departments~Normandie/Orne/communes~Orne/Alençon/cities~Alençon/Sées.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Normandie/departments~Normandie/Orne/communes~Orne/Alençon/cities~Alençon/Sées.secret|Sées.secret]] 
 

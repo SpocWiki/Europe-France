@@ -14,17 +14,22 @@ tags:
 SpocWebEntityId: 32107
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: -0.03
+dv_has_place_latitude: 43.11
+dv_name: Lourdes
+dv_Country: "[[../../../../../../../../France]]"
 ---
 
 # [[Lourdes]] 
 
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::-0.03] 
-[has_place_latitude::43.11] 
-[name::Lourdes] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[France]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -54,19 +59,20 @@ maxZoom: 18
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Lourdes)
 
+
 ## Confidential Links & Embeds: 
 
-### [Lourdes](/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Hautes-Pyrénées/communes~Hautes-Pyrénées/Argelès-Gazost/cities~Argelès-Gazost/Lourdes.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Hautes-Pyrénées/communes~Hautes-Pyrénées/Argelès-Gazost/cities~Argelès-Gazost/Lourdes|Lourdes]] 
 
-### [Lourdes.public](/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Hautes-Pyrénées/communes~Hautes-Pyrénées/Argelès-Gazost/cities~Argelès-Gazost/Lourdes.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Hautes-Pyrénées/communes~Hautes-Pyrénées/Argelès-Gazost/cities~Argelès-Gazost/Lourdes.public|Lourdes.public]] 
 
-### [Lourdes.internal](/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Hautes-Pyrénées/communes~Hautes-Pyrénées/Argelès-Gazost/cities~Argelès-Gazost/Lourdes.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Hautes-Pyrénées/communes~Hautes-Pyrénées/Argelès-Gazost/cities~Argelès-Gazost/Lourdes.internal|Lourdes.internal]] 
 
-### [Lourdes.protect](/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Hautes-Pyrénées/communes~Hautes-Pyrénées/Argelès-Gazost/cities~Argelès-Gazost/Lourdes.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Hautes-Pyrénées/communes~Hautes-Pyrénées/Argelès-Gazost/cities~Argelès-Gazost/Lourdes.protect|Lourdes.protect]] 
 
-### [Lourdes.private](/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Hautes-Pyrénées/communes~Hautes-Pyrénées/Argelès-Gazost/cities~Argelès-Gazost/Lourdes.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Hautes-Pyrénées/communes~Hautes-Pyrénées/Argelès-Gazost/cities~Argelès-Gazost/Lourdes.private|Lourdes.private]] 
 
-### [Lourdes.personal](/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Hautes-Pyrénées/communes~Hautes-Pyrénées/Argelès-Gazost/cities~Argelès-Gazost/Lourdes.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Hautes-Pyrénées/communes~Hautes-Pyrénées/Argelès-Gazost/cities~Argelès-Gazost/Lourdes.personal|Lourdes.personal]] 
 
-### [Lourdes.secret](/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Hautes-Pyrénées/communes~Hautes-Pyrénées/Argelès-Gazost/cities~Argelès-Gazost/Lourdes.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Hautes-Pyrénées/communes~Hautes-Pyrénées/Argelès-Gazost/cities~Argelès-Gazost/Lourdes.secret|Lourdes.secret]] 
 

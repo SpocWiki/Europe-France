@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 29665
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: -1.45
+dv_has_place_latitude: 49.05
+dv_name: Coutances
+dv_Country: "[[../../../../../../../../France]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::-1.45] 
-[has_place_latitude::49.05] 
-[name::Coutances] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[France]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Coutances](/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Normandie/departments~Normandie/Manche/communes~Manche/Coutances/cities~Coutances/Coutances.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Normandie/departments~Normandie/Manche/communes~Manche/Coutances/cities~Coutances/Coutances|Coutances]] 
 
-### [Coutances.public](/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Normandie/departments~Normandie/Manche/communes~Manche/Coutances/cities~Coutances/Coutances.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Normandie/departments~Normandie/Manche/communes~Manche/Coutances/cities~Coutances/Coutances.public|Coutances.public]] 
 
-### [Coutances.internal](/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Normandie/departments~Normandie/Manche/communes~Manche/Coutances/cities~Coutances/Coutances.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Normandie/departments~Normandie/Manche/communes~Manche/Coutances/cities~Coutances/Coutances.internal|Coutances.internal]] 
 
-### [Coutances.protect](/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Normandie/departments~Normandie/Manche/communes~Manche/Coutances/cities~Coutances/Coutances.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Normandie/departments~Normandie/Manche/communes~Manche/Coutances/cities~Coutances/Coutances.protect|Coutances.protect]] 
 
-### [Coutances.private](/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Normandie/departments~Normandie/Manche/communes~Manche/Coutances/cities~Coutances/Coutances.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Normandie/departments~Normandie/Manche/communes~Manche/Coutances/cities~Coutances/Coutances.private|Coutances.private]] 
 
-### [Coutances.personal](/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Normandie/departments~Normandie/Manche/communes~Manche/Coutances/cities~Coutances/Coutances.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Normandie/departments~Normandie/Manche/communes~Manche/Coutances/cities~Coutances/Coutances.personal|Coutances.personal]] 
 
-### [Coutances.secret](/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Normandie/departments~Normandie/Manche/communes~Manche/Coutances/cities~Coutances/Coutances.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Normandie/departments~Normandie/Manche/communes~Manche/Coutances/cities~Coutances/Coutances.secret|Coutances.secret]] 
 

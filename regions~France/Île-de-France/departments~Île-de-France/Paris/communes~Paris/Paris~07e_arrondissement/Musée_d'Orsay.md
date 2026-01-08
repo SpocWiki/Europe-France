@@ -1,4 +1,8 @@
-﻿---
+---
+dv_is_:
+  same_as: "[[../../../../../../../../../../../WikiData/WD~Musée_d'Orsay,23402]]"
+dv_is_same_as: "[[../../../../../../../../../../../WikiData/WD~Musée_d'Orsay,23402]]"
+
 has_time_started: 1986-01-01 
 aliases:
   - Musée d'Orsay
@@ -98,7 +102,7 @@ ISNI:
 
 # [[Musée_d'Orsay]] 
 
-#is_/same_as :: [[WD~Musée_d'Orsay,23402]] 
+is_same_as = `=this.dv_is_same_as`
 
 ## #has_/text_of_/abstract 
 
@@ -123,4 +127,21 @@ ISNI:
 > and second-most-visited art museum in France, after the Louvre.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Mus%C3%A9e%20d'Orsay) 
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Île-de-France/departments~Île-de-France/Paris/communes~Paris/Paris~07e_arrondissement/Musée_d'Orsay|Musée_d'Orsay]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Île-de-France/departments~Île-de-France/Paris/communes~Paris/Paris~07e_arrondissement/Musée_d'Orsay.public|Musée_d'Orsay.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Île-de-France/departments~Île-de-France/Paris/communes~Paris/Paris~07e_arrondissement/Musée_d'Orsay.internal|Musée_d'Orsay.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Île-de-France/departments~Île-de-France/Paris/communes~Paris/Paris~07e_arrondissement/Musée_d'Orsay.protect|Musée_d'Orsay.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Île-de-France/departments~Île-de-France/Paris/communes~Paris/Paris~07e_arrondissement/Musée_d'Orsay.private|Musée_d'Orsay.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Île-de-France/departments~Île-de-France/Paris/communes~Paris/Paris~07e_arrondissement/Musée_d'Orsay.personal|Musée_d'Orsay.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Île-de-France/departments~Île-de-France/Paris/communes~Paris/Paris~07e_arrondissement/Musée_d'Orsay.secret|Musée_d'Orsay.secret]] 
 

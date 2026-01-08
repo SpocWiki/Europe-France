@@ -15,14 +15,19 @@ tags:
 SpocWebEntityId: 29296
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 1.62
+dv_has_place_latitude: 50.72
+dv_name: Boulogne sur mer
+dv_Country: "[[../../../../../../../../France]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::1.62] 
-[has_place_latitude::50.72] 
-[name::Boulogne sur mer] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[France]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -39,17 +44,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Boulogne_sur_mer](/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Hauts-de-France/departments~Hauts-de-France/Pas-de-Calais/communes~Pas-de-Calais/Boulogne-sur-Mer/cities~Boulogne-sur-Mer/Boulogne_sur_mer.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Hauts-de-France/departments~Hauts-de-France/Pas-de-Calais/communes~Pas-de-Calais/Boulogne-sur-Mer/cities~Boulogne-sur-Mer/Boulogne_sur_mer|Boulogne_sur_mer]] 
 
-### [Boulogne_sur_mer.public](/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Hauts-de-France/departments~Hauts-de-France/Pas-de-Calais/communes~Pas-de-Calais/Boulogne-sur-Mer/cities~Boulogne-sur-Mer/Boulogne_sur_mer.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Hauts-de-France/departments~Hauts-de-France/Pas-de-Calais/communes~Pas-de-Calais/Boulogne-sur-Mer/cities~Boulogne-sur-Mer/Boulogne_sur_mer.public|Boulogne_sur_mer.public]] 
 
-### [Boulogne_sur_mer.internal](/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Hauts-de-France/departments~Hauts-de-France/Pas-de-Calais/communes~Pas-de-Calais/Boulogne-sur-Mer/cities~Boulogne-sur-Mer/Boulogne_sur_mer.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Hauts-de-France/departments~Hauts-de-France/Pas-de-Calais/communes~Pas-de-Calais/Boulogne-sur-Mer/cities~Boulogne-sur-Mer/Boulogne_sur_mer.internal|Boulogne_sur_mer.internal]] 
 
-### [Boulogne_sur_mer.protect](/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Hauts-de-France/departments~Hauts-de-France/Pas-de-Calais/communes~Pas-de-Calais/Boulogne-sur-Mer/cities~Boulogne-sur-Mer/Boulogne_sur_mer.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Hauts-de-France/departments~Hauts-de-France/Pas-de-Calais/communes~Pas-de-Calais/Boulogne-sur-Mer/cities~Boulogne-sur-Mer/Boulogne_sur_mer.protect|Boulogne_sur_mer.protect]] 
 
-### [Boulogne_sur_mer.private](/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Hauts-de-France/departments~Hauts-de-France/Pas-de-Calais/communes~Pas-de-Calais/Boulogne-sur-Mer/cities~Boulogne-sur-Mer/Boulogne_sur_mer.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Hauts-de-France/departments~Hauts-de-France/Pas-de-Calais/communes~Pas-de-Calais/Boulogne-sur-Mer/cities~Boulogne-sur-Mer/Boulogne_sur_mer.private|Boulogne_sur_mer.private]] 
 
-### [Boulogne_sur_mer.personal](/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Hauts-de-France/departments~Hauts-de-France/Pas-de-Calais/communes~Pas-de-Calais/Boulogne-sur-Mer/cities~Boulogne-sur-Mer/Boulogne_sur_mer.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Hauts-de-France/departments~Hauts-de-France/Pas-de-Calais/communes~Pas-de-Calais/Boulogne-sur-Mer/cities~Boulogne-sur-Mer/Boulogne_sur_mer.personal|Boulogne_sur_mer.personal]] 
 
-### [Boulogne_sur_mer.secret](/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Hauts-de-France/departments~Hauts-de-France/Pas-de-Calais/communes~Pas-de-Calais/Boulogne-sur-Mer/cities~Boulogne-sur-Mer/Boulogne_sur_mer.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Hauts-de-France/departments~Hauts-de-France/Pas-de-Calais/communes~Pas-de-Calais/Boulogne-sur-Mer/cities~Boulogne-sur-Mer/Boulogne_sur_mer.secret|Boulogne_sur_mer.secret]] 
 

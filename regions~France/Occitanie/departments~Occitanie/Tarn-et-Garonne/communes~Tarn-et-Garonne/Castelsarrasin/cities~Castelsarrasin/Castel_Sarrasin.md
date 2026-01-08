@@ -15,14 +15,19 @@ tags:
 SpocWebEntityId: 29504
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 1.08
+dv_has_place_latitude: 44.05
+dv_name: Castel Sarrasin
+dv_Country: "[[../../../../../../../../France]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::1.08] 
-[has_place_latitude::44.05] 
-[name::Castel Sarrasin] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[France]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -39,17 +44,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Castel_Sarrasin](/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Tarn-et-Garonne/communes~Tarn-et-Garonne/Castelsarrasin/cities~Castelsarrasin/Castel_Sarrasin.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Tarn-et-Garonne/communes~Tarn-et-Garonne/Castelsarrasin/cities~Castelsarrasin/Castel_Sarrasin|Castel_Sarrasin]] 
 
-### [Castel_Sarrasin.public](/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Tarn-et-Garonne/communes~Tarn-et-Garonne/Castelsarrasin/cities~Castelsarrasin/Castel_Sarrasin.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Tarn-et-Garonne/communes~Tarn-et-Garonne/Castelsarrasin/cities~Castelsarrasin/Castel_Sarrasin.public|Castel_Sarrasin.public]] 
 
-### [Castel_Sarrasin.internal](/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Tarn-et-Garonne/communes~Tarn-et-Garonne/Castelsarrasin/cities~Castelsarrasin/Castel_Sarrasin.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Tarn-et-Garonne/communes~Tarn-et-Garonne/Castelsarrasin/cities~Castelsarrasin/Castel_Sarrasin.internal|Castel_Sarrasin.internal]] 
 
-### [Castel_Sarrasin.protect](/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Tarn-et-Garonne/communes~Tarn-et-Garonne/Castelsarrasin/cities~Castelsarrasin/Castel_Sarrasin.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Tarn-et-Garonne/communes~Tarn-et-Garonne/Castelsarrasin/cities~Castelsarrasin/Castel_Sarrasin.protect|Castel_Sarrasin.protect]] 
 
-### [Castel_Sarrasin.private](/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Tarn-et-Garonne/communes~Tarn-et-Garonne/Castelsarrasin/cities~Castelsarrasin/Castel_Sarrasin.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Tarn-et-Garonne/communes~Tarn-et-Garonne/Castelsarrasin/cities~Castelsarrasin/Castel_Sarrasin.private|Castel_Sarrasin.private]] 
 
-### [Castel_Sarrasin.personal](/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Tarn-et-Garonne/communes~Tarn-et-Garonne/Castelsarrasin/cities~Castelsarrasin/Castel_Sarrasin.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Tarn-et-Garonne/communes~Tarn-et-Garonne/Castelsarrasin/cities~Castelsarrasin/Castel_Sarrasin.personal|Castel_Sarrasin.personal]] 
 
-### [Castel_Sarrasin.secret](/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Tarn-et-Garonne/communes~Tarn-et-Garonne/Castelsarrasin/cities~Castelsarrasin/Castel_Sarrasin.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Tarn-et-Garonne/communes~Tarn-et-Garonne/Castelsarrasin/cities~Castelsarrasin/Castel_Sarrasin.secret|Castel_Sarrasin.secret]] 
 

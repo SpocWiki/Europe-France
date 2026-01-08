@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 35330
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 4.58
+dv_has_place_latitude: 48.73
+dv_name: Vitry-le-Franc
+dv_Country: "[[../../../../../../../../France]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::4.58] 
-[has_place_latitude::48.73] 
-[name::Vitry-le-Franc] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[France]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Vitry-le-Franc](/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Grand_Est/departments~Grand_Est/Marne/communes~Marne/Vitry-le-François/cities~Vitry-le-François/Vitry-le-Franc.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Grand_Est/departments~Grand_Est/Marne/communes~Marne/Vitry-le-François/cities~Vitry-le-François/Vitry-le-Franc|Vitry-le-Franc]] 
 
-### [Vitry-le-Franc.public](/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Grand_Est/departments~Grand_Est/Marne/communes~Marne/Vitry-le-François/cities~Vitry-le-François/Vitry-le-Franc.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Grand_Est/departments~Grand_Est/Marne/communes~Marne/Vitry-le-François/cities~Vitry-le-François/Vitry-le-Franc.public|Vitry-le-Franc.public]] 
 
-### [Vitry-le-Franc.internal](/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Grand_Est/departments~Grand_Est/Marne/communes~Marne/Vitry-le-François/cities~Vitry-le-François/Vitry-le-Franc.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Grand_Est/departments~Grand_Est/Marne/communes~Marne/Vitry-le-François/cities~Vitry-le-François/Vitry-le-Franc.internal|Vitry-le-Franc.internal]] 
 
-### [Vitry-le-Franc.protect](/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Grand_Est/departments~Grand_Est/Marne/communes~Marne/Vitry-le-François/cities~Vitry-le-François/Vitry-le-Franc.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Grand_Est/departments~Grand_Est/Marne/communes~Marne/Vitry-le-François/cities~Vitry-le-François/Vitry-le-Franc.protect|Vitry-le-Franc.protect]] 
 
-### [Vitry-le-Franc.private](/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Grand_Est/departments~Grand_Est/Marne/communes~Marne/Vitry-le-François/cities~Vitry-le-François/Vitry-le-Franc.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Grand_Est/departments~Grand_Est/Marne/communes~Marne/Vitry-le-François/cities~Vitry-le-François/Vitry-le-Franc.private|Vitry-le-Franc.private]] 
 
-### [Vitry-le-Franc.personal](/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Grand_Est/departments~Grand_Est/Marne/communes~Marne/Vitry-le-François/cities~Vitry-le-François/Vitry-le-Franc.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Grand_Est/departments~Grand_Est/Marne/communes~Marne/Vitry-le-François/cities~Vitry-le-François/Vitry-le-Franc.personal|Vitry-le-Franc.personal]] 
 
-### [Vitry-le-Franc.secret](/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Grand_Est/departments~Grand_Est/Marne/communes~Marne/Vitry-le-François/cities~Vitry-le-François/Vitry-le-Franc.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Grand_Est/departments~Grand_Est/Marne/communes~Marne/Vitry-le-François/cities~Vitry-le-François/Vitry-le-Franc.secret|Vitry-le-Franc.secret]] 
 

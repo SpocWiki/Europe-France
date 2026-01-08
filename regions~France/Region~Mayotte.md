@@ -5,17 +5,17 @@
 
 ## Confidential Links & Embeds: 
 
-### [Region~Mayotte](/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Region~Mayotte.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Region~Mayotte|Region~Mayotte]] 
 
-### [Region~Mayotte.public](/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Region~Mayotte.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Region~Mayotte.public|Region~Mayotte.public]] 
 
-### [Region~Mayotte.internal](/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Region~Mayotte.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Region~Mayotte.internal|Region~Mayotte.internal]] 
 
-### [Region~Mayotte.protect](/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Region~Mayotte.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Region~Mayotte.protect|Region~Mayotte.protect]] 
 
-### [Region~Mayotte.private](/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Region~Mayotte.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Region~Mayotte.private|Region~Mayotte.private]] 
 
-### [Region~Mayotte.personal](/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Region~Mayotte.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Region~Mayotte.personal|Region~Mayotte.personal]] 
 
-### [Region~Mayotte.secret](/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Region~Mayotte.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Region~Mayotte.secret|Region~Mayotte.secret]] 
 

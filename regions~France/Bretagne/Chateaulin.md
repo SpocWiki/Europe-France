@@ -14,14 +14,19 @@ confidential: public
 location:
   - 48.1967
   - -4.09
+dv_is_a_: "[[../../../../../../Geography/Place]]"
+dv_has_place_longitude: -4.09
+dv_has_place_latitude: 48.1967
+dv_name: Chateaulin
+dv_Country: "[[../../../France]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::-4.09] 
-[has_place_latitude:: 48.1967] 
-[name::Chateaulin] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[France]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Chateaulin](/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Bretagne/Chateaulin.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Bretagne/Chateaulin|Chateaulin]] 
 
-### [Chateaulin.public](/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Bretagne/Chateaulin.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Bretagne/Chateaulin.public|Chateaulin.public]] 
 
-### [Chateaulin.internal](/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Bretagne/Chateaulin.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Bretagne/Chateaulin.internal|Chateaulin.internal]] 
 
-### [Chateaulin.protect](/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Bretagne/Chateaulin.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Bretagne/Chateaulin.protect|Chateaulin.protect]] 
 
-### [Chateaulin.private](/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Bretagne/Chateaulin.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Bretagne/Chateaulin.private|Chateaulin.private]] 
 
-### [Chateaulin.personal](/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Bretagne/Chateaulin.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Bretagne/Chateaulin.personal|Chateaulin.personal]] 
 
-### [Chateaulin.secret](/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Bretagne/Chateaulin.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Bretagne/Chateaulin.secret|Chateaulin.secret]] 
 

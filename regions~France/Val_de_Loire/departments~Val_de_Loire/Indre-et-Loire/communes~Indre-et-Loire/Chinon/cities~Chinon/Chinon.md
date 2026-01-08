@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 29589
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 0.23
+dv_has_place_latitude: 47.17
+dv_name: Chinon
+dv_Country: "[[../../../../../../../../France]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::0.23] 
-[has_place_latitude::47.17] 
-[name::Chinon] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[France]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Chinon](/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Val_de_Loire/departments~Val_de_Loire/Indre-et-Loire/communes~Indre-et-Loire/Chinon/cities~Chinon/Chinon.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Val_de_Loire/departments~Val_de_Loire/Indre-et-Loire/communes~Indre-et-Loire/Chinon/cities~Chinon/Chinon|Chinon]] 
 
-### [Chinon.public](/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Val_de_Loire/departments~Val_de_Loire/Indre-et-Loire/communes~Indre-et-Loire/Chinon/cities~Chinon/Chinon.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Val_de_Loire/departments~Val_de_Loire/Indre-et-Loire/communes~Indre-et-Loire/Chinon/cities~Chinon/Chinon.public|Chinon.public]] 
 
-### [Chinon.internal](/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Val_de_Loire/departments~Val_de_Loire/Indre-et-Loire/communes~Indre-et-Loire/Chinon/cities~Chinon/Chinon.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Val_de_Loire/departments~Val_de_Loire/Indre-et-Loire/communes~Indre-et-Loire/Chinon/cities~Chinon/Chinon.internal|Chinon.internal]] 
 
-### [Chinon.protect](/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Val_de_Loire/departments~Val_de_Loire/Indre-et-Loire/communes~Indre-et-Loire/Chinon/cities~Chinon/Chinon.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Val_de_Loire/departments~Val_de_Loire/Indre-et-Loire/communes~Indre-et-Loire/Chinon/cities~Chinon/Chinon.protect|Chinon.protect]] 
 
-### [Chinon.private](/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Val_de_Loire/departments~Val_de_Loire/Indre-et-Loire/communes~Indre-et-Loire/Chinon/cities~Chinon/Chinon.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Val_de_Loire/departments~Val_de_Loire/Indre-et-Loire/communes~Indre-et-Loire/Chinon/cities~Chinon/Chinon.private|Chinon.private]] 
 
-### [Chinon.personal](/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Val_de_Loire/departments~Val_de_Loire/Indre-et-Loire/communes~Indre-et-Loire/Chinon/cities~Chinon/Chinon.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Val_de_Loire/departments~Val_de_Loire/Indre-et-Loire/communes~Indre-et-Loire/Chinon/cities~Chinon/Chinon.personal|Chinon.personal]] 
 
-### [Chinon.secret](/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Val_de_Loire/departments~Val_de_Loire/Indre-et-Loire/communes~Indre-et-Loire/Chinon/cities~Chinon/Chinon.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Val_de_Loire/departments~Val_de_Loire/Indre-et-Loire/communes~Indre-et-Loire/Chinon/cities~Chinon/Chinon.secret|Chinon.secret]] 
 

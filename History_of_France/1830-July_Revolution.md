@@ -1,4 +1,8 @@
-﻿---
+---
+dv_is_:
+  same_as: "[[../../../../../../WikiData/WD~July_Revolution,214028]]"
+dv_is_same_as: "[[../../../../../../WikiData/WD~July_Revolution,214028]]"
+
 has_time_started: 1830-07-27 
 has_time_stopped: 1830-07-29 
 aliases:
@@ -24,7 +28,7 @@ Commons_category: French Revolution of 1830
 
 # [[1830-July_Revolution]] 
 
-#is_/same_as :: [[WD~July_Revolution,214028]] 
+is_same_as = `=this.dv_is_same_as`
 
 ## #has_/text_of_/abstract 
 
@@ -48,4 +52,21 @@ Commons_category: French Revolution of 1830
 > Louis-Philippe was overthrown in the French Revolution of 1848.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/July%20Revolution) 
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~West/France/History_of_France/1830-July_Revolution|1830-July_Revolution]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~West/France/History_of_France/1830-July_Revolution.public|1830-July_Revolution.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~West/France/History_of_France/1830-July_Revolution.internal|1830-July_Revolution.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~West/France/History_of_France/1830-July_Revolution.protect|1830-July_Revolution.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~West/France/History_of_France/1830-July_Revolution.private|1830-July_Revolution.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~West/France/History_of_France/1830-July_Revolution.personal|1830-July_Revolution.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~West/France/History_of_France/1830-July_Revolution.secret|1830-July_Revolution.secret]] 
 

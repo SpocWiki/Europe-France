@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 30329
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../Geography/Place]]"
+dv_has_place_longitude: 0.37
+dv_has_place_latitude: 49.77
+dv_name: Fécamp
+dv_Country: "[[../../../France]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::0.37] 
-[has_place_latitude::49.77] 
-[name::Fécamp] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[France]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Fécamp](/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Normandie/Fécamp.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Normandie/Fécamp|Fécamp]] 
 
-### [Fécamp.public](/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Normandie/Fécamp.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Normandie/Fécamp.public|Fécamp.public]] 
 
-### [Fécamp.internal](/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Normandie/Fécamp.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Normandie/Fécamp.internal|Fécamp.internal]] 
 
-### [Fécamp.protect](/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Normandie/Fécamp.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Normandie/Fécamp.protect|Fécamp.protect]] 
 
-### [Fécamp.private](/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Normandie/Fécamp.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Normandie/Fécamp.private|Fécamp.private]] 
 
-### [Fécamp.personal](/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Normandie/Fécamp.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Normandie/Fécamp.personal|Fécamp.personal]] 
 
-### [Fécamp.secret](/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Normandie/Fécamp.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Normandie/Fécamp.secret|Fécamp.secret]] 
 

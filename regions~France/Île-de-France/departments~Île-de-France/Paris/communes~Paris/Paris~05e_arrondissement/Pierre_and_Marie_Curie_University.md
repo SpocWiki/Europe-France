@@ -1,4 +1,8 @@
-﻿---
+---
+dv_is_:
+  same_as: "[[../../../../../../../../../../../WikiData/WD~Pierre_and_Marie_Curie_University,1144549]]"
+dv_is_same_as: "[[../../../../../../../../../../../WikiData/WD~Pierre_and_Marie_Curie_University,1144549]]"
+
 has_time_started: 1971-01-01 
 has_time_stopped: 2017-12-31 
 aliases:
@@ -147,7 +151,7 @@ dissolved_abolished_or_demolished_date: 2017-12-31T00:00:00Z
 
 # [[Pierre_and_Marie_Curie_University]] 
 
-#is_/same_as :: [[WD~Pierre_and_Marie_Curie_University,1144549]] 
+is_same_as = `=this.dv_is_same_as`
 
 ## #has_/text_of_/abstract 
 
@@ -160,4 +164,21 @@ dissolved_abolished_or_demolished_date: 2017-12-31T00:00:00Z
 > UPMC merged with Paris-Sorbonne University into a new combined Sorbonne University.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Pierre%20and%20Marie%20Curie%20University) 
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Île-de-France/departments~Île-de-France/Paris/communes~Paris/Paris~05e_arrondissement/Pierre_and_Marie_Curie_University|Pierre_and_Marie_Curie_University]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Île-de-France/departments~Île-de-France/Paris/communes~Paris/Paris~05e_arrondissement/Pierre_and_Marie_Curie_University.public|Pierre_and_Marie_Curie_University.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Île-de-France/departments~Île-de-France/Paris/communes~Paris/Paris~05e_arrondissement/Pierre_and_Marie_Curie_University.internal|Pierre_and_Marie_Curie_University.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Île-de-France/departments~Île-de-France/Paris/communes~Paris/Paris~05e_arrondissement/Pierre_and_Marie_Curie_University.protect|Pierre_and_Marie_Curie_University.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Île-de-France/departments~Île-de-France/Paris/communes~Paris/Paris~05e_arrondissement/Pierre_and_Marie_Curie_University.private|Pierre_and_Marie_Curie_University.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Île-de-France/departments~Île-de-France/Paris/communes~Paris/Paris~05e_arrondissement/Pierre_and_Marie_Curie_University.personal|Pierre_and_Marie_Curie_University.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Île-de-France/departments~Île-de-France/Paris/communes~Paris/Paris~05e_arrondissement/Pierre_and_Marie_Curie_University.secret|Pierre_and_Marie_Curie_University.secret]] 
 

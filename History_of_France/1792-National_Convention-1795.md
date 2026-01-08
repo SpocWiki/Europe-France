@@ -1,4 +1,8 @@
-﻿---
+---
+dv_is_:
+  same_as: "[[../../../../../../WikiData/WD~National_Convention,219825]]"
+dv_is_same_as: "[[../../../../../../WikiData/WD~National_Convention,219825]]"
+
 has_time_started: 1792-09-20 
 has_time_stopped: 1795-10-26 
 aliases:
@@ -41,7 +45,7 @@ inception: 1792-09-20T00:00:00Z
 
 # [[1792-National_Convention-1795]] 
 
-#is_/same_as :: [[WD~National_Convention,219825]] 
+is_same_as = `=this.dv_is_same_as`
 
 ## #has_/text_of_/abstract 
 
@@ -84,4 +88,21 @@ inception: 1792-09-20T00:00:00Z
 > until a new constitution was written, ushering in the French Directory.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/National%20Convention) 
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~West/France/History_of_France/1792-National_Convention-1795|1792-National_Convention-1795]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~West/France/History_of_France/1792-National_Convention-1795.public|1792-National_Convention-1795.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~West/France/History_of_France/1792-National_Convention-1795.internal|1792-National_Convention-1795.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~West/France/History_of_France/1792-National_Convention-1795.protect|1792-National_Convention-1795.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~West/France/History_of_France/1792-National_Convention-1795.private|1792-National_Convention-1795.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~West/France/History_of_France/1792-National_Convention-1795.personal|1792-National_Convention-1795.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~West/France/History_of_France/1792-National_Convention-1795.secret|1792-National_Convention-1795.secret]] 
 

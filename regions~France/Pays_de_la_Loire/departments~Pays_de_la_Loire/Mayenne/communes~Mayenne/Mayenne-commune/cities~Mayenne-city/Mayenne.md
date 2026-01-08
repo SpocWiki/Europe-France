@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 32359
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: -0.62
+dv_has_place_latitude: 48.3
+dv_name: Mayenne
+dv_Country: "[[../../../../../../../../France]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::-0.62] 
-[has_place_latitude::48.3] 
-[name::Mayenne] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[France]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Mayenne](/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Pays_de_la_Loire/departments~Pays_de_la_Loire/Mayenne/communes~Mayenne/Mayenne-commune/cities~Mayenne-city/Mayenne.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Pays_de_la_Loire/departments~Pays_de_la_Loire/Mayenne/communes~Mayenne/Mayenne-commune/cities~Mayenne-city/Mayenne|Mayenne]] 
 
-### [Mayenne.public](/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Pays_de_la_Loire/departments~Pays_de_la_Loire/Mayenne/communes~Mayenne/Mayenne-commune/cities~Mayenne-city/Mayenne.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Pays_de_la_Loire/departments~Pays_de_la_Loire/Mayenne/communes~Mayenne/Mayenne-commune/cities~Mayenne-city/Mayenne.public|Mayenne.public]] 
 
-### [Mayenne.internal](/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Pays_de_la_Loire/departments~Pays_de_la_Loire/Mayenne/communes~Mayenne/Mayenne-commune/cities~Mayenne-city/Mayenne.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Pays_de_la_Loire/departments~Pays_de_la_Loire/Mayenne/communes~Mayenne/Mayenne-commune/cities~Mayenne-city/Mayenne.internal|Mayenne.internal]] 
 
-### [Mayenne.protect](/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Pays_de_la_Loire/departments~Pays_de_la_Loire/Mayenne/communes~Mayenne/Mayenne-commune/cities~Mayenne-city/Mayenne.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Pays_de_la_Loire/departments~Pays_de_la_Loire/Mayenne/communes~Mayenne/Mayenne-commune/cities~Mayenne-city/Mayenne.protect|Mayenne.protect]] 
 
-### [Mayenne.private](/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Pays_de_la_Loire/departments~Pays_de_la_Loire/Mayenne/communes~Mayenne/Mayenne-commune/cities~Mayenne-city/Mayenne.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Pays_de_la_Loire/departments~Pays_de_la_Loire/Mayenne/communes~Mayenne/Mayenne-commune/cities~Mayenne-city/Mayenne.private|Mayenne.private]] 
 
-### [Mayenne.personal](/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Pays_de_la_Loire/departments~Pays_de_la_Loire/Mayenne/communes~Mayenne/Mayenne-commune/cities~Mayenne-city/Mayenne.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Pays_de_la_Loire/departments~Pays_de_la_Loire/Mayenne/communes~Mayenne/Mayenne-commune/cities~Mayenne-city/Mayenne.personal|Mayenne.personal]] 
 
-### [Mayenne.secret](/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Pays_de_la_Loire/departments~Pays_de_la_Loire/Mayenne/communes~Mayenne/Mayenne-commune/cities~Mayenne-city/Mayenne.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Pays_de_la_Loire/departments~Pays_de_la_Loire/Mayenne/communes~Mayenne/Mayenne-commune/cities~Mayenne-city/Mayenne.secret|Mayenne.secret]] 
 

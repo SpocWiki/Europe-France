@@ -15,14 +15,19 @@ tags:
 SpocWebEntityId: 34463
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: -0.52
+dv_has_place_latitude: 45.95
+dv_name: St.Jean d`Angely
+dv_Country: "[[../../../../../../../../France]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::-0.52] 
-[has_place_latitude::45.95] 
-[name::St.Jean d`Angely] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[France]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -39,17 +44,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [St.Jean_d`Angely](/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Nouvelle-Aquitaine/departments~Aquitaine/Charente-Maritime/communes~Charente-Maritime/Saint-Jean-d'Angély/cities~Saint-Jean-d'Angély/St.Jean_d`Angely.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Nouvelle-Aquitaine/departments~Aquitaine/Charente-Maritime/communes~Charente-Maritime/Saint-Jean-d'Angély/cities~Saint-Jean-d'Angély/St.Jean_d`Angely|St.Jean_d`Angely]] 
 
-### [St.Jean_d`Angely.public](/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Nouvelle-Aquitaine/departments~Aquitaine/Charente-Maritime/communes~Charente-Maritime/Saint-Jean-d'Angély/cities~Saint-Jean-d'Angély/St.Jean_d`Angely.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Nouvelle-Aquitaine/departments~Aquitaine/Charente-Maritime/communes~Charente-Maritime/Saint-Jean-d'Angély/cities~Saint-Jean-d'Angély/St.Jean_d`Angely.public|St.Jean_d`Angely.public]] 
 
-### [St.Jean_d`Angely.internal](/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Nouvelle-Aquitaine/departments~Aquitaine/Charente-Maritime/communes~Charente-Maritime/Saint-Jean-d'Angély/cities~Saint-Jean-d'Angély/St.Jean_d`Angely.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Nouvelle-Aquitaine/departments~Aquitaine/Charente-Maritime/communes~Charente-Maritime/Saint-Jean-d'Angély/cities~Saint-Jean-d'Angély/St.Jean_d`Angely.internal|St.Jean_d`Angely.internal]] 
 
-### [St.Jean_d`Angely.protect](/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Nouvelle-Aquitaine/departments~Aquitaine/Charente-Maritime/communes~Charente-Maritime/Saint-Jean-d'Angély/cities~Saint-Jean-d'Angély/St.Jean_d`Angely.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Nouvelle-Aquitaine/departments~Aquitaine/Charente-Maritime/communes~Charente-Maritime/Saint-Jean-d'Angély/cities~Saint-Jean-d'Angély/St.Jean_d`Angely.protect|St.Jean_d`Angely.protect]] 
 
-### [St.Jean_d`Angely.private](/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Nouvelle-Aquitaine/departments~Aquitaine/Charente-Maritime/communes~Charente-Maritime/Saint-Jean-d'Angély/cities~Saint-Jean-d'Angély/St.Jean_d`Angely.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Nouvelle-Aquitaine/departments~Aquitaine/Charente-Maritime/communes~Charente-Maritime/Saint-Jean-d'Angély/cities~Saint-Jean-d'Angély/St.Jean_d`Angely.private|St.Jean_d`Angely.private]] 
 
-### [St.Jean_d`Angely.personal](/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Nouvelle-Aquitaine/departments~Aquitaine/Charente-Maritime/communes~Charente-Maritime/Saint-Jean-d'Angély/cities~Saint-Jean-d'Angély/St.Jean_d`Angely.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Nouvelle-Aquitaine/departments~Aquitaine/Charente-Maritime/communes~Charente-Maritime/Saint-Jean-d'Angély/cities~Saint-Jean-d'Angély/St.Jean_d`Angely.personal|St.Jean_d`Angely.personal]] 
 
-### [St.Jean_d`Angely.secret](/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Nouvelle-Aquitaine/departments~Aquitaine/Charente-Maritime/communes~Charente-Maritime/Saint-Jean-d'Angély/cities~Saint-Jean-d'Angély/St.Jean_d`Angely.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Nouvelle-Aquitaine/departments~Aquitaine/Charente-Maritime/communes~Charente-Maritime/Saint-Jean-d'Angély/cities~Saint-Jean-d'Angély/St.Jean_d`Angely.secret|St.Jean_d`Angely.secret]] 
 

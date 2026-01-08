@@ -41,17 +41,17 @@ markerFolder: ./Département~Val-de-Marne/
 
 ## Confidential Links & Embeds: 
 
-### [Val-de-Marne](/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Île-de-France/departments~Île-de-France/Val-de-Marne.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Île-de-France/departments~Île-de-France/Val-de-Marne|Val-de-Marne]] 
 
-### [Val-de-Marne.public](/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Île-de-France/departments~Île-de-France/Val-de-Marne.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Île-de-France/departments~Île-de-France/Val-de-Marne.public|Val-de-Marne.public]] 
 
-### [Val-de-Marne.internal](/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Île-de-France/departments~Île-de-France/Val-de-Marne.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Île-de-France/departments~Île-de-France/Val-de-Marne.internal|Val-de-Marne.internal]] 
 
-### [Val-de-Marne.protect](/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Île-de-France/departments~Île-de-France/Val-de-Marne.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Île-de-France/departments~Île-de-France/Val-de-Marne.protect|Val-de-Marne.protect]] 
 
-### [Val-de-Marne.private](/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Île-de-France/departments~Île-de-France/Val-de-Marne.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Île-de-France/departments~Île-de-France/Val-de-Marne.private|Val-de-Marne.private]] 
 
-### [Val-de-Marne.personal](/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Île-de-France/departments~Île-de-France/Val-de-Marne.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Île-de-France/departments~Île-de-France/Val-de-Marne.personal|Val-de-Marne.personal]] 
 
-### [Val-de-Marne.secret](/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Île-de-France/departments~Île-de-France/Val-de-Marne.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Île-de-France/departments~Île-de-France/Val-de-Marne.secret|Val-de-Marne.secret]] 
 

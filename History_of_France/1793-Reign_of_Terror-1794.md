@@ -1,4 +1,8 @@
-﻿---
+---
+dv_is_:
+  same_as: "[[../../../../../../WikiData/WD~Reign_of_Terror,193547]]"
+dv_is_same_as: "[[../../../../../../WikiData/WD~Reign_of_Terror,193547]]"
+
 has_time_started: 1793-09-02 
 has_time_stopped: 1794-07-28 
 aliases:
@@ -20,7 +24,7 @@ start_time: 1793-09-02T00:00:00Z
 
 # [[1793-Reign_of_Terror-1794]] 
 
-#is_/same_as :: [[WD~Reign_of_Terror,193547]] 
+is_same_as = `=this.dv_is_same_as`
 
 ## #has_/text_of_/abstract 
 
@@ -37,4 +41,21 @@ start_time: 1793-09-02T00:00:00Z
 > The Terror concluded with the fall of Robespierre and his alleged allies in July 1794, in what is known as the Thermidorian Reaction. By then, 16,594 official death sentences had been dispensed throughout France since June 1793, of which 2,639 were in Paris alone. An additional 10,000 people had been executed without trial or died in prison.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Reign%20of%20Terror) 
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~West/France/History_of_France/1793-Reign_of_Terror-1794|1793-Reign_of_Terror-1794]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~West/France/History_of_France/1793-Reign_of_Terror-1794.public|1793-Reign_of_Terror-1794.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~West/France/History_of_France/1793-Reign_of_Terror-1794.internal|1793-Reign_of_Terror-1794.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~West/France/History_of_France/1793-Reign_of_Terror-1794.protect|1793-Reign_of_Terror-1794.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~West/France/History_of_France/1793-Reign_of_Terror-1794.private|1793-Reign_of_Terror-1794.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~West/France/History_of_France/1793-Reign_of_Terror-1794.personal|1793-Reign_of_Terror-1794.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~West/France/History_of_France/1793-Reign_of_Terror-1794.secret|1793-Reign_of_Terror-1794.secret]] 
 

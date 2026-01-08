@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 29514
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 2.23
+dv_has_place_latitude: 43.6
+dv_name: Castres
+dv_Country: "[[../../../../../../../../France]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::2.23] 
-[has_place_latitude::43.6] 
-[name::Castres] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[France]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Castres](/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Tarn/communes~Tarn/Castres/cities~Castres/Castres.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Tarn/communes~Tarn/Castres/cities~Castres/Castres|Castres]] 
 
-### [Castres.public](/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Tarn/communes~Tarn/Castres/cities~Castres/Castres.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Tarn/communes~Tarn/Castres/cities~Castres/Castres.public|Castres.public]] 
 
-### [Castres.internal](/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Tarn/communes~Tarn/Castres/cities~Castres/Castres.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Tarn/communes~Tarn/Castres/cities~Castres/Castres.internal|Castres.internal]] 
 
-### [Castres.protect](/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Tarn/communes~Tarn/Castres/cities~Castres/Castres.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Tarn/communes~Tarn/Castres/cities~Castres/Castres.protect|Castres.protect]] 
 
-### [Castres.private](/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Tarn/communes~Tarn/Castres/cities~Castres/Castres.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Tarn/communes~Tarn/Castres/cities~Castres/Castres.private|Castres.private]] 
 
-### [Castres.personal](/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Tarn/communes~Tarn/Castres/cities~Castres/Castres.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Tarn/communes~Tarn/Castres/cities~Castres/Castres.personal|Castres.personal]] 
 
-### [Castres.secret](/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Tarn/communes~Tarn/Castres/cities~Castres/Castres.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Tarn/communes~Tarn/Castres/cities~Castres/Castres.secret|Castres.secret]] 
 

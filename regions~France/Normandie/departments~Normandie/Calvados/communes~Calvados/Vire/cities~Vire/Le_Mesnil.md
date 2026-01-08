@@ -15,14 +15,19 @@ tags:
 SpocWebEntityId: 31895
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: -0.77
+dv_has_place_latitude: 48.97
+dv_name: Le Mesnil
+dv_Country: "[[../../../../../../../../France]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::-0.77] 
-[has_place_latitude::48.97] 
-[name::Le Mesnil] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[France]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -39,17 +44,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Le_Mesnil](/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Normandie/departments~Normandie/Calvados/communes~Calvados/Vire/cities~Vire/Le_Mesnil.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Normandie/departments~Normandie/Calvados/communes~Calvados/Vire/cities~Vire/Le_Mesnil|Le_Mesnil]] 
 
-### [Le_Mesnil.public](/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Normandie/departments~Normandie/Calvados/communes~Calvados/Vire/cities~Vire/Le_Mesnil.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Normandie/departments~Normandie/Calvados/communes~Calvados/Vire/cities~Vire/Le_Mesnil.public|Le_Mesnil.public]] 
 
-### [Le_Mesnil.internal](/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Normandie/departments~Normandie/Calvados/communes~Calvados/Vire/cities~Vire/Le_Mesnil.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Normandie/departments~Normandie/Calvados/communes~Calvados/Vire/cities~Vire/Le_Mesnil.internal|Le_Mesnil.internal]] 
 
-### [Le_Mesnil.protect](/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Normandie/departments~Normandie/Calvados/communes~Calvados/Vire/cities~Vire/Le_Mesnil.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Normandie/departments~Normandie/Calvados/communes~Calvados/Vire/cities~Vire/Le_Mesnil.protect|Le_Mesnil.protect]] 
 
-### [Le_Mesnil.private](/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Normandie/departments~Normandie/Calvados/communes~Calvados/Vire/cities~Vire/Le_Mesnil.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Normandie/departments~Normandie/Calvados/communes~Calvados/Vire/cities~Vire/Le_Mesnil.private|Le_Mesnil.private]] 
 
-### [Le_Mesnil.personal](/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Normandie/departments~Normandie/Calvados/communes~Calvados/Vire/cities~Vire/Le_Mesnil.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Normandie/departments~Normandie/Calvados/communes~Calvados/Vire/cities~Vire/Le_Mesnil.personal|Le_Mesnil.personal]] 
 
-### [Le_Mesnil.secret](/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Normandie/departments~Normandie/Calvados/communes~Calvados/Vire/cities~Vire/Le_Mesnil.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Normandie/departments~Normandie/Calvados/communes~Calvados/Vire/cities~Vire/Le_Mesnil.secret|Le_Mesnil.secret]] 
 

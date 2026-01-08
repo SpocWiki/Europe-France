@@ -15,14 +15,19 @@ tags:
 SpocWebEntityId: 28697
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 5.43
+dv_has_place_latitude: 43.53
+dv_name: Aix en provence
+dv_Country: "[[../../../../../../../../France]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::5.43] 
-[has_place_latitude::43.53] 
-[name::Aix en provence] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[France]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -39,17 +44,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Aix_en_provence](/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Provence-Alpes-Côte_d'Azur/departments~Provence/Bouches-du-Rhône/communes~Rhône/Aix-en-Provence/cities~Aix-en-Provence/Aix_en_provence.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Provence-Alpes-Côte_d'Azur/departments~Provence/Bouches-du-Rhône/communes~Rhône/Aix-en-Provence/cities~Aix-en-Provence/Aix_en_provence|Aix_en_provence]] 
 
-### [Aix_en_provence.public](/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Provence-Alpes-Côte_d'Azur/departments~Provence/Bouches-du-Rhône/communes~Rhône/Aix-en-Provence/cities~Aix-en-Provence/Aix_en_provence.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Provence-Alpes-Côte_d'Azur/departments~Provence/Bouches-du-Rhône/communes~Rhône/Aix-en-Provence/cities~Aix-en-Provence/Aix_en_provence.public|Aix_en_provence.public]] 
 
-### [Aix_en_provence.internal](/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Provence-Alpes-Côte_d'Azur/departments~Provence/Bouches-du-Rhône/communes~Rhône/Aix-en-Provence/cities~Aix-en-Provence/Aix_en_provence.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Provence-Alpes-Côte_d'Azur/departments~Provence/Bouches-du-Rhône/communes~Rhône/Aix-en-Provence/cities~Aix-en-Provence/Aix_en_provence.internal|Aix_en_provence.internal]] 
 
-### [Aix_en_provence.protect](/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Provence-Alpes-Côte_d'Azur/departments~Provence/Bouches-du-Rhône/communes~Rhône/Aix-en-Provence/cities~Aix-en-Provence/Aix_en_provence.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Provence-Alpes-Côte_d'Azur/departments~Provence/Bouches-du-Rhône/communes~Rhône/Aix-en-Provence/cities~Aix-en-Provence/Aix_en_provence.protect|Aix_en_provence.protect]] 
 
-### [Aix_en_provence.private](/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Provence-Alpes-Côte_d'Azur/departments~Provence/Bouches-du-Rhône/communes~Rhône/Aix-en-Provence/cities~Aix-en-Provence/Aix_en_provence.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Provence-Alpes-Côte_d'Azur/departments~Provence/Bouches-du-Rhône/communes~Rhône/Aix-en-Provence/cities~Aix-en-Provence/Aix_en_provence.private|Aix_en_provence.private]] 
 
-### [Aix_en_provence.personal](/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Provence-Alpes-Côte_d'Azur/departments~Provence/Bouches-du-Rhône/communes~Rhône/Aix-en-Provence/cities~Aix-en-Provence/Aix_en_provence.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Provence-Alpes-Côte_d'Azur/departments~Provence/Bouches-du-Rhône/communes~Rhône/Aix-en-Provence/cities~Aix-en-Provence/Aix_en_provence.personal|Aix_en_provence.personal]] 
 
-### [Aix_en_provence.secret](/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Provence-Alpes-Côte_d'Azur/departments~Provence/Bouches-du-Rhône/communes~Rhône/Aix-en-Provence/cities~Aix-en-Provence/Aix_en_provence.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Provence-Alpes-Côte_d'Azur/departments~Provence/Bouches-du-Rhône/communes~Rhône/Aix-en-Provence/cities~Aix-en-Provence/Aix_en_provence.secret|Aix_en_provence.secret]] 
 

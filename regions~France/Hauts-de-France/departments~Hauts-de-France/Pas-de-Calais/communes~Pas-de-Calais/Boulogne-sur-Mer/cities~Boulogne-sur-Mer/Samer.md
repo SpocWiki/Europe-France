@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 33907
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 1.73
+dv_has_place_latitude: 50.62
+dv_name: Samer
+dv_Country: "[[../../../../../../../../France]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::1.73] 
-[has_place_latitude::50.62] 
-[name::Samer] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[France]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Samer](/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Hauts-de-France/departments~Hauts-de-France/Pas-de-Calais/communes~Pas-de-Calais/Boulogne-sur-Mer/cities~Boulogne-sur-Mer/Samer.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Hauts-de-France/departments~Hauts-de-France/Pas-de-Calais/communes~Pas-de-Calais/Boulogne-sur-Mer/cities~Boulogne-sur-Mer/Samer|Samer]] 
 
-### [Samer.public](/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Hauts-de-France/departments~Hauts-de-France/Pas-de-Calais/communes~Pas-de-Calais/Boulogne-sur-Mer/cities~Boulogne-sur-Mer/Samer.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Hauts-de-France/departments~Hauts-de-France/Pas-de-Calais/communes~Pas-de-Calais/Boulogne-sur-Mer/cities~Boulogne-sur-Mer/Samer.public|Samer.public]] 
 
-### [Samer.internal](/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Hauts-de-France/departments~Hauts-de-France/Pas-de-Calais/communes~Pas-de-Calais/Boulogne-sur-Mer/cities~Boulogne-sur-Mer/Samer.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Hauts-de-France/departments~Hauts-de-France/Pas-de-Calais/communes~Pas-de-Calais/Boulogne-sur-Mer/cities~Boulogne-sur-Mer/Samer.internal|Samer.internal]] 
 
-### [Samer.protect](/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Hauts-de-France/departments~Hauts-de-France/Pas-de-Calais/communes~Pas-de-Calais/Boulogne-sur-Mer/cities~Boulogne-sur-Mer/Samer.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Hauts-de-France/departments~Hauts-de-France/Pas-de-Calais/communes~Pas-de-Calais/Boulogne-sur-Mer/cities~Boulogne-sur-Mer/Samer.protect|Samer.protect]] 
 
-### [Samer.private](/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Hauts-de-France/departments~Hauts-de-France/Pas-de-Calais/communes~Pas-de-Calais/Boulogne-sur-Mer/cities~Boulogne-sur-Mer/Samer.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Hauts-de-France/departments~Hauts-de-France/Pas-de-Calais/communes~Pas-de-Calais/Boulogne-sur-Mer/cities~Boulogne-sur-Mer/Samer.private|Samer.private]] 
 
-### [Samer.personal](/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Hauts-de-France/departments~Hauts-de-France/Pas-de-Calais/communes~Pas-de-Calais/Boulogne-sur-Mer/cities~Boulogne-sur-Mer/Samer.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Hauts-de-France/departments~Hauts-de-France/Pas-de-Calais/communes~Pas-de-Calais/Boulogne-sur-Mer/cities~Boulogne-sur-Mer/Samer.personal|Samer.personal]] 
 
-### [Samer.secret](/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Hauts-de-France/departments~Hauts-de-France/Pas-de-Calais/communes~Pas-de-Calais/Boulogne-sur-Mer/cities~Boulogne-sur-Mer/Samer.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Hauts-de-France/departments~Hauts-de-France/Pas-de-Calais/communes~Pas-de-Calais/Boulogne-sur-Mer/cities~Boulogne-sur-Mer/Samer.secret|Samer.secret]] 
 

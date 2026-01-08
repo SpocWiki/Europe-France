@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 30543
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../Geography/Place]]"
+dv_has_place_longitude: -1.6
+dv_has_place_latitude: 48.83
+dv_name: Granville~Normandie
+dv_Country: "[[../../../France]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::-1.6] 
-[has_place_latitude::48.83] 
-[name::Granville~Normandie] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[France]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Granville~Normandie](/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Normandie/Granville~Normandie.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Normandie/Granville~Normandie|Granville~Normandie]] 
 
-### [Granville~Normandie.public](/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Normandie/Granville~Normandie.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Normandie/Granville~Normandie.public|Granville~Normandie.public]] 
 
-### [Granville~Normandie.internal](/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Normandie/Granville~Normandie.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Normandie/Granville~Normandie.internal|Granville~Normandie.internal]] 
 
-### [Granville~Normandie.protect](/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Normandie/Granville~Normandie.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Normandie/Granville~Normandie.protect|Granville~Normandie.protect]] 
 
-### [Granville~Normandie.private](/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Normandie/Granville~Normandie.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Normandie/Granville~Normandie.private|Granville~Normandie.private]] 
 
-### [Granville~Normandie.personal](/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Normandie/Granville~Normandie.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Normandie/Granville~Normandie.personal|Granville~Normandie.personal]] 
 
-### [Granville~Normandie.secret](/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Normandie/Granville~Normandie.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Normandie/Granville~Normandie.secret|Granville~Normandie.secret]] 
 

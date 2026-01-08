@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 34485
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 2.77
+dv_has_place_latitude: 43.48
+dv_name: St.Pons
+dv_Country: "[[../../../../../../../../France]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::2.77] 
-[has_place_latitude::43.48] 
-[name::St.Pons] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[France]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [St.Pons](/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Hérault/communes~Hérault/Béziers/cities~Béziers/St.Pons.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Hérault/communes~Hérault/Béziers/cities~Béziers/St.Pons|St.Pons]] 
 
-### [St.Pons.public](/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Hérault/communes~Hérault/Béziers/cities~Béziers/St.Pons.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Hérault/communes~Hérault/Béziers/cities~Béziers/St.Pons.public|St.Pons.public]] 
 
-### [St.Pons.internal](/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Hérault/communes~Hérault/Béziers/cities~Béziers/St.Pons.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Hérault/communes~Hérault/Béziers/cities~Béziers/St.Pons.internal|St.Pons.internal]] 
 
-### [St.Pons.protect](/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Hérault/communes~Hérault/Béziers/cities~Béziers/St.Pons.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Hérault/communes~Hérault/Béziers/cities~Béziers/St.Pons.protect|St.Pons.protect]] 
 
-### [St.Pons.private](/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Hérault/communes~Hérault/Béziers/cities~Béziers/St.Pons.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Hérault/communes~Hérault/Béziers/cities~Béziers/St.Pons.private|St.Pons.private]] 
 
-### [St.Pons.personal](/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Hérault/communes~Hérault/Béziers/cities~Béziers/St.Pons.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Hérault/communes~Hérault/Béziers/cities~Béziers/St.Pons.personal|St.Pons.personal]] 
 
-### [St.Pons.secret](/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Hérault/communes~Hérault/Béziers/cities~Béziers/St.Pons.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Hérault/communes~Hérault/Béziers/cities~Béziers/St.Pons.secret|St.Pons.secret]] 
 

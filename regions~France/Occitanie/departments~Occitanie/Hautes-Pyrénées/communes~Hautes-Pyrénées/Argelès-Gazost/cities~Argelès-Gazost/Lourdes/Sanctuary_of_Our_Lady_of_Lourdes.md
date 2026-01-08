@@ -1,4 +1,8 @@
-﻿---
+---
+dv_is_:
+  same_as: "[[../../../../../../../../../../../../../WikiData/WD~Sanctuary_of_Our_Lady_of_Lourdes,7709620]]"
+dv_is_same_as: "[[../../../../../../../../../../../../../WikiData/WD~Sanctuary_of_Our_Lady_of_Lourdes,7709620]]"
+
 has_time_started: 1858-01-01 
 aliases:
   - Sanctuary of Our Lady of Lourdes
@@ -43,7 +47,7 @@ street_address: boulevard de la Grotte
 
 # [[Sanctuary_of_Our_Lady_of_Lourdes]] 
 
-#is_/same_as :: [[WD~Sanctuary_of_Our_Lady_of_Lourdes,7709620]] 
+is_same_as = `=this.dv_is_same_as`
 
 ## #has_/text_of_/abstract 
 
@@ -83,4 +87,19 @@ street_address: boulevard de la Grotte
 > [Wikipedia](https://en.wikipedia.org/wiki/Sanctuary%20of%20Our%20Lady%20of%20Lourdes) 
 
 
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Hautes-Pyrénées/communes~Hautes-Pyrénées/Argelès-Gazost/cities~Argelès-Gazost/Lourdes/Sanctuary_of_Our_Lady_of_Lourdes|Sanctuary_of_Our_Lady_of_Lourdes]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Hautes-Pyrénées/communes~Hautes-Pyrénées/Argelès-Gazost/cities~Argelès-Gazost/Lourdes/Sanctuary_of_Our_Lady_of_Lourdes.public|Sanctuary_of_Our_Lady_of_Lourdes.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Hautes-Pyrénées/communes~Hautes-Pyrénées/Argelès-Gazost/cities~Argelès-Gazost/Lourdes/Sanctuary_of_Our_Lady_of_Lourdes.internal|Sanctuary_of_Our_Lady_of_Lourdes.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Hautes-Pyrénées/communes~Hautes-Pyrénées/Argelès-Gazost/cities~Argelès-Gazost/Lourdes/Sanctuary_of_Our_Lady_of_Lourdes.protect|Sanctuary_of_Our_Lady_of_Lourdes.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Hautes-Pyrénées/communes~Hautes-Pyrénées/Argelès-Gazost/cities~Argelès-Gazost/Lourdes/Sanctuary_of_Our_Lady_of_Lourdes.private|Sanctuary_of_Our_Lady_of_Lourdes.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Hautes-Pyrénées/communes~Hautes-Pyrénées/Argelès-Gazost/cities~Argelès-Gazost/Lourdes/Sanctuary_of_Our_Lady_of_Lourdes.personal|Sanctuary_of_Our_Lady_of_Lourdes.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Occitanie/departments~Occitanie/Hautes-Pyrénées/communes~Hautes-Pyrénées/Argelès-Gazost/cities~Argelès-Gazost/Lourdes/Sanctuary_of_Our_Lady_of_Lourdes.secret|Sanctuary_of_Our_Lady_of_Lourdes.secret]] 
 

@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 29020
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../Geography/Place]]"
+dv_has_place_longitude: -1.25
+dv_has_place_latitude: 49.67
+dv_name: Barfleur
+dv_Country: "[[../../../France]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::-1.25] 
-[has_place_latitude::49.67] 
-[name::Barfleur] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[France]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -39,17 +44,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Barfleur](/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Normandie/Barfleur.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Normandie/Barfleur|Barfleur]] 
 
-### [Barfleur.public](/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Normandie/Barfleur.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Normandie/Barfleur.public|Barfleur.public]] 
 
-### [Barfleur.internal](/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Normandie/Barfleur.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Normandie/Barfleur.internal|Barfleur.internal]] 
 
-### [Barfleur.protect](/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Normandie/Barfleur.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Normandie/Barfleur.protect|Barfleur.protect]] 
 
-### [Barfleur.private](/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Normandie/Barfleur.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Normandie/Barfleur.private|Barfleur.private]] 
 
-### [Barfleur.personal](/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Normandie/Barfleur.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Normandie/Barfleur.personal|Barfleur.personal]] 
 
-### [Barfleur.secret](/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Normandie/Barfleur.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Normandie/Barfleur.secret|Barfleur.secret]] 
 

@@ -1,3 +1,12 @@
+---
+dv_is_:
+  same_as:
+    - "[[../../../../../../../../../WikiData/WD~University_of_Paris,209842|WD~University_of_Paris,209842]]"
+    - "[[Sorbonne]]"
+dv_is_same_as:
+  - "[[../../../../../../../../../WikiData/WD~University_of_Paris,209842|WD~University_of_Paris,209842]]"
+  - "[[Sorbonne]]"
+---
 
 # [[University_of_Paris]] 
 
@@ -25,4 +34,21 @@
 > In 1896, a new University of Paris was re-founded as a grouping of the Paris faculties of science, literature, law, medicine, Protestant theology and the École supérieure de pharmacie de Paris. It was inaugurated on November 19, 1896, by French President Félix Faure. In 1970, after the civil unrest of May 1968, the university was divided into 13 autonomous universities, which today are the Sorbonne University, Panthéon-Sorbonne University, the Assas University, the Sorbonne Nouvelle University, the Paris Cité University, the PSL University, the Saclay University, the Nanterre University, the Sorbonne Paris North University, the Paris-East Créteil University and the Paris 8 University. The Chancellerie des Universités de Paris inherited the heritage assets of the University of Paris, including the Sorbonne building, the "La Sorbonne" brand, control of the inter-university libraries, and management of the staff of the Paris universities (until 2007).
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/University%20of%20Paris) 
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Île-de-France/departments~Île-de-France/Paris/University_of_Paris|University_of_Paris]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Île-de-France/departments~Île-de-France/Paris/University_of_Paris.public|University_of_Paris.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Île-de-France/departments~Île-de-France/Paris/University_of_Paris.internal|University_of_Paris.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Île-de-France/departments~Île-de-France/Paris/University_of_Paris.protect|University_of_Paris.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Île-de-France/departments~Île-de-France/Paris/University_of_Paris.private|University_of_Paris.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Île-de-France/departments~Île-de-France/Paris/University_of_Paris.personal|University_of_Paris.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Île-de-France/departments~Île-de-France/Paris/University_of_Paris.secret|University_of_Paris.secret]] 
 

@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 34450
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 6.95
+dv_has_place_latitude: 48.28
+dv_name: St.Dié
+dv_Country: "[[../../../../../../../../France]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::6.95] 
-[has_place_latitude::48.28] 
-[name::St.Dié] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[France]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [St.Dié](/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Grand_Est/departments~Grand_Est/Vosges/communes~Vosges/Saint-Dié-des-Vosges/cities~Saint-Dié-des-Vosges/St.Dié.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~West/France/regions~France/Grand_Est/departments~Grand_Est/Vosges/communes~Vosges/Saint-Dié-des-Vosges/cities~Saint-Dié-des-Vosges/St.Dié|St.Dié]] 
 
-### [St.Dié.public](/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Grand_Est/departments~Grand_Est/Vosges/communes~Vosges/Saint-Dié-des-Vosges/cities~Saint-Dié-des-Vosges/St.Dié.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~West/France/regions~France/Grand_Est/departments~Grand_Est/Vosges/communes~Vosges/Saint-Dié-des-Vosges/cities~Saint-Dié-des-Vosges/St.Dié.public|St.Dié.public]] 
 
-### [St.Dié.internal](/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Grand_Est/departments~Grand_Est/Vosges/communes~Vosges/Saint-Dié-des-Vosges/cities~Saint-Dié-des-Vosges/St.Dié.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~West/France/regions~France/Grand_Est/departments~Grand_Est/Vosges/communes~Vosges/Saint-Dié-des-Vosges/cities~Saint-Dié-des-Vosges/St.Dié.internal|St.Dié.internal]] 
 
-### [St.Dié.protect](/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Grand_Est/departments~Grand_Est/Vosges/communes~Vosges/Saint-Dié-des-Vosges/cities~Saint-Dié-des-Vosges/St.Dié.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~West/France/regions~France/Grand_Est/departments~Grand_Est/Vosges/communes~Vosges/Saint-Dié-des-Vosges/cities~Saint-Dié-des-Vosges/St.Dié.protect|St.Dié.protect]] 
 
-### [St.Dié.private](/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Grand_Est/departments~Grand_Est/Vosges/communes~Vosges/Saint-Dié-des-Vosges/cities~Saint-Dié-des-Vosges/St.Dié.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~West/France/regions~France/Grand_Est/departments~Grand_Est/Vosges/communes~Vosges/Saint-Dié-des-Vosges/cities~Saint-Dié-des-Vosges/St.Dié.private|St.Dié.private]] 
 
-### [St.Dié.personal](/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Grand_Est/departments~Grand_Est/Vosges/communes~Vosges/Saint-Dié-des-Vosges/cities~Saint-Dié-des-Vosges/St.Dié.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~West/France/regions~France/Grand_Est/departments~Grand_Est/Vosges/communes~Vosges/Saint-Dié-des-Vosges/cities~Saint-Dié-des-Vosges/St.Dié.personal|St.Dié.personal]] 
 
-### [St.Dié.secret](/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Grand_Est/departments~Grand_Est/Vosges/communes~Vosges/Saint-Dié-des-Vosges/cities~Saint-Dié-des-Vosges/St.Dié.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~West/France/regions~France/Grand_Est/departments~Grand_Est/Vosges/communes~Vosges/Saint-Dié-des-Vosges/cities~Saint-Dié-des-Vosges/St.Dié.secret|St.Dié.secret]] 
 
