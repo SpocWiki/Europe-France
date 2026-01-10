@@ -20,7 +20,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 7.3
 dv_has_place_latitude: 43.72
-dv_has_name_: Nizza=Nice
+dv_has_name: Nizza=Nice
 dv_Country: "[[../../../../../../../../France]]"
 ---
 
@@ -28,7 +28,7 @@ dv_Country: "[[../../../../../../../../France]]"
 is_a_ = `=this.dv_is_a_`
 has_place_longitude = `=this.dv_has_place_longitude` 
 has_place_latitude = `=this.dv_has_place_latitude` 
-name = `=this.dv_name` 
+name = `=this.dv_has_name` 
 State ::  
 Country = `=this.dv_Country`
 [StateId::] 

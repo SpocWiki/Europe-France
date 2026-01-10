@@ -40,7 +40,7 @@ Languages:
   - eu
   - oc
 icon: flag-fr
-dv_has_name_: France
+dv_has_name: France
 dv_has_name_en: France
 dv_has_name_es: Francia
 dv_has_name_fr: France
@@ -123,7 +123,7 @@ dv_developed_developing_countries: Developed
 ## International Names
 
 
-name = `=this.dv_name` 
+name = `=this.dv_has_name` 
 has_name_en = `=this.dv_has_name_en` 
 has_name_es = `=this.dv_has_name_es` 
 has_name_fr = `=this.dv_has_name_fr` 

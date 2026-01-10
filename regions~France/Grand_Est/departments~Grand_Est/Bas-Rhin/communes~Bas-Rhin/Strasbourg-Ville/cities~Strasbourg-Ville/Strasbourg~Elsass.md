@@ -20,7 +20,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 7.7
 dv_has_place_latitude: 48.58
-dv_has_name_: Strassburg~Elsass
+dv_has_name: Strassburg~Elsass
 dv_Country: "[[../../../../../../../../France]]"
 dv_is_:
   same_as: "[[../../../../../../../../../../../../WikiData/WD~Strasbourg,6602|WD~Strasbourg,6602]]"
@@ -33,7 +33,7 @@ dv_is_same_as: "[[../../../../../../../../../../../../WikiData/WD~Strasbourg,660
 is_a_ = `=this.dv_is_a_`
 has_place_longitude = `=this.dv_has_place_longitude` 
 has_place_latitude = `=this.dv_has_place_latitude` 
-name = `=this.dv_name` 
+name = `=this.dv_has_name` 
 State ::  
 Country = `=this.dv_Country`
 [StateId::] 

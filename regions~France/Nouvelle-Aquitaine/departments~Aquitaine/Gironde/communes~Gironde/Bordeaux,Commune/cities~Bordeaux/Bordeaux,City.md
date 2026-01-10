@@ -156,7 +156,7 @@ UN_LOCODE: FRBOD
 dv_is_a_: "[[../../../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: -0.52
 dv_has_place_latitude: 44.83
-dv_has_name_: Bordeaux
+dv_has_name: Bordeaux
 dv_is_:
   same_as: "[[../../../../../../../../../../../../WikiData/WD~Bordeaux,1479|WD~Bordeaux,1479]]"
 dv_is_same_as: "[[../../../../../../../../../../../../WikiData/WD~Bordeaux,1479|WD~Bordeaux,1479]]"
@@ -168,7 +168,7 @@ dv_is_same_as: "[[../../../../../../../../../../../../WikiData/WD~Bordeaux,1479|
 is_a_ = `=this.dv_is_a_`
 has_place_longitude = `=this.dv_has_place_longitude` 
 has_place_latitude = `=this.dv_has_place_latitude` 
-name = `=this.dv_name` 
+name = `=this.dv_has_name` 
 State ::  
 Country :: [[France]]  
 [StateId::] 

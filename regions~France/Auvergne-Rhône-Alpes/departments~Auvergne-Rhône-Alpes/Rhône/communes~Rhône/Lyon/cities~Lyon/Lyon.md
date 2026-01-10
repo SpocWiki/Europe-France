@@ -220,7 +220,7 @@ TikTok_username: villedelyon
 dv_is_a_: "[[../../../../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 4.85
 dv_has_place_latitude: 45.75
-dv_has_name_: Lyon
+dv_has_name: Lyon
 dv_is_:
   same_as: "[[../../../../../../../../../../../../WikiData/WD~Lyon,456|WD~Lyon,456]]"
 dv_is_same_as: "[[../../../../../../../../../../../../WikiData/WD~Lyon,456|WD~Lyon,456]]"
@@ -232,7 +232,7 @@ dv_is_same_as: "[[../../../../../../../../../../../../WikiData/WD~Lyon,456|WD~Ly
 is_a_ = `=this.dv_is_a_`
 has_place_longitude = `=this.dv_has_place_longitude` 
 has_place_latitude = `=this.dv_has_place_latitude` 
-name = `=this.dv_name` 
+name = `=this.dv_has_name` 
 State ::  
 Country :: [[France]]  
 [StateId::] 

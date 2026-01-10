@@ -323,7 +323,7 @@ located_in_time_zone:
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 2.33
 dv_has_place_latitude: 48.85
-dv_has_name_: Paris
+dv_has_name: Paris
 dv_is_:
   same_as: "[[../../../../../../../../WikiData/WD~Paris,90|WD~Paris,90]]"
 dv_is_same_as: "[[../../../../../../../../WikiData/WD~Paris,90|WD~Paris,90]]"
@@ -335,7 +335,7 @@ dv_is_same_as: "[[../../../../../../../../WikiData/WD~Paris,90|WD~Paris,90]]"
 is_a_ = `=this.dv_is_a_`
 has_place_longitude = `=this.dv_has_place_longitude` 
 has_place_latitude = `=this.dv_has_place_latitude` 
-name = `=this.dv_name` 
+name = `=this.dv_has_name` 
 State ::  
 Country :: [[France]]  
 [StateId::] 
