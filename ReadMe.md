@@ -11,7 +11,7 @@ dv_ISO2: FR
 dv_ISO3: FRA
 dv_is_:
   same_as:
-    - "[[../../../../WikiData/WD~France,142|WD~France,142]]"
+    - "[[../../../../../WikiData/WD~France,142|WD~France,142]]"
     - "[[/_Standards/Earth/Continent/Europe/Europe~West/France|France]]"
     - "[[/_public/Earth/Continent/Europe/Europe~West/France.public|France.public]]"
     - "[[/_internal/Earth/Continent/Europe/Europe~West/France.internal|France.internal]]"
@@ -21,8 +21,8 @@ dv_is_:
     - "[[/_secret/Earth/Continent/Europe/Europe~West/France.secret|France.secret]]"
 dv_has_:
   image_for_:
-    flag: "[[./France/Flag_of_France.svg|Flag_of_France.svg|200]]"
-    coat_of_arms: "[[./France/Arms_of_the_French_Republic.svg|Arms_of_the_French_Republic.svg|150]]"
+    flag: "[[Flag_of_France.svg|Flag_of_France.svg|200]]"
+    coat_of_arms: "[[Arms_of_the_French_Republic.svg|Arms_of_the_French_Republic.svg|150]]"
   name_:
     aa: Faransa
     ab: Франциа
@@ -396,7 +396,7 @@ dv_has_:
     zh_tw: 法國
     zu: IFulansi
   sound_of_:
-    anthem: "[[../../../../../_public/xLarge.public/National-Anthem/Anthem-France.mp3|Anthem-France.mp3]]"
+    anthem: "[[../../../../../../_public/xLarge.public/National-Anthem/Anthem-France.mp3|Anthem-France.mp3]]"
   url_for_:
     code_repository: https://github.com/SpocWiki/Europe-France
 dv_ISO4217-currency_alphabetic: EUR
@@ -420,7 +420,7 @@ dv_UNTERM_Chinese_Formal: 法兰西共和国
 dv_UNTERM_French_Formal: la République française
 dv_UNTERM_Russian: Франция
 dv_UNTERM_Russian_Formal: Французская Республика
-dv_Region_Name: "[[../../Europe|Europe]]"
+dv_Region_Name: "[[../../../Europe|Europe]]"
 dv_Intermediate_Region_Name: "[[France]]"
 dv_Sub-region_Name: "[[Western Europe]]"
 dv_Region: 150
@@ -443,16 +443,16 @@ dv_Developed_:
 dv_ISO3166-1-numeric: 250
 dv_Area-Total: 543965
 dv_Area-Land: 550100
-dv_has_place_continent: "[[../../Europe|Europe]]"
+dv_has_place_continent: "[[../../../Europe|Europe]]"
 dv_VehicleCode: F
-dv_Capital: "[[France/regions~France/Île-de-France/departments~Île-de-France/Paris|Paris]]"
+dv_Capital: "[[regions~France/Île-de-France/departments~Île-de-France/Paris|Paris]]"
 dv_Alcohol-l: 13.7
 dv_Language-Id: 496
-dv_is_a_: "[[../../../Geography/Place/Administrative_Area/Country|Country]]"
+dv_is_a_: "[[../../../../Geography/Place/Administrative_Area/Country|Country]]"
 dv_has_place_longitude: 2.33663
 dv_has_place_latitude: 46.8944
 dv_is_same_as:
-  - "[[../../../../WikiData/WD~France,142|WD~France,142]]"
+  - "[[../../../../../WikiData/WD~France,142|WD~France,142]]"
   - "[[/_Standards/Earth/Continent/Europe/Europe~West/France|France]]"
   - "[[/_public/Earth/Continent/Europe/Europe~West/France.public|France.public]]"
   - "[[/_internal/Earth/Continent/Europe/Europe~West/France.internal|France.internal]]"
@@ -461,9 +461,9 @@ dv_is_same_as:
   - "[[/_personal/Earth/Continent/Europe/Europe~West/France.personal|France.personal]]"
   - "[[/_secret/Earth/Continent/Europe/Europe~West/France.secret|France.secret]]"
 dv_has_url_for_code_repository: https://github.com/SpocWiki/Europe-France
-dv_has_image_for_flag: "[[./France/Flag_of_France.svg|Flag_of_France.svg|200]]"
-dv_has_image_for_coat_of_arms: "[[./France/Arms_of_the_French_Republic.svg|Arms_of_the_French_Republic.svg|150]]"
-dv_has_sound_of_anthem: "[[../../../../../_public/xLarge.public/National-Anthem/Anthem-France.mp3|Anthem-France.mp3]]"
+dv_has_image_for_flag: "[[Flag_of_France.svg|Flag_of_France.svg|200]]"
+dv_has_image_for_coat_of_arms: "[[Arms_of_the_French_Republic.svg|Arms_of_the_French_Republic.svg|150]]"
+dv_has_sound_of_anthem: "[[../../../../../../_public/xLarge.public/National-Anthem/Anthem-France.mp3|Anthem-France.mp3]]"
 dv_developed_developing_countries: Developed
 aliases:
   - an Fhrainc
@@ -725,7 +725,7 @@ replaces:
   - "[[/_Standards/WikiData/WD~Kingdom_of_Bora_Bora,3446152|WD~Kingdom_of_Bora_Bora,3446152]]"
   - "[[/_Standards/WikiData/WD~Free_Cities_of_Menton_and_Roquebrune,3559284|WD~Free_Cities_of_Menton_and_Roquebrune,3559284]]"
 member_of:
-  - "[[../../../../WikiData/WD~Organization_for_Security_and_Co-operation_in_Europe,81299|WD~Organization_for_Security_and_Co-operation_in_Europe,81299]]"
+  - "[[../../../../../WikiData/WD~Organization_for_Security_and_Co-operation_in_Europe,81299|WD~Organization_for_Security_and_Co-operation_in_Europe,81299]]"
   - "[[/_Standards/WikiData/WD~Organisation_internationale_de_la_Francophonie,134102|WD~Organisation_internationale_de_la_Francophonie,134102]]"
   - "[[/_Standards/WikiData/WD~European_Air_Transport_Command,141720|WD~European_Air_Transport_Command,141720]]"
   - "[[/_Standards/WikiData/WD~European_Southern_Observatory,151991|WD~European_Southern_Observatory,151991]]"
@@ -917,7 +917,7 @@ currency: "[[/_Standards/WikiData/WD~CFP_Franc,214393|WD~CFP_Franc,214393]]"
 motto: "[[/_Standards/WikiData/WD~Liberté,_égalité,_fraternité,251583|WD~Liberté,_égalité,_fraternité,251583]]"
 described_by_source:
   - "[[/_Standards/WikiData/WD~Catholic_Encyclopedia,302556|WD~Catholic_Encyclopedia,302556]]"
-  - "[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
   - "[[/_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]"
   - "[[/_Standards/WikiData/WD~Draft_History_of_Qing,1374339|WD~Draft_History_of_Qing,1374339]]"
   - "[[/_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656|WD~The_Nuttall_Encyclopædia,3181656]]"
@@ -1286,7 +1286,7 @@ defaultZoom: 5
 
 ```leaflet
 id: France_Topological
-image: [[../../../../../_public/xLarge.public/Earth/Earth-Topological.png|Earth-Topological.png]]
+image: [[../../../../../../_public/xLarge.public/Earth/Earth-Topological.png|Earth-Topological.png]]
 bounds:
   - [-90, -180]
   - [90, 180]
@@ -1348,7 +1348,7 @@ is_a = `=this.dv_is_a_`
 
 > [!info] This Article is only a Stub. 
 For more Details, check out [this Git-Repository](https://github.com/SpocWiki/Europe-France)
-into a Subfolder named `France`, so that this Link into the Sub-Repository works: [[France/ReadMe|ReadMe]] 
+into a Subfolder named `France`, so that this Link into the Sub-Repository works: [[ReadMe|ReadMe]] 
 
 has_url_for_code_repository = `=this.dv_has_url_for_code_repository`
 
@@ -1360,24 +1360,24 @@ Numbers are of 2022-06
 
 | Region                                                                           |  Pop/M |   kkm² |    GDP/G€ | GDPpP/k€ | HDI   | Notable Properties                                      |
 | -------------------------------------------------------------------------------- | -----: | -----: | --------: | -------: | ----- | ------------------------------------------------------- |
-| [[France/regions~France/Île-de-France\|Île-de-France]]                           | 12.300 | 12.012 | 1,000.000 |   81.300 | 0.960 | Capital region; economic and cultural hub               |
-| [[France/regions~France/Auvergne-Rhône-Alpes\|Auvergne-Rhône-Alpes]]             |  8.000 | 69.711 |   380.915 |   47.091 | 0.920 | Diverse economy; strong industrial base                 |
-| [[France/regions~France/Nouvelle-Aquitaine\|Nouvelle-Aquitaine]]                 |  6.000 | 84.036 |   246.056 |   40.748 | 0.910 | Largest region by area; significant agricultural sector |
-| [[France/regions~France/Occitanie\|Occitanie]]                                   |  5.900 | 72.724 |   237.421 |   39.685 | 0.905 | Rapidly growing; aerospace industry presence            |
-| [[France/regions~France/Hauts-de-France\|Hauts-de-France]]                       |  6.000 | 31.813 |   229.586 |   38.321 | 0.900 | Industrial heritage; undergoing economic transformation |
-| [[France/regions~France/Grand_Est\|Grand Est]]                                   |  5.500 | 57.433 |   265.412 |   47.700 | 0.915 | Bordering Germany; strong manufacturing sector          |
-| [[France/regions~France/Provence-Alpes-Côte_d'Azur\|Provence-Alpes-Côte d'Azur]] |  5.000 | 31.400 |   306.678 |   61.300 | 0.925 | Tourism and service-oriented economy                    |
-| [[France/regions~France/Pays_de_la_Loire\|Pays de la Loire]]                     |  3.800 | 32.082 |   203.298 |   52.228 | 0.910 | Maritime industries; agricultural production            |
-| [[France/regions~France/Bretagne\|Brittany]]                                     |  3.300 | 27.208 |   170.861 |   49.922 | 0.905 | Strong cultural identity; fishing and agriculture       |
-| [[France/regions~France/Normandie\|Normandy]]                                    |  3.300 | 29.906 |   159.006 |   47.848 | 0.900 | Historical significance; energy production              |
-| [[France/regions~France/Bourgogne-Franche-Comté\|Bourgogne-Franche-Comté]]       |  2.800 | 47.784 |   129.868 |   46.506 | 0.895 | Wine production; mechanical industries                  |
-| [[France/regions~France/Pays_de_la_Loire\|Centre-Val de Loire]]                                                              |  2.600 | 39.151 |   118.658 |   46.122 | 0.890 | Agricultural region; historical landmarks               |
-| [[France/regions~France/Corse\|Corsica]]                                         |  0.340 |  8.680 |    15.284 |   43.564 | 0.885 | Island region; tourism-driven economy                   |
-| [[../../Africa/Africa~East/Mascarene-Islands/Reunion\|Réunion]]                  |  0.860 |  2.512 |    32.142 |   37.400 | 0.880 | Overseas department; volcanic landscapes                |
-| [[../../America~Caribbean/Guadeloupe\|Guadeloupe]]                               |  0.400 |  1.628 |    15.559 |   38.050 | 0.875 | Caribbean island; tourism and agriculture               |
-| [[../../America~Caribbean/Martinique\|Martinique]]                               |  0.360 |  1.128 |    14.320 |   40.587 | 0.870 | Caribbean island; rum production                        |
-| [[../../America~South/Guianas/French_Guiana\|French Guiana]]                             |  0.300 | 83.846 |     6.767 |   22.556 | 0.850 | Amazon rainforest; spaceport location                   |
-| [[../../Africa/Africa~East/Mayotte\|Mayotte]]                                    |  0.270 |  0.374 |     4.965 |   18.389 | 0.800 | Indian Ocean island; youngest French department         |
+| [[regions~France/Île-de-France/|Île-de-France]]                           | 12.300 | 12.012 | 1,000.000 |   81.300 | 0.960 | Capital region; economic and cultural hub               |
+| [[regions~France/Auvergne-Rhône-Alpes/|Auvergne-Rhône-Alpes]]             |  8.000 | 69.711 |   380.915 |   47.091 | 0.920 | Diverse economy; strong industrial base                 |
+| [[regions~France/Nouvelle-Aquitaine/|Nouvelle-Aquitaine]]                 |  6.000 | 84.036 |   246.056 |   40.748 | 0.910 | Largest region by area; significant agricultural sector |
+| [[regions~France/Occitanie/|Occitanie]]                                   |  5.900 | 72.724 |   237.421 |   39.685 | 0.905 | Rapidly growing; aerospace industry presence            |
+| [[regions~France/Hauts-de-France/|Hauts-de-France]]                       |  6.000 | 31.813 |   229.586 |   38.321 | 0.900 | Industrial heritage; undergoing economic transformation |
+| [[regions~France/Grand_Est/|Grand Est]]                                   |  5.500 | 57.433 |   265.412 |   47.700 | 0.915 | Bordering Germany; strong manufacturing sector          |
+| [[regions~France/Provence-Alpes-Côte_d'Azur/|Provence-Alpes-Côte d'Azur]] |  5.000 | 31.400 |   306.678 |   61.300 | 0.925 | Tourism and service-oriented economy                    |
+| [[regions~France/Pays_de_la_Loire/|Pays de la Loire]]                     |  3.800 | 32.082 |   203.298 |   52.228 | 0.910 | Maritime industries; agricultural production            |
+| [[regions~France/Bretagne/|Brittany]]                                     |  3.300 | 27.208 |   170.861 |   49.922 | 0.905 | Strong cultural identity; fishing and agriculture       |
+| [[regions~France/Normandie/|Normandy]]                                    |  3.300 | 29.906 |   159.006 |   47.848 | 0.900 | Historical significance; energy production              |
+| [[regions~France/Bourgogne-Franche-Comté/|Bourgogne-Franche-Comté]]       |  2.800 | 47.784 |   129.868 |   46.506 | 0.895 | Wine production; mechanical industries                  |
+| [[regions~France/Pays_de_la_Loire/|Centre-Val de Loire]]                                                              |  2.600 | 39.151 |   118.658 |   46.122 | 0.890 | Agricultural region; historical landmarks               |
+| [[regions~France/Corse/|Corsica]]                                         |  0.340 |  8.680 |    15.284 |   43.564 | 0.885 | Island region; tourism-driven economy                   |
+| [[../../../Africa/Africa~East/Mascarene-Islands/Reunion/|Réunion]]                  |  0.860 |  2.512 |    32.142 |   37.400 | 0.880 | Overseas department; volcanic landscapes                |
+| [[../../../America~Caribbean/Guadeloupe/|Guadeloupe]]                               |  0.400 |  1.628 |    15.559 |   38.050 | 0.875 | Caribbean island; tourism and agriculture               |
+| [[../../../America~Caribbean/Martinique/|Martinique]]                               |  0.360 |  1.128 |    14.320 |   40.587 | 0.870 | Caribbean island; rum production                        |
+| [[../../../America~South/Guianas/French_Guiana/|French Guiana]]                             |  0.300 | 83.846 |     6.767 |   22.556 | 0.850 | Amazon rainforest; spaceport location                   |
+| [[../../../Africa/Africa~East/Mayotte/|Mayotte]]                                    |  0.270 |  0.374 |     4.965 |   18.389 | 0.800 | Indian Ocean island; youngest French department         |
 
 
 ### #has_/image_for_/flag 
@@ -1392,15 +1392,15 @@ Population in 1000s as of @2019
 
 | City                                                                                                                                                               | Region                                                                           |  Pop/k |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------- | --------: |
-| [[France/regions~France/Île-de-France/departments~Île-de-France/Paris\|Paris]]                                                                                     | [[France/regions~France/Île-de-France\|Île-de-France]]                           | 2165.423 |
-| [[France/regions~France/Provence-Alpes-Côte_d'Azur/departments~Provence/Bouches-du-Rhône/communes~Rhône/Marseille/cities~Marseille/Marseille,Cité\|Marseille]]          | [[France/regions~France/Provence-Alpes-Côte_d'Azur\|Provence-Alpes-Côte_d'Azur]] |  870.731 |
-| [[France/regions~France/Auvergne-Rhône-Alpes/departments~Auvergne-Rhône-Alpes/Rhône/communes~Rhône/Lyon/cities~Lyon/Lyon\|Lyon]]                                   | [[France/regions~France/Auvergne-Rhône-Alpes\|Auvergne-Rhône-Alpes]]             |  522.969 |
-| [[France/regions~France/Occitanie/departments~Occitanie/Haute-Garonne/communes~Haute-Garonne/Toulouse/cities~Toulouse/Toulouse\|Toulouse]]                         | [[France/regions~France/Occitanie\|Occitanie]]                                   |  493.465 |
-| [[France/regions~France/Provence-Alpes-Côte_d'Azur/departments~Provence/Alpes-Maritimes/communes~Alpes-Maritimes/Nice,Commune/cities~Nice/Nice,Cité\|Nice,Cité]]   | [[France/regions~France/Provence-Alpes-Côte_d'Azur\|Provence-Alpes-Côte_d'Azur]] |  342.669 |
-| [[France/regions~France/Pays_de_la_Loire/departments~Pays_de_la_Loire/Loire-Atlantique/communes~Loire-Atlantique/Nantes/cities~Nantes/Nantes\|Nantes]]             | [[France/regions~France/Pays_de_la_Loire\|Pays_de_la_Loire]]                     |  318.808 |
-| [[France/regions~France/Occitanie/departments~Occitanie/Hérault/communes~Hérault/Montpellier/cities~Montpellier/Montpellier\|Montpellier]]                         | [[France/regions~France/Occitanie\|Occitanie]]                                   |  295.542 |
-| [[France/regions~France/Grand_Est/departments~Grand_Est/Bas-Rhin/communes~Bas-Rhin/Strasbourg-Ville/cities~Strasbourg-Ville/Strasbourg~Elsass\|Strasbourg~Elsass]] | [[France/regions~France/Grand_Est\|Grand_Est]]                                   |  287.228 |
-| [[France/regions~France/Nouvelle-Aquitaine/departments~Aquitaine/Gironde/communes~Gironde/Bordeaux,Commune/cities~Bordeaux/Bordeaux,City\|Bordeaux]]                            | [[France/regions~France/Nouvelle-Aquitaine\|Nouvelle-Aquitaine]]                 |  260.958 |
+| [[regions~France/Île-de-France/departments~Île-de-France/Paris/|Paris]]                                                                                     | [[regions~France/Île-de-France/|Île-de-France]]                           | 2165.423 |
+| [[regions~France/Provence-Alpes-Côte_d'Azur/departments~Provence/Bouches-du-Rhône/communes~Rhône/Marseille/cities~Marseille/Marseille,Cité/|Marseille]]          | [[regions~France/Provence-Alpes-Côte_d'Azur/|Provence-Alpes-Côte_d'Azur]] |  870.731 |
+| [[regions~France/Auvergne-Rhône-Alpes/departments~Auvergne-Rhône-Alpes/Rhône/communes~Rhône/Lyon/cities~Lyon/Lyon/|Lyon]]                                   | [[regions~France/Auvergne-Rhône-Alpes/|Auvergne-Rhône-Alpes]]             |  522.969 |
+| [[regions~France/Occitanie/departments~Occitanie/Haute-Garonne/communes~Haute-Garonne/Toulouse/cities~Toulouse/Toulouse/|Toulouse]]                         | [[regions~France/Occitanie/|Occitanie]]                                   |  493.465 |
+| [[regions~France/Provence-Alpes-Côte_d'Azur/departments~Provence/Alpes-Maritimes/communes~Alpes-Maritimes/Nice,Commune/cities~Nice/Nice,Cité/|Nice,Cité]]   | [[regions~France/Provence-Alpes-Côte_d'Azur/|Provence-Alpes-Côte_d'Azur]] |  342.669 |
+| [[regions~France/Pays_de_la_Loire/departments~Pays_de_la_Loire/Loire-Atlantique/communes~Loire-Atlantique/Nantes/cities~Nantes/Nantes/|Nantes]]             | [[regions~France/Pays_de_la_Loire/|Pays_de_la_Loire]]                     |  318.808 |
+| [[regions~France/Occitanie/departments~Occitanie/Hérault/communes~Hérault/Montpellier/cities~Montpellier/Montpellier/|Montpellier]]                         | [[regions~France/Occitanie/|Occitanie]]                                   |  295.542 |
+| [[regions~France/Grand_Est/departments~Grand_Est/Bas-Rhin/communes~Bas-Rhin/Strasbourg-Ville/cities~Strasbourg-Ville/Strasbourg~Elsass/|Strasbourg~Elsass]] | [[regions~France/Grand_Est/|Grand_Est]]                                   |  287.228 |
+| [[regions~France/Nouvelle-Aquitaine/departments~Aquitaine/Gironde/communes~Gironde/Bordeaux,Commune/cities~Bordeaux/Bordeaux,City/|Bordeaux]]                            | [[regions~France/Nouvelle-Aquitaine/|Nouvelle-Aquitaine]]                 |  260.958 |
 |                                                                                                                                                                    |                                                                                  |          |
 
 
